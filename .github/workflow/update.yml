@@ -1,0 +1,18 @@
+name: Update Data
+on:
+  schedule:
+    - cron: '0 23 * * *'
+jobs:
+  update:
+    name: Update data
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        ref: ${{ github.head_ref }}
+    - name: Update data
+      run: bash fetch.sh
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update Historical Data
+        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
