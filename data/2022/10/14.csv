@@ -1,0 +1,150 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<!-- XHTML 1.0 Frameset --><!-- !DOCTYPE html Only (X)HTML5 -->
+<html>
+<head><title>
+	View/Download NAV History
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+<script src="amfi.js" type="text/javascript"></script>
+<script type="text/javascript">        
+// Added print Friendly Page function in Blank Master 18-Dec-2008 by Rahul
+
+    function PrintWindow()
+    {                    
+	// to hide label - 'printer friendly page' 
+	if (location.href.indexOf("print=y") != -1 && document.getElementById("divPrinterFriendly")!= null) {
+	    document.getElementById("divPrinterFriendly").style.visibility = "hidden";        
+	    window.print();            
+	    CheckWindowState();
+	    }
+    }
+
+    function CheckWindowState()
+    {           
+	if(document.readyState=="complete")
+	{
+	    window.close(); 
+	}
+	else
+	{           
+	    setTimeout("CheckWindowState()", 2000)
+	}
+    }    
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21257044-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link href="App_Themes/AMFITheme/amfi.css" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=3wd0UNtHRoE98_RnyW6N29hYOEAp-toVVhT1NAguY_uz8GB0ofMrtMDQl9Y30n1F6IFVIKeFsmbDzY3WASnl0GbDgry1YB_6uNNjfqOq9ujXXG-voMnxyv5NDGZ3BwhV1dLDT4zVxZJhTlulkllJ52t5VxjGTFiGMOcszFdn6H81&amp;t=637585387130525681" type="text/css" rel="stylesheet" /></head>
+<body onload="waitPreloadPage();PrintWindow();">
+<center>
+<div id="prepage" style="position:absolute;left:0px; top:0px; background-color:white; layer-background-color:white; height:100%; width:100%;"> 
+<table width="100%"><tr><td align="center" class="label"><img src=".\images\wait.gif" alt="Loading ..." /></td></tr></table>
+</div>
+
+<form name="aspnetForm" method="post" action="./DownloadNAVHistoryReport_Po.aspx?frmdt=14-Oct-2022" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="NnKUM7EtjR8rLbRl42fHxys4QyOf88M7BPnHM63p+aKgMTqI3kXHGrevq2R/jtU9vFTUChotAKG/f5xptXFxA6YK9PcD3lyXglfDNeGjdBH0+aGpr974ksRYfWf9UxdsgcIv9ivzAt/0wmiHQclgiKj+yklRYkIEUaGiVbqL9kpW4psQnvGjXXcC+gTgJFXx0I/cnr/hsi/otDNoPW0Zrw==" />
+
+
+<script src="/ScriptResource.axd?d=do9PG5emqikDQjGj9J2KrbzQx1diMf_ymxwePIFf84sPqhk4cOPf3vjKfuWaTuDPlpICyMphiRqP7tBIxK0vQk5GMWoeELRM1OeIQmrfDLfvuo3zA_sGGLDwwfLGAar7Mcf8LEb2kn_84oivGQ-vVw_PbpHxsofoFmosgKjBD501&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="790F7152" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<div id="adBodyBlank">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr><td width="2%" align="left"/>
+            <td width="96%" align="left">                    
+                
+<script language="javascript" type="text/javascript">
+    function ValidateForm() {
+        var prefix = "ctl00_amfiHomeContent_";        
+            if (document.forms[0].elements[prefix + "cmbMutualFund"].value=="0")
+            {
+                alert("Select Mutual Fund");
+                document.forms[0].elements[prefix + "cmbMutualFund"].focus();
+                return false;
+            }
+            else if (trim(document.forms[0].elements[prefix + "txtFrmDate"].value) == "") {
+            alert("Enter " + document.getElementById(prefix + "lblFrmDate").innerHTML.replace('<U>N</U>AV', 'NAV'));
+                document.forms[0].elements[prefix + "txtFrmDate"].focus();
+                return false;
+            }
+            // substring function is used in below condition to get string 'NAV From' from string 'NAV From Date'
+            // it is done since same label has three different dates depending on report option - NAV Date, NAV From Date & NAV First Date
+            // using this function appropriate error msg will appear
+            else if (validNdate(trim(document.forms[0].elements[prefix + "txtFrmDate"].value), (' ' + document.getElementById(prefix + "lblFrmDate").innerHTML.substring(0, document.getElementById(prefix + "lblFrmDate").innerHTML.lastIndexOf(" ")) + ' ').replace('<U>N</U>AV', 'NAV')))
+            {
+                document.forms[0].elements[prefix + "txtFrmDate"].focus();
+                return false;
+            }
+            else if (document.forms[0].elements[prefix + "txtToDate"] && trim(document.forms[0].elements[prefix + "txtToDate"].value) == "") {
+                alert("Enter NAV To Date");
+                document.forms[0].elements[prefix + "txtToDate"].focus();
+                return false;
+            }
+            else if (document.forms[0].elements[prefix + "txtToDate"] && validNdate(trim(document.forms[0].elements[prefix + "txtToDate"].value), ' NAV To '))
+            {
+                document.forms[0].elements[prefix + "txtToDate"].focus();
+                return false;
+            }
+            else if (document.forms[0].elements[prefix + "txtToDate"] && !CheckDateRange(document.forms[0].elements[prefix + "txtFrmDate"].value, document.forms[0].elements[prefix + "txtToDate"].value))
+            {  
+                document.forms[0].elements[prefix + "txtFrmDate"].focus();
+                return false;
+            }
+            else if (document.forms[0].elements[prefix + "txtToDate"] && !ValidateOneMonthPeriod(document.forms[0].elements[prefix + "txtFrmDate"].value, document.forms[0].elements[prefix + "txtToDate"].value)) 
+            {
+               	alert("The period should not exceed 30 days");
+                document.forms[0].elements[prefix + "txtFrmDate"].focus();
+                return false;
+            }
+            else
+                return true;            
+     }
+</script>
+
+
+    <div id="ctl00_amfiHomeContent_UPPanel" style="display:none;">
+	
+            <img src=".\images\wait.gif" alt="Loading ..."/>
+        
+</div>
+<div id="ctl00_amfiHomeContent_MyUpdatePanel">
+	  
+    <table cellspacing="0" cellpadding="1" align="center" width="100%" border="0">
+	    <tr><td align="center" width="100%" colspan="3" class="labelS">&nbsp;</td></tr>
+	    <tr>
+ 		    <td colspan="3" width="100%" align="center" class="topH">View/Download NAV History</td>
+ 	    </tr>       
+	    <tr><td align="center" width="100%" colspan="3" class="labelS">&nbsp;</td></tr>
+	    <tr><td align="center" width="100%" colspan="3"><span id="ctl00_amfiHomeContent_lblErrMsg" class="labelRed">No data found on the basis of selected parameters for this report</span></td></tr>
+	    <tr><td align="center" width="100%" colspan="3" class="labelS">&nbsp;</td></tr>
+	    <tr><td align="center" width="100%" colspan="3">
+	        	    
+	    </td></tr>
+	        
+	    <tr><td align="center" width="100%" colspan="3" class="labelS">&nbsp;</td></tr>	
+	    <tr><td align="center" width="100%" colspan="3" class="labelS">&nbsp;</td></tr>    
+    </table>    
+ 
+</div>  
+
+            </td>
+            <td width="2%" align="left"/>
+        </tr>
+        <tr><td colspan="3" width="100%" class="labelS">&nbsp;</td></tr>
+    </table>
+</div>
+</form> 
+</center>   
+</body>
+</html>
