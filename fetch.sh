@@ -1,7 +1,8 @@
 #!/bin/bash
-# Starting date is 2006 April 1st
-d=2006-04-01
-# Loop till we reach tomorrow
+# Starting date is 7 days ago
+# which is reasonable lookup for "how old data can still be getting backfilled"
+d=$(date -I -d '-7 days')
+# Loop till we reach tomorrow, so it does run for today
 while [ "$d" != $(date -I -d '+1 day') ]; do 
 	if [ ! -f "data/$d" ]; then
 		echo "Fetching $d"

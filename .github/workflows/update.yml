@@ -1,7 +1,8 @@
 name: Update Data
 on:
   schedule:
-    - cron: '0 23 * * *'
+    # 18:00 UTC = 11:30 IST
+    - cron: '0 18 * * *'
 jobs:
   update:
     name: Update data
@@ -11,7 +12,7 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - name: Update data
-      run: bash fetch.sh
+      run: ./fetch.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update Historical Data
