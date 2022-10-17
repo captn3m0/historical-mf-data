@@ -1,7 +1,7 @@
 #!/bin/bash
 # Starting date is 7 days ago
 # which is reasonable lookup for "how old data can still be getting backfilled"
-d=$(date -I -d '-7 days')
+d=$(date -I -d '-90 days')
 # Loop till we reach tomorrow, so it does run for today
 while [ "$d" != $(date -I -d '+1 day') ]; do 
 	if [ ! -f "data/$d" ]; then
