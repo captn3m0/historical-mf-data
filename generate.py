@@ -3,14 +3,6 @@ import os
 import time
 import datetime
 import sys
-# create a new sqlite database
-# with a table called funds
-# which has 2 columns - date (stored as a JULIAN day REAL)
-# a scheme code (integer)
-# nav (FLOAT)
-# repurchase price (FLOAT)
-# sale price (FLOAT)
-# and a unique index on scheme code
 
 def setup_db(file):
     conn = sqlite3.connect(file)
@@ -25,30 +17,8 @@ def setup_db(file):
     conn.commit()
     conn.close()
 
-
-"""
-The directory structure for data directory is
-data/YEAR/MM/DD.csv
-
-This method iterates through every CSV file, and parses it with the following rules:
-1. Ignore the first line
-2. Ignore any empty lines
-3. Ignore any lines without a semi-colon
-4. Extract the first column as the scheme code
-5. Extract the second column as the scheme name
-6. Extract the fifth column as the NAV
-7. Extract the sixth column as the repurchase price
-8. Extract the seventh column as the sale price
-9. Extract the last column as the date (DD-MMM-YYYY)
- where MMM is the month in 3 letter format
-"""
-
 schemes = {}
-# A map of scheme code to ISIN from column 2
-# ISIN Div Payout/ISIN Growth
-# contains (scheme_code, type) as a tuple
 isin_list = {}
-
 
 def progressbar(it, prefix="", size=60, out=sys.stdout): # Python3.6+
     count = len(it)
@@ -84,8 +54,8 @@ def get_data(conn):
                             if scheme_code not in schemes:
                                 schemes[scheme_code] = line[1].strip()
 
-                            isin_1 = line[2].strip()
-                            isin_2 = line[3].strip()
+                            isin_1 = line[2].strip().upper()
+                            isin_2 = line[3].strip().upper()
 
                             if isin_1 != "" and isin_1 not in isin_list:
                                 isin_list[isin_1] = (scheme_code, 0)
@@ -99,18 +69,28 @@ def get_data(conn):
                                     # TODO: Save to an error log
                                     nav = False
                                 if nav:
-                                    yield (days_since, scheme_code-100000, nav)
+                                    yield (days_since, scheme_code, nav)
 
 def insert_securities(conn, isins):
     c = conn.cursor()
-    try:
-        for isin, (scheme_code, t) in isins.items():
+    for isin, (scheme_code, t) in isins.items():
+        # Common issues with ISINs
+        # 1. Extra I at the start
+        if isin[0:3] == 'IIN':
+            isin = isin[1:]
+        # Missing I
+        if isin[0:2] == 'NF':
+            isin = 'I' + isin
+        # Missing F
+        if isin[0:3] == 'IN9':
+            isin = "INF9" + isin[3:]
+        if isin[0:3] != 'INF' or len(isin) != 12:
+            print(f"Invalid ISIN: {isin}")
+        else:
             c.execute(
                 "INSERT INTO securities VALUES (?, ?, ?)",
-                (scheme_code, isin, t),
+                (isin, t, scheme_code),
             )
-    except sqlite3.IntegrityError as e:
-        print((scheme_code, isin, t))
     conn.commit()
 
 def insert_schemes(conn, schemes):
