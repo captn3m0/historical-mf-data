@@ -10,8 +10,12 @@ def setup_db(file):
     c.executescript(
         """
         CREATE TABLE schemes (scheme_code INTEGER PRIMARY_KEY, scheme_name TEXT);
-        CREATE TABLE funds (days_since_epoch INTEGER, scheme_code INTEGER, nav FLOAT, FOREIGN KEY (scheme_code) REFERENCES schemes(scheme_code));
+        CREATE TABLE nav (scheme_code INTEGER, date, nav FLOAT, FOREIGN KEY (scheme_code) REFERENCES schemes(scheme_code));
         CREATE TABLE securities (isin TEXT UNIQUE, type INTEGER, scheme_code INTEGER, FOREIGN KEY (scheme_code) REFERENCES schemes(scheme_code));
+        CREATE VIEW nav_by_isin (isin, date, nav) as 
+            SELECT isin,date,nav from nav N
+            JOIN securities S ON N.scheme_code = S.scheme_code
+            ORDER BY date DESC
         """
     )
     conn.commit()
@@ -32,7 +36,6 @@ def progressbar(it, prefix="", size=60, out=sys.stdout): # Python3.6+
     print("", flush=True, file=out)
 
 def get_data(conn):
-    # Julian Date Equivalent = 2453737.25
     epoch_date = datetime.datetime(2006, 1,1)
     for root, dirs, files in os.walk("data"):
         # This is needed to avoid calling progressbar with an empty list
@@ -42,8 +45,7 @@ def get_data(conn):
         for file in progressbar(files, "Month: %s " % root[5:], 30):
             if file.endswith(".csv"):
                 with open(os.path.join(root, file), "r") as f:
-                    date = datetime.datetime.fromisoformat(f"{root[5:9]}-{root[10:12]}-{file[0:2]}")
-                    days_since = int((date - epoch_date).days)
+                    date = f"{root[5:9]}-{root[10:12]}-{file[0:2]}"
                     lines = f.readlines()[1:]
                     for line in lines:
                         if line == "" or ";" not in line:
@@ -69,7 +71,7 @@ def get_data(conn):
                                     # TODO: Save to an error log
                                     nav = False
                                 if nav:
-                                    yield (days_since, scheme_code, nav)
+                                    yield (scheme_code, date, nav)
 
 def insert_securities(conn, isins):
     c = conn.cursor()
@@ -103,11 +105,10 @@ def insert_schemes(conn, schemes):
 
 def insert_data(conn):
     c = conn.cursor()
+    # scheme, date, nav
     for data in get_data(conn):
-        # Insert data[0] as a julian date calling the julianday() function in sqlite
-        # and data[1] as scheme code, and data[2] as nav
         c.execute(
-            "INSERT INTO funds VALUES (?, ?, ?)",
+            "INSERT INTO nav VALUES (?, date(?), ?)",
             (data[0], data[1], data[2]),
         )
 
