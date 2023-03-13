@@ -1,19 +1,42 @@
 name: Update Data
 on:
   schedule:
-    # 18:00 UTC = 11:30 IST
     - cron: '0 18 * * *'
+  push:
+    branches:
+      - main
 jobs:
   update:
     name: Update data
     runs-on: ubuntu-latest
     steps:
+    - name: Get current date
+      uses: josStorer/get-current-time@v2
+      id: current-time
+      with:
+        format: "YYYY.MM.DD"
+        timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
       with:
         ref: ${{ github.head_ref }}
+        fetch-depth: 1
     - name: Update data
       run: ./fetch.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
+      id: commit
       with:
         commit_message: Update Historical Data
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+    - uses: actions/setup-python@v4 
+      with:
+        python-version: 'pypy3.9'
+    - name: Create Release
+      run: |
+        pypy3 generate.py
+        zstd -5 -T0 funds.db
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        gh release create --prerelease "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}" *.zst
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: steps.commit.outputs.changes_detected == 'true'
