@@ -19,9 +19,16 @@ jobs:
         format: "YYYYMMDD"
         timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
+      name: Checkout (Default Branch)
+      if: ${{ github.event_name == 'push' }}
       with:
-        ref: ${{ github.head_ref }}
         fetch-depth: 1
+    - uses: actions/checkout@v3
+      name: Checkout (Ref: Main)
+      if: ${{ github.event_name == 'schedule' }}
+      with:
+        fetch-depth: 1
+        ref: 'main'
     - name: Update data
       run: ./fetch.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
