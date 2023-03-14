@@ -47,13 +47,13 @@ jobs:
         git config user.name "github-actions[bot]"
     - name: Publish Stable Release (Schedule)
       run: |
-        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}.\n Please see README for index creation, usage, and schema." *.zst
+        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: ${{ github.event_name == 'schedule' }}
     - name: Publish Pre Release
       run: |
-        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}-pre+${{github.sha}}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}.\n Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
+        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}-pre+${{github.sha}}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: ${{ github.event_name == 'push' }}
