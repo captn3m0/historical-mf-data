@@ -24,7 +24,7 @@ jobs:
       with:
         fetch-depth: 1
     - uses: actions/checkout@v3
-      name: Checkout (Ref: Main)
+      name: Checkout Main
       if: ${{ github.event_name == 'schedule' }}
       with:
         fetch-depth: 1
