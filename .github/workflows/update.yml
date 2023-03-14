@@ -1,6 +1,8 @@
 name: Update Data
 on:
   schedule:
+    # This runs at 6PM UTC
+    # = 11:30 IST
     - cron: '0 18 * * *'
   push:
     branches:
@@ -14,7 +16,7 @@ jobs:
       uses: josStorer/get-current-time@v2
       id: current-time
       with:
-        format: "YYYY.MM.DD"
+        format: "YYYYMMDD"
         timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
       with:
@@ -30,13 +32,19 @@ jobs:
     - uses: actions/setup-python@v4 
       with:
         python-version: 'pypy3.9'
-    - name: Create Release
+    - name: Create Dataset
       run: |
         pypy3 generate.py
         zstd -5 -T0 funds.db
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
-        gh release create --prerelease "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}" *.zst
+    - name: Publish Stable Release (Schedule)
+        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}.\n Please see README for index creation, usage, and schema." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      if: steps.commit.outputs.changes_detected == 'true'
+      if: ${{ github.event_name == 'schedule' }
+    - name: Publish Pre Release
+        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}-pre+${github.sha}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}.\n Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: ${{ github.event_name == 'push' }

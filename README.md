@@ -4,8 +4,8 @@ An archive of historical mutual fund pricing information in India. This reposito
 
 The data in the `data/` directory is in the same format as AMFI exports it, without any changes. This notably includes a few errors:
 
-1. A few invalid ISINs (such as `NOTAPP` or `NA` for "Not Applied"), and a few with invalid prefixes (`IINF` instead of `INF`) or lowercase ISINs.
-2. Lots of invalid NAVs, such as `"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.'`
+1. Invalid ISINs (such as `NOTAPP` or `NA` for "Not Applied"), and a few with invalid prefixes (`IINF` instead of `INF`) or lowercase ISINs.
+2. Invalid NAV. (`"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.'`)
 
 ## Usage
 
@@ -28,9 +28,11 @@ echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite funds.db
 
 The versioning scheme follows SemVer, with the date being used for the minor and patch version in a  `MAJOR.MINOR.YYYYMMDD` format. This results in the date being clearly provided in the version number.
 
-The Major number is currently 0, to denote alpha release status. It will be bumped to 1 once the database schema is stable.
-Minor releases will be bumped on non-breaking changes to the schema - such as new fields, or indexes being added.
-Major version will be bumped only on breaking changes.
+1. The Major number is currently 0, to denote alpha release status. It will be bumped to 1 once the database schema is stable.
+2. Minor releases will be bumped on non-breaking changes to the schema - such as new fields, or indexes being added, or deprecation announcements.
+3. Major version will be bumped only on breaking changes.
+4. In departure from SemVer, minor and patch versions _might not_ get reset to `0` on major and minor upgrades respectively.
+5. There's no guarantee about Pricing Information from release date being present in the dataset.
 
 ## Data Format
 

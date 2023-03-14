@@ -1,7 +1,20 @@
 #!/bin/bash
-# Starting date is 7 days ago
-# which is reasonable lookup for "how old data can still be getting backfilled"
-d=$(date -I -d '-90 days')
+# Data is often backfilled, but not very often.
+# We default to checking last 90 days
+# But on every Sunday, go back a year.
+# Returns a 1-7, 1=Mon
+if [ "$(date +%u)" -eq 7 ]; then
+	d=$(date -I -d '-365 days')
+else
+	d=$(date -I -d '-90 days')
+fi
+
+# On the first of every month, go back to starting of the dataset
+if [ "$(date +%d)" -eq 1 ]; then
+	d='2005-12-31'
+fi
+echo "Starting date is $d"
+
 # Loop till we reach tomorrow, so it does run for today
 while [ "$d" != $(date -I -d '+1 day') ]; do 
 	if [ ! -f "data/$d" ]; then
