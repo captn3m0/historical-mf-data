@@ -27,7 +27,7 @@ while [ "$d" != $(date -I -d '+1 day') ]; do
 		mkdir -p "data/$year/$month"
 		wget --output-document="data/$year/$month/$date.csv" --quiet "$URL"
 		# Delete the file if we got HTML in return
-		grep "<html>" "data/$year/$month/$date.csv" && "data/$year/$month/$date.csv"
+		grep "<html>" "data/$year/$month/$date.csv" && rm "data/$year/$month/$date.csv"
 	fi
 	d=$(date -I -d "$d + 1 day")
 done
