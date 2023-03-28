@@ -18,10 +18,17 @@ You can get the latest dataset at <https://github.com/captn3m0/historical-mf-dat
 The dataset does not include _search indexes_ to reduce the download size. Please run the following commands to setup:
 
 ```bash
-wget https://github.com/captn3m0/historical-mf-data/releases/latest/funds.db.zst
+wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
 unzstd funds.db.zst
 # Create search indexes
-echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite funds.db
+# Main Index to get NAV by date and scheme_code
+echo 'CREATE INDEX "nav-main" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
+# Index by scheme code separately to get NAV for all dates
+echo 'CREATE INDEX "nav-scheme" ON "nav" ("scheme_code")' | sqlite3 funds.db
+# Index all securities by scheme_code for joins with NAV table
+echo 'CREATE INDEX "securities-scheme" ON "securities" ("scheme_code")' | sqlite3 funds.db
+# Index all securities by isin for metadata information
+echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
 ```
 
 ## Versioning
