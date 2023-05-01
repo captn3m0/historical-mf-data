@@ -2778,10 +2778,10 @@ Taurus Mutual Fund
 108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;26.73;26.73;26.73;09-Apr-2015
 
 Union Mutual Fund
-119307;Union Long Term Equity Fund - Direct Plan - Growth Option;INF582M01765;;21.73;21.73;21.73;09-Apr-2015
-119306;Union Long Term Equity Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.73;21.73;21.73;09-Apr-2015
-116051;Union Long Term Equity Fund - Growth Option;INF582M01302;;21.62;21.62;21.62;09-Apr-2015
-116052;Union Long Term Equity Fund - IDCW Option;INF582M01328;INF582M01310;16.97;16.97;16.97;09-Apr-2015
+119307;Union Tax Saver (ELSS) Fund - Direct Plan - Growth Option;INF582M01765;;21.73;21.73;21.73;09-Apr-2015
+119306;Union Tax Saver (ELSS) Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.73;21.73;21.73;09-Apr-2015
+116051;Union Tax Saver (ELSS) Fund - Growth Option;INF582M01302;;21.62;21.62;21.62;09-Apr-2015
+116052;Union Tax Saver (ELSS) Fund - IDCW Option;INF582M01328;INF582M01310;16.97;16.97;16.97;09-Apr-2015
 
 UTI Mutual Fund
 120715;UTI - Long Term Equity Fund (Tax Saving) - Direct Plan - Growth Option;INF789F01TF7;;69.3464;69.3464;69.35;09-Apr-2015
@@ -2793,10 +2793,10 @@ Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
 HDFC Mutual Fund
-119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;;10.4266;10.4266;10.4266;09-Apr-2015
+119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;INF179KB1HY1;10.4266;10.4266;10.4266;09-Apr-2015
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;22.0346;22.0346;22.0346;09-Apr-2015
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;22.0601;22.0601;22.0601;09-Apr-2015
-101997;HDFC Overnight Fund - IDCW Option (Daily);;;10.4266;10.4266;10.4266;09-Apr-2015
+101997;HDFC Overnight Fund - IDCW Option (Daily);;INF179KB1IF8;10.4266;10.4266;10.4266;09-Apr-2015
 
 L&T Mutual Fund
 118059;L&T Cash Fund - Institutional Plan - Growth Option;INF677K01AP3;;1860.5847;1860.5847;1860.5847;09-Apr-2015
@@ -3598,10 +3598,10 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;18.1455;18.1455;18.1455;09-Apr-2015
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0021;10.0021;10.0021;09-Apr-2015
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;12.5771;12.5771;12.5771;09-Apr-2015
-120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.084;10.084;10.084;09-Apr-2015
+120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.0842;10.0842;10.0842;09-Apr-2015
 104345;HSBC Low Duration Fund - Inst. Plus - Weekly IDCW;;INF336L01AK5;10.1859;10.1859;10.1859;09-Apr-2015
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;13.7648;13.7648;13.7648;09-Apr-2015
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0207;10.0207;10.0207;09-Apr-2015
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0336;10.0336;10.0336;09-Apr-2015
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0036;10.0036;10.0036;09-Apr-2015
 
 ICICI Prudential Mutual Fund
@@ -4681,7 +4681,7 @@ HSBC Mutual Fund
 120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.18;12.18;12.18;09-Apr-2015
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;18.8266;18.8266;18.8266;09-Apr-2015
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;19.2788;19.2788;19.2788;09-Apr-2015
-106741;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01586;INF336L01578;11.9048;11.9048;11.9048;09-Apr-2015
+108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;11.9814;11.9814;11.9814;09-Apr-2015
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.8425;11.7833;11.8425;09-Apr-2015
@@ -6079,10 +6079,10 @@ Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
 Axis Mutual Fund
-120524;Axis Triple Advantage Fund - Direct Plan - Growth Option;INF846K01EV4;;15.7850;15.3115;15.7850;09-Apr-2015
-120523;Axis Triple Advantage Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;13.5962;13.1883;13.5962;09-Apr-2015
-113064;Axis Triple Advantage Fund - Regular Plan - Growth Option;INF846K01768;;15.4092;14.9469;15.4092;09-Apr-2015
-113065;Axis Triple Advantage Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;12.5673;12.1903;12.5673;09-Apr-2015
+120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;15.7850;15.3115;15.7850;09-Apr-2015
+120523;Axis Multi Asset Allocation Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;13.5962;13.1883;13.5962;09-Apr-2015
+113064;Axis Multi Asset Allocation Fund - Regular Plan - Growth Option;INF846K01768;;15.4092;14.9469;15.4092;09-Apr-2015
+113065;Axis Multi Asset Allocation Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;12.5673;12.1903;12.5673;09-Apr-2015
 
 HDFC Mutual Fund
 103131;HDFC Multi-Asset Fund - Growth Option;INF179K01AP0;;24.9057;24.6566;24.9057;09-Apr-2015

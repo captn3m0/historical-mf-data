@@ -1810,10 +1810,10 @@ Taurus Mutual Fund
 108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;30.54;;;05-May-2020
 
 Union Mutual Fund
-119307;Union Long Term Equity Fund - Direct Plan - Growth Option;INF582M01765;;21.63;;;05-May-2020
-119306;Union Long Term Equity Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.63;;;05-May-2020
-116051;Union Long Term Equity Fund - Growth Option;INF582M01302;;20.75;;;05-May-2020
-116052;Union Long Term Equity Fund - IDCW Option;INF582M01328;INF582M01310;11.60;;;05-May-2020
+119307;Union Tax Saver (ELSS) Fund - Direct Plan - Growth Option;INF582M01765;;21.63;;;05-May-2020
+119306;Union Tax Saver (ELSS) Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.63;;;05-May-2020
+116051;Union Tax Saver (ELSS) Fund - Growth Option;INF582M01302;;20.75;;;05-May-2020
+116052;Union Tax Saver (ELSS) Fund - IDCW Option;INF582M01328;INF582M01310;11.60;;;05-May-2020
 
 UTI Mutual Fund
 120715;UTI - Long Term Equity Fund (Tax Saving) - Direct Plan - Growth Option;INF789F01TF7;;76.9784;;;05-May-2020
@@ -1909,10 +1909,10 @@ Franklin Templeton Mutual Fund
 147214;Franklin India Overnight Fund- Growth - Direct;INF090I01SS9;;1047.4086;;;05-May-2020
 
 HDFC Mutual Fund
-119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;;1042.66;;;05-May-2020
+119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;INF179KB1HY1;1042.66;;;05-May-2020
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;2962.4912;;;05-May-2020
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;2977.0889;;;05-May-2020
-101997;HDFC Overnight Fund - IDCW Option (Daily);;;1042.66;;;05-May-2020
+101997;HDFC Overnight Fund - IDCW Option (Daily);;INF179KB1IF8;1042.66;;;05-May-2020
 
 HSBC Mutual Fund
 147291;HSBC Overnight Fund - Direct Daily IDCW;;INF336L01OG4;1000;;;05-May-2020
@@ -3162,8 +3162,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.7773;;;05-May-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.5439;;;05-May-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.695;;;05-May-2020
-120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;9.7195;;;05-May-2020
-104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;9.7113;;;05-May-2020
+120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;9.9806;;;05-May-2020
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;9.63;;;05-May-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.5604;;;05-May-2020
 
 ICICI Prudential Mutual Fund
@@ -4437,10 +4437,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.5419;;;05-May-2020
-120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;12.0407;;;05-May-2020
+120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.9638;;;05-May-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.0214;;;05-May-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;26.9863;;;05-May-2020
-110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;13.5641;;;05-May-2020
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.406;;;05-May-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.7041;;;05-May-2020
@@ -6213,10 +6213,10 @@ Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
 Axis Mutual Fund
-120524;Axis Triple Advantage Fund - Direct Plan - Growth Option;INF846K01EV4;;19.9914;;;05-May-2020
-120523;Axis Triple Advantage Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;16.5664;;;05-May-2020
-113064;Axis Triple Advantage Fund - Regular Plan - Growth Option;INF846K01768;;18.4684;;;05-May-2020
-113065;Axis Triple Advantage Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;14.4338;;;05-May-2020
+120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;19.9914;;;05-May-2020
+120523;Axis Multi Asset Allocation Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;16.5664;;;05-May-2020
+113064;Axis Multi Asset Allocation Fund - Regular Plan - Growth Option;INF846K01768;;18.4684;;;05-May-2020
+113065;Axis Multi Asset Allocation Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;14.4338;;;05-May-2020
 
 HDFC Mutual Fund
 103131;HDFC Multi-Asset Fund - Growth Option;INF179K01AP0;;29.398;;;05-May-2020

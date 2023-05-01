@@ -1816,10 +1816,10 @@ Taurus Mutual Fund
 108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;30.68;;;27-May-2020
 
 Union Mutual Fund
-119307;Union Long Term Equity Fund - Direct Plan - Growth Option;INF582M01765;;21.86;;;27-May-2020
-119306;Union Long Term Equity Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.86;;;27-May-2020
-116051;Union Long Term Equity Fund - Growth Option;INF582M01302;;20.97;;;27-May-2020
-116052;Union Long Term Equity Fund - IDCW Option;INF582M01328;INF582M01310;11.72;;;27-May-2020
+119307;Union Tax Saver (ELSS) Fund - Direct Plan - Growth Option;INF582M01765;;21.86;;;27-May-2020
+119306;Union Tax Saver (ELSS) Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;21.86;;;27-May-2020
+116051;Union Tax Saver (ELSS) Fund - Growth Option;INF582M01302;;20.97;;;27-May-2020
+116052;Union Tax Saver (ELSS) Fund - IDCW Option;INF582M01328;INF582M01310;11.72;;;27-May-2020
 
 UTI Mutual Fund
 120715;UTI - Long Term Equity Fund (Tax Saving) - Direct Plan - Growth Option;INF789F01TF7;;78.2399;;;27-May-2020
@@ -1915,10 +1915,10 @@ Franklin Templeton Mutual Fund
 147214;Franklin India Overnight Fund- Growth - Direct;INF090I01SS9;;1049.0885;;;27-May-2020
 
 HDFC Mutual Fund
-119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;;1042.66;;;27-May-2020
+119109;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;;INF179KB1HY1;1042.66;;;27-May-2020
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;2967.3583;;;27-May-2020
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;2982.1601;;;27-May-2020
-101997;HDFC Overnight Fund - IDCW Option (Daily);;;1042.66;;;27-May-2020
+101997;HDFC Overnight Fund - IDCW Option (Daily);;INF179KB1IF8;1042.66;;;27-May-2020
 
 HSBC Mutual Fund
 147291;HSBC Overnight Fund - Direct Daily IDCW;;INF336L01OG4;1000;;;27-May-2020
@@ -3170,7 +3170,7 @@ HSBC Mutual Fund
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.7053;;;27-May-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2385;;;27-May-2020
 120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8713;;;27-May-2020
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;8.7855;;;27-May-2020
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;8.8596;;;27-May-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.7203;;;27-May-2020
 
 ICICI Prudential Mutual Fund
@@ -4447,7 +4447,7 @@ HSBC Mutual Fund
 120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1287;;;27-May-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3641;;;27-May-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3458;;;27-May-2020
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;16.0842;;;27-May-2020
+110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;13.7448;;;27-May-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.9221;;;27-May-2020
@@ -6219,10 +6219,10 @@ Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
 Axis Mutual Fund
-120524;Axis Triple Advantage Fund - Direct Plan - Growth Option;INF846K01EV4;;19.9955;;;27-May-2020
-120523;Axis Triple Advantage Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;16.3296;;;27-May-2020
-113064;Axis Triple Advantage Fund - Regular Plan - Growth Option;INF846K01768;;18.4563;;;27-May-2020
-113065;Axis Triple Advantage Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;14.1844;;;27-May-2020
+120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;19.9955;;;27-May-2020
+120523;Axis Multi Asset Allocation Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;16.3296;;;27-May-2020
+113064;Axis Multi Asset Allocation Fund - Regular Plan - Growth Option;INF846K01768;;18.4563;;;27-May-2020
+113065;Axis Multi Asset Allocation Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;14.1844;;;27-May-2020
 
 HDFC Mutual Fund
 103131;HDFC Multi-Asset Fund - Growth Option;INF179K01AP0;;29.354;;;27-May-2020
