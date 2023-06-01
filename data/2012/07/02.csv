@@ -37,6 +37,10 @@ Tata Mutual Fund
 Open Ended Schemes ( Growth )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+117545;IIFL Dividend Opportunities Index Fund - Dividend;INF579M01092;INF579M01100;10.2677;10.2677;10.2677;02-Jul-2012
+117544;IIFL Dividend Opportunities Index Fund - Growth;INF579M01084;;10.2677;10.2677;10.2677;02-Jul-2012
+
 Aditya Birla Sun Life Mutual Fund
 103169;Aditya Birla Sun Life Buy India Fund - Dividend - Regular Plan;INF209K01116;INF209K01CC9;20.80;20.70;20.80;02-Jul-2012
 103170;Aditya Birla Sun Life Buy India Fund - Growth - Regular Plan;INF209K01124;;39.42;39.22;39.42;02-Jul-2012
@@ -138,10 +142,6 @@ HSBC Mutual Fund
 ICICI Prudential Mutual Fund
 103028;ICICI Prudential Blended Plan A -  Dividend;INF109K01DZ0;INF109K01AO0;12.4729;12.4105;12.4729;02-Jul-2012
 103027;ICICI Prudential Blended Plan A - Growth;INF109K01AP7;;16.7090;16.6255;16.7090;02-Jul-2012
-
-IIFL Mutual Fund
-117545;IIFL Dividend Opportunities Index Fund - Dividend;INF579M01092;INF579M01100;10.2677;10.2677;10.2677;02-Jul-2012
-117544;IIFL Dividend Opportunities Index Fund - Growth;INF579M01084;;10.2677;10.2677;10.2677;02-Jul-2012
 
 ING Mutual Fund
 100188;ING Core Equity Fund-Dividend Option;INF084M01192;INF084M01200;14.7300;14.7300;14.7300;02-Jul-2012
@@ -545,6 +545,9 @@ Nippon India Mutual Fund
 Open Ended Schemes ( Other ETFs )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;531.6261;531.6261;531.6261;02-Jul-2012
+
 Goldman Sachs Mutual Fund
 115731;Goldman Sachs Banking Index Exchange Traded Scheme (GS Bank BeES);INF732E01078;;1055.3531;1055.3531;1055.3531;02-Jul-2012
 115750;Goldman Sachs CNX Nifty Shariah Exchange Traded Scheme (GS S&P Shariah BeES);INF732E01128;;117.1516;117.1516;117.1516;02-Jul-2012
@@ -554,9 +557,6 @@ Goldman Sachs Mutual Fund
 115728;Goldman Sachs Nifty Exchange Traded Scheme (GS Nifty BeES);INF732E01011;;533.1024;533.1024;533.1024;02-Jul-2012
 115729;Goldman Sachs Nifty Junior Exchange Traded Scheme (GS Junior BeES);INF732E01045;;102.1241;102.1241;102.1241;02-Jul-2012
 115747;Goldman Sachs PSU Bank Exchange Traded Scheme (GS PSU Bank BeES);INF732E01110;;342.3897;342.3897;342.3897;02-Jul-2012
-
-IIFL Mutual Fund
-115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;531.6261;531.6261;531.6261;02-Jul-2012
 
 Nippon India Mutual Fund
 108410;R * Shares Banking ETF -Dividend Payout Option;INF733I01028;;1092.6726;1092.6726;1092.6726;02-Jul-2012
@@ -660,6 +660,10 @@ Franklin Templeton Mutual Fund
 100470;Franklin India BLUECHIP FUND - IDCW ;INF090I01155;INF090I01163;34.6715;34.3248;34.6715;02-Jul-2012
 100471;Franklin India Bluechip Fund-Growth;INF090I01171;;210.7116;208.6045;210.7116;02-Jul-2012
 
+Groww Mutual Fund
+116547;Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option;INF666M01162;;9.48;9.39;9.48;02-Jul-2012
+116548;Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;9.48;9.39;9.48;02-Jul-2012
+
 HDFC Mutual Fund
 102000;HDFC Top 100 Fund - Growth Option - Regular Plan;INF179K01BE2;;200.009;198.009;200.009;02-Jul-2012
 102001;HDFC Top 100 Fund - IDCW Option - Regular Plan;INF179K01BC6;INF179K01BD4;39.258;38.865;39.258;02-Jul-2012
@@ -676,10 +680,6 @@ ICICI Prudential Mutual Fund
 IDBI Mutual Fund
 117311;IDBI India Top 100 Equity Fund Growth;INF397L01869;;10.3900;10.2900;10.3900;02-Jul-2012
 117310;IDBI India Top 100 Equity Fund IDCW;INF397L01836;INF397L01844;10.3900;10.2900;10.3900;02-Jul-2012
-
-Indiabulls Mutual Fund
-116547;Indiabulls Blue Chip Fund - Regular Plan- Growth Option;INF666M01162;;9.48;9.39;9.48;02-Jul-2012
-116548;Indiabulls Bluechip Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;9.48;9.39;9.48;02-Jul-2012
 
 Invesco Mutual Fund
 112098;Invesco India Largecap Fund - Growth;INF205K01304;;11.56;11.44;11.56;02-Jul-2012
@@ -1215,10 +1215,10 @@ Open Ended Schemes ( Equity Scheme - ELSS )
 
 
 Aditya Birla Sun Life Mutual Fund
+107745;Aditya Birla Sun Life ELSS Tax Relief '96 - Growth Option;INF209K01108;;10.06;10.06;10.06;02-Jul-2012
+103164;Aditya Birla Sun Life ELSS Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;69.44;69.44;69.44;02-Jul-2012
 104331;Aditya Birla Sun Life Tax Plan - Regular Plan - Growth Option;INF209K01348;;13.02;13.02;13.02;02-Jul-2012
 100067;Aditya Birla Sun Life Tax Plan -Regular - IDCW;INF209K01330;INF209K01CM8;42.92;42.92;42.92;02-Jul-2012
-107745;Aditya Birla Sun Life Tax Relief '96 - Growth Option;INF209K01108;;10.06;10.06;10.06;02-Jul-2012
-103164;Aditya Birla Sun Life Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;69.44;69.44;69.44;02-Jul-2012
 
 Axis Mutual Fund
 112323;Axis Long Term Equity Fund - Regular Plan - Growth;INF846K01131;;12.8493;12.8493;12.8493;02-Jul-2012
@@ -1432,6 +1432,12 @@ Franklin Templeton Mutual Fund
 102443;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;;INF090I01BC9;1000.6730;1000.6730;1000.6730;02-Jul-2012
 102442;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;INF090I01BJ4;INF090I01BE5;1054.7186;1054.7186;1054.7186;02-Jul-2012
 
+Groww Mutual Fund
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Growth Option;INF666M01014;;1069.4547;1069.4547;1069.4547;02-Jul-2012
+115992;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.0000;1000.0000;1000.0000;02-Jul-2012
+115995;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1008.2246;1008.2246;1008.2246;02-Jul-2012
+115993;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1001.8057;1001.8057;1001.8057;02-Jul-2012
+
 HDFC Mutual Fund
 100868;HDFC Liquid Fund - Growth Plan;INF179KB1HK0;;21.7041;21.7041;21.7041;02-Jul-2012
 100875;HDFC Liquid Fund - IDCW Daily;;INF179KB1IC5;10.1982;10.1982;10.1982;02-Jul-2012
@@ -1480,12 +1486,6 @@ IDBI Mutual Fund
 113102;IDBI Liquid Fund-Daily IDCW;;INF397L01935;1000.0326;1000.0326;1000.0326;02-Jul-2012
 113096;IDBI Liquid Fund-Growth;INF397L01984;;1180.5277;1180.5277;1180.5277;02-Jul-2012
 113103;IDBI Liquid Fund-Weekly IDCW;INF397L01950;INF397L01943;1000.4718;1000.4718;1000.4718;02-Jul-2012
-
-Indiabulls Mutual Fund
-115991;Indiabulls Liquid Fund - Growth Option;INF666M01014;;1069.4547;1069.4547;1069.4547;02-Jul-2012
-115992;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.0000;1000.0000;1000.0000;02-Jul-2012
-115995;Indiabulls Liquid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1008.2246;1008.2246;1008.2246;02-Jul-2012
-115993;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1001.8057;1001.8057;1001.8057;02-Jul-2012
 
 Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1000.7849;1000.7849;1000.7849;02-Jul-2012

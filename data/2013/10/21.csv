@@ -3,6 +3,12 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Income )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+124091;IIFL SHORT TERM INCOME FUND DIRECT PLAN  GROWTH OPTION;INF579M01423;;10.1047;10.0542;10.1047;21-Oct-2013
+124090;IIFL SHORT TERM INCOME FUND REGULAR PLAN  HALF YEARLY DIVIDEND;INF579M01381;INF579M01415;10.1041;10.0536;10.1041;21-Oct-2013
+124042;IIFL SHORT TERM INCOME FUND REGULAR PLAN GROWTH OPTION;INF579M01340;;10.1041;10.0536;10.1041;21-Oct-2013
+124088;IIFL SHORT TERM INCOME FUND REGULAR PLAN MONTHLY DIVIDEND;INF579M01365;INF579M01399;10.1041;10.0536;10.1041;21-Oct-2013
+
 Aditya Birla Sun Life Mutual Fund
 120704;Aditya Birla Sun Life MIP - Direct Plan - Growth;INF209K01XB7;;31.7332;31.4159;31.7332;21-Oct-2013
 119640;Aditya Birla Sun Life MIP - Direct Plan - Monthly Dividend;INF209K01R21;;12.0038;11.8838;12.0038;21-Oct-2013
@@ -402,12 +408,6 @@ ICICI Prudential Mutual Fund
 100953;ICICI Prudential MIP - Dividend Monthly;INF109K01FH3;INF109K01522;11.5969;11.4809;11.5969;21-Oct-2013
 100954;ICICI Prudential MIP - Dividend Quarterly;INF109K01FI1;INF109K01530;12.4338;12.3095;12.4338;21-Oct-2013
 100952;ICICI Prudential MIP - Growth;INF109K01555;;30.8157;30.5075;30.8157;21-Oct-2013
-
-IIFL Mutual Fund
-124091;IIFL SHORT TERM INCOME FUND DIRECT PLAN  GROWTH OPTION;INF579M01423;;10.1047;10.0542;10.1047;21-Oct-2013
-124090;IIFL SHORT TERM INCOME FUND REGULAR PLAN  HALF YEARLY DIVIDEND;INF579M01381;INF579M01415;10.1041;10.0536;10.1041;21-Oct-2013
-124042;IIFL SHORT TERM INCOME FUND REGULAR PLAN GROWTH OPTION;INF579M01340;;10.1041;10.0536;10.1041;21-Oct-2013
-124088;IIFL SHORT TERM INCOME FUND REGULAR PLAN MONTHLY DIVIDEND;INF579M01365;INF579M01399;10.1041;10.0536;10.1041;21-Oct-2013
 
 ING Mutual Fund
 119963;ING Income Fund - Regular Plan - Direct Plan - Annual Dividend Option;INF084M01CR0;INF084M01CS8;10.7983;10.7983;10.7983;21-Oct-2013
@@ -819,6 +819,12 @@ UTI Mutual Fund
 Open Ended Schemes ( Growth )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+117545;IIFL Dividend Opportunities Index Fund - Dividend;INF579M01092;INF579M01100;10.6219;10.5157;10.6219;21-Oct-2013
+117544;IIFL Dividend Opportunities Index Fund - Growth;INF579M01084;;10.6219;10.5157;10.6219;21-Oct-2013
+119371;IIFL Dividend Opportunities Index Fund- Direct Plan - Dividend;INF579M01126;INF579M01134;10.6680;10.5613;10.6680;21-Oct-2013
+119372;IIFL Dividend Opportunities Index Fund-Direct Plan - Growth;INF579M01118;;10.6680;10.5613;10.6680;21-Oct-2013
+
 Aditya Birla Sun Life Mutual Fund
 120528;Aditya Birla Sun Life Buy India Fund - Dividend - Direct Plan;INF209K01P31;INF209K01UO6;22.44;22.33;22.44;21-Oct-2013
 103169;Aditya Birla Sun Life Buy India Fund - Dividend - Regular Plan;INF209K01116;INF209K01CC9;22.35;22.24;22.35;21-Oct-2013
@@ -951,12 +957,6 @@ ICICI Prudential Mutual Fund
 103027;ICICI Prudential Blended Plan A - Growth;INF109K01AP7;;18.8301;18.6889;18.8301;21-Oct-2013
 120311;ICICI Prudential Blended Plan A-Direct Plan -  Dividend;INF109K013C6;INF109K014C4;13.4768;13.3757;13.4768;21-Oct-2013
 120310;ICICI Prudential Blended Plan A-Direct Plan -  Growth;INF109K015C1;;18.8962;18.7545;18.8962;21-Oct-2013
-
-IIFL Mutual Fund
-117545;IIFL Dividend Opportunities Index Fund - Dividend;INF579M01092;INF579M01100;10.6219;10.5157;10.6219;21-Oct-2013
-117544;IIFL Dividend Opportunities Index Fund - Growth;INF579M01084;;10.6219;10.5157;10.6219;21-Oct-2013
-119371;IIFL Dividend Opportunities Index Fund- Direct Plan - Dividend;INF579M01126;INF579M01134;10.6680;10.5613;10.6680;21-Oct-2013
-119372;IIFL Dividend Opportunities Index Fund-Direct Plan - Growth;INF579M01118;;10.6680;10.5613;10.6680;21-Oct-2013
 
 ING Mutual Fund
 119887;ING Core Equity Fund - Direct Plan - Dividend Option;INF084M01BJ9;INF084M01BK7;16.4400;16.4400;16.4400;21-Oct-2013
@@ -1678,6 +1678,9 @@ Nippon India Mutual Fund
 Open Ended Schemes ( Other ETFs )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;635.3619;635.3619;635.3619;21-Oct-2013
+
 Goldman Sachs Mutual Fund
 115731;Goldman Sachs Banking Index Exchange Traded Scheme (GS Bank BeES);INF732E01078;;1093.7887;1093.7887;1093.7887;21-Oct-2013
 115750;Goldman Sachs CNX Nifty Shariah Exchange Traded Scheme (GS S&P Shariah BeES);INF732E01128;;147.1841;147.1841;147.1841;21-Oct-2013
@@ -1687,9 +1690,6 @@ Goldman Sachs Mutual Fund
 115728;Goldman Sachs Nifty Exchange Traded Scheme (GS Nifty BeES);INF732E01011;;628.3354;628.3354;628.3354;21-Oct-2013
 115729;Goldman Sachs Nifty Junior Exchange Traded Scheme (GS Junior BeES);INF732E01045;;121.9853;121.9853;121.9853;21-Oct-2013
 115747;Goldman Sachs PSU Bank Exchange Traded Scheme (GS PSU Bank BeES);INF732E01110;;245.4796;245.4796;245.4796;21-Oct-2013
-
-IIFL Mutual Fund
-115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;635.3619;635.3619;635.3619;21-Oct-2013
 
 Nippon India Mutual Fund
 108410;R * Shares Banking ETF -Dividend Payout Option;INF733I01028;;1147.8962;1147.8962;1147.8962;21-Oct-2013
@@ -1871,6 +1871,12 @@ Franklin Templeton Mutual Fund
 118531;Franklin India Bluechip Fund- Direct - Growth;INF090I01FN7;;240.8399;238.4315;240.8399;21-Oct-2013
 100471;Franklin India Bluechip Fund-Growth;INF090I01171;;239.4052;237.0111;239.4052;21-Oct-2013
 
+Groww Mutual Fund
+119133;Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option;INF666M01600;;11.01;10.90;11.01;21-Oct-2013
+116547;Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option;INF666M01162;;10.92;10.81;10.92;21-Oct-2013
+119134;Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01626;INF666M01618;11.01;10.90;11.01;21-Oct-2013
+116548;Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;10.92;10.81;10.92;21-Oct-2013
+
 HDFC Mutual Fund
 119018;HDFC Top 100 Fund - Growth Option - Direct Plan;INF179K01YV8;;221.818;219.6;221.818;21-Oct-2013
 102000;HDFC Top 100 Fund - Growth Option - Regular Plan;INF179K01BE2;;220.811;218.603;220.811;21-Oct-2013
@@ -1895,12 +1901,6 @@ IDBI Mutual Fund
 118344;IDBI India Top 100 Equity Fund Growth Direct;INF397L01BV2;;12.5500;12.4200;12.5500;21-Oct-2013
 117310;IDBI India Top 100 Equity Fund IDCW;INF397L01836;INF397L01844;12.4900;12.3700;12.4900;21-Oct-2013
 118448;IDBI India Top 100 Equity Fund IDCW Direct;INF397L01BW0;INF397L01BX8;12.5500;12.4200;12.5500;21-Oct-2013
-
-Indiabulls Mutual Fund
-119133;Indiabulls Blue Chip Fund - Direct Plan - Growth Option;INF666M01600;;11.01;10.90;11.01;21-Oct-2013
-116547;Indiabulls Blue Chip Fund - Regular Plan- Growth Option;INF666M01162;;10.92;10.81;10.92;21-Oct-2013
-119134;Indiabulls Bluechip Fund- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01626;INF666M01618;11.01;10.90;11.01;21-Oct-2013
-116548;Indiabulls Bluechip Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;10.92;10.81;10.92;21-Oct-2013
 
 Invesco Mutual Fund
 120392;Invesco India Largecap Fund - Direct Plan - Growth;INF205K01LB0;;13.87;13.73;13.87;21-Oct-2013
@@ -2804,14 +2804,14 @@ Open Ended Schemes ( Equity Scheme - ELSS )
 
 
 Aditya Birla Sun Life Mutual Fund
+119544;Aditya Birla Sun Life ELSS Tax Relief '96 - Growth - Direct Plan;INF209K01UN8;;11.99;11.99;11.99;21-Oct-2013
+107745;Aditya Birla Sun Life ELSS Tax Relief '96 - Growth Option;INF209K01108;;11.89;11.89;11.89;21-Oct-2013
+119543;Aditya Birla Sun Life ELSS Tax Relief '96 -DIRECT - IDCW;INF209K01P23;INF209K01UM0;82.74;82.74;82.74;21-Oct-2013
+103164;Aditya Birla Sun Life ELSS Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;78.92;78.92;78.92;21-Oct-2013
 119661;Aditya Birla Sun Life Tax Plan - Direct Plan - Growth Option;INF209K01VV9;;15.43;15.43;15.43;21-Oct-2013
 104331;Aditya Birla Sun Life Tax Plan - Regular Plan - Growth Option;INF209K01348;;15.31;15.31;15.31;21-Oct-2013
 119660;Aditya Birla Sun Life Tax Plan -DIRECT - IDCW;INF209K01Q14;INF209K01VW7;50.85;50.85;50.85;21-Oct-2013
 100067;Aditya Birla Sun Life Tax Plan -Regular - IDCW;INF209K01330;INF209K01CM8;48.86;48.86;48.86;21-Oct-2013
-119544;Aditya Birla Sun Life Tax Relief '96 - Growth - Direct Plan;INF209K01UN8;;11.99;11.99;11.99;21-Oct-2013
-107745;Aditya Birla Sun Life Tax Relief '96 - Growth Option;INF209K01108;;11.89;11.89;11.89;21-Oct-2013
-119543;Aditya Birla Sun Life Tax Relief '96 -DIRECT - IDCW;INF209K01P23;INF209K01UM0;82.74;82.74;82.74;21-Oct-2013
-103164;Aditya Birla Sun Life Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;78.92;78.92;78.92;21-Oct-2013
 
 Axis Mutual Fund
 120503;Axis Long Term Equity Fund - Direct Plan - Growth Option;INF846K01EW2;;15.8894;15.8894;15.8894;21-Oct-2013
@@ -3146,6 +3146,14 @@ Franklin Templeton Mutual Fund
 102443;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;;INF090I01BC9;1000.6730;1000.6730;1000.6730;21-Oct-2013
 102442;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;INF090I01BJ4;INF090I01BE5;1054.9783;1054.9783;1054.9783;21-Oct-2013
 
+Groww Mutual Fund
+119135;Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option;INF666M01451;;1198.2961;1198.2961;1198.2961;21-Oct-2013
+119136;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1000.1367;1000.1367;1000.1367;21-Oct-2013
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Growth Option;INF666M01014;;1197.4746;1197.4746;1197.4746;21-Oct-2013
+119139;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1005.4599;1005.4599;1005.4599;21-Oct-2013
+115992;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.1367;1000.1367;1000.1367;21-Oct-2013
+115993;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1000.0845;1000.0845;1000.0845;21-Oct-2013
+
 HDFC Mutual Fund
 119091;HDFC Liquid Fund - Growth Option - Direct Plan;INF179KB1HP9;;24.3273;24.3273;24.3273;21-Oct-2013
 100868;HDFC Liquid Fund - Growth Plan;INF179KB1HK0;;24.3128;24.3128;24.3128;21-Oct-2013
@@ -3211,14 +3219,6 @@ IDBI Mutual Fund
 113096;IDBI Liquid Fund-Growth;INF397L01984;;1320.7357;1320.7357;1320.7357;21-Oct-2013
 113103;IDBI Liquid Fund-Weekly IDCW;INF397L01950;INF397L01943;1007.0890;1007.0890;1007.0890;21-Oct-2013
 118451;IDBI Liquid Fund-Weekly IDCW Direct;INF397L01AM3;INF397L01AL5;1003.4255;1003.4255;1003.4255;21-Oct-2013
-
-Indiabulls Mutual Fund
-119135;Indiabulls Liquid Fund - Direct Plan - Growth Option;INF666M01451;;1198.2961;1198.2961;1198.2961;21-Oct-2013
-115991;Indiabulls Liquid Fund - Growth Option;INF666M01014;;1197.4746;1197.4746;1197.4746;21-Oct-2013
-119136;Indiabulls Liquid Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1000.1367;1000.1367;1000.1367;21-Oct-2013
-119139;Indiabulls Liquid Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1005.4599;1005.4599;1005.4599;21-Oct-2013
-115992;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.1367;1000.1367;1000.1367;21-Oct-2013
-115993;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1000.0845;1000.0845;1000.0845;21-Oct-2013
 
 Invesco Mutual Fund
 122786;Invesco India Liquid Fund - Bonus Option;INF205K01UX5;;1694.4444;1694.4444;1694.4444;21-Oct-2013
@@ -3505,6 +3505,15 @@ Franklin Templeton Mutual Fund
 118561;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Daily - IDCW;;INF090I01JB4;10.0238;10.0238;10.0238;21-Oct-2013
 118562;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Weekly - IDCW;;INF090I01JC2;10.0963;10.0963;10.0963;21-Oct-2013
 
+Groww Mutual Fund
+116610;Indiabulls Ultra Short Term Fund - Daily Dividend Option;;INF666M01196;1001.7736;1001.7736;1001.7736;21-Oct-2013
+119144;Indiabulls Ultra Short Term Fund - Direct Plan - Daily Dividend Option;;INF666M01634;1002.0743;1002.0743;1002.0743;21-Oct-2013
+119143;Indiabulls Ultra Short Term Fund - Direct Plan - Growth Option;INF666M01535;;1179.1429;1179.1429;1179.1429;21-Oct-2013
+119145;Indiabulls Ultra Short Term Fund - Direct Plan - Weekly Dividend Option;INF666M01576;INF666M01543;1001.0680;1001.0680;1001.0680;21-Oct-2013
+116424;Indiabulls Ultra Short Term Fund - Growth Option;INF666M01097;;1175.9964;1175.9964;1175.9964;21-Oct-2013
+116427;Indiabulls Ultra Short Term Fund - Monthly Dividend Option;INF666M01154;INF666M01121;1007.6783;1007.6783;1007.6783;21-Oct-2013
+116425;Indiabulls Ultra Short Term Fund - Weekly Dividend Option;INF666M01139;INF666M01105;1001.0075;1001.0075;1001.0075;21-Oct-2013
+
 ICICI Prudential Mutual Fund
 120676;ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth;INF109K01T04;;11.6867;11.5698;11.6867;21-Oct-2013
 120677;ICICI Prudential Ultra Short Term Fund - Direct Plan -  Monthly IDCW;INF109K01T38;INF109K01T46;10.1870;10.0851;10.1870;21-Oct-2013
@@ -3522,15 +3531,6 @@ IDBI Mutual Fund
 118460;IDBI UST Monthly IDCW Direct;INF397L01AS0;INF397L01AR2;1043.1001;1043.1001;1043.1001;21-Oct-2013
 113253;IDBI UST Weekly IDCW;INF397L01737;INF397L01729;1009.5812;1009.5812;1009.5812;21-Oct-2013
 118461;IDBI UST Weekly IDCW Direct;INF397L01AU6;INF397L01AT8;1027.4066;1027.4066;1027.4066;21-Oct-2013
-
-Indiabulls Mutual Fund
-116610;Indiabulls Ultra Short Term Fund - Daily Dividend Option;;INF666M01196;1001.7736;1001.7736;1001.7736;21-Oct-2013
-119144;Indiabulls Ultra Short Term Fund - Direct Plan - Daily Dividend Option;;INF666M01634;1002.0743;1002.0743;1002.0743;21-Oct-2013
-119143;Indiabulls Ultra Short Term Fund - Direct Plan - Growth Option;INF666M01535;;1179.1429;1179.1429;1179.1429;21-Oct-2013
-119145;Indiabulls Ultra Short Term Fund - Direct Plan - Weekly Dividend Option;INF666M01576;INF666M01543;1001.0680;1001.0680;1001.0680;21-Oct-2013
-116424;Indiabulls Ultra Short Term Fund - Growth Option;INF666M01097;;1175.9964;1175.9964;1175.9964;21-Oct-2013
-116427;Indiabulls Ultra Short Term Fund - Monthly Dividend Option;INF666M01154;INF666M01121;1007.6783;1007.6783;1007.6783;21-Oct-2013
-116425;Indiabulls Ultra Short Term Fund - Weekly Dividend Option;INF666M01139;INF666M01105;1001.0075;1001.0075;1001.0075;21-Oct-2013
 
 Invesco Mutual Fund
 122802;Invesco India Medium Term Bond Fund - Bonus Option;INF205K01VD5;;1235.7361;1229.5574;1235.7361;21-Oct-2013
@@ -3977,14 +3977,14 @@ DSP Mutual Fund
 100089;DSP Savings Fund - Regular Plan - IDCW - Monthly;INF740K01722;INF740K01AK0;10.3460;10.3460;10.3460;21-Oct-2013
 
 Franklin Templeton Mutual Fund
-118506;Franklin India Savings Fund - Direct - Growth;INF090I01GV8;;22.5006;22.4443;22.5006;21-Oct-2013
-101357;Franklin India Savings Fund - Growth Option;INF090I01CA1;;22.4445;22.3884;22.4445;21-Oct-2013
-101359;Franklin India Savings Fund - Institutional Option - Dividend;INF090I01BW7;INF090I01BV9;10.2904;10.2647;10.2904;21-Oct-2013
-101358;Franklin India Savings Fund - Institutional Option - Growth;INF090I01BX5;;18.7883;18.7413;18.7883;21-Oct-2013
-122443;Franklin India Savings Fund Retail Option - Daily - IDCW;;INF090I01KM9;10.0349;10.0098;10.0349;21-Oct-2013
-122444;Franklin India Savings Fund Retail Option - Direct - Daily - IDCW;;INF090I01KN7;10.0364;10.0113;10.0364;21-Oct-2013
-118505;Franklin India Savings Fund Retail Option - Direct - Quarterly - IDCW;INF090I01GT2;INF090I01GU0;10.9878;10.9603;10.9878;21-Oct-2013
-101356;Franklin India Savings Fund Retail Option - Quarterly - IDCW;INF090I01BZ0;INF090I01BY3;10.9596;10.9322;10.9596;21-Oct-2013
+118506;Franklin India Money Market Fund - Direct - Growth;INF090I01GV8;;22.5006;22.4443;22.5006;21-Oct-2013
+101357;Franklin India Money Market Fund - Growth Option;INF090I01CA1;;22.4445;22.3884;22.4445;21-Oct-2013
+101359;Franklin India Money Market Fund - Institutional Option - Dividend;INF090I01BW7;INF090I01BV9;10.2904;10.2647;10.2904;21-Oct-2013
+101358;Franklin India Money Market Fund - Institutional Option - Growth;INF090I01BX5;;18.7883;18.7413;18.7883;21-Oct-2013
+122443;Franklin India Money Market Fund Retail Option - Daily - IDCW;;INF090I01KM9;10.0349;10.0098;10.0349;21-Oct-2013
+122444;Franklin India Money Market Fund Retail Option - Direct - Daily - IDCW;;INF090I01KN7;10.0364;10.0113;10.0364;21-Oct-2013
+118505;Franklin India Money Market Fund Retail Option - Direct - Quarterly - IDCW;INF090I01GT2;INF090I01GU0;10.9878;10.9603;10.9878;21-Oct-2013
+101356;Franklin India Money Market Fund Retail Option - Quarterly - IDCW;INF090I01BZ0;INF090I01BY3;10.9596;10.9322;10.9596;21-Oct-2013
 105654;Templeton Floating Rate Income Fund -  Super Institutional Plan - Growth;INF090I01CB9;;17.2400;17.1969;17.2400;21-Oct-2013
 105904;Templeton Floating Rate Income Fund - Super Institutional Plan - Daily Dividend;;INF090I01CC7;10.0230;9.9979;10.0230;21-Oct-2013
 
@@ -4194,6 +4194,14 @@ Franklin Templeton Mutual Fund
 101246;Franklin India Short-Term Income Plan-Institutional Plan - Monthly Dividend;INF090I01387;INF090I01395;1218.4824;1212.3900;1218.4824;21-Oct-2013
 101237;Franklin India Short-Term Income Plan-Weekly Bonus;INF090I01DY9;;1138.6195;1132.9264;1138.6195;21-Oct-2013
 
+Groww Mutual Fund
+123708;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option;INF666M01AJ5;;1018.9822;1016.4347;1018.9822;21-Oct-2013
+123704;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option;INF666M01AC0;;1020.3963;1017.8453;1020.3963;21-Oct-2013
+123707;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1014.9854;1012.4479;1014.9854;21-Oct-2013
+123705;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1008.6970;1006.1753;1008.6970;21-Oct-2013
+123711;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1015.9507;1013.4108;1015.9507;21-Oct-2013
+123709;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1009.5050;1006.9812;1009.5050;21-Oct-2013
+
 HDFC Mutual Fund
 119015;HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan;;;10.0991;10.0486;10.0991;21-Oct-2013
 113048;HDFC Short Term  Debt Fund - Fortnightly IDCW Option;INF179K01CV4;INF179K01CW2;10.0988;10.0483;10.0988;21-Oct-2013
@@ -4233,14 +4241,6 @@ IDBI Mutual Fund
 118457;IDBI Short Term Bond Fund Monthly IDCW Direct;INF397L01BH1;INF397L01BI9;10.8412;10.7870;10.8412;21-Oct-2013
 115000;IDBI Short Term Bond Fund Weekly IDCW;INF397L01430;INF397L01448;10.1762;10.1253;10.1762;21-Oct-2013
 118458;IDBI Short Term Bond Fund Weekly IDCW Direct;INF397L01BK5;INF397L01BL3;10.1846;10.1337;10.1846;21-Oct-2013
-
-Indiabulls Mutual Fund
-123704;Indiabulls Short Term Fund - Direct Plan - Growth Option;INF666M01AC0;;1020.3963;1017.8453;1020.3963;21-Oct-2013
-123708;Indiabulls Short Term Fund - Regular Plan - Growth Option;INF666M01AJ5;;1018.9822;1016.4347;1018.9822;21-Oct-2013
-123707;Indiabulls Short Term Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1014.9854;1012.4479;1014.9854;21-Oct-2013
-123705;Indiabulls Short Term Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1008.6970;1006.1753;1008.6970;21-Oct-2013
-123711;Indiabulls Short Term Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1015.9507;1013.4108;1015.9507;21-Oct-2013
-123709;Indiabulls Short Term Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1009.5050;1006.9812;1009.5050;21-Oct-2013
 
 Invesco Mutual Fund
 117973;Invesco India Short Term Fund - Daily IDCW (Reinvestment);;INF205K01UD7;1001.9875;999.4825;1001.9875;21-Oct-2013
@@ -4396,7 +4396,7 @@ Aditya Birla Sun Life Mutual Fund
 111810;Aditya Birla Sun Life Medium Term Plan - Institutional - Quarterly Dividend Plan;INF209K01678;;10.4460;10.2371;10.4460;21-Oct-2013
 111811;Aditya Birla Sun Life Medium Term Plan - REGULAR - HALFYEARLY IDCW;INF209K01595;INF209K01CZ0;10.6364;10.4237;10.6364;21-Oct-2013
 111812;Aditya Birla Sun Life Medium Term Plan - Regular - IDCW;INF209K01611;INF209K01DA1;10.7927;10.5768;10.7927;21-Oct-2013
-111809;Aditya Birla Sun Life Medium Term Plan - REGULAR - Quarterly IDCW;INF209K01637;;10.4722;10.2628;10.4722;21-Oct-2013
+111809;Aditya Birla Sun Life Medium Term Plan - REGULAR - Quarterly IDCW;INF209K01637;INF209KB1OJ2;10.4722;10.2628;10.4722;21-Oct-2013
 
 Axis Mutual Fund
 120475;Axis Strategic Bond Fund - Direct Plan - Growth Option;INF846K01DT0;;11.2253;11.1130;11.2253;21-Oct-2013
@@ -4433,6 +4433,16 @@ Franklin Templeton Mutual Fund
 112304;Franklin India Income Opportunities Fund - Growth;INF090I01445;;13.8229;13.4082;13.8229;21-Oct-2013
 112305;Franklin India Income Opportunities Fund - IDCW ;INF090I01452;INF090I01460;10.8290;10.5041;10.8290;21-Oct-2013
 
+Groww Mutual Fund
+121153;Indiabulls Income Fund - Direct Plan - Growth Option;INF666M01642;;10.0599;9.9593;10.0599;21-Oct-2013
+121156;Indiabulls Income Fund - Direct Plan - Half Yearly Dividend Option;INF666M01709;INF666M01675;10.0330;9.9327;10.0330;21-Oct-2013
+121154;Indiabulls Income Fund - Direct Plan - Monthly Dividend Option;INF666M01683;INF666M01659;9.9277;9.8284;9.9277;21-Oct-2013
+121155;Indiabulls Income Fund - Direct Plan - Quarterly Dividend Option;INF666M01691;INF666M01667;9.7014;9.6044;9.7014;21-Oct-2013
+121158;Indiabulls Income Fund - Regular Plan - Growth Option;INF666M01717;;9.9811;9.8813;9.9811;21-Oct-2013
+121157;Indiabulls Income Fund - Regular Plan - Half Yearly Dividend Option;INF666M01774;INF666M01741;9.9603;9.8607;9.9603;21-Oct-2013
+121159;Indiabulls Income Fund - Regular Plan - Monthly Dividend Option;INF666M01758;INF666M01725;9.8000;9.7020;9.8000;21-Oct-2013
+121160;Indiabulls Income Fund - Regular Plan - Quarterly Dividend Option;INF666M01766;INF666M01733;9.9460;9.8465;9.9460;21-Oct-2013
+
 HDFC Mutual Fund
 101990;HDFC Medium Term Debt Fund - Fornightly IDCW Option;INF179K01897;INF179K01905;10.5928;10.5663;10.5928;21-Oct-2013
 119080;HDFC Medium Term Debt Fund - Fortnightly IDCW Opt - Direct Plan;INF179KA1NP8;INF179KA1NO1;10.5943;10.5678;10.5943;21-Oct-2013
@@ -4450,16 +4460,6 @@ ICICI Prudential Mutual Fund
 113138;ICICI Prudential Medium Term Bond Fund Plan B - Quarterly Dividend;INF109K01UI0;INF109K01IQ8;10.2259;9.9191;10.2259;21-Oct-2013
 113136;ICICI Prudential Medium Term Bond Fund Plan C - Quarterly Dividend;INF109K01UO8;INF109K01UN0;10.2447;9.9374;10.2447;21-Oct-2013
 102743;ICICI Prudential Medium Term Bond Fund-Plan B-Growth;INF109K01AJ0;;18.9620;18.3931;18.9620;21-Oct-2013
-
-Indiabulls Mutual Fund
-121153;Indiabulls Income Fund - Direct Plan - Growth Option;INF666M01642;;10.0599;9.9593;10.0599;21-Oct-2013
-121156;Indiabulls Income Fund - Direct Plan - Half Yearly Dividend Option;INF666M01709;INF666M01675;10.0330;9.9327;10.0330;21-Oct-2013
-121154;Indiabulls Income Fund - Direct Plan - Monthly Dividend Option;INF666M01683;INF666M01659;9.9277;9.8284;9.9277;21-Oct-2013
-121155;Indiabulls Income Fund - Direct Plan - Quarterly Dividend Option;INF666M01691;INF666M01667;9.7014;9.6044;9.7014;21-Oct-2013
-121158;Indiabulls Income Fund - Regular Plan - Growth Option;INF666M01717;;9.9811;9.8813;9.9811;21-Oct-2013
-121157;Indiabulls Income Fund - Regular Plan - Half Yearly Dividend Option;INF666M01774;INF666M01741;9.9603;9.8607;9.9603;21-Oct-2013
-121159;Indiabulls Income Fund - Regular Plan - Monthly Dividend Option;INF666M01758;INF666M01725;9.8000;9.7020;9.8000;21-Oct-2013
-121160;Indiabulls Income Fund - Regular Plan - Quarterly Dividend Option;INF666M01766;INF666M01733;9.9460;9.8465;9.9460;21-Oct-2013
 
 SBI Mutual Fund
 119824;SBI MAGNUM MEDIUM DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VB0;;19.3914;19.1975;19.3914;21-Oct-2013
@@ -4638,6 +4638,16 @@ ICICI Prudential Mutual Fund
 Open Ended Schemes ( Debt Scheme - Dynamic Bond )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+122612;360 ONE Dynamic Bond Fund - Regular Plan - Growth Option;INF579M01183;;9.6554;9.6071;9.6554;21-Oct-2013
+122715;360 ONE Dynamic Bond Fund Direct Plan Growth;INF579M01266;;9.6713;9.6229;9.6713;21-Oct-2013
+122722;360 ONE Dynamic Bond Fund Direct Plan Half Yearly Dividend;INF579M01308;INF579M01332;9.6713;9.6229;9.6713;21-Oct-2013
+122721;360 ONE Dynamic Bond Fund Direct Plan Monthly Dividend;INF579M01282;INF579M01316;9.6713;9.6229;9.6713;21-Oct-2013
+122711;360 ONE Dynamic Bond Fund Regular Plan Bonus;INF579M01191;;9.6554;9.6071;9.6554;21-Oct-2013
+122720;360 ONE Dynamic Bond Fund Regular Plan Half Yearly Dividend;INF579M01225;INF579M01258;9.6554;9.6071;9.6554;21-Oct-2013
+122719;360 ONE Dynamic Bond Fund Regular Plan Monthly Dividend;INF579M01209;INF579M01233;9.6554;9.6071;9.6554;21-Oct-2013
+122712;360 ONE Dynamic Bond Fund Regular Plan Quarterly Dividend;INF579M01217;INF579M01241;9.6554;9.6071;9.6554;21-Oct-2013
+
 Aditya Birla Sun Life Mutual Fund
 119505;Aditya Birla Sun Life Dynamic Bond Fund - Growth - Direct Plan;INF209K01N82;;20.4923;20.3898;20.4923;21-Oct-2013
 102767;Aditya Birla Sun Life Dynamic Bond Fund - Growth - Regular Plan;INF209K01793;;20.4326;20.3304;20.4326;21-Oct-2013
@@ -4753,16 +4763,6 @@ IDBI Mutual Fund
 116811;IDBI Dynamic Bond Fund Growth Direct;INF397L01BN9;;11.1720;11.0603;11.1720;21-Oct-2013
 118429;IDBI Dynamic Bond Fund Quarterly IDCW Direct;INF397L01BO7;INF397L01BP4;10.7262;10.6189;10.7262;21-Oct-2013
 116810;IDBI Dynamic Bond Fund Quarterly IDCW Regular;INF397L01604;INF397L01612;10.3045;10.2015;10.3045;21-Oct-2013
-
-IIFL Mutual Fund
-122612;IIFL Dynamic Bond Fund - Regular Plan - Growth Option;INF579M01183;;9.6554;9.6071;9.6554;21-Oct-2013
-122715;IIFL Dynamic Bond Fund Direct Plan Growth;INF579M01266;;9.6713;9.6229;9.6713;21-Oct-2013
-122722;IIFL Dynamic Bond Fund Direct Plan Half Yearly Dividend;INF579M01308;INF579M01332;9.6713;9.6229;9.6713;21-Oct-2013
-122721;IIFL Dynamic Bond Fund Direct Plan Monthly Dividend;INF579M01282;INF579M01316;9.6713;9.6229;9.6713;21-Oct-2013
-122711;IIFL Dynamic Bond Fund Regular Plan Bonus;INF579M01191;;9.6554;9.6071;9.6554;21-Oct-2013
-122720;IIFL Dynamic Bond Fund Regular Plan Half Yearly Dividend;INF579M01225;INF579M01258;9.6554;9.6071;9.6554;21-Oct-2013
-122719;IIFL Dynamic Bond Fund Regular Plan Monthly Dividend;INF579M01209;INF579M01233;9.6554;9.6071;9.6554;21-Oct-2013
-122712;IIFL Dynamic Bond Fund Regular Plan Quarterly Dividend;INF579M01217;INF579M01241;9.6554;9.6071;9.6554;21-Oct-2013
 
 JM Financial Mutual Fund
 120432;JM Dynamic Bond Fund (Direct) - Daily IDCW;;INF192K01CZ8;10.0035;10.0035;10.0035;21-Oct-2013
@@ -5302,6 +5302,15 @@ Franklin Templeton Mutual Fund
 100489;Franklin India Govt.Sec. Fund-Treasury Plan(Growth Option);INF090I01DB7;;19.6801;19.6801;19.6801;21-Oct-2013
 118503;Templeton India GOVERNMENT SECURITIES FUND PF PLAN - Direct - Dividend;INF090I01HN3;INF090I01HO1;16.7482;16.6645;16.7482;21-Oct-2013
 
+Groww Mutual Fund
+118427;Indiabulls Gilt Fund - Direct Plan -  Growth Option;INF666M01295;;1051.9013;1046.6418;1051.9013;21-Oct-2013
+118819;Indiabulls Gilt Fund - Direct Plan - Bonus Option;INF666M01360;;1051.8829;1046.6235;1051.8829;21-Oct-2013
+118816;Indiabulls Gilt Fund - Direct Plan - Weekly Dividend Option;INF666M01303;INF666M01311;983.0693;978.1540;983.0693;21-Oct-2013
+118822;Indiabulls Gilt Fund - Indirect Plan - Fortnightly Dividend Option;INF666M01402;INF666M01410;976.0701;971.1897;976.0701;21-Oct-2013
+118820;Indiabulls Gilt Fund - Indirect Plan - Growth Option;INF666M01378;;1041.0624;1035.8571;1041.0624;21-Oct-2013
+118823;Indiabulls Gilt Fund - Indirect Plan - Monthly Dividend Option;INF666M01428;INF666M01436;976.1530;971.2722;976.1530;21-Oct-2013
+118821;Indiabulls Gilt Fund - Indirect Plan - Weekly Dividend Option;INF666M01386;INF666M01394;977.5790;972.6911;977.5790;21-Oct-2013
+
 HDFC Mutual Fund
 119116;HDFC Gilt Fund - Growth Option - Direct Plan;INF179K01VS0;;23.1273;23.0695;23.1273;21-Oct-2013
 101083;HDFC Gilt Fund - Growth Plan;INF179K01756;;23.0832;23.0255;23.0832;21-Oct-2013
@@ -5326,15 +5335,6 @@ IDBI Mutual Fund
 118341;IDBI Gilt Fund Growth Direct;INF397L01CC0;;10.4467;10.3945;10.4467;21-Oct-2013
 118031;IDBI Gilt Fund Quarterly IDCW;INF397L01AE0;INF397L01AF7;10.2668;10.2155;10.2668;21-Oct-2013
 118446;IDBI Gilt Fund Quarterly IDCW Direct;INF397L01CD8;INF397L01CE6;10.2924;10.2409;10.2924;21-Oct-2013
-
-Indiabulls Mutual Fund
-118427;Indiabulls Gilt Fund - Direct Plan -  Growth Option;INF666M01295;;1051.9013;1046.6418;1051.9013;21-Oct-2013
-118819;Indiabulls Gilt Fund - Direct Plan - Bonus Option;INF666M01360;;1051.8829;1046.6235;1051.8829;21-Oct-2013
-118816;Indiabulls Gilt Fund - Direct Plan - Weekly Dividend Option;INF666M01303;INF666M01311;983.0693;978.1540;983.0693;21-Oct-2013
-118822;Indiabulls Gilt Fund - Indirect Plan - Fortnightly Dividend Option;INF666M01402;INF666M01410;976.0701;971.1897;976.0701;21-Oct-2013
-118820;Indiabulls Gilt Fund - Indirect Plan - Growth Option;INF666M01378;;1041.0624;1035.8571;1041.0624;21-Oct-2013
-118823;Indiabulls Gilt Fund - Indirect Plan - Monthly Dividend Option;INF666M01428;INF666M01436;976.1530;971.2722;976.1530;21-Oct-2013
-118821;Indiabulls Gilt Fund - Indirect Plan - Weekly Dividend Option;INF666M01386;INF666M01394;977.5790;972.6911;977.5790;21-Oct-2013
 
 Invesco Mutual Fund
 107476;Invesco India Gilt Fund - Annual IDCW (Payout / Reinvestment);INF205K01SJ8;INF205K01SK6;1141.3769;1141.3769;1141.3769;21-Oct-2013
@@ -6617,6 +6617,11 @@ UTI Mutual Fund
 Close Ended Schemes ( Income )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+121898;IIFL Fixed Maturity Plan - Series 6 - Direct Plan - Growth Option;INF579M01951;;10.5148;10.5148;10.5148;21-Oct-2013
+121900;IIFL Fixed Maturity Plan - Series 6 - Regular Plan - Growth Option;INF579M01936;;10.5035;10.5035;10.5035;21-Oct-2013
+121899;IIFL Fixed Maturity Plan - Series 6 - Regular Plan -Dividend Payout Option;INF579M01969;;10.5035;10.5035;10.5035;21-Oct-2013
+
 Aditya Birla Sun Life Mutual Fund
 117636;Aditya Birla Sun Life Capital Protection Oriented Fund - Series 10-Growth;INF209K01RY1;;10.9897;10.9897;10.9897;21-Oct-2013
 117926;Aditya Birla Sun Life Capital Protection Oriented Fund - Series 11- Growth;INF209K01TF6;;10.6225;10.6225;10.6225;21-Oct-2013
@@ -7613,6 +7618,10 @@ Franklin Templeton Mutual Fund
 114498;Franklin Templeton Fixed Tenure Fund-Series XV(3 year plan) - Dividend;INF090I01502;;10.9939;10.9939;10.9939;21-Oct-2013
 114499;Franklin Templeton Fixed Tenure Fund-Series XV(3 year plan) - Growth;INF090I01494;;12.0771;12.0771;12.0771;21-Oct-2013
 
+Groww Mutual Fund
+123090;Indiabulls FMP Series III - 370 Days July 2013 (3) - Direct Plan - Growth Option;INF666M01907;;10.2736;10.2736;10.2736;21-Oct-2013
+123092;Indiabulls FMP Series III - 370 Days July 2013 (3) - Regular Plan - Growth Option;INF666M01931;;10.2714;10.2714;10.2714;21-Oct-2013
+
 HDFC Mutual Fund
 121545;HDFC Annual Interval Fund - Series I - Plan A-Direct Option-Dividend Option;INF179K01F13;INF179K01F21;10.5686;0;0;21-Oct-2013
 121544;HDFC Annual Interval Fund - Series I - Plan A-Direct Option-Flexi Option;INF179K01F47;;10;0;0;21-Oct-2013
@@ -8556,15 +8565,6 @@ IDBI Mutual Fund
 123081;IDBI FMP-Series III-24 Months (July 2013) - F- Dividend Regular;INF397L01IR5;;10.3032;10.3032;10.3032;21-Oct-2013
 123078;IDBI FMP-Series III-24 Months (July 2013) - F- Growth Direct;INF397L01IS3;;10.3091;10.3091;10.3091;21-Oct-2013
 123079;IDBI FMP-Series III-24 Months (July 2013) - F- Growth Regular;INF397L01IT1;;10.3032;10.3032;10.3032;21-Oct-2013
-
-IIFL Mutual Fund
-121898;IIFL Fixed Maturity Plan - Series 6 - Direct Plan - Growth Option;INF579M01951;;10.5148;10.5148;10.5148;21-Oct-2013
-121900;IIFL Fixed Maturity Plan - Series 6 - Regular Plan - Growth Option;INF579M01936;;10.5035;10.5035;10.5035;21-Oct-2013
-121899;IIFL Fixed Maturity Plan - Series 6 - Regular Plan -Dividend Payout Option;INF579M01969;;10.5035;10.5035;10.5035;21-Oct-2013
-
-Indiabulls Mutual Fund
-123090;Indiabulls FMP Series III - 370 Days July 2013 (3) - Direct Plan - Growth Option;INF666M01907;;10.2736;10.2736;10.2736;21-Oct-2013
-123092;Indiabulls FMP Series III - 370 Days July 2013 (3) - Regular Plan - Growth Option;INF666M01931;;10.2714;10.2714;10.2714;21-Oct-2013
 
 Invesco Mutual Fund
 123083;Invesco India Fixed Maturity Plan - Series XIX - Plan C (367 Days) - Direct Plan - Growth;INF205K01P92;;10.2750;10.2750;10.2750;21-Oct-2013

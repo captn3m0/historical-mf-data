@@ -1227,6 +1227,9 @@ Nippon India Mutual Fund
 Open Ended Schemes ( Other ETFs )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;492.4168;492.4168;492.4168;25-May-2012
+
 Goldman Sachs Mutual Fund
 115731;Goldman Sachs Banking Index Exchange Traded Scheme (GS Bank BeES);INF732E01078;;948.2835;948.2835;948.2835;25-May-2012
 115750;Goldman Sachs CNX Nifty Shariah Exchange Traded Scheme (GS S&P Shariah BeES);INF732E01128;;110.0295;110.0295;110.0295;25-May-2012
@@ -1236,9 +1239,6 @@ Goldman Sachs Mutual Fund
 115728;Goldman Sachs Nifty Exchange Traded Scheme (GS Nifty BeES);INF732E01011;;493.7456;493.7456;493.7456;25-May-2012
 115729;Goldman Sachs Nifty Junior Exchange Traded Scheme (GS Junior BeES);INF732E01045;;95.4975;95.4975;95.4975;25-May-2012
 115747;Goldman Sachs PSU Bank Exchange Traded Scheme (GS PSU Bank BeES);INF732E01110;;310.8289;310.8289;310.8289;25-May-2012
-
-IIFL Mutual Fund
-115912;IIFL NIFTY ETF-GROWTH;INF579M01019;;492.4168;492.4168;492.4168;25-May-2012
 
 Nippon India Mutual Fund
 108410;R * Shares Banking ETF -Dividend Payout Option;INF733I01028;;982.5492;982.5492;982.5492;25-May-2012
@@ -1361,6 +1361,10 @@ Franklin Templeton Mutual Fund
 100470;Franklin India BLUECHIP FUND - IDCW ;INF090I01155;INF090I01163;32.4003;32.0763;32.4003;25-May-2012
 100471;Franklin India Bluechip Fund-Growth;INF090I01171;;196.9090;194.9399;196.9090;25-May-2012
 
+Groww Mutual Fund
+116547;Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option;INF666M01162;;8.83;8.74;8.83;25-May-2012
+116548;Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;8.83;8.74;8.83;25-May-2012
+
 HDFC Mutual Fund
 102000;HDFC Top 100 Fund - Growth Option - Regular Plan;INF179K01BE2;;185.967;184.107;185.967;25-May-2012
 102001;HDFC Top 100 Fund - IDCW Option - Regular Plan;INF179K01BC6;INF179K01BD4;36.501;36.136;36.501;25-May-2012
@@ -1377,10 +1381,6 @@ ICICI Prudential Mutual Fund
 IDBI Mutual Fund
 117311;IDBI India Top 100 Equity Fund Growth;INF397L01869;;10.0300;9.9300;10.0300;25-May-2012
 117310;IDBI India Top 100 Equity Fund IDCW;INF397L01836;INF397L01844;10.0300;9.9300;10.0300;25-May-2012
-
-Indiabulls Mutual Fund
-116547;Indiabulls Blue Chip Fund - Regular Plan- Growth Option;INF666M01162;;8.83;8.74;8.83;25-May-2012
-116548;Indiabulls Bluechip Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01188;INF666M01170;8.83;8.74;8.83;25-May-2012
 
 Invesco Mutual Fund
 112098;Invesco India Largecap Fund - Growth;INF205K01304;;10.73;10.62;10.73;25-May-2012
@@ -1948,10 +1948,10 @@ Open Ended Schemes ( Equity Scheme - ELSS )
 
 
 Aditya Birla Sun Life Mutual Fund
+107745;Aditya Birla Sun Life ELSS Tax Relief '96 - Growth Option;INF209K01108;;9.47;9.47;9.47;25-May-2012
+103164;Aditya Birla Sun Life ELSS Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;65.39;65.39;65.39;25-May-2012
 104331;Aditya Birla Sun Life Tax Plan - Regular Plan - Growth Option;INF209K01348;;12.27;12.27;12.27;25-May-2012
 100067;Aditya Birla Sun Life Tax Plan -Regular - IDCW;INF209K01330;INF209K01CM8;40.43;40.43;40.43;25-May-2012
-107745;Aditya Birla Sun Life Tax Relief '96 - Growth Option;INF209K01108;;9.47;9.47;9.47;25-May-2012
-103164;Aditya Birla Sun Life Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;65.39;65.39;65.39;25-May-2012
 
 Axis Mutual Fund
 112323;Axis Long Term Equity Fund - Regular Plan - Growth;INF846K01131;;12.0466;12.0466;12.0466;25-May-2012
@@ -2176,6 +2176,13 @@ Franklin Templeton Mutual Fund
 102443;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;;INF090I01BC9;1000.6730;1000.6730;1000.6730;25-May-2012
 102442;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;INF090I01BJ4;INF090I01BE5;1056.0656;1056.0656;1056.0656;25-May-2012
 
+Groww Mutual Fund
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Growth Option;INF666M01014;;1058.7084;1058.7084;1058.7084;25-May-2012
+115992;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.0000;1000.0000;1000.0000;25-May-2012
+115995;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1006.3571;1006.3571;1006.3571;25-May-2012
+115993;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1001.0923;1001.0923;1001.0923;25-May-2012
+115994;Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01063;INF666M01048;1000.0000;1000.0000;1000.0000;25-May-2012
+
 HDFC Mutual Fund
 100868;HDFC Liquid Fund - Growth Plan;INF179KB1HK0;;21.4991;21.4991;21.4991;25-May-2012
 100875;HDFC Liquid Fund - IDCW Daily;;INF179KB1IC5;10.1982;10.1982;10.1982;25-May-2012
@@ -2223,13 +2230,6 @@ IDBI Mutual Fund
 113102;IDBI Liquid Fund-Daily IDCW;;INF397L01935;1000.0000;1000.0000;1000.0000;25-May-2012
 113096;IDBI Liquid Fund-Growth;INF397L01984;;1168.8437;1168.8437;1168.8437;25-May-2012
 113103;IDBI Liquid Fund-Weekly IDCW;INF397L01950;INF397L01943;1001.5482;1001.5482;1001.5482;25-May-2012
-
-Indiabulls Mutual Fund
-115991;Indiabulls Liquid Fund - Growth Option;INF666M01014;;1058.7084;1058.7084;1058.7084;25-May-2012
-115992;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1000.0000;1000.0000;1000.0000;25-May-2012
-115994;Indiabulls Liquid Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01063;INF666M01048;1000.0000;1000.0000;1000.0000;25-May-2012
-115995;Indiabulls Liquid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1006.3571;1006.3571;1006.3571;25-May-2012
-115993;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1001.0923;1001.0923;1001.0923;25-May-2012
 
 Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1000.7849;1000.7849;1000.7849;25-May-2012
@@ -2435,6 +2435,13 @@ Franklin Templeton Mutual Fund
 107250;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Daily - IDCW;;INF090I01CL8;10.0116;10.0116;10.0116;25-May-2012
 109576;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Weekly - IDCW;;INF090I01CM6;10.1114;10.1114;10.1114;25-May-2012
 
+Groww Mutual Fund
+116610;Indiabulls Ultra Short Term Fund - Daily Dividend Option;;INF666M01196;1000.1267;1000.1267;1000.1267;25-May-2012
+116426;Indiabulls Ultra Short Term Fund - Fortnightly Dividend Option;INF666M01147;INF666M01113;1000.0000;1000.0000;1000.0000;25-May-2012
+116424;Indiabulls Ultra Short Term Fund - Growth Option;INF666M01097;;1039.7951;1039.7951;1039.7951;25-May-2012
+116427;Indiabulls Ultra Short Term Fund - Monthly Dividend Option;INF666M01154;INF666M01121;1000.0000;1000.0000;1000.0000;25-May-2012
+116425;Indiabulls Ultra Short Term Fund - Weekly Dividend Option;INF666M01139;INF666M01105;1001.1550;1001.1550;1001.1550;25-May-2012
+
 ICICI Prudential Mutual Fund
 115092;ICICI Prudential Ultra Short Term Fund - Growth;INF109K01TP7;;10.7314;10.6241;10.7314;25-May-2012
 115093;ICICI Prudential Ultra Short Term Fund - Half Yearly IDCW;INF109K01TV5;INF109K01TU7;10.3727;10.2690;10.3727;25-May-2012
@@ -2446,13 +2453,6 @@ IDBI Mutual Fund
 113251;IDBI UST Growth;INF397L01745;;1162.3308;1162.3308;1162.3308;25-May-2012
 113254;IDBI UST Monthly IDCW;INF397L01711;INF397L01703;1008.2877;1008.2877;1008.2877;25-May-2012
 113253;IDBI UST Weekly IDCW;INF397L01737;INF397L01729;1003.8822;1003.8822;1003.8822;25-May-2012
-
-Indiabulls Mutual Fund
-116610;Indiabulls Ultra Short Term Fund - Daily Dividend Option;;INF666M01196;1000.1267;1000.1267;1000.1267;25-May-2012
-116426;Indiabulls Ultra Short Term Fund - Fortnightly Dividend Option;INF666M01147;INF666M01113;1000.0000;1000.0000;1000.0000;25-May-2012
-116424;Indiabulls Ultra Short Term Fund - Growth Option;INF666M01097;;1039.7951;1039.7951;1039.7951;25-May-2012
-116427;Indiabulls Ultra Short Term Fund - Monthly Dividend Option;INF666M01154;INF666M01121;1000.0000;1000.0000;1000.0000;25-May-2012
-116425;Indiabulls Ultra Short Term Fund - Weekly Dividend Option;INF666M01139;INF666M01105;1001.1550;1001.1550;1001.1550;25-May-2012
 
 Invesco Mutual Fund
 114361;Invesco India Ultra Short Term Fund - Annual IDCW (Payout / Reinvestment);INF205K01TD9;INF205K01TE7;10.3601;10.2565;10.3601;25-May-2012
@@ -2730,10 +2730,10 @@ DSP Mutual Fund
 100089;DSP Savings Fund - Regular Plan - IDCW - Monthly;INF740K01722;INF740K01AK0;10.2645;10.2645;10.2645;25-May-2012
 
 Franklin Templeton Mutual Fund
-101357;Franklin India Savings Fund - Growth Option;INF090I01CA1;;19.8570;19.8074;19.8570;25-May-2012
-101359;Franklin India Savings Fund - Institutional Option - Dividend;INF090I01BW7;INF090I01BV9;10.3538;10.3279;10.3538;25-May-2012
-101358;Franklin India Savings Fund - Institutional Option - Growth;INF090I01BX5;;16.5584;16.5170;16.5584;25-May-2012
-101356;Franklin India Savings Fund Retail Option - Quarterly - IDCW;INF090I01BZ0;INF090I01BY3;10.9696;10.9422;10.9696;25-May-2012
+101357;Franklin India Money Market Fund - Growth Option;INF090I01CA1;;19.8570;19.8074;19.8570;25-May-2012
+101359;Franklin India Money Market Fund - Institutional Option - Dividend;INF090I01BW7;INF090I01BV9;10.3538;10.3279;10.3538;25-May-2012
+101358;Franklin India Money Market Fund - Institutional Option - Growth;INF090I01BX5;;16.5584;16.5170;16.5584;25-May-2012
+101356;Franklin India Money Market Fund Retail Option - Quarterly - IDCW;INF090I01BZ0;INF090I01BY3;10.9696;10.9422;10.9696;25-May-2012
 105654;Templeton Floating Rate Income Fund -  Super Institutional Plan - Growth;INF090I01CB9;;15.0809;15.0432;15.0809;25-May-2012
 105904;Templeton Floating Rate Income Fund - Super Institutional Plan - Daily Dividend;;INF090I01CC7;10.0206;9.9955;10.0206;25-May-2012
 
@@ -3004,7 +3004,7 @@ Aditya Birla Sun Life Mutual Fund
 111810;Aditya Birla Sun Life Medium Term Plan - Institutional - Quarterly Dividend Plan;INF209K01678;;10.0532;9.8019;10.0532;25-May-2012
 111811;Aditya Birla Sun Life Medium Term Plan - REGULAR - HALFYEARLY IDCW;INF209K01595;INF209K01CZ0;10.2605;10.0040;10.2605;25-May-2012
 111812;Aditya Birla Sun Life Medium Term Plan - Regular - IDCW;INF209K01611;INF209K01DA1;10.3516;10.0928;10.3516;25-May-2012
-111809;Aditya Birla Sun Life Medium Term Plan - REGULAR - Quarterly IDCW;INF209K01637;;10.0532;9.8019;10.0532;25-May-2012
+111809;Aditya Birla Sun Life Medium Term Plan - REGULAR - Quarterly IDCW;INF209K01637;INF209KB1OJ2;10.0532;9.8019;10.0532;25-May-2012
 
 Axis Mutual Fund
 116894;Axis Strategic Bond Fund - Regular Plan - Growth Option;INF846K01BP2;;10.1572;10.0556;10.1572;25-May-2012
@@ -4384,6 +4384,14 @@ UTI Mutual Fund
 Close Ended Schemes ( Income )
 
 
+360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+116533;IIFL FMP Series 1 - Dividend;INF579M01035;;10.2425;10.2425;10.2425;25-May-2012
+116534;IIFL FMP Series 1 - Growth;INF579M01027;;10.2425;10.2425;10.2425;25-May-2012
+116908;IIFL Fixed Maturity Plan - Series 2 - Dividend;INF579M01050;;10.2555;10.2555;10.2555;25-May-2012
+116907;IIFL Fixed Maturity Plan - Series 2 - Growth;INF579M01043;;10.2555;10.2555;10.2555;25-May-2012
+117181;IIFL Fixed Maturity Plan-Series 3 - Dividend;INF579M01076;;10.1480;10.1480;10.1480;25-May-2012
+117182;IIFL Fixed Maturity Plan-Series 3 - Growth;INF579M01068;;10.1480;10.1480;10.1480;25-May-2012
+
 Aditya Birla Sun Life Mutual Fund
 112379;Birla Sun Life Capital Protection Oriented Fund-Series 1-GROWTH;INF209K01BW9;;11.1092;11.1092;11.1092;25-May-2012
 112892;Birla Sun Life Capital Protection Oriented Fund - Series 2 - Growth;INF209K01EJ0;;10.5771;10.5771;10.5771;25-May-2012
@@ -4967,6 +4975,12 @@ Franklin Templeton Mutual Fund
 112946;Franklin Templeton Fixed Tenure Fund-Series XIV-Plan A(3 year plan) - Dividend;INF090I01437;;10.1434;10.1434;10.1434;25-May-2012
 112947;Franklin Templeton Fixed Tenure Fund-Series XIV-Plan A(3 year plan) - Growth;INF090I01429;;10.5943;10.5943;10.5943;25-May-2012
 
+Groww Mutual Fund
+117177;Indiabulls FMP 377 Days March 2012 (2) - Dividend;INF666M01246;;10.0000;10.0000;10.0000;25-May-2012
+117178;Indiabulls FMP 377 Days March 2012 (2) - Growth;INF666M01238;;10.1756;10.1756;10.1756;25-May-2012
+116951;Indiabulls FMP 387 Days March 2012 (1) - Dividend;INF666M01212;;10.0000;10.0000;10.0000;25-May-2012
+116950;Indiabulls FMP 387 Days March 2012 (1) - Growth;INF666M01204;;10.2472;10.2472;10.2472;25-May-2012
+
 HDFC Mutual Fund
 114627;HDFC DEBT FUND FOR CANCER CURE;INF179K01FY1;;10.2149;0;0;25-May-2012
 116587;HDFC FMP 1203D January 2012 (1) Dividend Option;INF179K01NY5;;10.1287;0;0;25-May-2012
@@ -5366,20 +5380,6 @@ IDBI Mutual Fund
 116227;IDBI FMP Series II - 540 Days (December 2011) - A Dividend;INF397L01562;;10.3886;10.3886;10.3886;25-May-2012
 116226;IDBI FMP Series II - 540 Days (December 2011) - A Growth;INF397L01570;;10.3886;10.3886;10.3886;25-May-2012
 116341;IDBI Fixed Maturity Plan Series II - 550 Days (December 2011) - B Growth;INF397L01596;;10.3513;10.3513;10.3513;25-May-2012
-
-IIFL Mutual Fund
-116533;IIFL FMP Series 1 - Dividend;INF579M01035;;10.2425;10.2425;10.2425;25-May-2012
-116534;IIFL FMP Series 1 - Growth;INF579M01027;;10.2425;10.2425;10.2425;25-May-2012
-116908;IIFL Fixed Maturity Plan - Series 2 - Dividend;INF579M01050;;10.2555;10.2555;10.2555;25-May-2012
-116907;IIFL Fixed Maturity Plan - Series 2 - Growth;INF579M01043;;10.2555;10.2555;10.2555;25-May-2012
-117181;IIFL Fixed Maturity Plan-Series 3 - Dividend;INF579M01076;;10.1480;10.1480;10.1480;25-May-2012
-117182;IIFL Fixed Maturity Plan-Series 3 - Growth;INF579M01068;;10.1480;10.1480;10.1480;25-May-2012
-
-Indiabulls Mutual Fund
-117177;Indiabulls FMP 377 Days March 2012 (2) - Dividend;INF666M01246;;10.0000;10.0000;10.0000;25-May-2012
-117178;Indiabulls FMP 377 Days March 2012 (2) - Growth;INF666M01238;;10.1756;10.1756;10.1756;25-May-2012
-116951;Indiabulls FMP 387 Days March 2012 (1) - Dividend;INF666M01212;;10.0000;10.0000;10.0000;25-May-2012
-116950;Indiabulls FMP 387 Days March 2012 (1) - Growth;INF666M01204;;10.2472;10.2472;10.2472;25-May-2012
 
 Invesco Mutual Fund
 115771;Religare Fixed Maturity Plan - Series IX - Plan B (371 Days) - Dividend Payout Option;INF205K01EQ3;;10.6538;10.6538;10.6538;25-May-2012
