@@ -30,12 +30,6 @@ Bandhan Mutual Fund
 149304;BANDHAN MULTI CAP FUND - IDCW - DIRECT PLAN;INF194KB1CM8;INF194KB1CN6;10.414;;;29-Aug-2022
 149302;BANDHAN MULTI CAP FUND - IDCW - REGULAR PLAN;INF194KB1CJ4;INF194KB1CK2;10.282;;;29-Aug-2022
 
-Bank of India Mutual Fund
-148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;19.88;;;29-Aug-2022
-148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;17.00;;;29-Aug-2022
-148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;19.16;;;29-Aug-2022
-148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;17.41;;;29-Aug-2022
-
 Baroda BNP Paribas Mutual Fund
 119354;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - Growth Option;INF955L01AG0;;181.1429;;;29-Aug-2022
 119353;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option;INF955L01AE5;;41.9183;;;29-Aug-2022
@@ -1884,10 +1878,10 @@ L&T Mutual Fund
 118048;L&T Tax Advantage Fund-Regular Plan-IDCW;INF677K01072;INF677K01080;24.201;;;29-Aug-2022
 
 LIC Mutual Fund
-120270;LIC MF Tax Plan-Direct Plan-Growth;INF767K01EM1;;109.1878;;;29-Aug-2022
-120269;LIC MF Tax Plan-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;25.5073;;;29-Aug-2022
-100865;LIC MF Tax Plan-Regular Plan-Growth;INF767K01956;;98.8335;;;29-Aug-2022
-100864;LIC MF Tax Plan-Regular Plan-IDCW;INF767K01931;INF767K01949;22.0712;;;29-Aug-2022
+120270;LIC MF ELSS-Direct Plan-Growth;INF767K01EM1;;109.1878;;;29-Aug-2022
+120269;LIC MF ELSS-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;25.5073;;;29-Aug-2022
+100865;LIC MF ELSS-Regular Plan-Growth;INF767K01956;;98.8335;;;29-Aug-2022
+100864;LIC MF ELSS-Regular Plan-IDCW;INF767K01931;INF767K01949;22.0712;;;29-Aug-2022
 134878;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Direct Plan-IDCW Reinvestment;;INF767K01DR2;29.2185;;;29-Aug-2022
 134865;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Regular Plan-IDCW Reinvestment;;INF767K01998;27.0355;;;29-Aug-2022
 134876;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Monthly)-Direct Plan-IDCW Reinvestment;;INF767K01DQ4;29.2185;;;29-Aug-2022
@@ -2989,13 +2983,13 @@ L&T Mutual Fund
 119851;L&T Ultra Short Term Fund-Direct Plan -Monthly IDCW;INF917K01HU8;INF917K01HT0;13.0502;;;29-Aug-2022
 
 LIC Mutual Fund
-147772;LIC MF Ultra Short Term Fund-Direct Plan-Growth;INF767K01QU8;;1114.0575;;;29-Aug-2022
-147773;LIC MF Ultra Short Term Fund-Direct Plan-Monthly IDCW;INF767K01QT0;INF767K01QS2;1114.1195;;;29-Aug-2022
-147769;LIC MF Ultra Short Term Fund-Direct Plan-Weekly IDCW;INF767K01QR4;INF767K01QQ6;1043.6792;;;29-Aug-2022
-147766;LIC MF Ultra Short Term Fund-Regular Plan-Daily IDCW;;INF767K01QJ1;1039.1719;;;29-Aug-2022
-147770;LIC MF Ultra Short Term Fund-Regular Plan-Growth;INF767K01QO1;;1107.2923;;;29-Aug-2022
-147768;LIC MF Ultra Short Term Fund-Regular Plan-Monthly IDCW;INF767K01QN3;INF767K01QM5;1107.3337;;;29-Aug-2022
-147767;LIC MF Ultra Short Term Fund-Regular Plan-Weekly IDCW;INF767K01QL7;INF767K01QK9;1030.7292;;;29-Aug-2022
+147772;LIC MF Ultra Short Duration Fund-Direct Plan-Growth;INF767K01QU8;;1114.0575;;;29-Aug-2022
+147773;LIC MF Ultra Short Duration Fund-Direct Plan-Monthly IDCW;INF767K01QT0;INF767K01QS2;1114.1195;;;29-Aug-2022
+147769;LIC MF Ultra Short Duration Fund-Direct Plan-Weekly IDCW;INF767K01QR4;INF767K01QQ6;1043.6792;;;29-Aug-2022
+147766;LIC MF Ultra Short Duration Fund-Regular Plan-Daily IDCW;;INF767K01QJ1;1039.1719;;;29-Aug-2022
+147770;LIC MF Ultra Short Duration Fund-Regular Plan-Growth;INF767K01QO1;;1107.2923;;;29-Aug-2022
+147768;LIC MF Ultra Short Duration Fund-Regular Plan-Monthly IDCW;INF767K01QN3;INF767K01QM5;1107.3337;;;29-Aug-2022
+147767;LIC MF Ultra Short Duration Fund-Regular Plan-Weekly IDCW;INF767K01QL7;INF767K01QK9;1030.7292;;;29-Aug-2022
 
 Mahindra Manulife Mutual Fund
 147733;Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW;;INF174V01895;1026.5848;;;29-Aug-2022
@@ -3216,7 +3210,7 @@ HSBC Mutual Fund
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0033;;;29-Aug-2022
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;18.1629;;;29-Aug-2022
 120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;;;29-Aug-2022
-104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;10.3560;;;29-Aug-2022
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.2695;;;29-Aug-2022
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0043;;;29-Aug-2022
 
 ICICI Prudential Mutual Fund
@@ -3822,10 +3816,10 @@ L&T Mutual Fund
 119856;L&T Short Term Bond Fund -Direct Plan- Growth;INF917K01IQ4;;22.7458;;;29-Aug-2022
 
 LIC Mutual Fund
-145954;LIC MF Short Term Debt Fund-Direct Plan-Growth;INF767K01PW6;;12.5628;;;29-Aug-2022
-145953;LIC MF Short Term Debt Fund-Direct Plan-IDCW;INF767K01PX4;INF767K01PY2;12.5628;;;29-Aug-2022
-145952;LIC MF Short Term Debt Fund-Regular Plan-Growth;INF767K01PT2;;12.0987;;;29-Aug-2022
-145951;LIC MF Short Term Debt Fund-Regular Plan-IDCW;INF767K01PU0;INF767K01PV8;12.0987;;;29-Aug-2022
+145954;LIC MF Short Duration Fund-Direct Plan-Growth;INF767K01PW6;;12.5628;;;29-Aug-2022
+145953;LIC MF Short Duration Fund-Direct Plan-IDCW;INF767K01PX4;INF767K01PY2;12.5628;;;29-Aug-2022
+145952;LIC MF Short Duration Fund-Regular Plan-Growth;INF767K01PT2;;12.0987;;;29-Aug-2022
+145951;LIC MF Short Duration Fund-Regular Plan-IDCW;INF767K01PU0;INF767K01PV8;12.0987;;;29-Aug-2022
 
 Mahindra Manulife Mutual Fund
 148730;Mahindra Manulife Short Duration Fund - Direct Plan - IDCW;INF174V01AO1;INF174V01AN3;10.6644;;;29-Aug-2022
@@ -4202,10 +4196,10 @@ Kotak Mahindra Mutual Fund
 100299;Kotak Bond Fund - Regular Plan Growth;INF174K01EM0;;62.9221;;;29-Aug-2022
 
 LIC Mutual Fund
-120279;LIC MF Bond Fund-Direct Plan-Growth;INF767K01EW0;;61.6786;;;29-Aug-2022
-120278;LIC MF Bond Fund-Direct Plan-IDCW;INF767K01EV2;INF767K01EX8;14.9026;;;29-Aug-2022
-100315;LIC MF Bond Fund-Regular Plan-Growth;INF767K01923;;58.6316;;;29-Aug-2022
-100314;LIC MF Bond Fund-Regular Plan-IDCW;INF767K01907;INF767K01915;12.8517;;;29-Aug-2022
+120279;LIC MF Medium to Long Duration Bond Fund-Direct Plan-Growth;INF767K01EW0;;61.6786;;;29-Aug-2022
+120278;LIC MF Medium to Long Duration Bond Fund-Direct Plan-IDCW;INF767K01EV2;INF767K01EX8;14.9026;;;29-Aug-2022
+100315;LIC MF Medium to Long Duration Bond Fund-Regular Plan-Growth;INF767K01923;;58.6316;;;29-Aug-2022
+100314;LIC MF Medium to Long Duration Bond Fund-Regular Plan-IDCW;INF767K01907;INF767K01915;12.8517;;;29-Aug-2022
 
 Nippon India Mutual Fund
 100386;NIPPON INDIA INCOME FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;12.7816;;;29-Aug-2022
@@ -4411,7 +4405,7 @@ HSBC Mutual Fund
 120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;10.0171;;;29-Aug-2022
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;27.6608;;;29-Aug-2022
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;28.8520;;;29-Aug-2022
-106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5617;;;29-Aug-2022
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;19.5618;;;29-Aug-2022
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.1883;;;29-Aug-2022
@@ -5870,10 +5864,10 @@ L&T Mutual Fund
 118192;L&T Hybrid Equity Fund- Regular Plan - IDCW;INF917K01KZ1;INF917K01LA2;23.229;;;29-Aug-2022
 
 LIC Mutual Fund
-120261;LIC MF Equity Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;147.8124;;;29-Aug-2022
-120260;LIC MF Equity Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;15.8278;;;29-Aug-2022
-100323;LIC MF Equity Hybrid Fund-Regular Plan-Growth;INF767K01030;;134.2766;;;29-Aug-2022
-100321;LIC MF Equity Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;13.9209;;;29-Aug-2022
+120261;LIC MF Aggressive Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;147.8124;;;29-Aug-2022
+120260;LIC MF Aggressive Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;15.8278;;;29-Aug-2022
+100323;LIC MF Aggressive Hybrid Fund-Regular Plan-Growth;INF767K01030;;134.2766;;;29-Aug-2022
+100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;13.9209;;;29-Aug-2022
 
 Mahindra Manulife Mutual Fund
 147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - IDCW;INF174V01804;INF174V01796;15.7869;;;29-Aug-2022
@@ -6267,8 +6261,8 @@ Edelweiss Mutual Fund
 
 Groww Mutual Fund
 133181;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan - Growth Option;INF666M01AW8;;15.4059;;;29-Aug-2022
-140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;12.1683;;;29-Aug-2022
 140805;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CE2;INF666M01CF9;12.2745;;;29-Aug-2022
+140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Yearly Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;12.1683;;;29-Aug-2022
 133184;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Regular Plan - Growth Option;INF666M01BA2;;14.6925;;;29-Aug-2022
 140801;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AX6;INF666M01AY4;11.3129;;;29-Aug-2022
 140803;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CA0;INF666M01CB8;12.1969;;;29-Aug-2022
@@ -7916,6 +7910,12 @@ Bandhan Mutual Fund
 108595;BANDHAN Flexi Cap Fund - Regular Plan - IDCW;INF194K01409;INF194K01417;39.554;;;29-Aug-2022
 118424;BANDHAN Flexi Cap Fund-Direct Plan-Growth;INF194K01W62;;145.041;;;29-Aug-2022
 118423;BANDHAN Flexi Cap Fund-Direct Plan-IDCW;INF194K01W70;INF194K01W88;42.227;;;29-Aug-2022
+
+Bank of India Mutual Fund
+148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;19.88;;;29-Aug-2022
+148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;17.00;;;29-Aug-2022
+148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;19.16;;;29-Aug-2022
+148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;17.41;;;29-Aug-2022
 
 Baroda BNP Paribas Mutual Fund
 150387;Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option;INF251K01QZ2;;9.8696;;;29-Aug-2022

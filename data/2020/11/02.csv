@@ -12,12 +12,6 @@ Taurus Mutual Fund
 Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
 
 
-Bank of India Mutual Fund
-148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;11.64;;;02-Nov-2020
-148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;11.64;;;02-Nov-2020
-148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;11.56;;;02-Nov-2020
-148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;11.56;;;02-Nov-2020
-
 Baroda BNP Paribas Mutual Fund
 119354;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - Growth Option;INF955L01AG0;;107.24;;;02-Nov-2020
 119353;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option;INF955L01AE5;;28.40;;;02-Nov-2020
@@ -1728,10 +1722,10 @@ L&T Mutual Fund
 118048;L&T Tax Advantage Fund-Regular Plan-IDCW;INF677K01072;INF677K01080;19.543;;;02-Nov-2020
 
 LIC Mutual Fund
-120270;LIC MF Tax Plan-Direct Plan-Growth;INF767K01EM1;;72.6463;;;02-Nov-2020
-120269;LIC MF Tax Plan-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;18.2695;;;02-Nov-2020
-100865;LIC MF Tax Plan-Regular Plan-Growth;INF767K01956;;67.2375;;;02-Nov-2020
-100864;LIC MF Tax Plan-Regular Plan-IDCW;INF767K01931;INF767K01949;16.2291;;;02-Nov-2020
+120270;LIC MF ELSS-Direct Plan-Growth;INF767K01EM1;;72.6463;;;02-Nov-2020
+120269;LIC MF ELSS-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;18.2695;;;02-Nov-2020
+100865;LIC MF ELSS-Regular Plan-Growth;INF767K01956;;67.2375;;;02-Nov-2020
+100864;LIC MF ELSS-Regular Plan-IDCW;INF767K01931;INF767K01949;16.2291;;;02-Nov-2020
 134878;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Direct Plan-IDCW Reinvestment;;INF767K01DR2;19.8336;;;02-Nov-2020
 134865;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Regular Plan-IDCW Reinvestment;;INF767K01998;18.6426;;;02-Nov-2020
 134876;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Monthly)-Direct Plan-IDCW Reinvestment;;INF767K01DQ4;19.8336;;;02-Nov-2020
@@ -2882,14 +2876,14 @@ L&T Mutual Fund
 119851;L&T Ultra Short Term Fund-Direct Plan -Monthly IDCW;INF917K01HU8;INF917K01HT0;13.114;;;02-Nov-2020
 
 LIC Mutual Fund
-147771;LIC MF Ultra Short Term Fund-Direct Plan-Daily IDCW;;INF767K01QP8;1000.76;;;02-Nov-2020
-147772;LIC MF Ultra Short Term Fund-Direct Plan-Growth;INF767K01QU8;;1045.0707;;;02-Nov-2020
-147773;LIC MF Ultra Short Term Fund-Direct Plan-Monthly IDCW;INF767K01QT0;INF767K01QS2;1045.0507;;;02-Nov-2020
-147769;LIC MF Ultra Short Term Fund-Direct Plan-Weekly IDCW;INF767K01QR4;INF767K01QQ6;1013.6686;;;02-Nov-2020
-147766;LIC MF Ultra Short Term Fund-Regular Plan-Daily IDCW;;INF767K01QJ1;1018.4259;;;02-Nov-2020
-147770;LIC MF Ultra Short Term Fund-Regular Plan-Growth;INF767K01QO1;;1042.4887;;;02-Nov-2020
-147768;LIC MF Ultra Short Term Fund-Regular Plan-Monthly IDCW;INF767K01QN3;INF767K01QM5;1042.4725;;;02-Nov-2020
-147767;LIC MF Ultra Short Term Fund-Regular Plan-Weekly IDCW;INF767K01QL7;INF767K01QK9;1014.4646;;;02-Nov-2020
+147771;LIC MF Ultra Short Duration Fund-Direct Plan-Daily IDCW;;INF767K01QP8;1000.76;;;02-Nov-2020
+147772;LIC MF Ultra Short Duration Fund-Direct Plan-Growth;INF767K01QU8;;1045.0707;;;02-Nov-2020
+147773;LIC MF Ultra Short Duration Fund-Direct Plan-Monthly IDCW;INF767K01QT0;INF767K01QS2;1045.0507;;;02-Nov-2020
+147769;LIC MF Ultra Short Duration Fund-Direct Plan-Weekly IDCW;INF767K01QR4;INF767K01QQ6;1013.6686;;;02-Nov-2020
+147766;LIC MF Ultra Short Duration Fund-Regular Plan-Daily IDCW;;INF767K01QJ1;1018.4259;;;02-Nov-2020
+147770;LIC MF Ultra Short Duration Fund-Regular Plan-Growth;INF767K01QO1;;1042.4887;;;02-Nov-2020
+147768;LIC MF Ultra Short Duration Fund-Regular Plan-Monthly IDCW;INF767K01QN3;INF767K01QM5;1042.4725;;;02-Nov-2020
+147767;LIC MF Ultra Short Duration Fund-Regular Plan-Weekly IDCW;INF767K01QL7;INF767K01QK9;1014.4646;;;02-Nov-2020
 
 Mahindra Manulife Mutual Fund
 147733;Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW;;INF174V01895;1005.9216;;;02-Nov-2020
@@ -3199,7 +3193,7 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.9961;;;02-Nov-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.6356;;;02-Nov-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.9495;;;02-Nov-2020
-120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;10.0075;;;02-Nov-2020
+120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;9.8772;;;02-Nov-2020
 104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;9.8191;;;02-Nov-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.6522;;;02-Nov-2020
 
@@ -3849,10 +3843,10 @@ L&T Mutual Fund
 119856;L&T Short Term Bond Fund -Direct Plan- Growth;INF917K01IQ4;;21.398;;;02-Nov-2020
 
 LIC Mutual Fund
-145954;LIC MF Short Term Debt Fund-Direct Plan-Growth;INF767K01PW6;;11.842;;;02-Nov-2020
-145953;LIC MF Short Term Debt Fund-Direct Plan-IDCW;INF767K01PX4;INF767K01PY2;11.842;;;02-Nov-2020
-145952;LIC MF Short Term Debt Fund-Regular Plan-Growth;INF767K01PT2;;11.6253;;;02-Nov-2020
-145951;LIC MF Short Term Debt Fund-Regular Plan-IDCW;INF767K01PU0;INF767K01PV8;11.6253;;;02-Nov-2020
+145954;LIC MF Short Duration Fund-Direct Plan-Growth;INF767K01PW6;;11.842;;;02-Nov-2020
+145953;LIC MF Short Duration Fund-Direct Plan-IDCW;INF767K01PX4;INF767K01PY2;11.842;;;02-Nov-2020
+145952;LIC MF Short Duration Fund-Regular Plan-Growth;INF767K01PT2;;11.6253;;;02-Nov-2020
+145951;LIC MF Short Duration Fund-Regular Plan-IDCW;INF767K01PU0;INF767K01PV8;11.6253;;;02-Nov-2020
 
 Mirae Asset Mutual Fund
 142641;Mirae Asset Short Term Fund -Direct Plan- Growth;INF769K01DX6;;12.5190;;;02-Nov-2020
@@ -4240,10 +4234,10 @@ Kotak Mahindra Mutual Fund
 100298;Kotak Bond Regular Plan Quaterly Payout of Income Distribution cum capital withdrawal option;INF174K01EO6;INF174K01EN8;12.8051;;;02-Nov-2020
 
 LIC Mutual Fund
-120279;LIC MF Bond Fund-Direct Plan-Growth;INF767K01EW0;;59.3097;;;02-Nov-2020
-120278;LIC MF Bond Fund-Direct Plan-IDCW;INF767K01EV2;INF767K01EX8;14.3346;;;02-Nov-2020
-100315;LIC MF Bond Fund-Regular Plan-Growth;INF767K01923;;56.7544;;;02-Nov-2020
-100314;LIC MF Bond Fund-Regular Plan-IDCW;INF767K01907;INF767K01915;12.4402;;;02-Nov-2020
+120279;LIC MF Medium to Long Duration Bond Fund-Direct Plan-Growth;INF767K01EW0;;59.3097;;;02-Nov-2020
+120278;LIC MF Medium to Long Duration Bond Fund-Direct Plan-IDCW;INF767K01EV2;INF767K01EX8;14.3346;;;02-Nov-2020
+100315;LIC MF Medium to Long Duration Bond Fund-Regular Plan-Growth;INF767K01923;;56.7544;;;02-Nov-2020
+100314;LIC MF Medium to Long Duration Bond Fund-Regular Plan-IDCW;INF767K01907;INF767K01915;12.4402;;;02-Nov-2020
 
 Nippon India Mutual Fund
 100386;NIPPON INDIA INCOME FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;13.4307;;;02-Nov-2020
@@ -4450,10 +4444,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;29.8758;;;02-Nov-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1538;;;02-Nov-2020
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.2904;;;02-Nov-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;27.0992;;;02-Nov-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;28.1384;;;02-Nov-2020
-110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;14.1432;;;02-Nov-2020
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5862;;;02-Nov-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.0691;;;02-Nov-2020
@@ -4693,7 +4687,7 @@ HSBC Mutual Fund
 148492;HSBC Dynamic Bond Fund - Direct Growth;INF336L01PH9;;10.0915;;;02-Nov-2020
 148493;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01PL1;INF336L01PK3;10.0608;;;02-Nov-2020
 148496;HSBC Dynamic Bond Fund - Regular Growth;INF336L01PO5;;10.0876;;;02-Nov-2020
-148498;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PT4;INF336L01PU2;10.0876;;;02-Nov-2020
+148497;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PS6;INF336L01PR8;10.0569;;;02-Nov-2020
 
 ICICI Prudential Mutual Fund
 111988;ICICI Prudential Corporate Bond Fund - Daily IDCW;INF109K01CR9;;10.1517;;;02-Nov-2020
@@ -5934,10 +5928,10 @@ L&T Mutual Fund
 118192;L&T Hybrid Equity Fund- Regular Plan - IDCW;INF917K01KZ1;INF917K01LA2;20.031;;;02-Nov-2020
 
 LIC Mutual Fund
-120261;LIC MF Equity Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;114.8302;;;02-Nov-2020
-120260;LIC MF Equity Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;14.0939;;;02-Nov-2020
-100323;LIC MF Equity Hybrid Fund-Regular Plan-Growth;INF767K01030;;106.6003;;;02-Nov-2020
-100321;LIC MF Equity Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;12.7677;;;02-Nov-2020
+120261;LIC MF Aggressive Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;114.8302;;;02-Nov-2020
+120260;LIC MF Aggressive Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;14.0939;;;02-Nov-2020
+100323;LIC MF Aggressive Hybrid Fund-Regular Plan-Growth;INF767K01030;;106.6003;;;02-Nov-2020
+100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;12.7677;;;02-Nov-2020
 
 Mahindra Manulife Mutual Fund
 147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - IDCW;INF174V01804;INF174V01796;11.4745;;;02-Nov-2020
@@ -6119,10 +6113,10 @@ ICICI Prudential Mutual Fund
 131450;ICICI Prudential Balanced Advantage Fund - Quarterly IDCW;INF109KA1Y35;INF109KA1Y27;13.82;;;02-Nov-2020
 
 Invesco Mutual Fund
-120333;Invesco India Dynamic Equity Fund - Direct Plan - Growth;INF205K01LN5;;33.85;;;02-Nov-2020
-120332;Invesco India Dynamic Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;17.92;;;02-Nov-2020
-106317;Invesco India Dynamic Equity Fund - Growth;INF205K01213;;30.41;;;02-Nov-2020
-106316;Invesco India Dynamic Equity Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;16.46;;;02-Nov-2020
+120333;Invesco India Balanced Advantage Fund - Direct Plan - Growth;INF205K01LN5;;33.85;;;02-Nov-2020
+120332;Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;17.92;;;02-Nov-2020
+106317;Invesco India Balanced Advantage Fund - Growth;INF205K01213;;30.41;;;02-Nov-2020
+106316;Invesco India Balanced Advantage Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;16.46;;;02-Nov-2020
 
 ITI Mutual Fund
 147789;ITI Balanced Advantage Fund - Direct Plan - Growth Option;INF00XX01689;;8.7095;;;02-Nov-2020
@@ -6328,8 +6322,8 @@ Edelweiss Mutual Fund
 
 Groww Mutual Fund
 133181;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan - Growth Option;INF666M01AW8;;14.6284;;;02-Nov-2020
-140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;11.5554;;;02-Nov-2020
 140805;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CE2;INF666M01CF9;11.6517;;;02-Nov-2020
+140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Yearly Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;11.5554;;;02-Nov-2020
 133184;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Regular Plan - Growth Option;INF666M01BA2;;14.1301;;;02-Nov-2020
 140801;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AX6;INF666M01AY4;10.742;;;02-Nov-2020
 140803;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CA0;INF666M01CB8;11.577;;;02-Nov-2020
@@ -7112,9 +7106,9 @@ Groww Mutual Fund
 147113;Groww Nifty50 Exchange Traded Fund (formerly known as Indiabulls Nifty50 Exchange Traded) Fund;INF666M01FS5;;120.0934;;;02-Nov-2020
 
 HDFC Mutual Fund
-135853;HDFC NIFTY 50 Exchange Traded Fund - Growth Plan;INF179KC1965;;1232.92;;;02-Nov-2020
-148461;HDFC NIFTY Banking Exchange Traded Fund - GROWTH;INF179KC1AN8;;248.91;;;02-Nov-2020
-135854;HDFC S&P BSE Sensex Exchange Traded Fund - Growth Plan;INF179KC1973;;4228.66;;;02-Nov-2020
+135853;HDFC NIFTY 50 ETF - Growth Plan;INF179KC1965;;1232.92;;;02-Nov-2020
+148461;HDFC NIFTY Bank ETF - GROWTH;INF179KC1AN8;;248.91;;;02-Nov-2020
+135854;HDFC S&P BSE Sensex ETF - Growth Plan;INF179KC1973;;4228.66;;;02-Nov-2020
 
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;24.9297;;;02-Nov-2020
@@ -7584,6 +7578,12 @@ Bandhan Mutual Fund
 108595;BANDHAN Flexi Cap Fund - Regular Plan - IDCW;INF194K01409;INF194K01417;29.03;;;02-Nov-2020
 118424;BANDHAN Flexi Cap Fund-Direct Plan-Growth;INF194K01W62;;95.05;;;02-Nov-2020
 118423;BANDHAN Flexi Cap Fund-Direct Plan-IDCW;INF194K01W70;INF194K01W88;30.60;;;02-Nov-2020
+
+Bank of India Mutual Fund
+148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;11.64;;;02-Nov-2020
+148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;11.64;;;02-Nov-2020
+148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;11.56;;;02-Nov-2020
+148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;11.56;;;02-Nov-2020
 
 Canara Robeco Mutual Fund
 118275;CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION;INF760K01EF0;;156.8600;;;02-Nov-2020

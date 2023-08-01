@@ -12,12 +12,6 @@ Taurus Mutual Fund
 Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
 
 
-Bank of India Mutual Fund
-148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;15.19;;;01-Apr-2021
-148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;14.05;;;01-Apr-2021
-148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;14.97;;;01-Apr-2021
-148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;14.46;;;01-Apr-2021
-
 Baroda BNP Paribas Mutual Fund
 119354;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - Growth Option;INF955L01AG0;;142.16;;;01-Apr-2021
 119353;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option;INF955L01AE5;;34.80;;;01-Apr-2021
@@ -1794,10 +1788,10 @@ L&T Mutual Fund
 118048;L&T Tax Advantage Fund-Regular Plan-IDCW;INF677K01072;INF677K01080;22.697;;;01-Apr-2021
 
 LIC Mutual Fund
-120270;LIC MF Tax Plan-Direct Plan-Growth;INF767K01EM1;;89.1051;;;01-Apr-2021
-120269;LIC MF Tax Plan-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;21.8924;;;01-Apr-2021
-100865;LIC MF Tax Plan-Regular Plan-Growth;INF767K01956;;82.0518;;;01-Apr-2021
-100864;LIC MF Tax Plan-Regular Plan-IDCW;INF767K01931;INF767K01949;19.2914;;;01-Apr-2021
+120270;LIC MF ELSS-Direct Plan-Growth;INF767K01EM1;;89.1051;;;01-Apr-2021
+120269;LIC MF ELSS-Direct Plan-IDCW;INF767K01EL3;INF767K01EN9;21.8924;;;01-Apr-2021
+100865;LIC MF ELSS-Regular Plan-Growth;INF767K01956;;82.0518;;;01-Apr-2021
+100864;LIC MF ELSS-Regular Plan-IDCW;INF767K01931;INF767K01949;19.2914;;;01-Apr-2021
 134878;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Direct Plan-IDCW Reinvestment;;INF767K01DR2;24.0145;;;01-Apr-2021
 134865;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Half-Yearly)-Regular Plan-IDCW Reinvestment;;INF767K01998;22.494;;;01-Apr-2021
 134876;LIC MF ULIS (10 Yrs. Regular Premium Reducing Cover Monthly)-Direct Plan-IDCW Reinvestment;;INF767K01DQ4;24.0145;;;01-Apr-2021
@@ -2665,10 +2659,10 @@ L&T Mutual Fund
 118192;L&T Hybrid Equity Fund- Regular Plan - IDCW;INF917K01KZ1;INF917K01LA2;23.09;;;01-Apr-2021
 
 LIC Mutual Fund
-120261;LIC MF Equity Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;133.2201;;;01-Apr-2021
-120260;LIC MF Equity Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;15.8331;;;01-Apr-2021
-100323;LIC MF Equity Hybrid Fund-Regular Plan-Growth;INF767K01030;;123.0714;;;01-Apr-2021
-100321;LIC MF Equity Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;14.2243;;;01-Apr-2021
+120261;LIC MF Aggressive Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;133.2201;;;01-Apr-2021
+120260;LIC MF Aggressive Hybrid Fund-Direct Plan-IDCW;INF767K01EC2;INF767K01EE8;15.8331;;;01-Apr-2021
+100323;LIC MF Aggressive Hybrid Fund-Regular Plan-Growth;INF767K01030;;123.0714;;;01-Apr-2021
+100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;14.2243;;;01-Apr-2021
 
 Mahindra Manulife Mutual Fund
 147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - IDCW;INF174V01804;INF174V01796;13.9097;;;01-Apr-2021
@@ -2852,10 +2846,10 @@ ICICI Prudential Mutual Fund
 131450;ICICI Prudential Balanced Advantage Fund - Quarterly IDCW;INF109KA1Y35;INF109KA1Y27;15.57;;;01-Apr-2021
 
 Invesco Mutual Fund
-120333;Invesco India Dynamic Equity Fund - Direct Plan - Growth;INF205K01LN5;;37.22;;;01-Apr-2021
-120332;Invesco India Dynamic Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;19.3;;;01-Apr-2021
-106317;Invesco India Dynamic Equity Fund - Growth;INF205K01213;;33.26;;;01-Apr-2021
-106316;Invesco India Dynamic Equity Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;17.59;;;01-Apr-2021
+120333;Invesco India Balanced Advantage Fund - Direct Plan - Growth;INF205K01LN5;;37.22;;;01-Apr-2021
+120332;Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;19.3;;;01-Apr-2021
+106317;Invesco India Balanced Advantage Fund - Growth;INF205K01213;;33.26;;;01-Apr-2021
+106316;Invesco India Balanced Advantage Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;17.59;;;01-Apr-2021
 
 ITI Mutual Fund
 147789;ITI Balanced Advantage Fund - Direct Plan - Growth Option;INF00XX01689;;9.7230;;;01-Apr-2021
@@ -3048,8 +3042,8 @@ Edelweiss Mutual Fund
 
 Groww Mutual Fund
 133181;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan - Growth Option;INF666M01AW8;;14.7717;;;01-Apr-2021
-140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;11.6687;;;01-Apr-2021
 140805;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CE2;INF666M01CF9;11.7662;;;01-Apr-2021
+140807;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan- Yearly Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CC6;INF666M01CD4;11.6687;;;01-Apr-2021
 133184;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Regular Plan - Growth Option;INF666M01BA2;;14.2274;;;01-Apr-2021
 140801;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AX6;INF666M01AY4;10.8472;;;01-Apr-2021
 140803;Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01CA0;INF666M01CB8;11.6903;;;01-Apr-2021
@@ -3794,9 +3788,9 @@ Groww Mutual Fund
 147113;Groww Nifty50 Exchange Traded Fund (formerly known as Indiabulls Nifty50 Exchange Traded) Fund;INF666M01FS5;;152.9916;;;01-Apr-2021
 
 HDFC Mutual Fund
-135853;HDFC NIFTY 50 Exchange Traded Fund - Growth Plan;INF179KC1965;;157.48;;;01-Apr-2021
-148461;HDFC NIFTY Banking Exchange Traded Fund - GROWTH;INF179KC1AN8;;338.09;;;01-Apr-2021
-135854;HDFC S&P BSE Sensex Exchange Traded Fund - Growth Plan;INF179KC1973;;532.83;;;01-Apr-2021
+135853;HDFC NIFTY 50 ETF - Growth Plan;INF179KC1965;;157.48;;;01-Apr-2021
+148461;HDFC NIFTY Bank ETF - GROWTH;INF179KC1AN8;;338.09;;;01-Apr-2021
+135854;HDFC S&P BSE Sensex ETF - Growth Plan;INF179KC1973;;532.83;;;01-Apr-2021
 
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;36.6619;;;01-Apr-2021
@@ -4104,6 +4098,12 @@ Bandhan Mutual Fund
 108595;BANDHAN Flexi Cap Fund - Regular Plan - IDCW;INF194K01409;INF194K01417;36.53;;;01-Apr-2021
 118424;BANDHAN Flexi Cap Fund-Direct Plan-Growth;INF194K01W62;;119.93;;;01-Apr-2021
 118423;BANDHAN Flexi Cap Fund-Direct Plan-IDCW;INF194K01W70;INF194K01W88;38.61;;;01-Apr-2021
+
+Bank of India Mutual Fund
+148404;BANK OF INDIA Flexi Cap Fund Direct Plan -Growth;INF761K01FF5;;15.19;;;01-Apr-2021
+148406;BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW;INF761K01FE8;INF761K01FG3;14.05;;;01-Apr-2021
+148405;BANK OF INDIA Flexi Cap Fund Regular Plan -Growth;INF761K01FI9;;14.97;;;01-Apr-2021
+148407;BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW;INF761K01FH1;INF761K01FJ7;14.46;;;01-Apr-2021
 
 Canara Robeco Mutual Fund
 118275;CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION;INF760K01EF0;;197.2700;;;01-Apr-2021
