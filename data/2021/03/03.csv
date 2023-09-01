@@ -1163,10 +1163,10 @@ Aditya Birla Sun Life Mutual Fund
 103475;Aditya Birla Sun Life Infrastructure Fund -  Regular - IDCW;INF209K01470;INF209K01CT3;16.57;;;03-Mar-2021
 119514;Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan;INF209K01WH6;;43.71;;;03-Mar-2021
 103476;Aditya Birla Sun Life Infrastructure Fund-Growth;INF209K01504;;41.13;;;03-Mar-2021
-119516;Aditya Birla Sun Life International Equity Fund - Plan A - Direct - IDCW;INF209K01Q89;INF209K01WT1;28.6831;;;03-Mar-2021
-119517;Aditya Birla Sun Life International Equity Fund - Plan A - Growth - Direct Plan;INF209K01WS3;;28.6662;;;03-Mar-2021
-106873;Aditya Birla Sun Life International Equity Fund - Plan A - Growth - Regular Plan;INF209K01520;;27.4156;;;03-Mar-2021
-106872;Aditya Birla Sun Life International Equity Fund - Plan A - Regular - IDCW;INF209K01512;INF209K01CV9;17.4595;;;03-Mar-2021
+119516;Aditya Birla Sun Life International Equity Fund - Direct - IDCW;INF209K01Q89;INF209K01WT1;28.6831;;;03-Mar-2021
+119517;Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan;INF209K01WS3;;28.6662;;;03-Mar-2021
+106873;Aditya Birla Sun Life International Equity Fund - Growth - Regular Plan;INF209K01520;;27.4156;;;03-Mar-2021
+106872;Aditya Birla Sun Life International Equity Fund - Regular - IDCW;INF209K01512;INF209K01CV9;17.4595;;;03-Mar-2021
 119519;Aditya Birla Sun Life International Equity Fund - Plan B - Direct - IDCW;INF209K01Q97;INF209K01WV7;20.2369;;;03-Mar-2021
 119518;Aditya Birla Sun Life International Equity Fund - Plan B - Growth - Direct Plan;INF209K01WU9;;25.0374;;;03-Mar-2021
 106876;Aditya Birla Sun Life International Equity Fund - Plan B - Growth - Regular Plan;INF209K01546;;24.0558;;;03-Mar-2021
@@ -2278,10 +2278,10 @@ Bank of India Mutual Fund
 Baroda BNP Paribas Mutual Fund
 119414;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION;INF955L01AK2;;1002.0849;;;03-Mar-2021
 119415;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION;INF955L01AL0;;2362.8097;;;03-Mar-2021
-119416;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION;INF955L01AN6;;1218.5847;;;03-Mar-2021
+119416;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION;INF251K01SL8;;1218.5847;;;03-Mar-2021
 111707;Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION;INF955L01468;INF955L01476;1001.1996;;;03-Mar-2021
 111704;Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION;INF955L01484;;2344.3972;;;03-Mar-2021
-111705;Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION;INF955L01492;INF955L01500;1000.2236;;;03-Mar-2021
+111705;Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION;INF251K01SK0;INF955L01500;1000.2236;;;03-Mar-2021
 101408;Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option;INF955L01575;;3449.7708;;;03-Mar-2021
 101407;Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option;INF955L01559;INF955L01567;2955.6397;;;03-Mar-2021
 101409;Baroda BNP Paribas LIQUID FUND-Defunct Plan-Daily IDCW Option;INF955L01518;INF955L01526;1006.0602;;;03-Mar-2021
@@ -2368,7 +2368,7 @@ Franklin Templeton Mutual Fund
 Groww Mutual Fund
 119135;Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option;INF666M01451;;2001.6655;;;03-Mar-2021
 119136;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1001.06;;;03-Mar-2021
-115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Growth Option;INF666M01014;;1985.7075;;;03-Mar-2021
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option;INF666M01014;;1985.7075;;;03-Mar-2021
 119138;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01501;INF666M01485;1000.9658;;;03-Mar-2021
 119139;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1029.5063;;;03-Mar-2021
 119137;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01527;INF666M01477;1000.6768;;;03-Mar-2021
@@ -3286,14 +3286,14 @@ L&T Mutual Fund
 118134;L&T Low Duration Fund-Regular Plan - IDCW;INF677K01460;INF677K01478;10.5278;;;03-Mar-2021
 
 LIC Mutual Fund
-120316;LIC MF Savings Fund-Direct Plan-Daily IDCW;INF767K01FL0;INF767K01FN6;10.1;;;03-Mar-2021
-120315;LIC MF Savings Fund-Direct Plan-Growth;INF767K01FM8;;32.9996;;;03-Mar-2021
-120317;LIC MF Savings Fund-Direct Plan-Monthly IDCW;INF767K01FP1;INF767K01FO4;17.2429;;;03-Mar-2021
-120318;LIC MF Savings Fund-Direct Plan-Weekly IDCW;INF767K01JJ6;INF767K01JK4;11.5012;;;03-Mar-2021
-111676;LIC MF Savings Fund-Regular Plan-Daily IDCW;INF767K01AK3;INF767K01AL1;10.4547;;;03-Mar-2021
-101830;LIC MF Savings Fund-Regular Plan-Growth;INF767K01AO5;;31.253;;;03-Mar-2021
-101829;LIC MF Savings Fund-Regular Plan-Monthly IDCW;INF767K01AM9;INF767K01AN7;10.8341;;;03-Mar-2021
-111675;LIC MF Savings Fund-Regular Plan-Weekly IDCW;INF767K01AP2;INF767K01AQ0;10.8091;;;03-Mar-2021
+120316;LIC MF Low Duration Fund-Direct Plan-Daily IDCW;INF767K01FL0;INF767K01FN6;10.1;;;03-Mar-2021
+120315;LIC MF Low Duration Fund-Direct Plan-Growth;INF767K01FM8;;32.9996;;;03-Mar-2021
+120317;LIC MF Low Duration Fund-Direct Plan-Monthly IDCW;INF767K01FP1;INF767K01FO4;17.2429;;;03-Mar-2021
+120318;LIC MF Low Duration Fund-Direct Plan-Weekly IDCW;INF767K01JJ6;INF767K01JK4;11.5012;;;03-Mar-2021
+111676;LIC MF Low Duration Fund-Regular Plan-Daily IDCW;INF767K01AK3;INF767K01AL1;10.4547;;;03-Mar-2021
+101830;LIC MF Low Duration Fund-Regular Plan-Growth;INF767K01AO5;;31.253;;;03-Mar-2021
+101829;LIC MF Low Duration Fund-Regular Plan-Monthly IDCW;INF767K01AM9;INF767K01AN7;10.8341;;;03-Mar-2021
+111675;LIC MF Low Duration Fund-Regular Plan-Weekly IDCW;INF767K01AP2;INF767K01AQ0;10.8091;;;03-Mar-2021
 
 Mahindra Manulife Mutual Fund
 140617;Mahindra Manulife Low Duration Fund - Direct Plan - Daily IDCW;;INF174V01275;1029.3785;;;03-Mar-2021
@@ -5425,12 +5425,12 @@ L&T Mutual Fund
 112428;L&T Gilt Fund - Regular Plan - Quarterly IDCW;INF917K01BN6;INF917K01BO4;12.0089;;;03-Mar-2021
 
 LIC Mutual Fund
-120282;LIC MF Government Securities Fund-Direct Plan-Growth;INF767K01EZ3;;50.824;;;03-Mar-2021
-120283;LIC MF Government Securities Fund-Direct Plan-IDCW;INF767K01EY6;INF767K01FA3;14.6555;;;03-Mar-2021
-100319;LIC MF Government Securities Fund-PF Plan-Growth;INF767K01733;;27.4885;;;03-Mar-2021
-100318;LIC MF Government Securities Fund-PF Plan-IDCW;INF767K01717;INF767K01725;17.7879;;;03-Mar-2021
-100317;LIC MF Government Securities Fund-Regular Plan-Growth;INF767K01709;;47.5942;;;03-Mar-2021
-100316;LIC MF Government Securities Fund-Regular Plan-IDCW;INF767K01683;INF767K01691;13.719;;;03-Mar-2021
+120282;LIC MF Gilt Fund-Direct Plan-Growth;INF767K01EZ3;;50.824;;;03-Mar-2021
+120283;LIC MF Gilt Fund-Direct Plan-IDCW;INF767K01EY6;INF767K01FA3;14.6555;;;03-Mar-2021
+100319;LIC MF Gilt Fund-PF Plan-Growth;INF767K01733;;27.4885;;;03-Mar-2021
+100318;LIC MF Gilt Fund-PF Plan-IDCW;INF767K01717;INF767K01725;17.7879;;;03-Mar-2021
+100317;LIC MF Gilt Fund-Regular Plan-Growth;INF767K01709;;47.5942;;;03-Mar-2021
+100316;LIC MF Gilt Fund-Regular Plan-IDCW;INF767K01683;INF767K01691;13.719;;;03-Mar-2021
 
 Nippon India Mutual Fund
 118670;NIPPON INDIA GILT SECURITIES FUND - Direct Plan - MONTHLY IDCW Option;INF204K01XQ6;INF204K01XR4;11.3128;;;03-Mar-2021
@@ -5743,14 +5743,14 @@ L&T Mutual Fund
 112489;L&T Conservative Hybrid Fund -Regular Plan -Quarterly IDCW;INF917K01064;INF917K01072;11.2433;;;03-Mar-2021
 
 LIC Mutual Fund
-120276;LIC MF Debt Hybrid Fund-Direct Plan-Growth;INF767K01EO7;;67.5797;;;03-Mar-2021
-120277;LIC MF Debt Hybrid Fund-Direct Plan-Monthly IDCW;INF767K01EP4;INF767K01ES8;11.2726;;;03-Mar-2021
-120274;LIC MF Debt Hybrid Fund-Direct Plan-Quarterly IDCW;INF767K01EQ2;INF767K01ET6;13.6528;;;03-Mar-2021
-120275;LIC MF Debt Hybrid Fund-Direct Plan-Yearly IDCW;INF767K01ER0;INF767K01EU4;13.5506;;;03-Mar-2021
-101869;LIC MF Debt Hybrid Fund-Regular Plan-Growth;INF767K01808;;63.4634;;;03-Mar-2021
-101866;LIC MF Debt Hybrid Fund-Regular Plan-Monthly IDCW;INF767K01816;INF767K01824;11.5881;;;03-Mar-2021
-101867;LIC MF Debt Hybrid Fund-Regular Plan-Quarterly IDCW;INF767K01832;INF767K01840;11.8301;;;03-Mar-2021
-101868;LIC MF Debt Hybrid Fund-Regular Plan-Yearly IDCW;INF767K01857;INF767K01865;12.7898;;;03-Mar-2021
+120276;LIC MF Conservative Hybrid Fund-Direct Plan-Growth;INF767K01EO7;;67.5797;;;03-Mar-2021
+120277;LIC MF Conservative Hybrid Fund-Direct Plan-Monthly IDCW;INF767K01EP4;INF767K01ES8;11.2726;;;03-Mar-2021
+120274;LIC MF Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF767K01EQ2;INF767K01ET6;13.6528;;;03-Mar-2021
+120275;LIC MF Conservative Hybrid Fund-Direct Plan-Yearly IDCW;INF767K01ER0;INF767K01EU4;13.5506;;;03-Mar-2021
+101869;LIC MF Conservative Hybrid Fund-Regular Plan-Growth;INF767K01808;;63.4634;;;03-Mar-2021
+101866;LIC MF Conservative Hybrid Fund-Regular Plan-Monthly IDCW;INF767K01816;INF767K01824;11.5881;;;03-Mar-2021
+101867;LIC MF Conservative Hybrid Fund-Regular Plan-Quarterly IDCW;INF767K01832;INF767K01840;11.8301;;;03-Mar-2021
+101868;LIC MF Conservative Hybrid Fund-Regular Plan-Yearly IDCW;INF767K01857;INF767K01865;12.7898;;;03-Mar-2021
 
 Navi Mutual Fund
 119157;Navi Regular Savings Fund - Direct Plan Monthly IDCW;INF959L01684;INF959L01692;11.306;;;03-Mar-2021
@@ -6066,10 +6066,10 @@ SBI Mutual Fund
 102885;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;INF200K01107;;177.0025;;;03-Mar-2021
 
 Shriram Mutual Fund
-125711;Shriram Hybrid Equity Fund- Direct Growth;INF680P01042;;22.1390;;;03-Mar-2021
-125712;Shriram Hybrid Equity Fund- Direct- IDCW;INF680P01059;INF680P01067;17.5658;;;03-Mar-2021
-125713;Shriram Hybrid Equity Fund- Growth;INF680P01018;;20.7323;;;03-Mar-2021
-125714;Shriram Hybrid Equity Fund- Regular-IDCW;INF680P01026;INF680P01034;16.5734;;;03-Mar-2021
+125711;Shriram Aggressive Hybrid Fund- Direct Growth;INF680P01042;;22.1390;;;03-Mar-2021
+125712;Shriram Aggressive Hybrid Fund- Direct- IDCW;INF680P01059;INF680P01067;17.5658;;;03-Mar-2021
+125713;Shriram Aggressive Hybrid Fund- Regular Growth;INF680P01018;;20.7323;;;03-Mar-2021
+125714;Shriram Aggressive Hybrid Fund- Regular-IDCW;INF680P01026;INF680P01034;16.5734;;;03-Mar-2021
 
 Tata Mutual Fund
 119053;Tata Hybrid Equity Fund -Direct Plan- Growth Option;INF277K01MN2;;288.1958;;;03-Mar-2021
@@ -6189,12 +6189,12 @@ L&T Mutual Fund
 118193;L&T Balanced Advantage Fund-Regular Plan-IDCW;INF917K01KW8;INF917K01KX6;17.88;;;03-Mar-2021
 
 Motilal Oswal Mutual Fund
-139872;Motilal Oswal Balance Advantage Fund  (MOFDYNAMIC) - Direct Plan - Growth Option;INF247L01635;;15.5379;;;03-Mar-2021
-139863;Motilal Oswal Balance Advantage Fund (MOFDYNAMIC) - Regular Plan - Annual Dividend Payout Option;INF247L01601;INF247L01627;13.8958;;;03-Mar-2021
-139870;Motilal Oswal Balance Advantage Fund (MOFDYNAMIC) - Regular Plan - Growth Option;INF247L01585;;14.7725;;;03-Mar-2021
-139866;Motilal Oswal Balance Advantage Fund Direct - Annual IDCW Payout/Reinvestment;INF247L01650;INF247L01676;14.2646;;;03-Mar-2021
-139865;Motilal Oswal Balance Advantage Fund Direct - Quarterly IDCW Payout/Reinvestment;INF247L01643;INF247L01668;12.1084;;;03-Mar-2021
-139871;Motilal Oswal Balance Advantage Fund Regular - Quarterly IDCW Payout/Reinvestment;INF247L01593;INF247L01619;11.9900;;;03-Mar-2021
+139872;Motilal Oswal Balanced Advantage Fund  (MOFDYNAMIC) - Direct Plan - Growth Option;INF247L01635;;15.5379;;;03-Mar-2021
+139863;Motilal Oswal Balanced Advantage Fund (MOFDYNAMIC) - Regular Plan - Annual Dividend Payout Option;INF247L01601;INF247L01627;13.8958;;;03-Mar-2021
+139870;Motilal Oswal Balanced Advantage Fund (MOFDYNAMIC) - Regular Plan - Growth Option;INF247L01585;;14.7725;;;03-Mar-2021
+139866;Motilal Oswal Balanced Advantage Fund Direct - Annual IDCW Payout/Reinvestment;INF247L01650;INF247L01676;14.2646;;;03-Mar-2021
+139865;Motilal Oswal Balanced Advantage Fund Direct - Quarterly IDCW Payout/Reinvestment;INF247L01643;INF247L01668;12.1084;;;03-Mar-2021
+139871;Motilal Oswal Balanced Advantage Fund Regular - Quarterly IDCW Payout/Reinvestment;INF247L01593;INF247L01619;11.9900;;;03-Mar-2021
 
 PGIM India Mutual Fund
 148658;PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option;INF663L01V49;;10.25;;;03-Mar-2021
