@@ -353,10 +353,10 @@ Union Mutual Fund
 141250;Union Largecap Fund - Regular Plan - IDCW Option;INF582M01CR3;INF582M01CS1;11.05;;;31-Aug-2018
 
 UTI Mutual Fund
-100651;UTI - Master Share-Growth Option;INF789F01976;;126.497;;;31-Aug-2018
-120656;UTI - Master Share-Growth Option - Direct;INF789F01US8;;130.5384;;;31-Aug-2018
-120657;UTI Mastershare Unit Scheme - Direct Plan - IDCW;INF789F01UQ2;INF789F01UR0;38.0476;;;31-Aug-2018
-100650;UTI Mastershare Unit Scheme - Regular Plan - IDCW;INF189A01038;INF789F01950;36.6024;;;31-Aug-2018
+120656;UTI Large Cap Fund - Direct Plan - Growth Option;INF789F01US8;;130.5384;;;31-Aug-2018
+120657;UTI Large Cap Fund - Direct Plan - IDCW;INF789F01UQ2;INF789F01UR0;38.0476;;;31-Aug-2018
+100651;UTI Large Cap Fund - Regular Plan - Growth Option;INF789F01976;;126.497;;;31-Aug-2018
+100650;UTI Large Cap Fund - Regular Plan - IDCW;INF189A01038;INF789F01950;36.6024;;;31-Aug-2018
 
 Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
@@ -502,10 +502,10 @@ Tata Mutual Fund
 101824;Tata Large & Mid Cap Fund- Regular Plan - Growth Option;INF277K01428;;199.9770;;;31-Aug-2018
 
 UTI Mutual Fund
-120665;UTI - Core Equity Fund - Direct Plan - Growth Option;INF789F01UG3;;67.2969;;;31-Aug-2018
-100664;UTI - Core Equity Fund - Regular Plan - Growth Option;INF789F01869;;65.6523;;;31-Aug-2018
-120664;UTI Core Equity Fund - Direct Plan - IDCW;INF789F01UE8;INF789F01UF5;35.8772;;;31-Aug-2018
-100663;UTI Core Equity Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;34.8243;;;31-Aug-2018
+120665;UTI Large & Mid Cap Fund - Direct Plan - Growth Option;INF789F01UG3;;67.2969;;;31-Aug-2018
+120664;UTI Large & Mid Cap Fund - Direct Plan - IDCW;INF789F01UE8;INF789F01UF5;35.8772;;;31-Aug-2018
+100664;UTI Large & Mid Cap Fund - Regular Plan - Growth Option;INF789F01869;;65.6523;;;31-Aug-2018
+100663;UTI Large & Mid Cap Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;34.8243;;;31-Aug-2018
 
 Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
@@ -868,10 +868,10 @@ Tata Mutual Fund
 119232;Tata Equity P/E Fund- Direct Plan -Payout of IDCW-Option A(5%);INF277K01MZ6;INF277K01NA7;64.5435;;;31-Aug-2018
 
 UTI Mutual Fund
-120752;UTI Value Opportunities Fund - Direct Plan - IDCW;INF789F01UZ3;INF789F01VA4;23.107;;;31-Aug-2018
-103097;UTI Value Opportunities Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;19.9694;;;31-Aug-2018
-120751;UTI Value Opportunities Fund- Direct Plan - Growth Option;INF789F01VB2;;67.1773;;;31-Aug-2018
-103098;UTI Value Opportunities Fund- Regular Plan - Growth Option;INF789F01AG5;;64.3851;;;31-Aug-2018
+120751;UTI Value Fund - Direct Plan - Growth Option;INF789F01VB2;;67.1773;;;31-Aug-2018
+120752;UTI Value Fund - Direct Plan - IDCW;INF789F01UZ3;INF789F01VA4;23.107;;;31-Aug-2018
+103098;UTI Value Fund - Regular Plan - Growth Option;INF789F01AG5;;64.3851;;;31-Aug-2018
+103097;UTI Value Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;19.9694;;;31-Aug-2018
 
 Open Ended Schemes ( Equity Scheme - Contra Fund )
 
@@ -1476,14 +1476,14 @@ Groww Mutual Fund
 141862;Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)-Regular Plan-Growth Option;INF666M01DN1;;10.01;;;31-Aug-2018
 
 HDFC Mutual Fund
+119060;HDFC ELSS Tax saver - Growth Option - Direct Plan;INF179K01YS4;;558.9650;;;31-Aug-2018
+101979;HDFC ELSS Tax saver - Growth Plan;INF179K01BB8;;539.5010;;;31-Aug-2018
+119059;HDFC ELSS Tax saver - IDCW Option - Direct Plan;INF179K01YQ8;INF179K01YR6;65.4340;;;31-Aug-2018
+101980;HDFC ELSS Tax saver - IDCW Plan;INF179K01AZ9;INF179K01BA0;62.3560;;;31-Aug-2018
 118929;HDFC Long Term Advantage Plan - Growth Option - Direct Plan;INF179K01WX8;;372.0860;;;31-Aug-2018
 100998;HDFC Long Term Advantage Plan - Growth Plan;INF179K01996;;359.7140;;;31-Aug-2018
 118928;HDFC Long Term Advantage Plan - IDCW Option - Direct Plan;INF179K01WV2;INF179K01WW0;46.3620;;;31-Aug-2018
 100997;HDFC Long Term Advantage Plan - IDCW Plan;INF179K01970;INF179K01988;43.4870;;;31-Aug-2018
-119060;HDFC Taxsaver - Growth Option - Direct Plan;INF179K01YS4;;558.9650;;;31-Aug-2018
-101979;HDFC Taxsaver - Growth Plan;INF179K01BB8;;539.5010;;;31-Aug-2018
-119059;HDFC Taxsaver - IDCW Option - Direct Plan;INF179K01YQ8;INF179K01YR6;65.4340;;;31-Aug-2018
-101980;HDFC Taxsaver - IDCW Plan;INF179K01AZ9;INF179K01BA0;62.3560;;;31-Aug-2018
 
 HSBC Mutual Fund
 104707;HSBC Tax Saver Equity Fund - Growth;INF336L01BA4;;38.225;;;31-Aug-2018
@@ -1510,10 +1510,10 @@ Invesco Mutual Fund
 104635;Invesco India Tax Plan - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;21.97;;;31-Aug-2018
 
 JM Financial Mutual Fund
-120494;JM Tax Gain Fund (Direct) - Growth Option;INF192K01CE3;;18.7223;;;31-Aug-2018
-120493;JM Tax Gain Fund (Direct) - IDCW;INF192K01CD5;;18.2605;;;31-Aug-2018
-107288;JM Tax Gain Fund (Regular) - Growth option;INF192K01650;;17.4644;;;31-Aug-2018
-107287;JM Tax Gain Fund (Regular) - IDCW;INF192K01643;;17.4643;;;31-Aug-2018
+120494;JM ELSS Tax Saver Fund (Direct) - Growth Option;INF192K01CE3;;18.7223;;;31-Aug-2018
+120493;JM ELSS Tax Saver Fund (Direct) - IDCW;INF192K01CD5;;18.2605;;;31-Aug-2018
+107288;JM ELSS Tax Saver Fund (Regular) - Growth option;INF192K01650;;17.4644;;;31-Aug-2018
+107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;17.4643;;;31-Aug-2018
 
 Kotak Mahindra Mutual Fund
 103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;44.101;;;31-Aug-2018
@@ -1663,10 +1663,10 @@ Union Mutual Fund
 116052;Union Tax Saver (ELSS) Fund - IDCW Option;INF582M01328;INF582M01310;14.82;;;31-Aug-2018
 
 UTI Mutual Fund
-120715;UTI - Long Term Equity Fund (Tax Saving) - Direct Plan - Growth Option;INF789F01TF7;;94.8595;;;31-Aug-2018
-100821;UTI - Long Term Equity Fund (Tax Saving) - Regular Plan - Growth Option;INF789F01547;;90.597;;;31-Aug-2018
-120714;UTI Long Term Equity Fund ( Tax Saving ) - Direct Plan - IDCW;INF789F01TD2;INF789F01TE0;25.5834;;;31-Aug-2018
-100820;UTI Long Term Equity Fund ( Tax Saving ) - Regular Plan - IDCW;INF789F01521;INF789F01539;20.5945;;;31-Aug-2018
+120715;UTI ELSS Tax Saver Fund - Direct Plan - Growth Option;INF789F01TF7;;94.8595;;;31-Aug-2018
+120714;UTI ELSS Tax Saver Fund - Direct Plan - IDCW;INF789F01TD2;INF789F01TE0;25.5834;;;31-Aug-2018
+100821;UTI ELSS Tax Saver Fund - Regular Plan - Growth Option;INF789F01547;;90.597;;;31-Aug-2018
+100820;UTI ELSS Tax Saver Fund - Regular Plan - IDCW;INF789F01521;INF789F01539;20.5945;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -2186,20 +2186,20 @@ Union Mutual Fund
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1001.1677;;;31-Aug-2018
 
 UTI Mutual Fund
-134427;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1289.3698;;;31-Aug-2018
-120558;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1019.4457;;;31-Aug-2018
-140913;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1145.6066;;;31-Aug-2018
-120794;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1031.1941;;;31-Aug-2018
-140024;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1217.7592;;;31-Aug-2018
-120777;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;;INF789F01XT0;1053.3893;;;31-Aug-2018
-133973;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1288.6624;;;31-Aug-2018
-102010;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1019.4457;;;31-Aug-2018
-140517;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1062.0733;;;31-Aug-2018
-139838;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1144.8707;;;31-Aug-2018
-144475;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1007.2313;;;31-Aug-2018
-102011;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1031.1432;;;31-Aug-2018
-135721;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;INF789FA1J33;;1216.7221;;;31-Aug-2018
-102013;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.3842;;;31-Aug-2018
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1289.3698;;;31-Aug-2018
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1019.4457;;;31-Aug-2018
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1145.6066;;;31-Aug-2018
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1031.1941;;;31-Aug-2018
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1217.7592;;;31-Aug-2018
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F01XT0;1053.3893;;;31-Aug-2018
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1288.6624;;;31-Aug-2018
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1019.4457;;;31-Aug-2018
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1062.0733;;;31-Aug-2018
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1144.8707;;;31-Aug-2018
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1007.2313;;;31-Aug-2018
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1031.1432;;;31-Aug-2018
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789FA1J33;;1216.7221;;;31-Aug-2018
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.3842;;;31-Aug-2018
 120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;2931.8109;;;31-Aug-2018
 102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;2922.4709;;;31-Aug-2018
 102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1179.2754;;;31-Aug-2018
@@ -2448,25 +2448,25 @@ SBI Mutual Fund
 103884;SBI Magnum Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LM8;INF200K01LL0;1078.4487;;;31-Aug-2018
 
 UTI Mutual Fund
-120746;UTI - Ultra Short Term Fund - Direct Plan - Growth Option;INF789F01TI1;;2999.8272;;;31-Aug-2018
-112083;UTI - Ultra Short Term Fund - Discontinued - INSTN GROWTH OPTION;INF789F01PM1;;2058.1281;;;31-Aug-2018
-112082;UTI - Ultra Short Term Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION;;INF789F01PL3;1006.7937;;;31-Aug-2018
-102532;UTI - Ultra Short Term Fund - Regular Plan - Growth Option;INF789F01570;;2903.9113;;;31-Aug-2018
-139568;UTI Ultra Short Term Fund - Direct Plan - Annual IDCW;INF789FA1Q42;INF789FA1Q59;1088.1238;;;31-Aug-2018
-120744;UTI Ultra Short Term Fund - Direct Plan - Daily IDCW (Reinvestment);INF789F01TG5;INF789F01TH3;1076.8777;;;31-Aug-2018
-121892;UTI Ultra Short Term Fund - Direct Plan - Flexi IDCW;INF789FB1KQ0;INF789FB1KR8;1543.1515;;;31-Aug-2018
-131512;UTI Ultra Short Term Fund - Direct Plan - Fortnightly IDCW;INF789FA1P68;INF789FA1P76;1349.2549;;;31-Aug-2018
-131444;UTI Ultra Short Term Fund - Direct Plan - Monthly IDCW;INF789FA1P84;INF789FA1P92;1106.6333;;;31-Aug-2018
-133059;UTI Ultra Short Term Fund - Direct Plan - Quarterly IDCW;INF789FA1Q00;INF789FA1Q18;1245.5297;;;31-Aug-2018
-120745;UTI Ultra Short Term Fund - Direct Plan - Weekly IDCW (Reinvestment);INF789FB1S63;;1112.5526;;;31-Aug-2018
-134484;UTI Ultra Short Term Fund - Regular Plan - Annual IDCW;INF789FA1P43;INF789FA1P50;1072.2628;;;31-Aug-2018
-109501;UTI Ultra Short Term Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01554;1076.8777;;;31-Aug-2018
-121891;UTI Ultra Short Term Fund - Regular Plan - Flexi IDCW;INF789FB1KS6;INF789FB1KT4;1243.0067;;;31-Aug-2018
-131511;UTI Ultra Short Term Fund - Regular Plan - Fortnightly IDCW;INF789FA1O69;INF789FA1O77;1347.0521;;;31-Aug-2018
-134799;UTI Ultra Short Term Fund - Regular Plan - Half-Yearly IDCW;INF789FA1P27;INF789FA1P35;1069.0675;;;31-Aug-2018
-131445;UTI Ultra Short Term Fund - Regular Plan - Monthly IDCW;INF789FA1O85;INF789FA1O93;1069.3158;;;31-Aug-2018
-133873;UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW;INF789FA1P01;INF789FA1P19;1060.175;;;31-Aug-2018
-102531;UTI Ultra Short Term Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF789F01562;1112.5041;;;31-Aug-2018
+139568;UTI Ultra Short Duration Fund - Direct Plan - Annual IDCW;INF789FA1Q42;INF789FA1Q59;1088.1238;;;31-Aug-2018
+120744;UTI Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment);INF789F01TG5;INF789F01TH3;1076.8777;;;31-Aug-2018
+121892;UTI Ultra Short Duration Fund - Direct Plan - Flexi IDCW;INF789FB1KQ0;INF789FB1KR8;1543.1515;;;31-Aug-2018
+131512;UTI Ultra Short Duration Fund - Direct Plan - Fortnightly IDCW;INF789FA1P68;INF789FA1P76;1349.2549;;;31-Aug-2018
+120746;UTI Ultra Short Duration Fund - Direct Plan - Growth Option;INF789F01TI1;;2999.8272;;;31-Aug-2018
+131444;UTI Ultra Short Duration Fund - Direct Plan - Monthly IDCW;INF789FA1P84;INF789FA1P92;1106.6333;;;31-Aug-2018
+133059;UTI Ultra Short Duration Fund - Direct Plan - Quarterly IDCW;INF789FA1Q00;INF789FA1Q18;1245.5297;;;31-Aug-2018
+120745;UTI Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Reinvestment);INF789FB1S63;;1112.5526;;;31-Aug-2018
+112083;UTI Ultra Short Duration Fund - Discontinued - INSTN GROWTH OPTION;INF789F01PM1;;2058.1281;;;31-Aug-2018
+112082;UTI Ultra Short Duration Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION;;INF789F01PL3;1006.7937;;;31-Aug-2018
+134484;UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW;INF789FA1P43;INF789FA1P50;1072.2628;;;31-Aug-2018
+109501;UTI Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01554;1076.8777;;;31-Aug-2018
+121891;UTI Ultra Short Duration Fund - Regular Plan - Flexi IDCW;INF789FB1KS6;INF789FB1KT4;1243.0067;;;31-Aug-2018
+131511;UTI Ultra Short Duration Fund - Regular Plan - Fortnightly IDCW;INF789FA1O69;INF789FA1O77;1347.0521;;;31-Aug-2018
+102532;UTI Ultra Short Duration Fund - Regular Plan - Growth Option;INF789F01570;;2903.9113;;;31-Aug-2018
+134799;UTI Ultra Short Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1P27;INF789FA1P35;1069.0675;;;31-Aug-2018
+131445;UTI Ultra Short Duration Fund - Regular Plan - Monthly IDCW;INF789FA1O85;INF789FA1O93;1069.3158;;;31-Aug-2018
+133873;UTI Ultra Short Duration Fund - Regular Plan - Quarterly IDCW;INF789FA1P01;INF789FA1P19;1060.175;;;31-Aug-2018
+102531;UTI Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF789F01562;1112.5041;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Low Duration Fund )
 
@@ -2826,32 +2826,32 @@ Tata Mutual Fund
 103158;Tata Treasury Advantage Fund Regular Plan - Weekly Payout of IDCW Option;INF277K01MD3;INF277K01MB7;1008.5503;;;31-Aug-2018
 
 UTI Mutual Fund
-120738;UTI - Treasury Advantage Fund - Direct Plan - Bonus Option;INF789F01XH5;;2072.0375;;;31-Aug-2018
-120735;UTI - Treasury Advantage Fund - Direct Plan - Growth Option;INF789F01XI3;;2483.2239;;;31-Aug-2018
-102538;UTI - Treasury Advantage Fund - Discontinued - Annaul Dividend Option;INF789F01OK8;INF789F01OL6;2408.1572;;;31-Aug-2018
-105578;UTI - Treasury Advantage Fund - Discontinued - Periodic Dividend Plan;;INF789F01349;1051.6733;;;31-Aug-2018
-102541;UTI - Treasury Advantage Fund - Discontinued - Quarterly Dividend Option;INF789F01OO0;INF789F01OP7;1701.2176;;;31-Aug-2018
-102539;UTI - Treasury Advantage Fund - Discontinued Bonus Option;INF789F01OM4;;2987.536;;;31-Aug-2018
-105659;UTI - Treasury Advantage Fund - Discontinued Flexi Dividend Plan;INF789F01PA6;;1090.5014;;;31-Aug-2018
-102540;UTI - Treasury Advantage Fund - Discontinued Growth Option;INF789F01331;;4481.7971;;;31-Aug-2018
-105670;UTI - Treasury Advantage Fund - Discontinued Monthly Dividend Option;INF789F01OY9;INF789F01OZ6;1082.6205;;;31-Aug-2018
-102545;UTI - Treasury Advantage Fund - Regular Plan - Bonus Option;INF789F01OS1;;2058.304;;;31-Aug-2018
-102544;UTI - Treasury Advantage Fund - Regular Plan - Growth Option;INF789F01OT9;;2462.7057;;;31-Aug-2018
-141958;UTI Treasury Advantage Fund - Direct Plan - Annual IDCW;INF789F01XF9;INF789F01XG7;1039.8788;;;31-Aug-2018
-120737;UTI Treasury Advantage Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XE2;1002.354;;;31-Aug-2018
-133127;UTI Treasury Advantage Fund - Direct Plan - Flexi IDCW;INF789FA1O44;INF789FA1O51;1174.5138;;;31-Aug-2018
-135191;UTI Treasury Advantage Fund - Direct Plan - Fortnightly IDCW;INF789FA1O02;INF789FA1O10;1323.9122;;;31-Aug-2018
-133469;UTI Treasury Advantage Fund - Direct Plan - Half-Yearly IDCW;INF789FA1O28;INF789FA1O36;1115.1636;;;31-Aug-2018
-120736;UTI Treasury Advantage Fund - Direct Plan - Monthly IDCW;INF789F01XJ1;INF789F01XK9;1031.632;;;31-Aug-2018
-120734;UTI Treasury Advantage Fund - Direct Plan - Quarterly IDCW;INF789F01XL7;INF789F01XM5;1331.3365;;;31-Aug-2018
-120739;UTI Treasury Advantage Fund - Direct Plan - Weekly IDCW;INF789F01XN3;INF789F01XO1;1017.4094;;;31-Aug-2018
-105605;UTI Treasury Advantage Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01ON2;1002.3211;;;31-Aug-2018
-133130;UTI Treasury Advantage Fund - Regular Plan - Flexi IDCW;INF789FA1N86;INF789FA1N94;1057.6114;;;31-Aug-2018
-133733;UTI Treasury Advantage Fund - Regular Plan - Fortnightly IDCW;INF789FA1N45;INF789FA1N52;1317.7971;;;31-Aug-2018
-136345;UTI Treasury Advantage Fund - Regular Plan - Half-Yearly IDCW;INF789FA1N60;INF789FA1N78;1068.3289;;;31-Aug-2018
-105658;UTI Treasury Advantage Fund - Regular Plan - Monthly IDCW;INF789F01OU7;INF789F01OV5;1028.831;;;31-Aug-2018
-115483;UTI Treasury Advantage Fund - Regular Plan - Quarterly IDCW;INF789F01OW3;INF789F01OX1;1151.5457;;;31-Aug-2018
-105627;UTI Treasury Advantage Fund - Regular Plan - Weekly IDCW;INF789F01PB4;INF789F01PC2;1004.2271;;;31-Aug-2018
+141958;UTI Low Duration Fund - Direct Plan - Annual IDCW;INF789F01XF9;INF789F01XG7;1039.8788;;;31-Aug-2018
+120738;UTI Low Duration Fund - Direct Plan - Bonus Option;INF789F01XH5;;2072.0375;;;31-Aug-2018
+120737;UTI Low Duration Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XE2;1002.354;;;31-Aug-2018
+133127;UTI Low Duration Fund - Direct Plan - Flexi IDCW;INF789FA1O44;INF789FA1O51;1174.5138;;;31-Aug-2018
+135191;UTI Low Duration Fund - Direct Plan - Fortnightly IDCW;INF789FA1O02;INF789FA1O10;1323.9122;;;31-Aug-2018
+120735;UTI Low Duration Fund - Direct Plan - Growth Option;INF789F01XI3;;2483.2239;;;31-Aug-2018
+133469;UTI Low Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FA1O28;INF789FA1O36;1115.1636;;;31-Aug-2018
+120736;UTI Low Duration Fund - Direct Plan - Monthly IDCW;INF789F01XJ1;INF789F01XK9;1031.632;;;31-Aug-2018
+120734;UTI Low Duration Fund - Direct Plan - Quarterly IDCW;INF789F01XL7;INF789F01XM5;1331.3365;;;31-Aug-2018
+120739;UTI Low Duration Fund - Direct Plan - Weekly IDCW;INF789F01XN3;INF789F01XO1;1017.4094;;;31-Aug-2018
+102538;UTI Low Duration Fund - Discontinued - Annaul Dividend Option;INF789F01OK8;INF789F01OL6;2408.1572;;;31-Aug-2018
+105578;UTI Low Duration Fund - Discontinued - Periodic Dividend Plan;;INF789F01349;1051.6733;;;31-Aug-2018
+102541;UTI Low Duration Fund - Discontinued - Quarterly Dividend Option;INF789F01OO0;INF789F01OP7;1701.2176;;;31-Aug-2018
+102539;UTI Low Duration Fund - Discontinued Bonus Option;INF789F01OM4;;2987.536;;;31-Aug-2018
+105659;UTI Low Duration Fund - Discontinued Flexi Dividend Plan;INF789F01PA6;;1090.5014;;;31-Aug-2018
+102540;UTI Low Duration Fund - Discontinued Growth Option;INF789F01331;;4481.7971;;;31-Aug-2018
+105670;UTI Low Duration Fund - Discontinued Monthly Dividend Option;INF789F01OY9;INF789F01OZ6;1082.6205;;;31-Aug-2018
+102545;UTI Low Duration Fund - Regular Plan - Bonus Option;INF789F01OS1;;2058.304;;;31-Aug-2018
+105605;UTI Low Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01ON2;1002.3211;;;31-Aug-2018
+133130;UTI Low Duration Fund - Regular Plan - Flexi IDCW;INF789FA1N86;INF789FA1N94;1057.6114;;;31-Aug-2018
+133733;UTI Low Duration Fund - Regular Plan - Fortnightly IDCW;INF789FA1N45;INF789FA1N52;1317.7971;;;31-Aug-2018
+102544;UTI Low Duration Fund - Regular Plan - Growth Option;INF789F01OT9;;2462.7057;;;31-Aug-2018
+136345;UTI Low Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1N60;INF789FA1N78;1068.3289;;;31-Aug-2018
+105658;UTI Low Duration Fund - Regular Plan - Monthly IDCW;INF789F01OU7;INF789F01OV5;1028.831;;;31-Aug-2018
+115483;UTI Low Duration Fund - Regular Plan - Quarterly IDCW;INF789F01OW3;INF789F01OX1;1151.5457;;;31-Aug-2018
+105627;UTI Low Duration Fund - Regular Plan - Weekly IDCW;INF789F01PB4;INF789F01PC2;1004.2271;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Money Market Fund )
 
@@ -3342,20 +3342,20 @@ Union Mutual Fund
 117284;Union Short Term Fund - Weekly Dividend Option;;INF582M01393;1003.8914;;;31-Aug-2018
 
 UTI Mutual Fund
-120718;UTI - Short Term Income Fund - Direct Plan - Growth Option;INF789F01XY0;;22.1456;;;31-Aug-2018
-131425;UTI - Short Term Income Fund - Direct Plan - Half Yearly Dividend Option;INF789FA1R17;INF789FA1R25;13.8505;;;31-Aug-2018
-106383;UTI - Short Term Income Fund - Discontinued Regular Option - Dividend Sub Option;INF789F01AH3;INF789F01AI1;16.4183;;;31-Aug-2018
-106384;UTI - Short Term Income Fund - Discontinued Regular Option -Growth Sub Option;INF789F01AJ9;;31.0583;;;31-Aug-2018
-106624;UTI - Short Term Income Fund - Regular Plan - Growth Option;INF789F01QA4;;21.5721;;;31-Aug-2018
-135497;UTI Short Term Income Fund - Direct Plan - Annual IDCW;INF789FA1R33;INF789FA1R41;10.8936;;;31-Aug-2018
-124962;UTI Short Term Income Fund - Direct Plan - Flexi IDCW;INF789FB1T70;INF789FB1T62;13.5416;;;31-Aug-2018
-131548;UTI Short Term Income Fund - Direct Plan - Monthly IDCW;INF789F01XZ7;INF789F01YA8;10.7998;;;31-Aug-2018
-120719;UTI Short Term Income Fund - Direct Plan - Quarterly IDCW;INF789FA1R66;INF789FA1R74;13.2131;;;31-Aug-2018
-134517;UTI Short Term Income Fund - Regular Plan - Annual IDCW;INF789FA1Q91;INF789FA1R09;10.8633;;;31-Aug-2018
-125045;UTI Short Term Income Fund - Regular Plan - Flexi IDCW;INF789FB1T54;INF789FB1T47;13.6414;;;31-Aug-2018
-131424;UTI Short Term Income Fund - Regular Plan - Half-Yearly IDCW;INF789FA1Q75;INF789FA1Q83;10.73;;;31-Aug-2018
-131547;UTI Short Term Income Fund - Regular Plan - Monthly IDCW;INF789F01QB2;INF789F01QC0;10.3105;;;31-Aug-2018
-106980;UTI Short Term Income Fund - Regular Plan - Quarterly IDCW;INF789FC1GD5;INF789FA1R58;12.4811;;;31-Aug-2018
+135497;UTI Short Duration Fund - Direct Plan - Annual IDCW;INF789FA1R33;INF789FA1R41;10.8936;;;31-Aug-2018
+124962;UTI Short Duration Fund - Direct Plan - Flexi IDCW;INF789FB1T70;INF789FB1T62;13.5416;;;31-Aug-2018
+120718;UTI Short Duration Fund - Direct Plan - Growth Option;INF789F01XY0;;22.1456;;;31-Aug-2018
+131425;UTI Short Duration Fund - Direct Plan - Half Yearly Dividend Option;INF789FA1R17;INF789FA1R25;13.8505;;;31-Aug-2018
+131548;UTI Short Duration Fund - Direct Plan - Monthly IDCW;INF789F01XZ7;INF789F01YA8;10.7998;;;31-Aug-2018
+120719;UTI Short Duration Fund - Direct Plan - Quarterly IDCW;INF789FA1R66;INF789FA1R74;13.2131;;;31-Aug-2018
+106383;UTI Short Duration Fund - Discontinued Regular Option - Dividend Sub Option;INF789F01AH3;INF789F01AI1;16.4183;;;31-Aug-2018
+106384;UTI Short Duration Fund - Discontinued Regular Option -Growth Sub Option;INF789F01AJ9;;31.0583;;;31-Aug-2018
+134517;UTI Short Duration Fund - Regular Plan - Annual IDCW;INF789FA1Q91;INF789FA1R09;10.8633;;;31-Aug-2018
+125045;UTI Short Duration Fund - Regular Plan - Flexi IDCW;INF789FB1T54;INF789FB1T47;13.6414;;;31-Aug-2018
+106624;UTI Short Duration Fund - Regular Plan - Growth Option;INF789F01QA4;;21.5721;;;31-Aug-2018
+131424;UTI Short Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1Q75;INF789FA1Q83;10.73;;;31-Aug-2018
+131547;UTI Short Duration Fund - Regular Plan - Monthly IDCW;INF789F01QB2;INF789F01QC0;10.3105;;;31-Aug-2018
+106980;UTI Short Duration Fund - Regular Plan - Quarterly IDCW;INF789FC1GD5;INF789FA1R58;12.4811;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Medium Duration Fund )
 
@@ -3514,18 +3514,18 @@ Tata Mutual Fund
 101605;Tata Medium Term Fund- Regular Plan - Payout of IDCW option;INF277K01DW2;INF277K01709;13.0848;;;31-Aug-2018
 
 UTI Mutual Fund
-134505;UTI Medium Term Fund - Direct Plan - Annual IDCW;INF789FB1KL1;INF789FB1KM9;11.2039;;;31-Aug-2018
-134506;UTI Medium Term Fund - Direct Plan - Flexi IDCW;INF789FB1KO5;INF789FB1KN7;11.2115;;;31-Aug-2018
-134503;UTI Medium Term Fund - Direct Plan - Growth Option;INF789FB1KE6;;13.3158;;;31-Aug-2018
-134504;UTI Medium Term Fund - Direct Plan - Half-Yearly IDCW;INF789FB1KJ5;INF789FB1KK3;11.1934;;;31-Aug-2018
-134501;UTI Medium Term Fund - Direct Plan - Monthly IDCW;INF789FB1KF3;INF789FB1KG1;10.4928;;;31-Aug-2018
-134502;UTI Medium Term Fund - Direct Plan - Quarterly IDCW;INF789FB1KH9;INF789FB1KI7;11.1276;;;31-Aug-2018
-134500;UTI Medium Term Fund - Regular Plan - Annual IDCW;INF789FB1KA4;INF789FB1KB2;10.8971;;;31-Aug-2018
-134498;UTI Medium Term Fund - Regular Plan - Flexi IDCW;INF789FB1KC0;INF789FB1KD8;10.4661;;;31-Aug-2018
-134499;UTI Medium Term Fund - Regular Plan - Growth Option;INF789FB1JU4;;12.9903;;;31-Aug-2018
-134497;UTI Medium Term Fund - Regular Plan - Half-Yearly IDCW;INF789FB1JY6;INF789FB1JZ3;10.8738;;;31-Aug-2018
-134495;UTI Medium Term Fund - Regular Plan - Monthly IDCW;INF789FB1JV2;INF789FB1KP2;10.1965;;;31-Aug-2018
-134496;UTI Medium Term Fund - Regular Plan - Quarterly IDCW;INF789FB1JW0;INF789FB1JX8;10.8252;;;31-Aug-2018
+134505;UTI Medium Duration Fund - Direct Plan - Annual IDCW;INF789FB1KL1;INF789FB1KM9;11.2039;;;31-Aug-2018
+134506;UTI Medium Duration Fund - Direct Plan - Flexi IDCW;INF789FB1KO5;INF789FB1KN7;11.2115;;;31-Aug-2018
+134503;UTI Medium Duration Fund - Direct Plan - Growth Option;INF789FB1KE6;;13.3158;;;31-Aug-2018
+134504;UTI Medium Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FB1KJ5;INF789FB1KK3;11.1934;;;31-Aug-2018
+134501;UTI Medium Duration Fund - Direct Plan - Monthly IDCW;INF789FB1KF3;INF789FB1KG1;10.4928;;;31-Aug-2018
+134502;UTI Medium Duration Fund - Direct Plan - Quarterly IDCW;INF789FB1KH9;INF789FB1KI7;11.1276;;;31-Aug-2018
+134500;UTI Medium Duration Fund - Regular Plan - Annual IDCW;INF789FB1KA4;INF789FB1KB2;10.8971;;;31-Aug-2018
+134498;UTI Medium Duration Fund - Regular Plan - Flexi IDCW;INF789FB1KC0;INF789FB1KD8;10.4661;;;31-Aug-2018
+134499;UTI Medium Duration Fund - Regular Plan - Growth Option;INF789FB1JU4;;12.9903;;;31-Aug-2018
+134497;UTI Medium Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FB1JY6;INF789FB1JZ3;10.8738;;;31-Aug-2018
+134495;UTI Medium Duration Fund - Regular Plan - Monthly IDCW;INF789FB1JV2;INF789FB1KP2;10.1965;;;31-Aug-2018
+134496;UTI Medium Duration Fund - Regular Plan - Quarterly IDCW;INF789FB1JW0;INF789FB1JX8;10.8252;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Medium to Long Duration Fund )
 
@@ -3669,15 +3669,15 @@ Tata Mutual Fund
 100417;Tata Income Fund-Regular Plan - Half Yearly Payout of IDCW Option;INF277K01DU6;INF277K01675;13.1042;;;31-Aug-2018
 
 UTI Mutual Fund
-139339;UTI Bond Fund - Direct Plan - Annual IDCW;INF789FA1T80;;11.3313;;;31-Aug-2018
-133280;UTI Bond Fund - Direct Plan - Flexi IDCW;INF789FA1U04;INF789FA1U12;11.6416;;;31-Aug-2018
-120690;UTI Bond Fund - Direct Plan - Quarterly IDCW;INF789F01SO1;INF789F01SP8;17.5413;;;31-Aug-2018
-133869;UTI Bond Fund - Regular Plan - Annual IDCW;INF789FA1T23;INF789FA1T31;11.1195;;;31-Aug-2018
-133872;UTI Bond Fund - Regular Plan - Flexi IDCW;INF789FA1T49;INF789FA1T56;11.1222;;;31-Aug-2018
-135581;UTI Bond Fund - Regular Plan - Half-Yearly IDCW;INF789FA1T07;INF789FA1T15;10.9382;;;31-Aug-2018
-100742;UTI Bond Fund - Regular Plan - Quarterly IDCW;INF789F01380;INF789F01398;14.5078;;;31-Aug-2018
-100741;UTI Bond Fund- Regular Plan - Growth;INF789F01406;;52.2077;;;31-Aug-2018
-120689;UTI Bond Fund-Growth - Direct;INF789F01SQ6;;54.9271;;;31-Aug-2018
+139339;UTI Medium to Long Duration Fund - Direct Plan - Annual IDCW;INF789FA1T80;;11.3313;;;31-Aug-2018
+133280;UTI Medium to Long Duration Fund - Direct Plan - Flexi IDCW;INF789FA1U04;INF789FA1U12;11.6416;;;31-Aug-2018
+120690;UTI Medium to Long Duration Fund - Direct Plan - Quarterly IDCW;INF789F01SO1;INF789F01SP8;17.5413;;;31-Aug-2018
+133869;UTI Medium to Long Duration Fund - Regular Plan - Annual IDCW;INF789FA1T23;INF789FA1T31;11.1195;;;31-Aug-2018
+133872;UTI Medium to Long Duration Fund - Regular Plan - Flexi IDCW;INF789FA1T49;INF789FA1T56;11.1222;;;31-Aug-2018
+135581;UTI Medium to Long Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1T07;INF789FA1T15;10.9382;;;31-Aug-2018
+100742;UTI Medium to Long Duration Fund - Regular Plan - Quarterly IDCW;INF789F01380;INF789F01398;14.5078;;;31-Aug-2018
+100741;UTI Medium to Long Duration Fund- Regular Plan - Growth;INF789F01406;;52.2077;;;31-Aug-2018
+120689;UTI Medium to Long Duration Fund-Growth - Direct;INF789F01SQ6;;54.9271;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Long Duration Fund )
 
@@ -4522,18 +4522,18 @@ Sundaram Mutual Fund
 100780;Sundaram Banking and PSU Debt Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.8457;;;31-Aug-2018
 
 UTI Mutual Fund
-140135;UTI Banking & PSU Debt Fund - Direct Plan - Annual IDCW;INF789FA1V03;INF789FA1V11;10.7132;;;31-Aug-2018
-133972;UTI Banking & PSU Debt Fund - Direct Plan - Flexi IDCW;INF789FA1V29;INF789FA1V37;12.5796;;;31-Aug-2018
-126940;UTI Banking & PSU Debt Fund - Direct Plan - Growth Option;INF789F015Z6;;14.5977;;;31-Aug-2018
-141375;UTI Banking & PSU Debt Fund - Direct Plan - Half-Yearly IDCW;INF789FA1U87;INF789FA1U95;10.6227;;;31-Aug-2018
-134026;UTI Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;INF789FC1HE1;INF789FC1HF8;12.1408;;;31-Aug-2018
-126942;UTI Banking & PSU Debt Fund - Direct Plan - Quarterly IDCW;INF789F016Z4;INF789F017Z2;11.8989;;;31-Aug-2018
-140116;UTI Banking & PSU Debt Fund - Regular Plan - Annual IDCW;INF789FA1U46;INF789FA1U53;10.6711;;;31-Aug-2018
-133971;UTI Banking & PSU Debt Fund - Regular Plan - Flexi IDCW;INF789FA1U61;INF789FA1U79;10.5831;;;31-Aug-2018
-139407;UTI Banking & PSU Debt Fund - Regular Plan - Half-Yearly IDCW;INF789FA1U20;INF789FA1U38;10.6406;;;31-Aug-2018
-136110;UTI Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;INF789FC1HC5;INF789FC1HD3;12.1163;;;31-Aug-2018
-126941;UTI Banking & PSU Debt Fund - Regular Plan - Quarterly IDCW;INF789F012Z3;INF789F013Z1;11.0065;;;31-Aug-2018
-126939;UTI Banking & PSU Debt Fund- Regular Plan - Growth Option;INF789F014Z9;;14.5295;;;31-Aug-2018
+140135;UTI Banking & PSU Fund - Direct Plan - Annual IDCW;INF789FA1V03;INF789FA1V11;10.7132;;;31-Aug-2018
+133972;UTI Banking & PSU Fund - Direct Plan - Flexi IDCW;INF789FA1V29;INF789FA1V37;12.5796;;;31-Aug-2018
+126940;UTI Banking & PSU Fund - Direct Plan - Growth Option;INF789F015Z6;;14.5977;;;31-Aug-2018
+141375;UTI Banking & PSU Fund - Direct Plan - Half-Yearly IDCW;INF789FA1U87;INF789FA1U95;10.6227;;;31-Aug-2018
+134026;UTI Banking & PSU Fund - Direct Plan - Monthly IDCW;INF789FC1HE1;INF789FC1HF8;12.1408;;;31-Aug-2018
+126942;UTI Banking & PSU Fund - Direct Plan - Quarterly IDCW;INF789F016Z4;INF789F017Z2;11.8989;;;31-Aug-2018
+140116;UTI Banking & PSU Fund - Regular Plan - Annual IDCW;INF789FA1U46;INF789FA1U53;10.6711;;;31-Aug-2018
+133971;UTI Banking & PSU Fund - Regular Plan - Flexi IDCW;INF789FA1U61;INF789FA1U79;10.5831;;;31-Aug-2018
+139407;UTI Banking & PSU Fund - Regular Plan - Half-Yearly IDCW;INF789FA1U20;INF789FA1U38;10.6406;;;31-Aug-2018
+136110;UTI Banking & PSU Fund - Regular Plan - Monthly IDCW;INF789FC1HC5;INF789FC1HD3;12.1163;;;31-Aug-2018
+126941;UTI Banking & PSU Fund - Regular Plan - Quarterly IDCW;INF789F012Z3;INF789F013Z1;11.0065;;;31-Aug-2018
+126939;UTI Banking & PSU Fund- Regular Plan - Growth Option;INF789F014Z9;;14.5295;;;31-Aug-2018
 
 Open Ended Schemes ( Debt Scheme - Gilt Fund )
 
@@ -5029,14 +5029,14 @@ Sundaram Mutual Fund
 112870;Sundaram Debt Oriented Hybrid Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;14.5011;;;31-Aug-2018
 
 UTI Mutual Fund
-120779;UTI - Regular Savings Fund - Direct Plan - Growth Option;INF789F01UJ7;;42.5004;;;31-Aug-2018
-120790;UTI - Regular Savings Fund - Direct Plan - Monthly Payment Option;INF789F01UM1;;41.8085;;;31-Aug-2018
-102535;UTI - Regular Savings Fund - Regular Plan - Growth Option;INF789F01893;;40.9791;;;31-Aug-2018
-102533;UTI - Regular Savings Fund - Regular Plan - Monthly Payment Option;INF789F01927;;41;;;31-Aug-2018
-120789;UTI Regular Savings Fund - Direct Plan - Flexi IDCW;INF789F01UH1;INF789F01UI9;37.9436;;;31-Aug-2018
-120778;UTI Regular Savings Fund - Direct Plan - Monthly IDCW;INF789F01UK5;INF789F01UL3;16.5715;;;31-Aug-2018
-102534;UTI Regular Savings Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;36.4759;;;31-Aug-2018
-102536;UTI Regular Savings Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;15.8665;;;31-Aug-2018
+102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;41;;;31-Aug-2018
+120789;UTI Conservative Hybrid Fund - Direct Plan - Flexi IDCW;INF789F01UH1;INF789F01UI9;37.9436;;;31-Aug-2018
+120779;UTI Conservative Hybrid Fund - Direct Plan - Growth Option;INF789F01UJ7;;42.5004;;;31-Aug-2018
+120778;UTI Conservative Hybrid Fund - Direct Plan - Monthly IDCW;INF789F01UK5;INF789F01UL3;16.5715;;;31-Aug-2018
+120790;UTI Conservative Hybrid Fund - Direct Plan - Monthly Payment Option;INF789F01UM1;;41.8085;;;31-Aug-2018
+102534;UTI Conservative Hybrid Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;36.4759;;;31-Aug-2018
+102535;UTI Conservative Hybrid Fund - Regular Plan - Growth Option;INF789F01893;;40.9791;;;31-Aug-2018
+102536;UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;15.8665;;;31-Aug-2018
 
 Open Ended Schemes ( Hybrid Scheme - Balanced Hybrid Fund )
 
@@ -5263,10 +5263,10 @@ Tata Mutual Fund
 101222;Tata Hybrid Equity Fund- Regular Plan - Periodic Payout of IDCW Option;INF277K01DB6;INF277K01295;76.4742;;;31-Aug-2018
 
 UTI Mutual Fund
-100684;UTI - Hybrid Equity Fund - Regular Plan - Growth;INF789F01323;;175.5948;;;31-Aug-2018
-120674;UTI - Hybrid Equity Fund -Direct Plan - Growth;INF789F01SK9;;180.5081;;;31-Aug-2018
-120673;UTI Hybrid Equity Fund - Direct Plan - IDCW;INF789F01SI3;INF789F01SJ1;30.7384;;;31-Aug-2018
-100685;UTI Hybrid Equity Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;29.6888;;;31-Aug-2018
+120673;UTI Aggressive Hybrid Fund - Direct Plan - IDCW;INF789F01SI3;INF789F01SJ1;30.7384;;;31-Aug-2018
+100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;INF789F01323;;175.5948;;;31-Aug-2018
+100685;UTI Aggressive Hybrid Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;29.6888;;;31-Aug-2018
+120674;UTI Aggressive Hybrid Fund -Direct Plan - Growth;INF789F01SK9;;180.5081;;;31-Aug-2018
 
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
@@ -5438,10 +5438,10 @@ Union Mutual Fund
 117393;Union Asset Allocation Fund - Growth Option;INF582M01468;;15.6132;;;31-Aug-2018
 
 UTI Mutual Fund
-111599;UTI - Multi Asset Fund - Regular Plan - Growth Option;INF789F01AP6;;34.4135;;;31-Aug-2018
-120760;UTI - Multi Asset Fund- Direct Plan - Growth Option;INF789F01VE6;;35.892;;;31-Aug-2018
-120761;UTI Multi Asset Fund - Direct Plan - IDCW;INF789F01VC0;INF789F01VD8;19.615;;;31-Aug-2018
-111602;UTI Multi Asset Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;18.6708;;;31-Aug-2018
+120760;UTI Multi Asset Allocation Fund - Direct Plan - Growth Option;INF789F01VE6;;35.892;;;31-Aug-2018
+120761;UTI Multi Asset Allocation Fund - Direct Plan - IDCW;INF789F01VC0;INF789F01VD8;19.615;;;31-Aug-2018
+111599;UTI Multi Asset Allocation Fund - Regular Plan - Growth Option;INF789F01AP6;;34.4135;;;31-Aug-2018
+111602;UTI Multi Asset Allocation Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;18.6708;;;31-Aug-2018
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -5836,8 +5836,8 @@ Tata Mutual Fund
 119251;Tata Retirement Savings Fund- Progressive Plan -Direct Plan-Growth Option;INF277K01QO1;;33.4793;;;31-Aug-2018
 
 UTI Mutual Fund
-100682;UTI - Retirement Benefit Pension Fund - Regular Plan;;;26.6172;;;31-Aug-2018
-120766;UTI - Retirement Benefit Pension Fund- Direct;;;27.4712;;;31-Aug-2018
+100682;UTI Retirement Fund - Regular Plan;;;26.6172;;;31-Aug-2018
+120766;UTI Retirement Fund- Direct Plan;;;27.4712;;;31-Aug-2018
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -9876,21 +9876,11 @@ UTI Mutual Fund
 106338;UTI F I I F-Annual Interval Plan Series - II - Regular Plan - Growth Option;INF789F01FM2;;24.428;;;31-Aug-2018
 124595;UTI FIIF Annual Interval Plan II - Direct Plan - IDCW;INF789F01VX6;INF789F01VY4;10.6116;;;31-Aug-2018
 106337;UTI FIIF Annual Interval Plan II - Regular Plan - IDCW;INF789F01FK6;INF789F01FL4;10.5944;;;31-Aug-2018
-125078;UTI FIIF Annual Interval Plan III - Direct Plan - IDCW;INF789F01WA2;INF789F01WB0;10.5532;;;31-Aug-2018
-106706;UTI FIIF Annual Interval Plan III - Regular Plan - IDCW;INF789F01FQ3;INF789F01FR1;10.5388;;;31-Aug-2018
-125077;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Direct Plan - Growth Option;INF789F01WC8;;24.0027;;;31-Aug-2018
-106709;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Instn Growth Option;INF789F01FV3;;24.5598;;;31-Aug-2018
-106707;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Regular Plan - Growth Option;INF789F01FS9;;23.8736;;;31-Aug-2018
 126030;UTI FIIF Annual Interval Plan IV - Direct Plan - IDCW;INF789F01WD6;INF789F01WE4;10.4854;;;31-Aug-2018
 107070;UTI FIIF Annual Interval Plan IV - Regular Plan - IDCW;INF789F01FW1;INF789F01FX9;10.4458;;;31-Aug-2018
 126031;UTI Fixed Interval Income Fund (Annual Interval Plan) Series IV - Direct Plan - Growth Option;INF789F01WF1;;23.6244;;;31-Aug-2018
 111467;UTI Fixed Interval Income Fund (Annual Interval Plan) Series IV - Instn Growth Option;INF789F01GB3;;18.8683;;;31-Aug-2018
 107071;UTI Fixed Interval Income Fund (Annual Interval Plan) Series IV - Regular Plan - Growth Option;INF789F01FY7;;23.4771;;;31-Aug-2018
-106186;UTI FIIF Annual Intervl Plan I - Regular Plan - IDCW;INF789F01FE9;INF789F01FF6;10.6562;;;31-Aug-2018
-106185;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I ( Instn Growth Option );INF789F01FJ8;;25.2982;;;31-Aug-2018
-123663;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I - Direct Plan - Dividend Option;INF789F01VU2;INF789F01VV0;10.6673;;;31-Aug-2018
-123646;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I - Direct Plan - Growth Option;INF789F01VW8;;24.6989;;;31-Aug-2018
-106183;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I - Regular Plan - Growth Option;INF789F01FG4;;24.5625;;;31-Aug-2018
 122641;UTI FIIF Half Yearly Plan I - Direct Plan - IDCW;INF789F01VR8;INF789F01VS6;10.1024;;;31-Aug-2018
 107089;UTI FIIF Half Yearly Plan I - Regular Plan - IDCW;INF789F01EY0;INF789F01EZ7;10.099;;;31-Aug-2018
 122642;UTI Fixed  Income Interval Fund ( Half Yearly Plan - I) - Direct Plan - Growth Option;INF789F01VT4;;23.2936;;;31-Aug-2018
@@ -9907,10 +9897,6 @@ UTI Mutual Fund
 107195;UTI FIIF Monthly Interval Plan II - Regular Plan - Monthly IDCW;INF789F01EM5;INF789F01EN3;10.0416;;;31-Aug-2018
 120903;UTI Fixed Income Interval Fund - Monthly Interval Plan II-Direct Plan - Growth Option;INF789F01VN7;;23.0088;;;31-Aug-2018
 107193;UTI Fixed Income Interval Fund - Monthly Interval Plan II-Regular Plan - Growth Option;INF789F01EO1;;22.7508;;;31-Aug-2018
-122152;UTI FIIF Quarterly Interval Plan I - Direct Plan - IDCW;INF789F01WG9;INF789F01WH7;10.1534;;;31-Aug-2018
-106057;UTI FIIF Quarterly Interval Plan I - Regular Plan - IDCW;INF789F01GC1;INF789F01GD9;10.1445;;;31-Aug-2018
-106060;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - I) - Regular Plan - Growth Option;INF789F01GE7;;24.143;;;31-Aug-2018
-122165;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - I) -Direct Plan - Growth Option;INF789F01WI5;;24.4066;;;31-Aug-2018
 121412;UTI FIIF Quarterly Interval Plan III - Direct Plan - IDCW;INF789F01WJ3;INF789F01WK1;10.0225;;;31-Aug-2018
 106365;UTI FIIF Quarterly Interval Plan III - Regular Plan - IDCW;INF789F01GI8;INF789F01GJ6;10.018;;;31-Aug-2018
 121413;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - III) - Direct Plan - Growth Option;INF789F01WL9;;24.1343;;;31-Aug-2018
@@ -9922,14 +9908,6 @@ UTI Mutual Fund
 109465;UTI F I I F Series II -Quarterly Interval Plan - IV -Regular Plan - Growth Option;INF789F01GQ1;;21.8996;;;31-Aug-2018
 121033;UTI FIIF Sr-2 Quarterly Interval Plan IV - Direct Plan - IDCW;INF789F01WM7;INF789F01WN5;10.0757;;;31-Aug-2018
 109464;UTI FIIF Sr-2 Quarterly Interval Plan IV - Regular Plan - IDCW;INF789F01GO6;INF789F01GP3;10.0732;;;31-Aug-2018
-121182;UTI F I I F Series II -Quarterly Interval Plan - V - Direct Plan - Growth Option;INF789F01WR6;;22.0523;;;31-Aug-2018
-109617;UTI F I I F Series II -Quarterly Interval Plan - V - Regular Plan - Growth Option;INF789F01GW9;;21.8083;;;31-Aug-2018
-121181;UTI FIIF Sr-2 Quarterly Interval Plan V - Direct Plan - IDCW;INF789F01WP0;INF789F01WQ8;10.0565;;;31-Aug-2018
-109618;UTI FIIF Sr-2 Quarterly Interval Plan V - Regular Plan - IDCW;INF789F01GU3;INF789F01GV1;10.0436;;;31-Aug-2018
-121722;UTI F I I F Series II -Quarterly Interval Plan - VI-Direct Plan - Growth Option;INF789F01WU0;;22.0706;;;31-Aug-2018
-110024;UTI F I I F Series II -Quarterly Interval Plan - VI-Regular Plan - Growth Option;INF789F01HC9;;21.8296;;;31-Aug-2018
-121721;UTI FIIF Sr-2 Quarterly Interval Plan VI - Direct Plan - IDCW;INF789F01WS4;INF789F01WT2;10.1912;;;31-Aug-2018
-110021;UTI FIIF Sr-2 Quarterly Interval Plan VI - Regular Plan - IDCW;INF789F01HA3;INF789F01HB1;10.1864;;;31-Aug-2018
 120877;UTI F I I F Series II -Quarterly Interval Plan - VII - Direct Plan - Growth Option;INF789F01VK3;;22.0302;;;31-Aug-2018
 110468;UTI F I I F Series II -Quarterly Interval Plan - VII - Regular Plan - Growth Option;INF789F01EI3;;21.783;;;31-Aug-2018
 120876;UTI FIIF Sr-2 Quarterly Interval Plan VII - Direct Plan - IDCW;INF789F01VI7;INF789F01VJ5;10.0948;;;31-Aug-2018
@@ -10645,6 +10623,28 @@ UTI Mutual Fund
 143047;UTI FTIF SERIES XXVIII - PLAN XIV (1147 DAYS) - Regular Plan - Quarterly IDCW;INF789FC17M5;;10.1754;;;31-Aug-2018
 143039;UTI FTIF Series XXVIII-XIV (1147 Days) - Direct Plan - Growth OptionI;INF789FC15N7;;10.1783;;;31-Aug-2018
 143044;UTI FTIF Series XXVIII-XIV (1147 Days) - Regular Plan - Growth Option;INF789FC10N8;;10.1761;;;31-Aug-2018
+106185;UTI Annual Interval Fund - I - ( Instn Growth Option );INF789F01FJ8;;25.2982;;;31-Aug-2018
+123663;UTI Annual Interval Fund - I - Direct Plan - Dividend Option;INF789F01VU2;INF789F01VV0;10.6673;;;31-Aug-2018
+123646;UTI Annual Interval Fund - I - Direct Plan - Growth Option;INF789F01VW8;;24.6989;;;31-Aug-2018
+106183;UTI Annual Interval Fund - I - Regular Plan - Growth Option;INF789F01FG4;;24.5625;;;31-Aug-2018
+106186;UTI Annual Interval Fund - I - Regular Plan - IDCW;INF789F01FE9;INF789F01FF6;10.6562;;;31-Aug-2018
+125077;UTI Annual Interval Fund - II - Direct Plan - Growth Option;INF789F01WC8;;24.0027;;;31-Aug-2018
+125078;UTI Annual Interval Fund - II - Direct Plan - IDCW;INF789F01WA2;INF789F01WB0;10.5532;;;31-Aug-2018
+106707;UTI Annual Interval Fund - II - Regular Plan - Growth Option;INF789F01FS9;;23.8736;;;31-Aug-2018
+106706;UTI Annual Interval Fund - II - Regular Plan - IDCW;INF789F01FQ3;INF789F01FR1;10.5388;;;31-Aug-2018
+106709;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Instn Growth Option;INF789F01FV3;;24.5598;;;31-Aug-2018
+122152;UTI Quarterly Interval Fund - I - Direct Plan - IDCW;INF789F01WG9;INF789F01WH7;10.1534;;;31-Aug-2018
+106060;UTI Quarterly Interval Fund - I - Regular Plan - Growth Option;INF789F01GE7;;24.143;;;31-Aug-2018
+106057;UTI Quarterly Interval Fund - I - Regular Plan - IDCW;INF789F01GC1;INF789F01GD9;10.1445;;;31-Aug-2018
+122165;UTI Quarterly Interval Fund - I -Direct Plan - Growth Option;INF789F01WI5;;24.4066;;;31-Aug-2018
+121182;UTI Quarterly Interval Fund - II - Direct Plan - Growth Option;INF789F01WR6;;22.0523;;;31-Aug-2018
+121181;UTI Quarterly Interval Fund - II - Direct Plan - IDCW;INF789F01WP0;INF789F01WQ8;10.0565;;;31-Aug-2018
+109617;UTI Quarterly Interval Fund - II - Regular Plan - Growth Option;INF789F01GW9;;21.8083;;;31-Aug-2018
+109618;UTI Quarterly Interval Fund - II - Regular Plan - IDCW;INF789F01GU3;INF789F01GV1;10.0436;;;31-Aug-2018
+121722;UTI Quarterly Interval Fund - III -Direct Plan - Growth Option;INF789F01WU0;;22.0706;;;31-Aug-2018
+121721;UTI Quarterly Interval Fund - III -Direct Plan - IDCW;INF789F01WS4;INF789F01WT2;10.1912;;;31-Aug-2018
+110024;UTI Quarterly Interval Fund - III -Regular Plan - Growth Option;INF789F01HC9;;21.8296;;;31-Aug-2018
+110021;UTI Quarterly Interval Fund - III -Regular Plan - IDCW;INF789F01HA3;INF789F01HB1;10.1864;;;31-Aug-2018
 
 Close Ended Schemes ( Growth )
 

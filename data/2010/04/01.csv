@@ -702,8 +702,8 @@ Taurus Mutual Fund
 108403;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01740;INF044D01757;39.53;39.13;39.53;01-Apr-2010
 
 UTI Mutual Fund
-100651;UTI - Master Share-Growth Option;INF789F01976;;49.42;49.42;49.42;01-Apr-2010
-100650;UTI Mastershare Unit Scheme - Regular Plan - IDCW;INF189A01038;INF789F01950;29.18;29.18;29.18;01-Apr-2010
+100651;UTI Large Cap Fund - Regular Plan - Growth Option;INF789F01976;;49.42;49.42;49.42;01-Apr-2010
+100650;UTI Large Cap Fund - Regular Plan - IDCW;INF189A01038;INF789F01950;29.18;29.18;29.18;01-Apr-2010
 
 Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
@@ -780,8 +780,8 @@ Tata Mutual Fund
 101824;Tata Large & Mid Cap Fund- Regular Plan - Growth Option;INF277K01428;;80.1979;79.3959;80.1979;01-Apr-2010
 
 UTI Mutual Fund
-100664;UTI - Core Equity Fund - Regular Plan - Growth Option;INF789F01869;;26.89;26.89;26.89;01-Apr-2010
-100663;UTI Core Equity Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;22.08;22.08;22.08;01-Apr-2010
+100664;UTI Large & Mid Cap Fund - Regular Plan - Growth Option;INF789F01869;;26.89;26.89;26.89;01-Apr-2010
+100663;UTI Large & Mid Cap Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;22.08;22.08;22.08;01-Apr-2010
 
 Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
@@ -947,8 +947,8 @@ Tata Mutual Fund
 102428;Tata Equity P/E Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;39.0347;38.6444;39.0347;01-Apr-2010
 
 UTI Mutual Fund
-103097;UTI Value Opportunities Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;12.87;12.87;12.87;01-Apr-2010
-103098;UTI Value Opportunities Fund- Regular Plan - Growth Option;INF789F01AG5;;24.09;24.09;24.09;01-Apr-2010
+103098;UTI Value Fund - Regular Plan - Growth Option;INF789F01AG5;;24.09;24.09;24.09;01-Apr-2010
+103097;UTI Value Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;12.87;12.87;12.87;01-Apr-2010
 
 Open Ended Schemes ( Equity Scheme - Contra Fund )
 
@@ -1201,10 +1201,10 @@ Franklin Templeton Mutual Fund
 100526;Franklin India Taxshield-Growth;INF090I01775;;188.1881;188.1881;188.1881;01-Apr-2010
 
 HDFC Mutual Fund
+101979;HDFC ELSS Tax saver - Growth Plan;INF179K01BB8;;208.199;208.199;208.199;01-Apr-2010
+101980;HDFC ELSS Tax saver - IDCW Plan;INF179K01AZ9;INF179K01BA0;58.49;58.49;58.49;01-Apr-2010
 100998;HDFC Long Term Advantage Plan - Growth Plan;INF179K01996;;120.142;120.142;120.142;01-Apr-2010
 100997;HDFC Long Term Advantage Plan - IDCW Plan;INF179K01970;INF179K01988;35.169;35.169;35.169;01-Apr-2010
-101979;HDFC Taxsaver - Growth Plan;INF179K01BB8;;208.199;208.199;208.199;01-Apr-2010
-101980;HDFC Taxsaver - IDCW Plan;INF179K01AZ9;INF179K01BA0;58.49;58.49;58.49;01-Apr-2010
 
 HSBC Mutual Fund
 104707;HSBC Tax Saver Equity Fund - Growth;INF336L01BA4;;13.9744;13.9744;13.9744;01-Apr-2010
@@ -1219,8 +1219,8 @@ Invesco Mutual Fund
 104635;Invesco India Tax Plan - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;13.09;13.09;13.09;01-Apr-2010
 
 JM Financial Mutual Fund
-107288;JM Tax Gain Fund (Regular) - Growth option;INF192K01650;;7.1358;0.0000;7.1358;01-Apr-2010
-107287;JM Tax Gain Fund (Regular) - IDCW;INF192K01643;;7.1358;0.0000;7.1358;01-Apr-2010
+107288;JM ELSS Tax Saver Fund (Regular) - Growth option;INF192K01650;;7.1358;0.0000;7.1358;01-Apr-2010
+107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;7.1358;0.0000;7.1358;01-Apr-2010
 
 Kotak Mahindra Mutual Fund
 103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;17.243;17.243;17.243;01-Apr-2010
@@ -1259,8 +1259,8 @@ Taurus Mutual Fund
 108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;18.91;18.91;18.91;01-Apr-2010
 
 UTI Mutual Fund
-100821;UTI - Long Term Equity Fund (Tax Saving) - Regular Plan - Growth Option;INF789F01547;;37.84;37.84;37.84;01-Apr-2010
-100820;UTI Long Term Equity Fund ( Tax Saving ) - Regular Plan - IDCW;INF789F01521;INF789F01539;16.09;16.09;16.09;01-Apr-2010
+100821;UTI ELSS Tax Saver Fund - Regular Plan - Growth Option;INF789F01547;;37.84;37.84;37.84;01-Apr-2010
+100820;UTI ELSS Tax Saver Fund - Regular Plan - IDCW;INF789F01521;INF789F01539;16.09;16.09;16.09;01-Apr-2010
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -1395,9 +1395,9 @@ Tata Mutual Fund
 101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;10.0152;10.0152;10.0152;01-Apr-2010
 
 UTI Mutual Fund
-102010;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1019.4457;1019.4457;1019.4457;01-Apr-2010
-102011;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1028.6796;1028.6796;1028.6796;01-Apr-2010
-102013;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;;INF789F01PK5;1024.1707;1024.1707;1024.1707;01-Apr-2010
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1019.4457;1019.4457;1019.4457;01-Apr-2010
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1028.6796;1028.6796;1028.6796;01-Apr-2010
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1024.1707;1024.1707;1024.1707;01-Apr-2010
 102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;1512.0311;1512.0311;1512.0311;01-Apr-2010
 102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1068.0781;1068.0781;1068.0781;01-Apr-2010
 102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;1490.4364;1490.4364;1490.4364;01-Apr-2010
@@ -1667,10 +1667,10 @@ Sundaram Mutual Fund
 112872;Sundaram Regular Savings Fund - Quarterly Dividend;INF903J01HK1;INF903J01HN5;0.0000;0.0000;0.0000;01-Apr-2010
 
 UTI Mutual Fund
-102535;UTI - Regular Savings Fund - Regular Plan - Growth Option;INF789F01893;;19.0684;19.0684;19.0684;01-Apr-2010
-102533;UTI - Regular Savings Fund - Regular Plan - Monthly Payment Option;INF789F01927;;19.0768;19.0768;19.0768;01-Apr-2010
-102534;UTI Regular Savings Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;19.0693;19.0693;19.0693;01-Apr-2010
-102536;UTI Regular Savings Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;13.1226;13.1226;13.1226;01-Apr-2010
+102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;19.0768;19.0768;19.0768;01-Apr-2010
+102534;UTI Conservative Hybrid Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;19.0693;19.0693;19.0693;01-Apr-2010
+102535;UTI Conservative Hybrid Fund - Regular Plan - Growth Option;INF789F01893;;19.0684;19.0684;19.0684;01-Apr-2010
+102536;UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;13.1226;13.1226;13.1226;01-Apr-2010
 
 Open Ended Schemes ( Hybrid Scheme - Balanced Hybrid Fund )
 
@@ -1746,8 +1746,8 @@ Tata Mutual Fund
 101222;Tata Hybrid Equity Fund- Regular Plan - Periodic Payout of IDCW Option;INF277K01DB6;INF277K01295;48.3595;47.8759;48.3595;01-Apr-2010
 
 UTI Mutual Fund
-100684;UTI - Hybrid Equity Fund - Regular Plan - Growth;INF789F01323;;74.54;74.54;74.54;01-Apr-2010
-100685;UTI Hybrid Equity Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;22.45;22.45;22.45;01-Apr-2010
+100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;INF789F01323;;74.54;74.54;74.54;01-Apr-2010
+100685;UTI Aggressive Hybrid Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;22.45;22.45;22.45;01-Apr-2010
 
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
@@ -1788,8 +1788,8 @@ quant Mutual Fund
 101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;20.3859;20.3859;20.3859;01-Apr-2010
 
 UTI Mutual Fund
-111599;UTI - Multi Asset Fund - Regular Plan - Growth Option;INF789F01AP6;;17.21;17.21;17.21;01-Apr-2010
-111602;UTI Multi Asset Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;15.03;15.03;15.03;01-Apr-2010
+111599;UTI Multi Asset Allocation Fund - Regular Plan - Growth Option;INF789F01AP6;;17.21;17.21;17.21;01-Apr-2010
+111602;UTI Multi Asset Allocation Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;15.03;15.03;15.03;01-Apr-2010
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -1852,7 +1852,7 @@ Franklin Templeton Mutual Fund
 100536;Franklin India Pension Plan-Growth;INF090I01510;;54.9155;54.9155;54.9155;01-Apr-2010
 
 UTI Mutual Fund
-100682;UTI - Retirement Benefit Pension Fund - Regular Plan;;;18.5413;18.5413;18.5413;01-Apr-2010
+100682;UTI Retirement Fund - Regular Plan;;;18.5413;18.5413;18.5413;01-Apr-2010
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 

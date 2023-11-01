@@ -304,10 +304,10 @@ Union Mutual Fund
 141250;Union Largecap Fund - Regular Plan - IDCW Option;INF582M01CR3;INF582M01CS1;13.93;;;05-Feb-2021
 
 UTI Mutual Fund
-100651;UTI - Master Share-Growth Option;INF789F01976;;162.6945;;;05-Feb-2021
-120656;UTI - Master Share-Growth Option - Direct;INF789F01US8;;171.478;;;05-Feb-2021
-120657;UTI Mastershare Unit Scheme - Direct Plan - IDCW;INF789F01UQ2;INF789F01UR0;42.1199;;;05-Feb-2021
-100650;UTI Mastershare Unit Scheme - Regular Plan - IDCW;INF189A01038;INF789F01950;37.8522;;;05-Feb-2021
+120656;UTI Large Cap Fund - Direct Plan - Growth Option;INF789F01US8;;171.478;;;05-Feb-2021
+120657;UTI Large Cap Fund - Direct Plan - IDCW;INF789F01UQ2;INF789F01UR0;42.1199;;;05-Feb-2021
+100651;UTI Large Cap Fund - Regular Plan - Growth Option;INF789F01976;;162.6945;;;05-Feb-2021
+100650;UTI Large Cap Fund - Regular Plan - IDCW;INF189A01038;INF789F01950;37.8522;;;05-Feb-2021
 
 Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
@@ -490,10 +490,10 @@ Union Mutual Fund
 147749;Union Large & Midcap Fund - Regular Plan - IDCW Option;INF582M01GG7;INF582M01GF9;12.94;;;05-Feb-2021
 
 UTI Mutual Fund
-120665;UTI - Core Equity Fund - Direct Plan - Growth Option;INF789F01UG3;;80.0356;;;05-Feb-2021
-100664;UTI - Core Equity Fund - Regular Plan - Growth Option;INF789F01869;;77.1622;;;05-Feb-2021
-120664;UTI Core Equity Fund - Direct Plan - IDCW;INF789F01UE8;INF789F01UF5;42.6683;;;05-Feb-2021
-100663;UTI Core Equity Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;40.9296;;;05-Feb-2021
+120665;UTI Large & Mid Cap Fund - Direct Plan - Growth Option;INF789F01UG3;;80.0356;;;05-Feb-2021
+120664;UTI Large & Mid Cap Fund - Direct Plan - IDCW;INF789F01UE8;INF789F01UF5;42.6683;;;05-Feb-2021
+100664;UTI Large & Mid Cap Fund - Regular Plan - Growth Option;INF789F01869;;77.1622;;;05-Feb-2021
+100663;UTI Large & Mid Cap Fund - Regular Plan - IDCW;INF189A01046;INF789F01851;40.9296;;;05-Feb-2021
 
 Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
@@ -953,10 +953,10 @@ Union Mutual Fund
 145472;Union Value Discovery Fund - Regular Plan - IDCW Option;INF582M01EQ1;INF582M01EP3;13.69;;;05-Feb-2021
 
 UTI Mutual Fund
-120752;UTI Value Opportunities Fund - Direct Plan - IDCW;INF789F01UZ3;INF789F01VA4;28.8192;;;05-Feb-2021
-103097;UTI Value Opportunities Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;24.2865;;;05-Feb-2021
-120751;UTI Value Opportunities Fund- Direct Plan - Growth Option;INF789F01VB2;;88.3663;;;05-Feb-2021
-103098;UTI Value Opportunities Fund- Regular Plan - Growth Option;INF789F01AG5;;83.3367;;;05-Feb-2021
+120751;UTI Value Fund - Direct Plan - Growth Option;INF789F01VB2;;88.3663;;;05-Feb-2021
+120752;UTI Value Fund - Direct Plan - IDCW;INF789F01UZ3;INF789F01VA4;28.8192;;;05-Feb-2021
+103098;UTI Value Fund - Regular Plan - Growth Option;INF789F01AG5;;83.3367;;;05-Feb-2021
+103097;UTI Value Fund - Regular Plan - IDCW;INF789F01AE0;INF789F01AF7;24.2865;;;05-Feb-2021
 
 Open Ended Schemes ( Equity Scheme - Contra Fund )
 
@@ -1722,14 +1722,14 @@ Groww Mutual Fund
 141862;Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)-Regular Plan-Growth Option;INF666M01DN1;;11.53;;;05-Feb-2021
 
 HDFC Mutual Fund
+119060;HDFC ELSS Tax saver - Growth Option - Direct Plan;INF179K01YS4;;620.611;;;05-Feb-2021
+101979;HDFC ELSS Tax saver - Growth Plan;INF179K01BB8;;590.312;;;05-Feb-2021
+119059;HDFC ELSS Tax saver - IDCW Option - Direct Plan;INF179K01YQ8;INF179K01YR6;60.971;;;05-Feb-2021
+101980;HDFC ELSS Tax saver - IDCW Plan;INF179K01AZ9;INF179K01BA0;52.363;;;05-Feb-2021
 118929;HDFC Long Term Advantage Plan - Growth Option - Direct Plan;INF179K01WX8;;484.107;;;05-Feb-2021
 100998;HDFC Long Term Advantage Plan - Growth Plan;INF179K01996;;462.496;;;05-Feb-2021
 118928;HDFC Long Term Advantage Plan - IDCW Option - Direct Plan;INF179K01WV2;INF179K01WW0;48.44;;;05-Feb-2021
 100997;HDFC Long Term Advantage Plan - IDCW Plan;INF179K01970;INF179K01988;44.114;;;05-Feb-2021
-119060;HDFC Taxsaver - Growth Option - Direct Plan;INF179K01YS4;;620.611;;;05-Feb-2021
-101979;HDFC Taxsaver - Growth Plan;INF179K01BB8;;590.312;;;05-Feb-2021
-119059;HDFC Taxsaver - IDCW Option - Direct Plan;INF179K01YQ8;INF179K01YR6;60.971;;;05-Feb-2021
-101980;HDFC Taxsaver - IDCW Plan;INF179K01AZ9;INF179K01BA0;52.363;;;05-Feb-2021
 
 HSBC Mutual Fund
 104707;HSBC Tax Saver Equity Fund - Growth;INF336L01BA4;;46.0413;;;05-Feb-2021
@@ -1756,16 +1756,16 @@ Invesco Mutual Fund
 104635;Invesco India Tax Plan - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;22.37;;;05-Feb-2021
 
 ITI Mutual Fund
-147541;ITI Long Term Equity Fund - Direct Plan - Growth Option;INF00XX01390;;13.0201;;;05-Feb-2021
-147542;ITI Long Term Equity Fund - Direct Plan - IDCW Option;INF00XX01408;;12.4652;;;05-Feb-2021
-147544;ITI Long Term Equity Fund - Regular Plan - Growth Option;INF00XX01374;;12.6537;;;05-Feb-2021
-147543;ITI Long Term Equity Fund - Regular Plan - IDCW Option;INF00XX01382;;12.1003;;;05-Feb-2021
+147541;ITI ELSS Tax Saver Fund - Direct Plan - Growth Option;INF00XX01390;;13.0201;;;05-Feb-2021
+147542;ITI ELSS Tax Saver Fund - Direct Plan - IDCW Option;INF00XX01408;;12.4652;;;05-Feb-2021
+147544;ITI ELSS Tax Saver Fund - Regular Plan - Growth Option;INF00XX01374;;12.6537;;;05-Feb-2021
+147543;ITI ELSS Tax Saver Fund - Regular Plan - IDCW Option;INF00XX01382;;12.1003;;;05-Feb-2021
 
 JM Financial Mutual Fund
-120494;JM Tax Gain Fund (Direct) - Growth Option;INF192K01CE3;;25.5988;;;05-Feb-2021
-120493;JM Tax Gain Fund (Direct) - IDCW;INF192K01CD5;;24.9677;;;05-Feb-2021
-107288;JM Tax Gain Fund (Regular) - Growth option;INF192K01650;;23.4483;;;05-Feb-2021
-107287;JM Tax Gain Fund (Regular) - IDCW;INF192K01643;;23.4480;;;05-Feb-2021
+120494;JM ELSS Tax Saver Fund (Direct) - Growth Option;INF192K01CE3;;25.5988;;;05-Feb-2021
+120493;JM ELSS Tax Saver Fund (Direct) - IDCW;INF192K01CD5;;24.9677;;;05-Feb-2021
+107288;JM ELSS Tax Saver Fund (Regular) - Growth option;INF192K01650;;23.4483;;;05-Feb-2021
+107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;23.4480;;;05-Feb-2021
 
 Kotak Mahindra Mutual Fund
 103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;57.105;;;05-Feb-2021
@@ -1920,10 +1920,10 @@ Union Mutual Fund
 116052;Union Tax Saver (ELSS) Fund - IDCW Option;INF582M01328;INF582M01310;18.53;;;05-Feb-2021
 
 UTI Mutual Fund
-120715;UTI - Long Term Equity Fund (Tax Saving) - Direct Plan - Growth Option;INF789F01TF7;;126.2257;;;05-Feb-2021
-100821;UTI - Long Term Equity Fund (Tax Saving) - Regular Plan - Growth Option;INF789F01547;;117.8924;;;05-Feb-2021
-120714;UTI Long Term Equity Fund ( Tax Saving ) - Direct Plan - IDCW;INF789F01TD2;INF789F01TE0;31.8322;;;05-Feb-2021
-100820;UTI Long Term Equity Fund ( Tax Saving ) - Regular Plan - IDCW;INF789F01521;INF789F01539;24.6294;;;05-Feb-2021
+120715;UTI ELSS Tax Saver Fund - Direct Plan - Growth Option;INF789F01TF7;;126.2257;;;05-Feb-2021
+120714;UTI ELSS Tax Saver Fund - Direct Plan - IDCW;INF789F01TD2;INF789F01TE0;31.8322;;;05-Feb-2021
+100821;UTI ELSS Tax Saver Fund - Regular Plan - Growth Option;INF789F01547;;117.8924;;;05-Feb-2021
+100820;UTI ELSS Tax Saver Fund - Regular Plan - IDCW;INF789F01521;INF789F01539;24.6294;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -2698,22 +2698,22 @@ Union Mutual Fund
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1001.2260;;;05-Feb-2021
 
 UTI Mutual Fund
-134427;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1474.9202;;;05-Feb-2021
-120558;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1019.4457;;;05-Feb-2021
-141768;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;INF789FA1K89;INF789FA1K97;1214.8104;;;05-Feb-2021
-140913;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1156.0249;;;05-Feb-2021
-140504;UTI Liquid Cash Plan - Direct Plan - Half-Yearly IDCW;INF789FA1K48;INF789FA1K55;1152.1048;;;05-Feb-2021
-120794;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1025.567;;;05-Feb-2021
-140024;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1392.9613;;;05-Feb-2021
-120777;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;;INF789F01XT0;1053.0246;;;05-Feb-2021
-133973;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1471.3464;;;05-Feb-2021
-102010;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1040.6577;;;05-Feb-2021
-140517;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1212.6565;;;05-Feb-2021
-139838;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1155.1797;;;05-Feb-2021
-144475;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1024.3678;;;05-Feb-2021
-102011;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1025.9539;;;05-Feb-2021
-135721;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;INF789FA1J33;;1389.2388;;;05-Feb-2021
-102013;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.0177;;;05-Feb-2021
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1474.9202;;;05-Feb-2021
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1019.4457;;;05-Feb-2021
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789FA1K89;INF789FA1K97;1214.8104;;;05-Feb-2021
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1156.0249;;;05-Feb-2021
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789FA1K48;INF789FA1K55;1152.1048;;;05-Feb-2021
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1025.567;;;05-Feb-2021
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1392.9613;;;05-Feb-2021
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F01XT0;1053.0246;;;05-Feb-2021
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1471.3464;;;05-Feb-2021
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1040.6577;;;05-Feb-2021
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1212.6565;;;05-Feb-2021
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1155.1797;;;05-Feb-2021
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1024.3678;;;05-Feb-2021
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1025.9539;;;05-Feb-2021
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789FA1J33;;1389.2388;;;05-Feb-2021
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.0177;;;05-Feb-2021
 120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;3353.71;;;05-Feb-2021
 102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;3336.8276;;;05-Feb-2021
 102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1139.4117;;;05-Feb-2021
@@ -3050,26 +3050,26 @@ Tata Mutual Fund
 146070;Tata Ultra Short Term Fund-Regular Plan-Growth;INF277K016S1;;11.2075;;;05-Feb-2021
 
 UTI Mutual Fund
-120746;UTI - Ultra Short Term Fund - Direct Plan - Growth Option;INF789F01TI1;;3393.0273;;;05-Feb-2021
-112083;UTI - Ultra Short Term Fund - Discontinued - INSTN GROWTH OPTION;INF789F01PM1;;2307.0933;;;05-Feb-2021
-112082;UTI - Ultra Short Term Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION;;INF789F01PL3;1001.22;;;05-Feb-2021
-102532;UTI - Ultra Short Term Fund - Regular Plan - Growth Option;INF789F01570;;3241.261;;;05-Feb-2021
-139568;UTI Ultra Short Term Fund - Direct Plan - Annual IDCW;INF789FA1Q42;INF789FA1Q59;1144.3423;;;05-Feb-2021
-120744;UTI Ultra Short Term Fund - Direct Plan - Daily IDCW (Reinvestment);INF789F01TG5;INF789F01TH3;1128.766;;;05-Feb-2021
-121892;UTI Ultra Short Term Fund - Direct Plan - Flexi IDCW;INF789FB1KQ0;INF789FB1KR8;1686.0183;;;05-Feb-2021
-131512;UTI Ultra Short Term Fund - Direct Plan - Fortnightly IDCW;INF789FA1P68;INF789FA1P76;1324.7899;;;05-Feb-2021
-147128;UTI Ultra Short Term Fund - Direct Plan - Half-Yearly IDCW;INF789FA1Q26;INF789FA1Q34;1142.6571;;;05-Feb-2021
-131444;UTI Ultra Short Term Fund - Direct Plan - Monthly IDCW;INF789FA1P84;INF789FA1P92;1092.098;;;05-Feb-2021
-133059;UTI Ultra Short Term Fund - Direct Plan - Quarterly IDCW;INF789FA1Q00;INF789FA1Q18;1408.8238;;;05-Feb-2021
-120745;UTI Ultra Short Term Fund - Direct Plan - Weekly IDCW (Reinvestment);INF789FB1S63;;1083.3235;;;05-Feb-2021
-134484;UTI Ultra Short Term Fund - Regular Plan - Annual IDCW;INF789FA1P43;INF789FA1P50;1137.9969;;;05-Feb-2021
-109501;UTI Ultra Short Term Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01554;1046.1477;;;05-Feb-2021
-121891;UTI Ultra Short Term Fund - Regular Plan - Flexi IDCW;INF789FB1KS6;INF789FB1KT4;1328.5774;;;05-Feb-2021
-131511;UTI Ultra Short Term Fund - Regular Plan - Fortnightly IDCW;INF789FA1O69;INF789FA1O77;1320.4973;;;05-Feb-2021
-134799;UTI Ultra Short Term Fund - Regular Plan - Half-Yearly IDCW;INF789FA1P27;INF789FA1P35;1125.9772;;;05-Feb-2021
-131445;UTI Ultra Short Term Fund - Regular Plan - Monthly IDCW;INF789FA1O85;INF789FA1O93;1035.004;;;05-Feb-2021
-133873;UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW;INF789FA1P01;INF789FA1P19;1098.6921;;;05-Feb-2021
-102531;UTI Ultra Short Term Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF789F01562;1082.3744;;;05-Feb-2021
+139568;UTI Ultra Short Duration Fund - Direct Plan - Annual IDCW;INF789FA1Q42;INF789FA1Q59;1144.3423;;;05-Feb-2021
+120744;UTI Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment);INF789F01TG5;INF789F01TH3;1128.766;;;05-Feb-2021
+121892;UTI Ultra Short Duration Fund - Direct Plan - Flexi IDCW;INF789FB1KQ0;INF789FB1KR8;1686.0183;;;05-Feb-2021
+131512;UTI Ultra Short Duration Fund - Direct Plan - Fortnightly IDCW;INF789FA1P68;INF789FA1P76;1324.7899;;;05-Feb-2021
+120746;UTI Ultra Short Duration Fund - Direct Plan - Growth Option;INF789F01TI1;;3393.0273;;;05-Feb-2021
+147128;UTI Ultra Short Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FA1Q26;INF789FA1Q34;1142.6571;;;05-Feb-2021
+131444;UTI Ultra Short Duration Fund - Direct Plan - Monthly IDCW;INF789FA1P84;INF789FA1P92;1092.098;;;05-Feb-2021
+133059;UTI Ultra Short Duration Fund - Direct Plan - Quarterly IDCW;INF789FA1Q00;INF789FA1Q18;1408.8238;;;05-Feb-2021
+120745;UTI Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Reinvestment);INF789FB1S63;;1083.3235;;;05-Feb-2021
+112083;UTI Ultra Short Duration Fund - Discontinued - INSTN GROWTH OPTION;INF789F01PM1;;2307.0933;;;05-Feb-2021
+112082;UTI Ultra Short Duration Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION;;INF789F01PL3;1001.22;;;05-Feb-2021
+134484;UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW;INF789FA1P43;INF789FA1P50;1137.9969;;;05-Feb-2021
+109501;UTI Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01554;1046.1477;;;05-Feb-2021
+121891;UTI Ultra Short Duration Fund - Regular Plan - Flexi IDCW;INF789FB1KS6;INF789FB1KT4;1328.5774;;;05-Feb-2021
+131511;UTI Ultra Short Duration Fund - Regular Plan - Fortnightly IDCW;INF789FA1O69;INF789FA1O77;1320.4973;;;05-Feb-2021
+102532;UTI Ultra Short Duration Fund - Regular Plan - Growth Option;INF789F01570;;3241.261;;;05-Feb-2021
+134799;UTI Ultra Short Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1P27;INF789FA1P35;1125.9772;;;05-Feb-2021
+131445;UTI Ultra Short Duration Fund - Regular Plan - Monthly IDCW;INF789FA1O85;INF789FA1O93;1035.004;;;05-Feb-2021
+133873;UTI Ultra Short Duration Fund - Regular Plan - Quarterly IDCW;INF789FA1P01;INF789FA1P19;1098.6921;;;05-Feb-2021
+102531;UTI Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF789F01562;1082.3744;;;05-Feb-2021
 
 WhiteOak Capital Mutual Fund
 147316;WhiteOak Capital Ultra Short Term Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01175;1001.4492;;;05-Feb-2021
@@ -3442,32 +3442,32 @@ Tata Mutual Fund
 147399;Tata Treasury Advantage Fund-Regular Plan - Growth Option (Segregated Portfolio 1);INF277K010U0;;31.1216;;;05-Feb-2021
 
 UTI Mutual Fund
-120738;UTI - Treasury Advantage Fund - Direct Plan - Bonus Option;INF789F01XH5;;2194.0553;;;05-Feb-2021
-120735;UTI - Treasury Advantage Fund - Direct Plan - Growth Option;INF789F01XI3;;2625.9692;;;05-Feb-2021
-102538;UTI - Treasury Advantage Fund - Discontinued - Annaul Dividend Option;INF789F01OK8;INF789F01OL6;2509.826;;;05-Feb-2021
-105578;UTI - Treasury Advantage Fund - Discontinued - Periodic Dividend Plan;;INF789F01349;1035.544;;;05-Feb-2021
-102541;UTI - Treasury Advantage Fund - Discontinued - Quarterly Dividend Option;INF789F01OO0;INF789F01OP7;1702.0255;;;05-Feb-2021
-102539;UTI - Treasury Advantage Fund - Discontinued Bonus Option;INF789F01OM4;;3113.6584;;;05-Feb-2021
-105659;UTI - Treasury Advantage Fund - Discontinued Flexi Dividend Plan;INF789F01PA6;;1073.7765;;;05-Feb-2021
-102540;UTI - Treasury Advantage Fund - Discontinued Growth Option;INF789F01331;;4671.0062;;;05-Feb-2021
-105670;UTI - Treasury Advantage Fund - Discontinued Monthly Dividend Option;INF789F01OY9;INF789F01OZ6;1048.6139;;;05-Feb-2021
-102545;UTI - Treasury Advantage Fund - Regular Plan - Bonus Option;INF789F01OS1;;2170.5978;;;05-Feb-2021
-102544;UTI - Treasury Advantage Fund - Regular Plan - Growth Option;INF789F01OT9;;2597.0665;;;05-Feb-2021
-141958;UTI Treasury Advantage Fund - Direct Plan - Annual IDCW;INF789F01XF9;INF789F01XG7;1049.0609;;;05-Feb-2021
-120737;UTI Treasury Advantage Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XE2;1002.5821;;;05-Feb-2021
-133127;UTI Treasury Advantage Fund - Direct Plan - Flexi IDCW;INF789FA1O44;INF789FA1O51;1191.4411;;;05-Feb-2021
-135191;UTI Treasury Advantage Fund - Direct Plan - Fortnightly IDCW;INF789FA1O02;INF789FA1O10;1333.158;;;05-Feb-2021
-133469;UTI Treasury Advantage Fund - Direct Plan - Half-Yearly IDCW;INF789FA1O28;INF789FA1O36;1087.2627;;;05-Feb-2021
-120736;UTI Treasury Advantage Fund - Direct Plan - Monthly IDCW;INF789F01XJ1;INF789F01XK9;1025.2516;;;05-Feb-2021
-120734;UTI Treasury Advantage Fund - Direct Plan - Quarterly IDCW;INF789F01XL7;INF789F01XM5;1407.9689;;;05-Feb-2021
-120739;UTI Treasury Advantage Fund - Direct Plan - Weekly IDCW;INF789F01XN3;INF789F01XO1;1017.6499;;;05-Feb-2021
-105605;UTI Treasury Advantage Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01ON2;1000.966;;;05-Feb-2021
-133130;UTI Treasury Advantage Fund - Regular Plan - Flexi IDCW;INF789FA1N86;INF789FA1N94;1064.8198;;;05-Feb-2021
-133733;UTI Treasury Advantage Fund - Regular Plan - Fortnightly IDCW;INF789FA1N45;INF789FA1N52;1324.6452;;;05-Feb-2021
-136345;UTI Treasury Advantage Fund - Regular Plan - Half-Yearly IDCW;INF789FA1N60;INF789FA1N78;1054.9491;;;05-Feb-2021
-105658;UTI Treasury Advantage Fund - Regular Plan - Monthly IDCW;INF789F01OU7;INF789F01OV5;1021.0077;;;05-Feb-2021
-115483;UTI Treasury Advantage Fund - Regular Plan - Quarterly IDCW;INF789F01OW3;INF789F01OX1;1142.8987;;;05-Feb-2021
-105627;UTI Treasury Advantage Fund - Regular Plan - Weekly IDCW;INF789F01PB4;INF789F01PC2;1003.4868;;;05-Feb-2021
+141958;UTI Low Duration Fund - Direct Plan - Annual IDCW;INF789F01XF9;INF789F01XG7;1049.0609;;;05-Feb-2021
+120738;UTI Low Duration Fund - Direct Plan - Bonus Option;INF789F01XH5;;2194.0553;;;05-Feb-2021
+120737;UTI Low Duration Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XE2;1002.5821;;;05-Feb-2021
+133127;UTI Low Duration Fund - Direct Plan - Flexi IDCW;INF789FA1O44;INF789FA1O51;1191.4411;;;05-Feb-2021
+135191;UTI Low Duration Fund - Direct Plan - Fortnightly IDCW;INF789FA1O02;INF789FA1O10;1333.158;;;05-Feb-2021
+120735;UTI Low Duration Fund - Direct Plan - Growth Option;INF789F01XI3;;2625.9692;;;05-Feb-2021
+133469;UTI Low Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FA1O28;INF789FA1O36;1087.2627;;;05-Feb-2021
+120736;UTI Low Duration Fund - Direct Plan - Monthly IDCW;INF789F01XJ1;INF789F01XK9;1025.2516;;;05-Feb-2021
+120734;UTI Low Duration Fund - Direct Plan - Quarterly IDCW;INF789F01XL7;INF789F01XM5;1407.9689;;;05-Feb-2021
+120739;UTI Low Duration Fund - Direct Plan - Weekly IDCW;INF789F01XN3;INF789F01XO1;1017.6499;;;05-Feb-2021
+102538;UTI Low Duration Fund - Discontinued - Annaul Dividend Option;INF789F01OK8;INF789F01OL6;2509.826;;;05-Feb-2021
+105578;UTI Low Duration Fund - Discontinued - Periodic Dividend Plan;;INF789F01349;1035.544;;;05-Feb-2021
+102541;UTI Low Duration Fund - Discontinued - Quarterly Dividend Option;INF789F01OO0;INF789F01OP7;1702.0255;;;05-Feb-2021
+102539;UTI Low Duration Fund - Discontinued Bonus Option;INF789F01OM4;;3113.6584;;;05-Feb-2021
+105659;UTI Low Duration Fund - Discontinued Flexi Dividend Plan;INF789F01PA6;;1073.7765;;;05-Feb-2021
+102540;UTI Low Duration Fund - Discontinued Growth Option;INF789F01331;;4671.0062;;;05-Feb-2021
+105670;UTI Low Duration Fund - Discontinued Monthly Dividend Option;INF789F01OY9;INF789F01OZ6;1048.6139;;;05-Feb-2021
+102545;UTI Low Duration Fund - Regular Plan - Bonus Option;INF789F01OS1;;2170.5978;;;05-Feb-2021
+105605;UTI Low Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01ON2;1000.966;;;05-Feb-2021
+133130;UTI Low Duration Fund - Regular Plan - Flexi IDCW;INF789FA1N86;INF789FA1N94;1064.8198;;;05-Feb-2021
+133733;UTI Low Duration Fund - Regular Plan - Fortnightly IDCW;INF789FA1N45;INF789FA1N52;1324.6452;;;05-Feb-2021
+102544;UTI Low Duration Fund - Regular Plan - Growth Option;INF789F01OT9;;2597.0665;;;05-Feb-2021
+136345;UTI Low Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1N60;INF789FA1N78;1054.9491;;;05-Feb-2021
+105658;UTI Low Duration Fund - Regular Plan - Monthly IDCW;INF789F01OU7;INF789F01OV5;1021.0077;;;05-Feb-2021
+115483;UTI Low Duration Fund - Regular Plan - Quarterly IDCW;INF789F01OW3;INF789F01OX1;1142.8987;;;05-Feb-2021
+105627;UTI Low Duration Fund - Regular Plan - Weekly IDCW;INF789F01PB4;INF789F01PC2;1003.4868;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Money Market Fund )
 
@@ -3964,19 +3964,19 @@ Tata Mutual Fund
 133975;Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option;INF277K01P12;INF277K01P20;19.9988;;;05-Feb-2021
 
 UTI Mutual Fund
-120718;UTI - Short Term Income Fund - Direct Plan - Growth Option;INF789F01XY0;;24.1876;;;05-Feb-2021
-106383;UTI - Short Term Income Fund - Discontinued Regular Option - Dividend Sub Option;INF789F01AH3;INF789F01AI1;17.5573;;;05-Feb-2021
-106384;UTI - Short Term Income Fund - Discontinued Regular Option -Growth Sub Option;INF789F01AJ9;;33.213;;;05-Feb-2021
-106624;UTI - Short Term Income Fund - Regular Plan - Growth Option;INF789F01QA4;;23.3027;;;05-Feb-2021
-135497;UTI Short Term Income Fund - Direct Plan - Annual IDCW;INF789FA1R33;INF789FA1R41;11.4272;;;05-Feb-2021
-124962;UTI Short Term Income Fund - Direct Plan - Flexi IDCW;INF789FB1T70;INF789FB1T62;14.319;;;05-Feb-2021
-131548;UTI Short Term Income Fund - Direct Plan - Monthly IDCW;INF789F01XZ7;INF789F01YA8;10.3873;;;05-Feb-2021
-120719;UTI Short Term Income Fund - Direct Plan - Quarterly IDCW;INF789FA1R66;INF789FA1R74;13.6763;;;05-Feb-2021
-134517;UTI Short Term Income Fund - Regular Plan - Annual IDCW;INF789FA1Q91;INF789FA1R09;11.2675;;;05-Feb-2021
-125045;UTI Short Term Income Fund - Regular Plan - Flexi IDCW;INF789FB1T54;INF789FB1T47;14.2683;;;05-Feb-2021
-131424;UTI Short Term Income Fund - Regular Plan - Half-Yearly IDCW;INF789FA1Q75;INF789FA1Q83;10.8842;;;05-Feb-2021
-131547;UTI Short Term Income Fund - Regular Plan - Monthly IDCW;INF789F01QB2;INF789F01QC0;10.4985;;;05-Feb-2021
-106980;UTI Short Term Income Fund - Regular Plan - Quarterly IDCW;INF789FC1GD5;INF789FA1R58;12.5826;;;05-Feb-2021
+135497;UTI Short Duration Fund - Direct Plan - Annual IDCW;INF789FA1R33;INF789FA1R41;11.4272;;;05-Feb-2021
+124962;UTI Short Duration Fund - Direct Plan - Flexi IDCW;INF789FB1T70;INF789FB1T62;14.319;;;05-Feb-2021
+120718;UTI Short Duration Fund - Direct Plan - Growth Option;INF789F01XY0;;24.1876;;;05-Feb-2021
+131548;UTI Short Duration Fund - Direct Plan - Monthly IDCW;INF789F01XZ7;INF789F01YA8;10.3873;;;05-Feb-2021
+120719;UTI Short Duration Fund - Direct Plan - Quarterly IDCW;INF789FA1R66;INF789FA1R74;13.6763;;;05-Feb-2021
+106383;UTI Short Duration Fund - Discontinued Regular Option - Dividend Sub Option;INF789F01AH3;INF789F01AI1;17.5573;;;05-Feb-2021
+106384;UTI Short Duration Fund - Discontinued Regular Option -Growth Sub Option;INF789F01AJ9;;33.213;;;05-Feb-2021
+134517;UTI Short Duration Fund - Regular Plan - Annual IDCW;INF789FA1Q91;INF789FA1R09;11.2675;;;05-Feb-2021
+125045;UTI Short Duration Fund - Regular Plan - Flexi IDCW;INF789FB1T54;INF789FB1T47;14.2683;;;05-Feb-2021
+106624;UTI Short Duration Fund - Regular Plan - Growth Option;INF789F01QA4;;23.3027;;;05-Feb-2021
+131424;UTI Short Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1Q75;INF789FA1Q83;10.8842;;;05-Feb-2021
+131547;UTI Short Duration Fund - Regular Plan - Monthly IDCW;INF789F01QB2;INF789F01QC0;10.4985;;;05-Feb-2021
+106980;UTI Short Duration Fund - Regular Plan - Quarterly IDCW;INF789FC1GD5;INF789FA1R58;12.5826;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Medium Duration Fund )
 
@@ -4156,18 +4156,6 @@ Union Mutual Fund
 148478;Union Medium Duration Fund - Regular Plan - IDCW Option;INF582M01GW4;INF582M01GV6;10.1271;;;05-Feb-2021
 
 UTI Mutual Fund
-134505;UTI Medium Term Fund - Direct Plan - Annual IDCW;INF789FB1KL1;INF789FB1KM9;11.8277;;;05-Feb-2021
-134506;UTI Medium Term Fund - Direct Plan - Flexi IDCW;INF789FB1KO5;INF789FB1KN7;11.8384;;;05-Feb-2021
-134503;UTI Medium Term Fund - Direct Plan - Growth Option;INF789FB1KE6;;14.5551;;;05-Feb-2021
-134504;UTI Medium Term Fund - Direct Plan - Half-Yearly IDCW;INF789FB1KJ5;INF789FB1KK3;11.6113;;;05-Feb-2021
-134501;UTI Medium Term Fund - Direct Plan - Monthly IDCW;INF789FB1KF3;INF789FB1KG1;10.1755;;;05-Feb-2021
-134502;UTI Medium Term Fund - Direct Plan - Quarterly IDCW;INF789FB1KH9;INF789FB1KI7;11.2698;;;05-Feb-2021
-134500;UTI Medium Term Fund - Regular Plan - Annual IDCW;INF789FB1KA4;INF789FB1KB2;11.3028;;;05-Feb-2021
-134498;UTI Medium Term Fund - Regular Plan - Flexi IDCW;INF789FB1KC0;INF789FB1KD8;10.8377;;;05-Feb-2021
-134499;UTI Medium Term Fund - Regular Plan - Growth Option;INF789FB1JU4;;13.9671;;;05-Feb-2021
-134497;UTI Medium Term Fund - Regular Plan - Half-Yearly IDCW;INF789FB1JY6;INF789FB1JZ3;11.0737;;;05-Feb-2021
-134495;UTI Medium Term Fund - Regular Plan - Monthly IDCW;INF789FB1JV2;INF789FB1KP2;10.0721;;;05-Feb-2021
-134496;UTI Medium Term Fund - Regular Plan - Quarterly IDCW;INF789FB1JW0;INF789FB1JX8;10.7515;;;05-Feb-2021
 148248;UTI - Medium Term Fund (Segregated - 06032020) - Direct Plan - Annual Dividend Option;INF789F1ASC5;INF789F1ASD3;0;;;05-Feb-2021
 148249;UTI - Medium Term Fund (Segregated - 06032020) - Direct Plan - Flexi Dividend Option;INF789F1ASG6;INF789F1ASH4;0;;;05-Feb-2021
 148257;UTI - Medium Term Fund (Segregated - 06032020) - Direct Plan - Growth Option;INF789F1ASB7;;0;;;05-Feb-2021
@@ -4192,6 +4180,18 @@ UTI Mutual Fund
 148133;UTI Medium Term Fund ( Segregated - 17022020 ) - Regular Plan - Half-Yearly IDCW;INF789F1AOQ4;INF789F1AOR2;0.0638;;;05-Feb-2021
 148132;UTI Medium Term Fund ( Segregated - 17022020 ) - Regular Plan - Monthly IDCW;INF789F1AOU6;INF789F1AOV4;0.0581;;;05-Feb-2021
 148130;UTI Medium Term Fund ( Segregated - 17022020 ) - Regular Plan - Quarterly IDCW;INF789F1AOL5;INF789F1AOM3;0.0629;;;05-Feb-2021
+134505;UTI Medium Duration Fund - Direct Plan - Annual IDCW;INF789FB1KL1;INF789FB1KM9;11.8277;;;05-Feb-2021
+134506;UTI Medium Duration Fund - Direct Plan - Flexi IDCW;INF789FB1KO5;INF789FB1KN7;11.8384;;;05-Feb-2021
+134503;UTI Medium Duration Fund - Direct Plan - Growth Option;INF789FB1KE6;;14.5551;;;05-Feb-2021
+134504;UTI Medium Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FB1KJ5;INF789FB1KK3;11.6113;;;05-Feb-2021
+134501;UTI Medium Duration Fund - Direct Plan - Monthly IDCW;INF789FB1KF3;INF789FB1KG1;10.1755;;;05-Feb-2021
+134502;UTI Medium Duration Fund - Direct Plan - Quarterly IDCW;INF789FB1KH9;INF789FB1KI7;11.2698;;;05-Feb-2021
+134500;UTI Medium Duration Fund - Regular Plan - Annual IDCW;INF789FB1KA4;INF789FB1KB2;11.3028;;;05-Feb-2021
+134498;UTI Medium Duration Fund - Regular Plan - Flexi IDCW;INF789FB1KC0;INF789FB1KD8;10.8377;;;05-Feb-2021
+134499;UTI Medium Duration Fund - Regular Plan - Growth Option;INF789FB1JU4;;13.9671;;;05-Feb-2021
+134497;UTI Medium Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FB1JY6;INF789FB1JZ3;11.0737;;;05-Feb-2021
+134495;UTI Medium Duration Fund - Regular Plan - Monthly IDCW;INF789FB1JV2;INF789FB1KP2;10.0721;;;05-Feb-2021
+134496;UTI Medium Duration Fund - Regular Plan - Quarterly IDCW;INF789FB1JW0;INF789FB1JX8;10.7515;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Medium to Long Duration Fund )
 
@@ -4316,16 +4316,16 @@ Tata Mutual Fund
 100417;Tata Income Fund-Regular Plan - Half Yearly Payout of IDCW Option;INF277K01DU6;INF277K01675;14.8623;;;05-Feb-2021
 
 UTI Mutual Fund
-139339;UTI Bond Fund - Direct Plan - Annual IDCW;INF789FA1T80;;11.0502;;;05-Feb-2021
-133280;UTI Bond Fund - Direct Plan - Flexi IDCW;INF789FA1U04;INF789FA1U12;11.3512;;;05-Feb-2021
-134998;UTI Bond Fund - Direct Plan - Half-Yearly IDCW;INF789FA1T64;INF789FA1T72;10.3946;;;05-Feb-2021
-120690;UTI Bond Fund - Direct Plan - Quarterly IDCW;INF789F01SO1;INF789F01SP8;17.0149;;;05-Feb-2021
-133869;UTI Bond Fund - Regular Plan - Annual IDCW;INF789FA1T23;INF789FA1T31;10.6386;;;05-Feb-2021
-133872;UTI Bond Fund - Regular Plan - Flexi IDCW;INF789FA1T49;INF789FA1T56;10.6412;;;05-Feb-2021
-135581;UTI Bond Fund - Regular Plan - Half-Yearly IDCW;INF789FA1T07;INF789FA1T15;10.4396;;;05-Feb-2021
-100742;UTI Bond Fund - Regular Plan - Quarterly IDCW;INF789F01380;INF789F01398;13.5292;;;05-Feb-2021
-100741;UTI Bond Fund- Regular Plan - Growth;INF789F01406;;50.285;;;05-Feb-2021
-120689;UTI Bond Fund-Growth - Direct;INF789F01SQ6;;53.9152;;;05-Feb-2021
+139339;UTI Medium to Long Duration Fund - Direct Plan - Annual IDCW;INF789FA1T80;;11.0502;;;05-Feb-2021
+133280;UTI Medium to Long Duration Fund - Direct Plan - Flexi IDCW;INF789FA1U04;INF789FA1U12;11.3512;;;05-Feb-2021
+134998;UTI Medium to Long Duration Fund - Direct Plan - Half-Yearly IDCW;INF789FA1T64;INF789FA1T72;10.3946;;;05-Feb-2021
+120690;UTI Medium to Long Duration Fund - Direct Plan - Quarterly IDCW;INF789F01SO1;INF789F01SP8;17.0149;;;05-Feb-2021
+133869;UTI Medium to Long Duration Fund - Regular Plan - Annual IDCW;INF789FA1T23;INF789FA1T31;10.6386;;;05-Feb-2021
+133872;UTI Medium to Long Duration Fund - Regular Plan - Flexi IDCW;INF789FA1T49;INF789FA1T56;10.6412;;;05-Feb-2021
+135581;UTI Medium to Long Duration Fund - Regular Plan - Half-Yearly IDCW;INF789FA1T07;INF789FA1T15;10.4396;;;05-Feb-2021
+100742;UTI Medium to Long Duration Fund - Regular Plan - Quarterly IDCW;INF789F01380;INF789F01398;13.5292;;;05-Feb-2021
+100741;UTI Medium to Long Duration Fund- Regular Plan - Growth;INF789F01406;;50.285;;;05-Feb-2021
+120689;UTI Medium to Long Duration Fund-Growth - Direct;INF789F01SQ6;;53.9152;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Long Duration Fund )
 
@@ -5324,18 +5324,18 @@ Trust Mutual Fund
 148679;TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01032;995.01;;;05-Feb-2021
 
 UTI Mutual Fund
-140135;UTI Banking & PSU Debt Fund - Direct Plan - Annual IDCW;INF789FA1V03;INF789FA1V11;11.4197;;;05-Feb-2021
-133972;UTI Banking & PSU Debt Fund - Direct Plan - Flexi IDCW;INF789FA1V29;INF789FA1V37;13.9143;;;05-Feb-2021
-126940;UTI Banking & PSU Debt Fund - Direct Plan - Growth Option;INF789F015Z6;;16.1465;;;05-Feb-2021
-141375;UTI Banking & PSU Debt Fund - Direct Plan - Half-Yearly IDCW;INF789FA1U87;INF789FA1U95;11.1347;;;05-Feb-2021
-134026;UTI Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;INF789FC1HE1;INF789FC1HF8;11.9885;;;05-Feb-2021
-126942;UTI Banking & PSU Debt Fund - Direct Plan - Quarterly IDCW;INF789F016Z4;INF789F017Z2;12.4567;;;05-Feb-2021
-140116;UTI Banking & PSU Debt Fund - Regular Plan - Annual IDCW;INF789FA1U46;INF789FA1U53;11.3527;;;05-Feb-2021
-133971;UTI Banking & PSU Debt Fund - Regular Plan - Flexi IDCW;INF789FA1U61;INF789FA1U79;11.2558;;;05-Feb-2021
-139407;UTI Banking & PSU Debt Fund - Regular Plan - Half-Yearly IDCW;INF789FA1U20;INF789FA1U38;11.1335;;;05-Feb-2021
-136110;UTI Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;INF789FC1HC5;INF789FC1HD3;11.9385;;;05-Feb-2021
-126941;UTI Banking & PSU Debt Fund - Regular Plan - Quarterly IDCW;INF789F012Z3;INF789F013Z1;11.4486;;;05-Feb-2021
-126939;UTI Banking & PSU Debt Fund- Regular Plan - Growth Option;INF789F014Z9;;16.0425;;;05-Feb-2021
+140135;UTI Banking & PSU Fund - Direct Plan - Annual IDCW;INF789FA1V03;INF789FA1V11;11.4197;;;05-Feb-2021
+133972;UTI Banking & PSU Fund - Direct Plan - Flexi IDCW;INF789FA1V29;INF789FA1V37;13.9143;;;05-Feb-2021
+126940;UTI Banking & PSU Fund - Direct Plan - Growth Option;INF789F015Z6;;16.1465;;;05-Feb-2021
+141375;UTI Banking & PSU Fund - Direct Plan - Half-Yearly IDCW;INF789FA1U87;INF789FA1U95;11.1347;;;05-Feb-2021
+134026;UTI Banking & PSU Fund - Direct Plan - Monthly IDCW;INF789FC1HE1;INF789FC1HF8;11.9885;;;05-Feb-2021
+126942;UTI Banking & PSU Fund - Direct Plan - Quarterly IDCW;INF789F016Z4;INF789F017Z2;12.4567;;;05-Feb-2021
+140116;UTI Banking & PSU Fund - Regular Plan - Annual IDCW;INF789FA1U46;INF789FA1U53;11.3527;;;05-Feb-2021
+133971;UTI Banking & PSU Fund - Regular Plan - Flexi IDCW;INF789FA1U61;INF789FA1U79;11.2558;;;05-Feb-2021
+139407;UTI Banking & PSU Fund - Regular Plan - Half-Yearly IDCW;INF789FA1U20;INF789FA1U38;11.1335;;;05-Feb-2021
+136110;UTI Banking & PSU Fund - Regular Plan - Monthly IDCW;INF789FC1HC5;INF789FC1HD3;11.9385;;;05-Feb-2021
+126941;UTI Banking & PSU Fund - Regular Plan - Quarterly IDCW;INF789F012Z3;INF789F013Z1;11.4486;;;05-Feb-2021
+126939;UTI Banking & PSU Fund- Regular Plan - Growth Option;INF789F014Z9;;16.0425;;;05-Feb-2021
 
 Open Ended Schemes ( Debt Scheme - Gilt Fund )
 
@@ -5814,14 +5814,14 @@ UTI Mutual Fund
 148109;UTI Regular Saving Fund ( Segregated - 17022020) - Direct Plan - Monthly IDCW;INF789F1AQN6;INF789F1AQO4;0.3319;;;05-Feb-2021
 148111;UTI Regular Saving Fund ( Segregated - 17022020) - Regular Plan - Flexi IDCW;INF789F1AQK2;INF789F1AQL0;0.7383;;;05-Feb-2021
 148104;UTI Regular Saving Fund ( Segregated - 17022020) - Regular Plan - Monthly IDCW;INF789F1AQH8;INF789F1AQI6;0.3124;;;05-Feb-2021
-120779;UTI - Regular Savings Fund - Direct Plan - Growth Option;INF789F01UJ7;;48.6623;;;05-Feb-2021
-120790;UTI - Regular Savings Fund - Direct Plan - Monthly Payment Option;INF789F01UM1;;47.8708;;;05-Feb-2021
-102535;UTI - Regular Savings Fund - Regular Plan - Growth Option;INF789F01893;;46.1697;;;05-Feb-2021
-102533;UTI - Regular Savings Fund - Regular Plan - Monthly Payment Option;INF789F01927;;46.1933;;;05-Feb-2021
-120789;UTI Regular Savings Fund - Direct Plan - Flexi IDCW;INF789F01UH1;INF789F01UI9;38.6688;;;05-Feb-2021
-120778;UTI Regular Savings Fund - Direct Plan - Monthly IDCW;INF789F01UK5;INF789F01UL3;16.2522;;;05-Feb-2021
-102534;UTI Regular Savings Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;36.3527;;;05-Feb-2021
-102536;UTI Regular Savings Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;15.176;;;05-Feb-2021
+102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;46.1933;;;05-Feb-2021
+120789;UTI Conservative Hybrid Fund - Direct Plan - Flexi IDCW;INF789F01UH1;INF789F01UI9;38.6688;;;05-Feb-2021
+120779;UTI Conservative Hybrid Fund - Direct Plan - Growth Option;INF789F01UJ7;;48.6623;;;05-Feb-2021
+120778;UTI Conservative Hybrid Fund - Direct Plan - Monthly IDCW;INF789F01UK5;INF789F01UL3;16.2522;;;05-Feb-2021
+120790;UTI Conservative Hybrid Fund - Direct Plan - Monthly Payment Option;INF789F01UM1;;47.8708;;;05-Feb-2021
+102534;UTI Conservative Hybrid Fund - Regular Plan - Flexi IDCW;INF789F01877;INF789F01885;36.3527;;;05-Feb-2021
+102535;UTI Conservative Hybrid Fund - Regular Plan - Growth Option;INF789F01893;;46.1697;;;05-Feb-2021
+102536;UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW;INF789F01901;INF789F01919;15.176;;;05-Feb-2021
 
 Open Ended Schemes ( Hybrid Scheme - Balanced Hybrid Fund )
 
@@ -6097,10 +6097,10 @@ Union Mutual Fund
 148590;Union Hybrid Equity Fund - Regular Plan - IDCW Option;INF582M01HE0;INF582M01HD2;10.55;;;05-Feb-2021
 
 UTI Mutual Fund
-100684;UTI - Hybrid Equity Fund - Regular Plan - Growth;INF789F01323;;205.4898;;;05-Feb-2021
-120674;UTI - Hybrid Equity Fund -Direct Plan - Growth;INF789F01SK9;;214.9027;;;05-Feb-2021
-120673;UTI Hybrid Equity Fund - Direct Plan - IDCW;INF789F01SI3;INF789F01SJ1;31.5631;;;05-Feb-2021
-100685;UTI Hybrid Equity Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;29.7638;;;05-Feb-2021
+120673;UTI Aggressive Hybrid Fund - Direct Plan - IDCW;INF789F01SI3;INF789F01SJ1;31.5631;;;05-Feb-2021
+100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;INF789F01323;;205.4898;;;05-Feb-2021
+100685;UTI Aggressive Hybrid Fund - Regular Plan - IDCW;INF789F01307;INF789F01315;29.7638;;;05-Feb-2021
+120674;UTI Aggressive Hybrid Fund -Direct Plan - Growth;INF789F01SK9;;214.9027;;;05-Feb-2021
 
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
@@ -6317,10 +6317,10 @@ Tata Mutual Fund
 148050;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;INF277K012Z5;;13.1208;;;05-Feb-2021
 
 UTI Mutual Fund
-111599;UTI - Multi Asset Fund - Regular Plan - Growth Option;INF789F01AP6;;40.1669;;;05-Feb-2021
-120760;UTI - Multi Asset Fund- Direct Plan - Growth Option;INF789F01VE6;;42.7506;;;05-Feb-2021
-120761;UTI Multi Asset Fund - Direct Plan - IDCW;INF789F01VC0;INF789F01VD8;20.7707;;;05-Feb-2021
-111602;UTI Multi Asset Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;19.1009;;;05-Feb-2021
+120760;UTI Multi Asset Allocation Fund - Direct Plan - Growth Option;INF789F01VE6;;42.7506;;;05-Feb-2021
+120761;UTI Multi Asset Allocation Fund - Direct Plan - IDCW;INF789F01VC0;INF789F01VD8;20.7707;;;05-Feb-2021
+111599;UTI Multi Asset Allocation Fund - Regular Plan - Growth Option;INF789F01AP6;;40.1669;;;05-Feb-2021
+111602;UTI Multi Asset Allocation Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;19.1009;;;05-Feb-2021
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -6861,8 +6861,8 @@ Tata Mutual Fund
 119251;Tata Retirement Savings Fund- Progressive Plan -Direct Plan-Growth Option;INF277K01QO1;;42.0189;;;05-Feb-2021
 
 UTI Mutual Fund
-100682;UTI - Retirement Benefit Pension Fund - Regular Plan;;;29.9143;;;05-Feb-2021
-120766;UTI - Retirement Benefit Pension Fund- Direct;;;31.3446;;;05-Feb-2021
+100682;UTI Retirement Fund - Regular Plan;;;29.9143;;;05-Feb-2021
+120766;UTI Retirement Fund- Direct Plan;;;31.3446;;;05-Feb-2021
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -10231,19 +10231,10 @@ UTI Mutual Fund
 106338;UTI F I I F-Annual Interval Plan Series - II - Regular Plan - Growth Option;INF789F01FM2;;27.4584;;;05-Feb-2021
 124595;UTI FIIF Annual Interval Plan II - Direct Plan - IDCW;INF789F01VX6;INF789F01VY4;10.0469;;;05-Feb-2021
 106337;UTI FIIF Annual Interval Plan II - Regular Plan - IDCW;INF789F01FK6;INF789F01FL4;10.0429;;;05-Feb-2021
-125078;UTI FIIF Annual Interval Plan III - Direct Plan - IDCW;INF789F01WA2;INF789F01WB0;10.0501;;;05-Feb-2021
-106706;UTI FIIF Annual Interval Plan III - Regular Plan - IDCW;INF789F01FQ3;INF789F01FR1;10.042;;;05-Feb-2021
-125077;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Direct Plan - Growth Option;INF789F01WC8;;27.087;;;05-Feb-2021
-106709;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Instn Growth Option;INF789F01FV3;;27.7516;;;05-Feb-2021
-106707;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Regular Plan - Growth Option;INF789F01FS9;;26.8668;;;05-Feb-2021
 126030;UTI FIIF Annual Interval Plan IV - Direct Plan - IDCW;INF789F01WD6;INF789F01WE4;10.0497;;;05-Feb-2021
 107070;UTI FIIF Annual Interval Plan IV - Regular Plan - IDCW;INF789F01FW1;INF789F01FX9;10.0503;;;05-Feb-2021
 126031;UTI Fixed Interval Income Fund (Annual Interval Plan) Series IV - Direct Plan - Growth Option;INF789F01WF1;;26.5663;;;05-Feb-2021
 107071;UTI Fixed Interval Income Fund (Annual Interval Plan) Series IV - Regular Plan - Growth Option;INF789F01FY7;;26.3364;;;05-Feb-2021
-106186;UTI FIIF Annual Intervl Plan I - Regular Plan - IDCW;INF789F01FE9;INF789F01FF6;10.0432;;;05-Feb-2021
-106185;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I ( Instn Growth Option );INF789F01FJ8;;27.2318;;;05-Feb-2021
-123646;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I - Direct Plan - Growth Option;INF789F01VW8;;26.549;;;05-Feb-2021
-106183;UTI Fixed Income Interval Fund - Annual Interval Plan Series - I - Regular Plan - Growth Option;INF789F01FG4;;26.3381;;;05-Feb-2021
 122641;UTI FIIF Half Yearly Plan I - Direct Plan - IDCW;INF789F01VR8;INF789F01VS6;10.0336;;;05-Feb-2021
 107089;UTI FIIF Half Yearly Plan I - Regular Plan - IDCW;INF789F01EY0;INF789F01EZ7;10.0306;;;05-Feb-2021
 122642;UTI Fixed  Income Interval Fund ( Half Yearly Plan - I) - Direct Plan - Growth Option;INF789F01VT4;;25.7724;;;05-Feb-2021
@@ -10259,10 +10250,6 @@ UTI Mutual Fund
 107195;UTI FIIF Monthly Interval Plan II - Regular Plan - Monthly IDCW;INF789F01EM5;INF789F01EN3;10.019;;;05-Feb-2021
 120903;UTI Fixed Income Interval Fund - Monthly Interval Plan II-Direct Plan - Growth Option;INF789F01VN7;;25.4489;;;05-Feb-2021
 107193;UTI Fixed Income Interval Fund - Monthly Interval Plan II-Regular Plan - Growth Option;INF789F01EO1;;25.0414;;;05-Feb-2021
-122152;UTI FIIF Quarterly Interval Plan I - Direct Plan - IDCW;INF789F01WG9;INF789F01WH7;10.0534;;;05-Feb-2021
-106057;UTI FIIF Quarterly Interval Plan I - Regular Plan - IDCW;INF789F01GC1;INF789F01GD9;10.0408;;;05-Feb-2021
-106060;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - I) - Regular Plan - Growth Option;INF789F01GE7;;26.9274;;;05-Feb-2021
-122165;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - I) -Direct Plan - Growth Option;INF789F01WI5;;27.3543;;;05-Feb-2021
 121412;UTI FIIF Quarterly Interval Plan III - Direct Plan - IDCW;INF789F01WJ3;INF789F01WK1;10.0454;;;05-Feb-2021
 106365;UTI FIIF Quarterly Interval Plan III - Regular Plan - IDCW;INF789F01GI8;INF789F01GJ6;10.0423;;;05-Feb-2021
 121413;UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - III) - Direct Plan - Growth Option;INF789F01WL9;;27.2499;;;05-Feb-2021
@@ -10271,14 +10258,6 @@ UTI Mutual Fund
 109465;UTI F I I F Series II -Quarterly Interval Plan - IV -Regular Plan - Growth Option;INF789F01GQ1;;24.2306;;;05-Feb-2021
 121033;UTI FIIF Sr-2 Quarterly Interval Plan IV - Direct Plan - IDCW;INF789F01WM7;INF789F01WN5;10.0406;;;05-Feb-2021
 109464;UTI FIIF Sr-2 Quarterly Interval Plan IV - Regular Plan - IDCW;INF789F01GO6;INF789F01GP3;10.0377;;;05-Feb-2021
-121182;UTI F I I F Series II -Quarterly Interval Plan - V - Direct Plan - Growth Option;INF789F01WR6;;24.6746;;;05-Feb-2021
-109617;UTI F I I F Series II -Quarterly Interval Plan - V - Regular Plan - Growth Option;INF789F01GW9;;24.283;;;05-Feb-2021
-121181;UTI FIIF Sr-2 Quarterly Interval Plan V - Direct Plan - IDCW;INF789F01WP0;INF789F01WQ8;10.0486;;;05-Feb-2021
-109618;UTI FIIF Sr-2 Quarterly Interval Plan V - Regular Plan - IDCW;INF789F01GU3;INF789F01GV1;10.0407;;;05-Feb-2021
-121722;UTI F I I F Series II -Quarterly Interval Plan - VI-Direct Plan - Growth Option;INF789F01WU0;;24.9404;;;05-Feb-2021
-110024;UTI F I I F Series II -Quarterly Interval Plan - VI-Regular Plan - Growth Option;INF789F01HC9;;24.5482;;;05-Feb-2021
-121721;UTI FIIF Sr-2 Quarterly Interval Plan VI - Direct Plan - IDCW;INF789F01WS4;INF789F01WT2;10.0447;;;05-Feb-2021
-110021;UTI FIIF Sr-2 Quarterly Interval Plan VI - Regular Plan - IDCW;INF789F01HA3;INF789F01HB1;10.0418;;;05-Feb-2021
 120877;UTI F I I F Series II -Quarterly Interval Plan - VII - Direct Plan - Growth Option;INF789F01VK3;;24.3767;;;05-Feb-2021
 110468;UTI F I I F Series II -Quarterly Interval Plan - VII - Regular Plan - Growth Option;INF789F01EI3;;23.986;;;05-Feb-2021
 120876;UTI FIIF Sr-2 Quarterly Interval Plan VII - Direct Plan - IDCW;INF789F01VI7;INF789F01VJ5;10.034;;;05-Feb-2021
@@ -10712,6 +10691,27 @@ UTI Mutual Fund
 143047;UTI FTIF SERIES XXVIII - PLAN XIV (1147 DAYS) - Regular Plan - Quarterly IDCW;INF789FC17M5;;10.1047;;;05-Feb-2021
 143039;UTI FTIF Series XXVIII-XIV (1147 Days) - Direct Plan - Growth OptionI;INF789FC15N7;;12.4452;;;05-Feb-2021
 143044;UTI FTIF Series XXVIII-XIV (1147 Days) - Regular Plan - Growth Option;INF789FC10N8;;12.4281;;;05-Feb-2021
+106185;UTI Annual Interval Fund - I - ( Instn Growth Option );INF789F01FJ8;;27.2318;;;05-Feb-2021
+123646;UTI Annual Interval Fund - I - Direct Plan - Growth Option;INF789F01VW8;;26.549;;;05-Feb-2021
+106183;UTI Annual Interval Fund - I - Regular Plan - Growth Option;INF789F01FG4;;26.3381;;;05-Feb-2021
+106186;UTI Annual Interval Fund - I - Regular Plan - IDCW;INF789F01FE9;INF789F01FF6;10.0432;;;05-Feb-2021
+125077;UTI Annual Interval Fund - II - Direct Plan - Growth Option;INF789F01WC8;;27.087;;;05-Feb-2021
+125078;UTI Annual Interval Fund - II - Direct Plan - IDCW;INF789F01WA2;INF789F01WB0;10.0501;;;05-Feb-2021
+106707;UTI Annual Interval Fund - II - Regular Plan - Growth Option;INF789F01FS9;;26.8668;;;05-Feb-2021
+106706;UTI Annual Interval Fund - II - Regular Plan - IDCW;INF789F01FQ3;INF789F01FR1;10.042;;;05-Feb-2021
+106709;UTI Fixed Interval Income Fund (Annual Interval Fund)  Series III - Instn Growth Option;INF789F01FV3;;27.7516;;;05-Feb-2021
+122152;UTI Quarterly Interval Fund - I - Direct Plan - IDCW;INF789F01WG9;INF789F01WH7;10.0534;;;05-Feb-2021
+106060;UTI Quarterly Interval Fund - I - Regular Plan - Growth Option;INF789F01GE7;;26.9274;;;05-Feb-2021
+106057;UTI Quarterly Interval Fund - I - Regular Plan - IDCW;INF789F01GC1;INF789F01GD9;10.0408;;;05-Feb-2021
+122165;UTI Quarterly Interval Fund - I -Direct Plan - Growth Option;INF789F01WI5;;27.3543;;;05-Feb-2021
+121182;UTI Quarterly Interval Fund - II - Direct Plan - Growth Option;INF789F01WR6;;24.6746;;;05-Feb-2021
+121181;UTI Quarterly Interval Fund - II - Direct Plan - IDCW;INF789F01WP0;INF789F01WQ8;10.0486;;;05-Feb-2021
+109617;UTI Quarterly Interval Fund - II - Regular Plan - Growth Option;INF789F01GW9;;24.283;;;05-Feb-2021
+109618;UTI Quarterly Interval Fund - II - Regular Plan - IDCW;INF789F01GU3;INF789F01GV1;10.0407;;;05-Feb-2021
+121722;UTI Quarterly Interval Fund - III -Direct Plan - Growth Option;INF789F01WU0;;24.9404;;;05-Feb-2021
+121721;UTI Quarterly Interval Fund - III -Direct Plan - IDCW;INF789F01WS4;INF789F01WT2;10.0447;;;05-Feb-2021
+110024;UTI Quarterly Interval Fund - III -Regular Plan - Growth Option;INF789F01HC9;;24.5482;;;05-Feb-2021
+110021;UTI Quarterly Interval Fund - III -Regular Plan - IDCW;INF789F01HA3;INF789F01HB1;10.0418;;;05-Feb-2021
 
 Close Ended Schemes ( Growth )
 
