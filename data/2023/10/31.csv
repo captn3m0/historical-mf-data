@@ -2078,10 +2078,10 @@ Mirae Asset Mutual Fund
 135784;Mirae Asset Tax Saver Fund-Regular Plan-Growth;INF769K01DK3;;34.652;;;31-Oct-2023
 
 Motilal Oswal Mutual Fund
-133386;Motilal Oswal Long Term Equity Fund (MOFLTE) - Direct Plan - Growth Option;INF247L01569;;35.9202;;;31-Oct-2023
-133385;Motilal Oswal Long Term Equity Fund (MOFLTE) - Regular Plan - Growth Option;INF247L01544;;31.9988;;;31-Oct-2023
-133384;Motilal Oswal Long Term Equity Fund Direct - IDCW Payout;INF247L01577;;26.6769;;;31-Oct-2023
-133383;Motilal Oswal Long Term Equity Fund Regular - IDCW Payout;INF247L01551;;21.8184;;;31-Oct-2023
+133386;Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option;INF247L01569;;35.9202;;;31-Oct-2023
+133383;Motilal Oswal ELSS Tax Saver Fund - IDCW Payout;INF247L01551;;21.8184;;;31-Oct-2023
+133385;Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option;INF247L01544;;31.9988;;;31-Oct-2023
+133384;Motilal Oswal ELSS Tax Saver Fund Direct - IDCW Payout;INF247L01577;;26.6769;;;31-Oct-2023
 
 Navi Mutual Fund
 135653;Navi ELSS Tax Saver Fund - Direct Plan IDCW Payout;INF959L01CE3;;25.8606;;;31-Oct-2023
@@ -2180,10 +2180,10 @@ UTI Mutual Fund
 100820;UTI ELSS Tax Saver Fund - Regular Plan - IDCW;INF789F01521;INF789F01539;29.6283;;;31-Oct-2023
 
 WhiteOak Capital Mutual Fund
-150587;WhiteOak Capital Tax Saver Fund Direct Plan Growth;INF03VN01621;;11.955;;;31-Oct-2023
-150586;WhiteOak Capital Tax Saver Fund Direct Plan IDCW;INF03VN01639;;11.955;;;31-Oct-2023
-150589;WhiteOak Capital Tax Saver Fund Regular Plan Growth;INF03VN01647;;11.726;;;31-Oct-2023
-150588;WhiteOak Capital Tax Saver Fund Regular Plan IDCW;INF03VN01654;;11.726;;;31-Oct-2023
+150587;WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth;INF03VN01621;;11.955;;;31-Oct-2023
+150586;WhiteOak Capital ELSS Tax Saver Fund Direct Plan IDCW;INF03VN01639;;11.955;;;31-Oct-2023
+150589;WhiteOak Capital ELSS Tax Saver Fund Regular Plan Growth;INF03VN01647;;11.726;;;31-Oct-2023
+150588;WhiteOak Capital ELSS Tax Saver Fund Regular Plan IDCW;INF03VN01654;;11.726;;;31-Oct-2023
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -2324,10 +2324,10 @@ HDFC Mutual Fund
 101997;HDFC Overnight Fund - IDCW Option (Daily);;INF179KB1IF8;1042.66;;;31-Oct-2023
 
 Helios Mutual Fund
-152151;Direct Plan - Daily IDCW Option;;;1000.0000;;;31-Oct-2023
-152152;Direct Plan - Growth Option;;;1001.7508;;;31-Oct-2023
-152154;Regular Plan - Daily IDCW Option;;;1000.0252;;;31-Oct-2023
-152153;Regular Plan - Growth Option;;;1001.7412;;;31-Oct-2023
+152151;Direct Plan - Daily IDCW Option;INF0R8701087;;1000.0000;;;31-Oct-2023
+152152;Direct Plan - Growth Option;INF0R8701079;;1001.7508;;;31-Oct-2023
+152154;Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0252;;;31-Oct-2023
+152153;Regular Plan - Growth Option;INF0R8701095;;1001.7412;;;31-Oct-2023
 
 HSBC Mutual Fund
 147291;HSBC Overnight Fund - Direct Daily IDCW;;INF336L01OG4;1000.0092;;;31-Oct-2023
@@ -7817,6 +7817,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;17.0173;;;31-Oct-2023
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;19.2406;;;31-Oct-2023
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;18.5611;;;31-Oct-2023
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;18.5579;;;31-Oct-2023
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;24.8018;;;31-Oct-2023
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;23.5639;;;31-Oct-2023
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;24.823;;;31-Oct-2023
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;23.5786;;;31-Oct-2023
 149289;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;9.8208;;;31-Oct-2023
 149291;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;INF209KB18C5;;9.8194;;;31-Oct-2023
 149290;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;INF209KB15C1;;9.7385;;;31-Oct-2023
@@ -7850,11 +7858,21 @@ Bandhan Mutual Fund
 151546;Bandhan US TREASURY BOND 0-1 YEAR Fund of Fund - REGULAR PLAN - GROWTH;;;10.3808;;;31-Oct-2023
 151547;Bandhan US TREASURY BOND 0-1 YEAR Fund of Fund - REGULAR PLAN- IDCW;;;10.3808;;;31-Oct-2023
 
+Baroda BNP Paribas Mutual Fund
+150285;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;INF251K01QT5;;9.9944;;;31-Oct-2023
+150287;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;INF251K01QU3;INF251K01QV1;9.9944;;;31-Oct-2023
+150286;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;INF251K01QR9;INF251K01QS7;9.7238;;;31-Oct-2023
+150284;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;INF251K01QQ1;;9.7238;;;31-Oct-2023
+
 DSP Mutual Fund
 130493;DSP Global Allocation Fund - Direct Plan - Growth;INF740K01Z50;;17.3036;;;31-Oct-2023
 130491;DSP Global Allocation Fund - Direct Plan - IDCW;INF740K01Z68;INF740K01Z76;14.8541;;;31-Oct-2023
 130492;DSP Global Allocation Fund - Regular Plan - Growth;INF740K01Z27;;16.5238;;;31-Oct-2023
 130490;DSP Global Allocation Fund - Regular Plan - IDCW;INF740K01Z35;INF740K01Z43;14.2822;;;31-Oct-2023
+149816;DSP Global Innovation Fund of Fund - Direct - Growth;INF740KA1QP1;;10.2798;;;31-Oct-2023
+149815;DSP Global Innovation Fund of Fund - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;10.2798;;;31-Oct-2023
+149817;DSP Global Innovation Fund of Fund - Regular - Growth;INF740KA1QM8;;10.1178;;;31-Oct-2023
+149814;DSP Global Innovation Fund of Fund - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;10.1178;;;31-Oct-2023
 119252;DSP US Flexible Equity Fund - Direct Plan - Growth;INF740K01OH7;;46.5296;;;31-Oct-2023
 119253;DSP US Flexible Equity Fund - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;43.1768;;;31-Oct-2023
 117691;DSP US Flexible Equity Fund - Regular Plan - Growth Option;INF740K01LP6;;43.0565;;;31-Oct-2023
