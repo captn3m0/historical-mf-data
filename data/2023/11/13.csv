@@ -2160,10 +2160,10 @@ Sundaram Mutual Fund
 119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;16.8220;;;13-Nov-2023
 101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;172.4173;;;13-Nov-2023
 100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;13.9737;;;13-Nov-2023
-149570;Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund) - Direct Plan Growth;INF173K01HZ7;;409.2808;;;13-Nov-2023
-149571;Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund) Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NN1;;408.8856;;;13-Nov-2023
-149569;Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund) Regular Growth;INF173K01361;;386.3404;;;13-Nov-2023
-149572;Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund) Regular Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NM3;;346.6494;;;13-Nov-2023
+149571;Sundaram ELSS Tax Saver Fund Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NN1;;408.8856;;;13-Nov-2023
+149570;Sundaram ELSS Tax Saver Fund Direct Plan Growth;INF173K01HZ7;;409.2808;;;13-Nov-2023
+149569;Sundaram ELSS Tax Saver Fund Regular Growth;INF173K01361;;386.3404;;;13-Nov-2023
+149572;Sundaram ELSS Tax Saver Fund Regular Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NM3;;346.6494;;;13-Nov-2023
 
 Tata Mutual Fund
 119281;Tata ELSS Tax Saver Fund- Direct Plan - Payout of IDCW Option;INF277K01I94;;173.3329;;;13-Nov-2023
@@ -2172,10 +2172,10 @@ Tata Mutual Fund
 132757;Tata ELSS Tax Saver Fund-Growth-Regular Plan;INF277K01I52;;33.1172;;;13-Nov-2023
 
 Taurus Mutual Fund
-118866;Taurus Taxshield - Direct Plan - Growth;INF044D01CG6;INF044D01AA3;148.38;;;13-Nov-2023
-118867;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CH4;INF044D01CI2;68.38;;;13-Nov-2023
-100480;Taurus Taxshield - Regular Plan - Growth;INF044D01AC9;;137.54;;;13-Nov-2023
-108402;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;64.43;;;13-Nov-2023
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;INF044D01CG6;INF044D01AA3;148.38;;;13-Nov-2023
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CH4;INF044D01CI2;68.38;;;13-Nov-2023
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;INF044D01AC9;;137.54;;;13-Nov-2023
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;64.43;;;13-Nov-2023
 
 Union Mutual Fund
 119307;Union Tax Saver (ELSS) Fund - Direct Plan - Growth Option;INF582M01765;;53.37;;;13-Nov-2023
@@ -8228,6 +8228,10 @@ ICICI Prudential Mutual Fund
 120314;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;INF109K01W66;INF109K01W74;46.6568;;;13-Nov-2023
 102139;ICICI Prudential Income Optimizer Fund (FOF) - Growth;INF109K01811;;52.1780;;;13-Nov-2023
 102140;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;INF109K01EB9;INF109K01829;43.6910;;;13-Nov-2023
+148035;ICICI Prudential India Equity FOF - Direct Plan - Growth;INF109KC1I49;;21.8867;;;13-Nov-2023
+148036;ICICI Prudential India Equity FOF - Direct Plan - IDCW;INF109KC1I64;INF109KC1I56;18.3115;;;13-Nov-2023
+148033;ICICI Prudential India Equity FOF - Growth;INF109KC1I15;;21.2280;;;13-Nov-2023
+148034;ICICI Prudential India Equity FOF - IDCW;INF109KC1I31;INF109KC1I23;17.6808;;;13-Nov-2023
 148822;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth;INF109KC1P81;;13.8347;;;13-Nov-2023
 148823;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW;INF109KC1Q07;INF109KC1P99;13.8347;;;13-Nov-2023
 148821;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Growth;INF109KC1P57;;13.6449;;;13-Nov-2023
@@ -8538,6 +8542,10 @@ PGIM India Mutual Fund
 133839;PGIM India Flexi Cap Fund - Direct Plan - Growth Option;INF663L01FF1;;31.82;;;13-Nov-2023
 133838;PGIM India Flexi Cap Fund - Regular Plan - Dividend Option;INF663L01FK1;INF663L01FL9;17.87;;;13-Nov-2023
 133836;PGIM India Flexi Cap Fund - Regular Plan - Growth Option;INF663L01FJ3;;27.86;;;13-Nov-2023
+
+PPFAS Mutual Fund
+122639;Parag Parikh Flexi Cap Fund - Direct Plan - Growth;INF879O01027;;65.3870;;;13-Nov-2023
+122640;Parag Parikh Flexi Cap Fund - Regular Plan - Growth;INF879O01019;;60.7116;;;13-Nov-2023
 
 quant Mutual Fund
 109830;quant Flexi Cap Fund - Growth Option - Regular Plan;INF966L01457;;72.6181;;;13-Nov-2023
