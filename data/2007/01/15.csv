@@ -1090,7 +1090,7 @@ Kotak Mahindra Mutual Fund
 
 quant Mutual Fund
 100177;quant Small Cap Fund - Growth - Regular Plan;INF966L01AA0;;20.3516;20.3516;20.3516;15-Jan-2007
-100176;quant Small Cap Fund - IDCW Option - Regular Plan;INF966L01036;INF966L01044;17.1804;17.1804;17.1804;15-Jan-2007
+100176;quant Small Cap Fund - IDCW Option - Regular Plan;INF206A01022;INF966L01044;17.1804;17.1804;17.1804;15-Jan-2007
 
 Sundaram Mutual Fund
 100795;Sundaram Small Cap Fund Regular Plan - Growth;INF903J01470;;19.4924;19.4924;19.9310;15-Jan-2007
@@ -1301,7 +1301,7 @@ Baroda BNP Paribas Mutual Fund
 100068;BARODA ELSS 96 - Plan A - IDCW;INF955L01641;;26.66;26.66;27.33;15-Jan-2007
 
 Canara Robeco Mutual Fund
-100593;CANARA ROBECO EQUITY TAX SAVER FUND - REGULAR PLAN -IDCW (Payout);INF760K01084;INF760K01092;22.73;22.73;23.24;15-Jan-2007
+100593;CANARA ROBECO ELSS TAX SAVER - REGULAR PLAN -IDCW (Payout);INF760K01084;INF760K01092;22.73;22.73;23.24;15-Jan-2007
 
 Franklin Templeton Mutual Fund
 100525;Franklin India TAXSHIELD - IDCW ;INF090I01783;INF090I01791;32.76;32.76;33.50;15-Jan-2007
@@ -1314,20 +1314,20 @@ HDFC Mutual Fund
 100997;HDFC Long Term Advantage Plan - IDCW Plan;INF179K01970;INF179K01988;41.413;41.413;42.345;15-Jan-2007
 
 ICICI Prudential Mutual Fund
-100354;ICICI Prudential Long Term Equity Fund (Tax Saving) - Growth;INF109K01464;; 95.76 ; 95.76 ; 97.91 ;15-Jan-2007
-100353;ICICI Prudential Long Term Equity Fund (Tax Saving)- IDCW;INF109K01FN1;INF109K01472; 28.18 ; 28.18 ; 28.82 ;15-Jan-2007
+100354;ICICI Prudential ELSS Tax Saver Fund - Growth;INF109K01464;; 95.76 ; 95.76 ; 97.91 ;15-Jan-2007
+100353;ICICI Prudential ELSS Tax Saver Fund - IDCW;INF109K01FN1;INF109K01472; 28.18 ; 28.18 ; 28.82 ;15-Jan-2007
 
 Invesco Mutual Fund
-104636;Invesco India Tax Plan - Growth;INF205K01270;;10.22;10.22;10.48;15-Jan-2007
-104635;Invesco India Tax Plan - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;10.22;10.22;10.48;15-Jan-2007
+104636;Invesco India ELSS Tax Saver Fund - Growth;INF205K01270;;10.22;10.22;10.48;15-Jan-2007
+104635;Invesco India ELSS Tax Saver Fund - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;10.22;10.22;10.48;15-Jan-2007
 
 Kotak Mahindra Mutual Fund
 103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;14.622;14.622;14.951;15-Jan-2007
 103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;14.622;14.622;14.951;15-Jan-2007
 
 LIC Mutual Fund
-100865;LIC MF ELSS-Regular Plan-Growth;INF767K01956;;27.1796;27.1796;27.7232;15-Jan-2007
-100864;LIC MF ELSS-Regular Plan-IDCW;INF767K01931;INF767K01949;11.9247;11.9247;12.1632;15-Jan-2007
+100865;LIC MF ELSS Tax Saver-Regular Plan-Growth;INF767K01956;;27.1796;27.1796;27.7232;15-Jan-2007
+100864;LIC MF ELSS Tax Saver-Regular Plan-IDCW;INF767K01931;INF767K01949;11.9247;11.9247;12.1632;15-Jan-2007
 100325;LIC MF ULIS (5 Yrs. Single Premium)-Regular Plan-IDCW Reinvestment;;INF767K01964;12.7851;12.7851;12.7851;15-Jan-2007
 
 Nippon India Mutual Fund
@@ -1350,10 +1350,10 @@ Sundaram Mutual Fund
 100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;16.1046;16.1046;16.4670;15-Jan-2007
 
 Tata Mutual Fund
-100474;Tata India Tax Savings Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;44.7124;44.7124;45.7184;15-Jan-2007
+100474;Tata ELSS Tax Saver Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;44.7124;44.7124;45.7184;15-Jan-2007
 
 Taurus Mutual Fund
-100480;Taurus Taxshield - Regular Plan - Growth;INF044D01AC9;;18.46;18.46;18.88;15-Jan-2007
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;INF044D01AC9;;18.46;18.46;18.88;15-Jan-2007
 
 UTI Mutual Fund
 100821;UTI ELSS Tax Saver Fund - Regular Plan - Growth Option;INF789F01547;;31.87;31.87;32.59;15-Jan-2007
@@ -2362,8 +2362,8 @@ ICICI Prudential Mutual Fund
 100355;ICICI Prudential Equity & Debt Fund - Monthly IDCW;INF109K01DX5;INF109K01498; 18.63 ; 18.63 ; 19.05 ;15-Jan-2007
 
 JM Financial Mutual Fund
-100220;JM Equity Hybrid Fund (Regular) - IDCW ;INF192K01528;INF192K01536;18.03;18.03;18.44;15-Jan-2007
-100221;JM Equity Hybrid Fund (Regular) -Growth Option;INF192K01544;;23.72;23.72;24.25;15-Jan-2007
+100220;JM Aggressive Hybrid Fund (Regular) - IDCW;INF192K01528;INF192K01536;18.03;18.03;18.44;15-Jan-2007
+100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;23.72;23.72;24.25;15-Jan-2007
 
 Kotak Mahindra Mutual Fund
 100286;Kotak Equity Hybrid - Payout of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;24.028;24.028;24.569;15-Jan-2007
