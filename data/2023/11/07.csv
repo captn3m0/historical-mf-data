@@ -469,10 +469,10 @@ Mahindra Manulife Mutual Fund
 147842;Mahindra Manulife Large & Mid Cap Fund - Regular Plan - IDCW;INF174V01937;INF174V01929;17.3071;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-118834;Mirae Asset Emerging Bluechip Fund - Direct Plan - Growth;INF769K01BI1;;123.594;;;07-Nov-2023
-112932;Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option;INF769K01101;;111.571;;;07-Nov-2023
-118835;Mirae Asset Emerging Bluechip Fund Direct IDCW;INF769K01BJ9;INF769K01BK7;67.638;;;07-Nov-2023
-112931;Mirae Asset Emerging Bluechip Fund Regular IDCW;INF769K01127;INF769K01119;40.024;;;07-Nov-2023
+118834;Mirae Asset Large & Midcap Fund - Direct Plan - Growth;INF769K01BI1;;123.594;;;07-Nov-2023
+118835;Mirae Asset Large & Midcap Fund - Direct Plan - IDCW;INF769K01BJ9;INF769K01BK7;67.638;;;07-Nov-2023
+112932;Mirae Asset Large & Midcap Fund - Regular Plan - Growth;INF769K01101;;111.571;;;07-Nov-2023
+112931;Mirae Asset Large & Midcap Fund - Regular Plan - IDCW;INF769K01127;INF769K01119;40.024;;;07-Nov-2023
 
 Motilal Oswal Mutual Fund
 147704;Motilal Oswal Large and Midcap Fund - Direct Plan Growth;INF247L01999;;22.7103;;;07-Nov-2023
@@ -1130,10 +1130,10 @@ DSP Mutual Fund
 113032;DSP Focus Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;18.515;;;07-Nov-2023
 
 Edelweiss Mutual Fund
-150376;Edelweiss Focused Equity Fund - Direct Plan - Growth;INF754K01OP1;;12.049;;;07-Nov-2023
-150383;Edelweiss Focused Equity Fund - Direct Plan - IDCW;INF754K01OQ9;INF754K01OR7;12.049;;;07-Nov-2023
-150382;Edelweiss Focused Equity Fund - Regular Plan - Growth;INF754K01OL0;;11.788;;;07-Nov-2023
-150384;Edelweiss Focused Equity Fund - Regular Plan - IDCW;INF754K01OM8;INF754K01ON6;11.788;;;07-Nov-2023
+150376;Edelweiss Focused Fund - Direct Plan - Growth;INF754K01OP1;;12.049;;;07-Nov-2023
+150383;Edelweiss Focused Fund - Direct Plan - IDCW;INF754K01OQ9;INF754K01OR7;12.049;;;07-Nov-2023
+150382;Edelweiss Focused Fund - Regular Plan - Growth;INF754K01OL0;;11.788;;;07-Nov-2023
+150384;Edelweiss Focused Fund - Regular Plan - IDCW;INF754K01OM8;INF754K01ON6;11.788;;;07-Nov-2023
 
 Franklin Templeton Mutual Fund
 118564;Franklin India Focused Equity Fund - Direct - Growth;INF090I01IW2;;88.4822;;;07-Nov-2023
@@ -2078,10 +2078,10 @@ Mahindra Manulife Mutual Fund
 139783;Mahindra Manulife ELSS Tax Saver Fund- Regular Plan - Growth;INF174V01077;;21.8113;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-135782;Mirae Asset Tax Saver Fund Direct IDCW;INF769K01DN7;;23.408;;;07-Nov-2023
-135783;Mirae Asset Tax Saver Fund Regular IDCW;INF769K01DL1;;20.215;;;07-Nov-2023
-135781;Mirae Asset Tax Saver Fund-Direct Plan -Growth;INF769K01DM9;;39.429;;;07-Nov-2023
-135784;Mirae Asset Tax Saver Fund-Regular Plan-Growth;INF769K01DK3;;35.429;;;07-Nov-2023
+135781;Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth;INF769K01DM9;;39.429;;;07-Nov-2023
+135782;Mirae Asset ELSS Tax Saver Fund - Direct Plan - IDCW;INF769K01DN7;;23.408;;;07-Nov-2023
+135784;Mirae Asset ELSS Tax Saver Fund - Regular Plan - Growth;INF769K01DK3;;35.429;;;07-Nov-2023
+135783;Mirae Asset ELSS Tax Saver Fund - Regular Plan - IDCW;INF769K01DL1;;20.215;;;07-Nov-2023
 
 Motilal Oswal Mutual Fund
 133386;Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option;INF247L01569;;37.4417;;;07-Nov-2023
@@ -2146,10 +2146,10 @@ SBI Mutual Fund
 105628;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;INF200K01495;;292.3391;;;07-Nov-2023
 
 Shriram Mutual Fund
-145819;Shriram Long Term Equity Fund - Direct Growth;INF680P01158;;18.8875;;;07-Nov-2023
-145822;Shriram Long Term Equity Fund - Direct- IDCW;INF680P01166;;18.7874;;;07-Nov-2023
-145820;Shriram Long Term Equity Fund - Regular Growth;INF680P01133;;17.2886;;;07-Nov-2023
-145821;Shriram Long Term Equity Fund - Regular-IDCW;INF680P01141;;17.2785;;;07-Nov-2023
+145819;Shriram ELSS Tax Saver Fund - Direct Growth;INF680P01158;;18.8875;;;07-Nov-2023
+145822;Shriram ELSS Tax Saver Fund - Direct- IDCW;INF680P01166;;18.7874;;;07-Nov-2023
+145820;Shriram ELSS Tax Saver Fund - Regular Growth;INF680P01133;;17.2886;;;07-Nov-2023
+145821;Shriram ELSS Tax Saver Fund - Regular-IDCW;INF680P01141;;17.2785;;;07-Nov-2023
 
 Sundaram Mutual Fund
 119549;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;INF903J01NN3;;180.2005;;;07-Nov-2023
@@ -2800,14 +2800,14 @@ Mahindra Manulife Mutual Fund
 139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;;INF174V01036;1010.3478;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-118859;Mirae Asset Cash Management Fund - Direct Plan - Growth;INF769K01CM1;;2477.3481;;;07-Nov-2023
-111646;Mirae Asset Cash Management Fund - Growth;INF769K01788;;2439.4964;;;07-Nov-2023
-118861;Mirae Asset Cash Management Fund Direct  Daily IDCW;;INF769K01CO7;1075.8332;;;07-Nov-2023
-118860;Mirae Asset Cash Management Fund Direct Monthly IDCW;INF769K01CN9;INF769K01CQ2;1137.5039;;;07-Nov-2023
-118862;Mirae Asset Cash Management Fund Direct Weekly IDCW;;INF769K01CP4;1217.6367;;;07-Nov-2023
-111645;Mirae Asset Cash Management Fund Regular Monthly IDCW;INF769K01838;INF769K01820;1155.1527;;;07-Nov-2023
-111644;Mirae Asset Cash Management Fund Regular Weekly IDCW;;INF769K01812;1153.8905;;;07-Nov-2023
-111647;Mirae Asset Cash Management Fund RegularDaily IDCW ;;INF769K01804;1066.4347;;;07-Nov-2023
+118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2477.3481;;;07-Nov-2023
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1217.6367;;;07-Nov-2023
+118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;07-Nov-2023
+118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1137.5039;;;07-Nov-2023
+111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;07-Nov-2023
+111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2439.4964;;;07-Nov-2023
+111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1155.1527;;;07-Nov-2023
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.8905;;;07-Nov-2023
 
 Motilal Oswal Mutual Fund
 145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;12.4777;;;07-Nov-2023
@@ -3426,16 +3426,16 @@ Mahindra Manulife Mutual Fund
 140615;Mahindra Manulife Low Duration Fund - Regular Plan - Weekly IDCW;;INF174V01234;1052.9151;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-118840;Mirae Asset Savings Fund - Direct Plan - Growth;INF769K01BO9;;2160.0757;;;07-Nov-2023
-118843;Mirae Asset Savings Fund Direct Daily IDCW;;INF769K01BR2;1208.9337;;;07-Nov-2023
-118841;Mirae Asset Savings Fund Direct Monthly IDCW;INF769K01BP6;INF769K01BT8;1162.5289;;;07-Nov-2023
-118842;Mirae Asset Savings Fund Direct Quarterly IDCW;INF769K01BQ4;INF769K01BU6;1006.5297;;;07-Nov-2023
-118844;Mirae Asset Savings Fund Direct Weekly IDCW;;INF769K01BS0;1456.3940;;;07-Nov-2023
-107700;Mirae Asset Savings Fund Regular Savings Daily IDCW;;INF769K01986;1005.1646;;;07-Nov-2023
-107704;Mirae Asset Savings Fund Regular Savings Monthly IDCW;INF769K01960;INF769K01AA0;1089.6631;;;07-Nov-2023
-107702;Mirae Asset Savings Fund Regular Savings Quarterly IDCW;INF769K01978;INF769K01AB8;1005.8253;;;07-Nov-2023
-107701;Mirae Asset Savings Fund Regular Savings Weekly IDCW;;INF769K01994;1108.0866;;;07-Nov-2023
-107705;Mirae Asset Savings Fund-Regular Savings Plan- Growth;INF769K01937;;2004.8096;;;07-Nov-2023
+118843;Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW;;INF769K01BR2;1208.9337;;;07-Nov-2023
+118840;Mirae Asset Low Duration Fund - Direct Plan - Growth;INF769K01BO9;;2160.0757;;;07-Nov-2023
+118841;Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW;INF769K01BP6;INF769K01BT8;1162.5289;;;07-Nov-2023
+118842;Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW;INF769K01BQ4;INF769K01BU6;1006.5297;;;07-Nov-2023
+118844;Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW;;INF769K01BS0;1456.3940;;;07-Nov-2023
+107700;Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW;;INF769K01986;1005.1646;;;07-Nov-2023
+107705;Mirae Asset Low Duration Fund - Regular Plan - Growth;INF769K01937;;2004.8096;;;07-Nov-2023
+107704;Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW;INF769K01960;INF769K01AA0;1089.6631;;;07-Nov-2023
+107702;Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW;INF769K01978;INF769K01AB8;1005.8253;;;07-Nov-2023
+107701;Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW;;INF769K01994;1108.0866;;;07-Nov-2023
 
 Nippon India Mutual Fund
 111747;NIPPON INDIA LOW DURATION FUND - DAILY IDCW Option;;INF204K01EX2;1008.9718;;;07-Nov-2023
@@ -3937,10 +3937,10 @@ Mahindra Manulife Mutual Fund
 148728;Mahindra Manulife Short Duration Fund - Regular Plan - IDCW;INF174V01AL7;INF174V01AK9;10.8029;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-142641;Mirae Asset Short Term Fund -Direct Plan- Growth;INF769K01DX6;;14.4912;;;07-Nov-2023
-142640;Mirae Asset Short Term Fund Direct IDCW;INF769K01DY4;INF769K01DZ1;14.4688;;;07-Nov-2023
-142643;Mirae Asset Short Term Fund Regular IDCW;INF769K01DV0;INF769K01DW8;13.8545;;;07-Nov-2023
-142642;Mirae Asset Short Term Fund- Regular Plan -Growth;INF769K01DU2;;13.8516;;;07-Nov-2023
+142641;Mirae Asset Short Duration Fund - Direct Plan - Growth;INF769K01DX6;;14.4912;;;07-Nov-2023
+142640;Mirae Asset Short Duration Fund - Direct Plan - IDCW;INF769K01DY4;INF769K01DZ1;14.4688;;;07-Nov-2023
+142642;Mirae Asset Short Duration Fund - Regular Plan - Growth;INF769K01DU2;;13.8516;;;07-Nov-2023
+142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;13.8545;;;07-Nov-2023
 
 Nippon India Mutual Fund
 125269;NIPPON INDIA SHORT TERM FUND - Direct Plan - IDCW Option;INF204KA1ES0;INF204KA1ET8;20.2021;;;07-Nov-2023
@@ -5091,10 +5091,10 @@ Invesco Mutual Fund
 118233;Invesco India Banking & PSU Debt Fund - Monthly IDCW (Payout / Reinvestment);INF205K01JW0;INF205K01JY6;1033.1054;;;07-Nov-2023
 
 ITI Mutual Fund
-148534;ITI Banking & PSU Debt Fund - Direct Plan - Growth Option;INF00XX01861;;11.6983;;;07-Nov-2023
-148536;ITI Banking & PSU Debt Fund - Direct Plan - IDCW Option;INF00XX01879;INF00XX01887;11.6983;;;07-Nov-2023
-148535;ITI Banking & PSU Debt Fund - Regular Plan - Growth Option;INF00XX01838;;11.5044;;;07-Nov-2023
-148533;ITI Banking & PSU Debt Fund - Regular Plan - IDCW Option;INF00XX01846;INF00XX01853;11.5044;;;07-Nov-2023
+148534;ITI Banking and PSU Fund - Direct Plan - Growth Option;INF00XX01861;;11.6983;;;07-Nov-2023
+148536;ITI Banking and PSU Fund - Direct Plan - IDCW Option;INF00XX01879;INF00XX01887;11.6983;;;07-Nov-2023
+148535;ITI Banking and PSU Fund - Regular Plan - Growth Option;INF00XX01838;;11.5044;;;07-Nov-2023
+148533;ITI Banking and PSU Fund - Regular Plan - IDCW Option;INF00XX01846;INF00XX01853;11.5044;;;07-Nov-2023
 
 Kotak Mahindra Mutual Fund
 123690;Kotak Banking and PSU Debt - Growth;INF174K01FO3;;57.3044;;;07-Nov-2023
@@ -5113,10 +5113,10 @@ LIC Mutual Fund
 105857;LIC MF Banking & PSU Debt Fund-Regular Plan-Weekly IDCW;INF767K01568;INF767K01576;10.0729;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-148419;Mirae Asset Banking and PSU Debt Fund Direct Growth;INF769K01FY9;;11.5534;;;07-Nov-2023
-148417;Mirae Asset Banking and PSU Debt Fund Direct IDCW;INF769K01FX1;INF769K01FZ6;11.5527;;;07-Nov-2023
-148416;Mirae Asset Banking and PSU Debt Fund Regular Growth Plan;INF769K01FV5;;11.3864;;;07-Nov-2023
-148418;Mirae Asset Banking and PSU Debt Fund Regular IDCW;INF769K01FU7;INF769K01FW3;11.3874;;;07-Nov-2023
+148419;Mirae Asset Banking and PSU Fund - Direct Plan - Growth;INF769K01FY9;;11.5534;;;07-Nov-2023
+148417;Mirae Asset Banking and PSU Fund - Direct Plan - IDCW;INF769K01FX1;INF769K01FZ6;11.5527;;;07-Nov-2023
+148416;Mirae Asset Banking and PSU Fund - Regular Plan - Growth;INF769K01FV5;;11.3864;;;07-Nov-2023
+148418;Mirae Asset Banking and PSU Fund - Regular plan - IDCW;INF769K01FU7;INF769K01FW3;11.3874;;;07-Nov-2023
 
 Nippon India Mutual Fund
 134552;Nippon India Banking  & PSU Debt Fund- Direct Plan-Growth Plan- Bonus Option;INF204KA1U61;;18.7687;;;07-Nov-2023
@@ -5877,10 +5877,10 @@ Mahindra Manulife Mutual Fund
 147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - IDCW;INF174V01770;INF174V01762;16.0224;;;07-Nov-2023
 
 Mirae Asset Mutual Fund
-134814;Mirae Asset Hybrid   Equity Fund Direct IDCW;INF769K01DI7;INF769K01DJ5;18.892;;;07-Nov-2023
-134816;Mirae Asset Hybrid   Equity Fund Regular IDCW;INF769K01DF3;INF769K01DG1;15.858;;;07-Nov-2023
-134813;Mirae Asset Hybrid-Equity Fund -Direct Plan-Growth;INF769K01DH9;;28.290;;;07-Nov-2023
-134815;Mirae Asset Hybrid-Equity Fund -Regular Plan-Growth;INF769K01DE6;;24.802;;;07-Nov-2023
+134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;28.290;;;07-Nov-2023
+134814;Mirae Asset Aggressive Hybrid Fund - Direct Plan - IDCW;INF769K01DI7;INF769K01DJ5;18.892;;;07-Nov-2023
+134815;Mirae Asset Aggressive Hybrid Fund - Regular Plan - Growth;INF769K01DE6;;24.802;;;07-Nov-2023
+134816;Mirae Asset Aggressive Hybrid Fund - Regular Plan - IDCW;INF769K01DF3;INF769K01DG1;15.858;;;07-Nov-2023
 
 Motilal Oswal Mutual Fund
 144681;Motilal Oswal Equity Hybrid Fund (MOFEH) - Direct Plan Growth Option;INF247L01692;;18.5490;;;07-Nov-2023
