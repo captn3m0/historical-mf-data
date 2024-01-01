@@ -1803,8 +1803,8 @@ Open Ended Schemes ( Equity Scheme - ELSS )
 
 
 Aditya Birla Sun Life Mutual Fund
-107745;Aditya Birla Sun Life ELSS Tax Relief '96 - Growth Option;INF209K01108;;7.29;7.29;7.45;03-Jul-2008
-103164;Aditya Birla Sun Life ELSS Tax Relief '96 -Regular - IDCW;INF209K01090;INF209K01CB1;61.99;61.99;63.38;03-Jul-2008
+107745;Aditya Birla Sun Life ELSS Tax Saver Fund - Growth Option;INF209K01108;;7.29;7.29;7.45;03-Jul-2008
+103164;Aditya Birla Sun Life ELSS Tax Saver Fund-Regular - IDCW;INF209K01090;INF209K01CB1;61.99;61.99;63.38;03-Jul-2008
 104331;Aditya Birla Sun Life Tax Plan - Regular Plan - Growth Option;INF209K01348;;9.69;9.69;9.91;03-Jul-2008
 100067;Aditya Birla Sun Life Tax Plan -Regular - IDCW;INF209K01330;INF209K01CM8;46.10;46.10;47.14;03-Jul-2008
 
@@ -1862,8 +1862,8 @@ Principal Mutual Fund
 100156;Principal Tax Savings Fund;INF173K01361;;65.55;65.55;67.02;03-Jul-2008
 
 quant Mutual Fund
-100175;quant Tax Plan - Growth Option - Regular Plan;INF966L01135;;45.0763;45.0763;46.0905;03-Jul-2008
-100174;quant Tax Plan - IDCW Option - Regular Plan;INF966L01119;;10.5815;10.5815;10.8196;03-Jul-2008
+100175;quant ELSS Tax Saver Fund - Growth Option - Regular Plan;INF966L01135;;45.0763;45.0763;46.0905;03-Jul-2008
+100174;quant ELSS Tax Saver Fund - IDCW Option - Regular Plan;INF966L01119;;10.5815;10.5815;10.8196;03-Jul-2008
 
 SBI Mutual Fund
 103883;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;33.36;33.36;34.11;03-Jul-2008
@@ -2275,18 +2275,18 @@ LIC Mutual Fund
 101829;LIC MF Low Duration Fund-Regular Plan-Monthly IDCW;INF767K01AM9;INF767K01AN7;9.9501;9.9501;9.9501;03-Jul-2008
 
 Mirae Asset Mutual Fund
+107700;Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW;;INF769K01986;1001.3985;1000.3971;1001.3985;03-Jul-2008
+107705;Mirae Asset Low Duration Fund - Regular Plan - Growth;INF769K01937;;1029.1789;1028.1497;1029.1789;03-Jul-2008
+107704;Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW;INF769K01960;INF769K01AA0;1002.5043;1001.5018;1002.5043;03-Jul-2008
+107701;Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW;;INF769K01994;1000.4198;999.4194;1000.4198;03-Jul-2008
 107711;Mirae Asset Savings Bond Fund-Regular Super Savings Plan- Daily Dividend;;INF769K01AH5;1001.3985;1000.3971;1001.3985;03-Jul-2008
 107706;Mirae Asset Savings Bond Fund-Regular Super Savings Plan- Growth;INF769K01AC6;;1029.7694;1028.7396;1029.7694;03-Jul-2008
-107700;Mirae Asset Savings Fund Regular Savings Daily IDCW;;INF769K01986;1001.3985;1000.3971;1001.3985;03-Jul-2008
-107704;Mirae Asset Savings Fund Regular Savings Monthly IDCW;INF769K01960;INF769K01AA0;1002.5043;1001.5018;1002.5043;03-Jul-2008
-107701;Mirae Asset Savings Fund Regular Savings Weekly IDCW;;INF769K01994;1000.4198;999.4194;1000.4198;03-Jul-2008
 107694;Mirae Asset Savings Fund-Regular Plan- Bonus;INF769K01853;;1021.7860;1020.7642;1021.7860;03-Jul-2008
 107698;Mirae Asset Savings Fund-Regular Plan- Daily Dividend;;INF769K01895;1001.3985;1000.3971;1001.3985;03-Jul-2008
 107695;Mirae Asset Savings Fund-Regular Plan- Growth;INF769K01846;;1028.1103;1027.0822;1028.1103;03-Jul-2008
 107697;Mirae Asset Savings Fund-Regular Plan- Monthly Dividend;INF769K01879;INF769K01911;1002.7714;1001.7686;1002.7714;03-Jul-2008
 107699;Mirae Asset Savings Fund-Regular Plan- Quarterly Dividend;INF769K01887;INF769K01929;1016.1493;1015.1332;1016.1493;03-Jul-2008
 107696;Mirae Asset Savings Fund-Regular Plan- Weekly Dividend;;INF769K01903;1000.4013;999.4009;1000.4013;03-Jul-2008
-107705;Mirae Asset Savings Fund-Regular Savings Plan- Growth;INF769K01937;;1029.1789;1028.1497;1029.1789;03-Jul-2008
 107709;Mirae Asset Savings Fund-Regular Super Savings Plan- Weekly Dividend;;INF769K01AI3;1000.4327;999.4323;1000.4327;03-Jul-2008
 
 Principal Mutual Fund
@@ -2704,7 +2704,7 @@ HDFC Mutual Fund
 HSBC Mutual Fund
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;10.5033;10.4245;10.5033;03-Jul-2008
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;10.5307;10.5307;10.5307;03-Jul-2008
-106739;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01503;INF336L01495;10.1646;10.1646;10.1646;03-Jul-2008
+106741;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01586;INF336L01578;10.0008;9.9258;10.0008;03-Jul-2008
 
 ICICI Prudential Mutual Fund
 101351;ICICI Prudential All Seasons Bond Fund - Weekly IDCW;INF109K01FD2;INF109K01704;10.4824;10.4824;10.4824;03-Jul-2008

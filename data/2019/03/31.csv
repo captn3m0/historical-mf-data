@@ -97,10 +97,10 @@ Edelweiss Mutual Fund
 140173;Edelweiss Large and Mid Cap Fund - Regular Plan - IDCW Option;INF843K01054;INF843K01062;16.439;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-118834;Mirae Asset Emerging Bluechip Fund - Direct Plan - Growth;INF769K01BI1;;56.417;;;31-Mar-2019
-112932;Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option;INF769K01101;;53.349;;;31-Mar-2019
-118835;Mirae Asset Emerging Bluechip Fund Direct IDCW;INF769K01BJ9;INF769K01BK7;47.036;;;31-Mar-2019
-112931;Mirae Asset Emerging Bluechip Fund Regular IDCW;INF769K01127;INF769K01119;29.273;;;31-Mar-2019
+118834;Mirae Asset Large & Midcap Fund - Direct Plan - Growth;INF769K01BI1;;56.417;;;31-Mar-2019
+118835;Mirae Asset Large & Midcap Fund - Direct Plan - IDCW;INF769K01BJ9;INF769K01BK7;47.036;;;31-Mar-2019
+112932;Mirae Asset Large & Midcap Fund - Regular Plan - Growth;INF769K01101;;53.349;;;31-Mar-2019
+112931;Mirae Asset Large & Midcap Fund - Regular Plan - IDCW;INF769K01127;INF769K01119;29.273;;;31-Mar-2019
 
 quant Mutual Fund
 104515;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;INF966L01424;;37.0694;;;31-Mar-2019
@@ -229,10 +229,10 @@ BNP Paribas Mutual Fund
 113464;BNP Paribas Long Term Equity Fund-Income Distribution cum Capital Withdrawal Option;INF251K01AA9;INF251K01993;14.2240;;;31-Mar-2019
 
 Edelweiss Mutual Fund
-118620;Edelweiss Long Term Equity Fund (Tax Savings) - Direct Plan-Growth Option;INF754K01CA8;;49.67;;;31-Mar-2019
-111638;Edelweiss Long Term Equity Fund (Tax Savings) - Regular Plan - Growth Option;INF754K01517;;46.71;;;31-Mar-2019
-118619;Edelweiss Long Term Equity Savings Fund (Tax Savings) - Direct Plan - IDCW Option;INF754K01BX2;INF754K01BY0;20.49;;;31-Mar-2019
-111639;Edelweiss Long Term Equity Savings Fund (Tax Savings) - Regular Plan - IDCW Option;INF754K01525;INF754K01541;16.09;;;31-Mar-2019
+118619;Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option;INF754K01BX2;INF754K01BY0;20.49;;;31-Mar-2019
+118620;Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option;INF754K01CA8;;49.67;;;31-Mar-2019
+111638;Edelweiss ELSS Tax Saver Fund - Regular Plan - Growth Option;INF754K01517;;46.71;;;31-Mar-2019
+111639;Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option;INF754K01525;INF754K01541;16.09;;;31-Mar-2019
 140240;Edelweiss Tax Advantage Fund - Direct Plan - Dividend Option;INF843K01AS5;INF843K01AT3;31.952;;;31-Mar-2019
 140241;Edelweiss Tax Advantage Fund - Direct Plan - Growth Option;INF843K01AR7;;42.731;;;31-Mar-2019
 140239;Edelweiss Tax Advantage Fund - Regular Plan - Dividend Option;INF843K01112;INF843K01120;30.414;;;31-Mar-2019
@@ -251,16 +251,16 @@ Mahindra Manulife Mutual Fund
 139783;Mahindra Manulife ELSS Tax Saver Fund- Regular Plan - Growth;INF174V01077;;11.5687;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-135782;Mirae Asset Tax Saver Fund Direct IDCW;INF769K01DN7;;15.752;;;31-Mar-2019
-135783;Mirae Asset Tax Saver Fund Regular IDCW;INF769K01DL1;;14.954;;;31-Mar-2019
-135781;Mirae Asset Tax Saver Fund-Direct Plan -Growth;INF769K01DM9;;18.393;;;31-Mar-2019
-135784;Mirae Asset Tax Saver Fund-Regular Plan-Growth;INF769K01DK3;;17.593;;;31-Mar-2019
+135781;Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth;INF769K01DM9;;18.393;;;31-Mar-2019
+135782;Mirae Asset ELSS Tax Saver Fund - Direct Plan - IDCW;INF769K01DN7;;15.752;;;31-Mar-2019
+135784;Mirae Asset ELSS Tax Saver Fund - Regular Plan - Growth;INF769K01DK3;;17.593;;;31-Mar-2019
+135783;Mirae Asset ELSS Tax Saver Fund - Regular Plan - IDCW;INF769K01DL1;;14.954;;;31-Mar-2019
 
 quant Mutual Fund
-120847;quant Tax Plan - Growth Option - Direct Plan;INF966L01986;;95.8037;;;31-Mar-2019
-100175;quant Tax Plan - Growth Option - Regular Plan;INF966L01135;;94.244;;;31-Mar-2019
-120846;quant Tax Plan - IDCW Option - Direct Plan;INF966L01960;INF966L01127;12.7927;;;31-Mar-2019
-100174;quant Tax Plan - IDCW Option - Regular Plan;INF966L01119;;13.0498;;;31-Mar-2019
+120847;quant ELSS Tax Saver Fund - Growth Option - Direct Plan;INF966L01986;;95.8037;;;31-Mar-2019
+100175;quant ELSS Tax Saver Fund - Growth Option - Regular Plan;INF966L01135;;94.244;;;31-Mar-2019
+120846;quant ELSS Tax Saver Fund - IDCW Option - Direct Plan;INF966L01960;INF966L01127;12.7927;;;31-Mar-2019
+100174;quant ELSS Tax Saver Fund - IDCW Option - Regular Plan;INF966L01119;;13.0498;;;31-Mar-2019
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -601,14 +601,14 @@ Mahindra Manulife Mutual Fund
 139539;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;;;1075.9569;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-118859;Mirae Asset Cash Management Fund - Direct Plan - Growth;INF769K01CM1;;1971.5083;;;31-Mar-2019
-111646;Mirae Asset Cash Management Fund - Growth;INF769K01788;;1950.2242;;;31-Mar-2019
-118861;Mirae Asset Cash Management Fund Direct  Daily IDCW;;INF769K01CO7;1076.2542;;;31-Mar-2019
-118860;Mirae Asset Cash Management Fund Direct Monthly IDCW;INF769K01CN9;INF769K01CQ2;1136.5042;;;31-Mar-2019
-118862;Mirae Asset Cash Management Fund Direct Weekly IDCW;;INF769K01CP4;1217.7033;;;31-Mar-2019
-111645;Mirae Asset Cash Management Fund Regular Monthly IDCW;INF769K01838;INF769K01820;1154.1782;;;31-Mar-2019
-111644;Mirae Asset Cash Management Fund Regular Weekly IDCW;;INF769K01812;1153.9664;;;31-Mar-2019
-111647;Mirae Asset Cash Management Fund RegularDaily IDCW ;;INF769K01804;1066.8515;;;31-Mar-2019
+118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;1971.5083;;;31-Mar-2019
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1217.7033;;;31-Mar-2019
+118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1076.2542;;;31-Mar-2019
+118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1136.5042;;;31-Mar-2019
+111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.8515;;;31-Mar-2019
+111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;1950.2242;;;31-Mar-2019
+111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1154.1782;;;31-Mar-2019
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.9664;;;31-Mar-2019
 
 Nippon India Mutual Fund
 100852;NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION;;INF204K01UM1;1529.3492;;;31-Mar-2019
@@ -888,18 +888,18 @@ Mahindra Manulife Mutual Fund
 140615;Mahindra Manulife Low Duration Fund - Regular Plan - Weekly IDCW;;INF174V01234;1053.1154;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-118840;Mirae Asset Savings Fund - Direct Plan - Growth;INF769K01BO9;;1679.8677;;;31-Mar-2019
-118843;Mirae Asset Savings Fund Direct Daily IDCW;;INF769K01BR2;1224.5017;;;31-Mar-2019
-118841;Mirae Asset Savings Fund Direct Monthly IDCW;INF769K01BP6;INF769K01BT8;1173.4447;;;31-Mar-2019
-118842;Mirae Asset Savings Fund Direct Quarterly IDCW;INF769K01BQ4;INF769K01BU6;1053.9844;;;31-Mar-2019
-118844;Mirae Asset Savings Fund Direct Weekly IDCW;;INF769K01BS0;1473.1512;;;31-Mar-2019
-107700;Mirae Asset Savings Fund Regular Savings Daily IDCW;;INF769K01986;1018.0993;;;31-Mar-2019
-107704;Mirae Asset Savings Fund Regular Savings Monthly IDCW;INF769K01960;INF769K01AA0;1100.2467;;;31-Mar-2019
-107702;Mirae Asset Savings Fund Regular Savings Quarterly IDCW;INF769K01978;INF769K01AB8;1027.4303;;;31-Mar-2019
-107701;Mirae Asset Savings Fund Regular Savings Weekly IDCW;;INF769K01994;1120.9591;;;31-Mar-2019
+118843;Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW;;INF769K01BR2;1224.5017;;;31-Mar-2019
+118840;Mirae Asset Low Duration Fund - Direct Plan - Growth;INF769K01BO9;;1679.8677;;;31-Mar-2019
+118841;Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW;INF769K01BP6;INF769K01BT8;1173.4447;;;31-Mar-2019
+118842;Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW;INF769K01BQ4;INF769K01BU6;1053.9844;;;31-Mar-2019
+118844;Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW;;INF769K01BS0;1473.1512;;;31-Mar-2019
+107700;Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW;;INF769K01986;1018.0993;;;31-Mar-2019
+107705;Mirae Asset Low Duration Fund - Regular Plan - Growth;INF769K01937;;1604.2956;;;31-Mar-2019
+107704;Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW;INF769K01960;INF769K01AA0;1100.2467;;;31-Mar-2019
+107702;Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW;INF769K01978;INF769K01AB8;1027.4303;;;31-Mar-2019
+107701;Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW;;INF769K01994;1120.9591;;;31-Mar-2019
 107698;Mirae Asset Savings Fund-Regular Plan- Daily Dividend;;INF769K01895;1813.9160;;;31-Mar-2019
 107695;Mirae Asset Savings Fund-Regular Plan- Growth;INF769K01846;;1902.1121;;;31-Mar-2019
-107705;Mirae Asset Savings Fund-Regular Savings Plan- Growth;INF769K01937;;1604.2956;;;31-Mar-2019
 
 Open Ended Schemes ( Debt Scheme - Money Market Fund )
 
@@ -994,10 +994,10 @@ JM Financial Mutual Fund
 101520;JM Short Term Fund - Regular Plan - Growth Option;INF192K01BC9;;35.4998;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-142641;Mirae Asset Short Term Fund -Direct Plan- Growth;INF769K01DX6;;10.7967;;;31-Mar-2019
-142640;Mirae Asset Short Term Fund Direct IDCW;INF769K01DY4;INF769K01DZ1;10.7951;;;31-Mar-2019
-142643;Mirae Asset Short Term Fund Regular IDCW;INF769K01DV0;INF769K01DW8;10.7126;;;31-Mar-2019
-142642;Mirae Asset Short Term Fund- Regular Plan -Growth;INF769K01DU2;;10.7128;;;31-Mar-2019
+142641;Mirae Asset Short Duration Fund - Direct Plan - Growth;INF769K01DX6;;10.7967;;;31-Mar-2019
+142640;Mirae Asset Short Duration Fund - Direct Plan - IDCW;INF769K01DY4;INF769K01DZ1;10.7951;;;31-Mar-2019
+142642;Mirae Asset Short Duration Fund - Regular Plan - Growth;INF769K01DU2;;10.7128;;;31-Mar-2019
+142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;10.7126;;;31-Mar-2019
 
 Open Ended Schemes ( Debt Scheme - Medium Duration Fund )
 
@@ -1293,10 +1293,10 @@ JM Financial Mutual Fund
 100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;47.2095;;;31-Mar-2019
 
 Mirae Asset Mutual Fund
-134814;Mirae Asset Hybrid   Equity Fund Direct IDCW;INF769K01DI7;INF769K01DJ5;13.473;;;31-Mar-2019
-134816;Mirae Asset Hybrid   Equity Fund Regular IDCW;INF769K01DF3;INF769K01DG1;12.835;;;31-Mar-2019
-134813;Mirae Asset Hybrid-Equity Fund -Direct Plan-Growth;INF769K01DH9;;15.750;;;31-Mar-2019
-134815;Mirae Asset Hybrid-Equity Fund -Regular Plan-Growth;INF769K01DE6;;14.770;;;31-Mar-2019
+134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;15.750;;;31-Mar-2019
+134814;Mirae Asset Aggressive Hybrid Fund - Direct Plan - IDCW;INF769K01DI7;INF769K01DJ5;13.473;;;31-Mar-2019
+134815;Mirae Asset Aggressive Hybrid Fund - Regular Plan - Growth;INF769K01DE6;;14.770;;;31-Mar-2019
+134816;Mirae Asset Aggressive Hybrid Fund - Regular Plan - IDCW;INF769K01DF3;INF769K01DG1;12.835;;;31-Mar-2019
 
 quant Mutual Fund
 101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;137.6667;;;31-Mar-2019
