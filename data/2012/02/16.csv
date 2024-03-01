@@ -674,8 +674,8 @@ Tata Mutual Fund
 102036;Tata Large Cap Fund- Regular Plan - Payout of IDCW Option;INF277K01EG3;INF277K01923;36.0841;35.7233;36.0841;16-Feb-2012
 
 Taurus Mutual Fund
-101209;Taurus Largecap Equity Fund - Regular Plan - Growth;INF044D01773;;40.73;40.32;40.73;16-Feb-2012
-108403;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01740;INF044D01757;40.73;40.32;40.73;16-Feb-2012
+101209;Taurus Large Cap Fund - Regular Plan - Growth;INF044D01773;;40.73;40.32;40.73;16-Feb-2012
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01740;INF044D01757;40.73;40.32;40.73;16-Feb-2012
 
 UTI Mutual Fund
 100651;UTI Large Cap Fund - Regular Plan - Growth Option;INF789F01976;;53.29;53.29;53.29;16-Feb-2012
@@ -723,8 +723,8 @@ ICICI Prudential Mutual Fund
 100350;ICICI Prudential Large & Mid Cap Fund - Institutional Option - I - Growth;INF109K01456;;19.91;19.71;19.91;16-Feb-2012
 
 Invesco Mutual Fund
-106144;Invesco India Growth Opportunities Fund - Growth;INF205K01247;;12.49;12.37;12.49;16-Feb-2012
-106143;Invesco India Growth Opportunities Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;11.35;11.24;11.35;16-Feb-2012
+106144;Invesco India Large & Mid Cap Fund - Growth;INF205K01247;;12.49;12.37;12.49;16-Feb-2012
+106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;11.35;11.24;11.35;16-Feb-2012
 
 Kotak Mahindra Mutual Fund
 103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;44.839;44.391;44.839;16-Feb-2012
@@ -828,8 +828,8 @@ Tata Mutual Fund
 102329;Tata Mid Cap Growth Fund Regular Plan  - Bonus (Growth);INF277K01634;;38.9577;38.5681;38.9577;16-Feb-2012
 
 Taurus Mutual Fund
-100477;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;INF044D01815;;14.07;13.93;14.07;16-Feb-2012
-111642;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01781;INF044D01799;14.07;13.93;14.07;16-Feb-2012
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;INF044D01815;;14.07;13.93;14.07;16-Feb-2012
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01781;INF044D01799;14.07;13.93;14.07;16-Feb-2012
 
 UTI Mutual Fund
 102393;UTI Mid Cap Fund - Regular Plan - IDCW;INF789F01794;INF789F01802;20.93;20.93;20.93;16-Feb-2012
@@ -961,8 +961,8 @@ Open Ended Schemes ( Equity Scheme - Focused Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-103309;Aditya Birla Sun Life Focused Equity Fund -Growth Option;INF209K01462;;22.6436;22.5304;22.6436;16-Feb-2012
-103308;Aditya Birla Sun Life Focused Equity Fund -Regular - IDCW;INF209K01454;INF209K01CS5;13.9472;13.8775;13.9472;16-Feb-2012
+103309;Aditya Birla Sun Life Focused Fund -Growth Option;INF209K01462;;22.6436;22.5304;22.6436;16-Feb-2012
+103308;Aditya Birla Sun Life Focused Fund -Regular - IDCW;INF209K01454;INF209K01CS5;13.9472;13.8775;13.9472;16-Feb-2012
 
 Bandhan Mutual Fund
 108592;BANDHAN Focused Equity Fund - Regular Plan - Growth;INF194K01466;;18.8052;18.8052;18.8052;16-Feb-2012
@@ -1204,8 +1204,8 @@ Edelweiss Mutual Fund
 111639;Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option;INF754K01525;INF754K01541;13.08;13.08;13.08;16-Feb-2012
 
 Franklin Templeton Mutual Fund
-100525;Franklin India TAXSHIELD - IDCW ;INF090I01783;INF090I01791;28.1261;28.1261;28.1261;16-Feb-2012
-100526;Franklin India Taxshield-Growth;INF090I01775;;215.0296;215.0296;215.0296;16-Feb-2012
+100525;Franklin India ELSS Tax Saver Fund - IDCW;INF090I01783;INF090I01791;28.1261;28.1261;28.1261;16-Feb-2012
+100526;Franklin India ELSS Tax Saver Fund-Growth;INF090I01775;;215.0296;215.0296;215.0296;16-Feb-2012
 
 HDFC Mutual Fund
 101979;HDFC ELSS Tax saver - Growth Plan;INF179K01BB8;;226.817;226.817;226.817;16-Feb-2012
@@ -1669,7 +1669,7 @@ Open Ended Schemes ( Debt Scheme - Floater Fund )
 
 Franklin Templeton Mutual Fund
 101048;Franklin India Floating Rate Fund - Growth Plan;INF090I01LM7;;17.6646;17.6646;17.6646;16-Feb-2012
-101044;Franklin India Floating Rate Fund - IDCW ;;INF090I01LN5;10.0002;10.0002;10.0002;16-Feb-2012
+101044;Franklin India Floating Rate Fund - IDCW ;INF090I01LN5;;10.0002;10.0002;10.0002;16-Feb-2012
 
 Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
 
@@ -2047,8 +2047,8 @@ ICICI Prudential Mutual Fund
 102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;36.1521;36.1521;36.1521;16-Feb-2012
 
 Invesco Mutual Fund
-116077;Invesco India Gold Fund - Growth;INF205K01FA4;;9.6112;9.6112;9.6112;16-Feb-2012
-116075;Invesco India Gold Fund - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;9.6107;9.6107;9.6107;16-Feb-2012
+116077;Invesco India Gold ETF Fund of Fund - Growth;INF205K01FA4;;9.6112;9.6112;9.6112;16-Feb-2012
+116075;Invesco India Gold ETF Fund of Fund - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;9.6107;9.6107;9.6107;16-Feb-2012
 
 Kotak Mahindra Mutual Fund
 102574;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;INF174K01468;;35.058;34.707;35.058;16-Feb-2012
