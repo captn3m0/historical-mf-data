@@ -43,10 +43,6 @@ HDFC Mutual Fund
 149367;HDFC Multi Cap Fund - IDCW Option - Direct Plan;INF179KC1BT3;INF179KC1BU1;11.323;;;25-Nov-2022
 
 ICICI Prudential Mutual Fund
-120381;ICICI Prudential MidCap Fund - Direct Plan -  Growth;INF109K011N7;;185.32;;;25-Nov-2022
-120380;ICICI Prudential MidCap Fund - Direct Plan -  IDCW;INF109K019M2;INF109K010N9;40.70;;;25-Nov-2022
-102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;;169.12;;;25-Nov-2022
-102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6;28.39;;;25-Nov-2022
 120599;ICICI Prudential Multicap Fund - Direct Plan -  Growth;INF109K014O9;;516.83;;;25-Nov-2022
 120598;ICICI Prudential Multicap Fund - Direct Plan -  IDCW;INF109K012O3;INF109K013O1;42.56;;;25-Nov-2022
 101228;ICICI Prudential Multicap Fund - Growth;INF109K01613;;473.30;;;25-Nov-2022
@@ -527,12 +523,6 @@ Bandhan Mutual Fund
 150401;BANDHAN MIDCAP FUND - IDCW - DIRECT PLAN;INF194KB1DK0;INF194KB1DL8;10.010;;;25-Nov-2022
 150403;BANDHAN MIDCAP FUND - IDCW - REGULAR PLAN;INF194KB1DN4;INF194KB1DO2;9.963;;;25-Nov-2022
 
-Bank of India Mutual Fund
-139527;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH;INF761K01DM6;;24.43;;;25-Nov-2022
-139530;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN IDCW;INF761K01DN4;INF761K01DO2;19.95;;;25-Nov-2022
-139529;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN  GROWTH;INF761K01DP9;;23.10;;;25-Nov-2022
-139528;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN IDCW;INF761K01DQ7;INF761K01DR5;19.57;;;25-Nov-2022
-
 Baroda BNP Paribas Mutual Fund
 150212;BARODA BNP PARIBAS Mid Cap Fund - Direct Plan - Growth Option;INF251K01HQ0;;69.1568;;;25-Nov-2022
 150211;BARODA BNP PARIBAS Mid Cap Fund - Direct Plan - IDCW Option;INF251K01HO5;INF251K01HP2;54.5346;;;25-Nov-2022
@@ -568,6 +558,12 @@ HSBC Mutual Fund
 149155;HSBC Midcap Fund - Direct IDCW;INF336L01QC8;INF336L01QD6;9.6118;;;25-Nov-2022
 149153;HSBC Midcap Fund - Regular Growth;INF336L01QE4;;9.4547;;;25-Nov-2022
 149152;HSBC Midcap Fund - Regular IDCW;INF336L01QF1;INF336L01QG9;9.4547;;;25-Nov-2022
+
+ICICI Prudential Mutual Fund
+120381;ICICI Prudential MidCap Fund - Direct Plan -  Growth;INF109K011N7;;185.32;;;25-Nov-2022
+120380;ICICI Prudential MidCap Fund - Direct Plan -  IDCW;INF109K019M2;INF109K010N9;40.70;;;25-Nov-2022
+102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;;169.12;;;25-Nov-2022
+102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6;28.39;;;25-Nov-2022
 
 IDBI Mutual Fund
 140461;IDBI Midcap Fund Growth Direct;INF397L01JK8;;18.74;;;25-Nov-2022
@@ -1639,6 +1635,10 @@ SBI Mutual Fund
 146642;SBI Equity Minimum Variance Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1A89;INF200KA1A97;17.2240;;;25-Nov-2022
 146644;SBI Equity Minimum Variance Fund - Regular Plan - Growth;INF200KA1A48;;16.9789;;;25-Nov-2022
 146641;SBI Equity Minimum Variance Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1A55;INF200KA1A63;16.9829;;;25-Nov-2022
+119708;SBI ESG Exclusionary Strategy Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SC4;INF200K01SD2;65.1664;;;25-Nov-2022
+119709;SBI ESG Exclusionary Strategy Fund - Direct Plan -Growth;INF200K01SE0;;181.5218;;;25-Nov-2022
+104523;SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth;INF200K01214;;168.4109;;;25-Nov-2022
+101295;SBI ESG Exclusionary Strategy Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;52.6704;;;25-Nov-2022
 119782;SBI Healthcare Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UN7;INF200K01UO5;175.6346;;;25-Nov-2022
 119783;SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH;INF200K01UP2;;252.7946;;;25-Nov-2022
 100644;SBI Healthcare Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01453;INF200K01461;143.0200;;;25-Nov-2022
@@ -1651,10 +1651,6 @@ SBI Mutual Fund
 119613;SBI Magnum Comma Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RZ7;INF200K01SA8;41.8036;;;25-Nov-2022
 103145;SBI Magnum COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;68.9735;;;25-Nov-2022
 103146;SBI Magnum Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;39.1507;;;25-Nov-2022
-119708;SBI Magnum Equity ESG Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SC4;INF200K01SD2;65.1664;;;25-Nov-2022
-119709;SBI Magnum Equity ESG Fund - DIRECT PLAN -GROWTH;INF200K01SE0;;181.5218;;;25-Nov-2022
-101295;SBI Magnum Equity ESG Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;52.6704;;;25-Nov-2022
-104523;SBI Magnum Equity ESG Fund- REGULAR PLAN - Growth;INF200K01214;;168.4109;;;25-Nov-2022
 119710;SBI Magnum Global Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SL5;INF200K01SM3;112.0680;;;25-Nov-2022
 119711;SBI MAGNUM GLOBAL FUND - DIRECT PLAN -GROWTH;INF200K01SN1;;313.9460;;;25-Nov-2022
 103114;SBI Magnum Global Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;88.6432;;;25-Nov-2022
@@ -2627,10 +2623,10 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;25-Nov-2022
 
 Kotak Mahindra Mutual Fund
-119764;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;INF174K01NH1;;1222.81;;;25-Nov-2022
-119766;Kotak Liquid - Growth - Direct;INF174K01NE8;;4443.3013;;;25-Nov-2022
-100833;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;1222.81;;;25-Nov-2022
-100835;Kotak Liquid Regular Plan Growth;INF174K01NI9;;4414.9036;;;25-Nov-2022
+119764;Kotak Liquid Fund - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;INF174K01NH1;;1222.81;;;25-Nov-2022
+119766;Kotak Liquid Fund - Growth - Direct;INF174K01NE8;;4443.3013;;;25-Nov-2022
+100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;1222.81;;;25-Nov-2022
+100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;4414.9036;;;25-Nov-2022
 
 L&T Mutual Fund
 122235;L&T Liquid Fund - Direct Plan - Weekly IDCW;;INF917K01HE2;1001.6159;;;25-Nov-2022
@@ -3241,8 +3237,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;24.3942;;;25-Nov-2022
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0033;;;25-Nov-2022
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;18.3965;;;25-Nov-2022
-120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;;;25-Nov-2022
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.2653;;;25-Nov-2022
+120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.5271;;;25-Nov-2022
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0519;;;25-Nov-2022
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0047;;;25-Nov-2022
 
 ICICI Prudential Mutual Fund
@@ -3551,10 +3547,10 @@ Invesco Mutual Fund
 116488;Invesco India Money Market Fund - Regular Plan - Daily IDCW (Reinvestment);;INF205K01UW7;1002;;;25-Nov-2022
 
 Kotak Mahindra Mutual Fund
-101893;Kotak Money Market Scheme - (Growth);INF174K01NA6;;3710.7779;;;25-Nov-2022
-119746;Kotak Money Market Scheme - (Growth) - Direct;INF174K01MW2;;3733.866;;;25-Nov-2022
-101892;Kotak Money market Scheme - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;1052.7552;;;25-Nov-2022
-119747;Kotak Money Market Scheme - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1066.3257;;;25-Nov-2022
+101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;3710.7779;;;25-Nov-2022
+119746;Kotak Money Market Fund - (Growth) - Direct;INF174K01MW2;;3733.866;;;25-Nov-2022
+101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;1052.7552;;;25-Nov-2022
+119747;Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1066.3257;;;25-Nov-2022
 
 L&T Mutual Fund
 119432;L&T Money Market Fund - Direct Plan - Daily IDCW;;INF917K01FD8;10.8591;;;25-Nov-2022
@@ -4082,15 +4078,15 @@ SBI Mutual Fund
 102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;16.2856;;;25-Nov-2022
 
 Sundaram Mutual Fund
-119676;Sundaram Medium Term Bond Fund Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;13.3236;;;25-Nov-2022
-119675;Sundaram Medium Term Bond Fund Direct Plan - Growth;INF903J01PO6;;64.6235;;;25-Nov-2022
-119672;Sundaram Medium Term Bond Fund Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;23.6927;;;25-Nov-2022
-100608;Sundaram Medium Term Bond Fund Institutional Plan - Growth;INF903J01FY6;;66.8877;;;25-Nov-2022
-100610;Sundaram Medium Term Bond Fund Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;12.0295;;;25-Nov-2022
-100604;Sundaram Medium Term Bond Fund Regular Plan - Bonus;INF903J01FX8;;20.2158;;;25-Nov-2022
-100603;Sundaram Medium Term Bond Fund Regular Plan - Growth;INF903J01FQ2;;59.1896;;;25-Nov-2022
-100609;Sundaram Medium Term Bond Fund Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;12.4083;;;25-Nov-2022
-100602;Sundaram Medium Term Bond Fund Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;12.2280;;;25-Nov-2022
+119676;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;13.3236;;;25-Nov-2022
+119675;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Growth;INF903J01PO6;;64.6235;;;25-Nov-2022
+119672;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;23.6927;;;25-Nov-2022
+100608;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Growth;INF903J01FY6;;66.8877;;;25-Nov-2022
+100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;12.0295;;;25-Nov-2022
+100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Bonus;INF903J01FX8;;20.2158;;;25-Nov-2022
+100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;INF903J01FQ2;;59.1896;;;25-Nov-2022
+100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;12.4083;;;25-Nov-2022
+100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;12.2280;;;25-Nov-2022
 
 Union Mutual Fund
 148479;Union Medium Duration Fund - Direct Plan -  Growth Option;INF582M01GQ6;;10.7755;;;25-Nov-2022
@@ -4130,7 +4126,7 @@ Open Ended Schemes ( Debt Scheme - Medium to Long Duration Fund )
 Aditya Birla Sun Life Mutual Fund
 111777;Aditya Birla Sun Life Income Fund (Discipline Advantage Plan);INF209K01LD8;;26.2171;;;25-Nov-2022
 133446;Aditya Birla Sun Life Income Fund - Direct - IDCW;INF209KA1WL2;INF209KA1WM0;12.6641;;;25-Nov-2022
-119655;Aditya Birla Sun Life Income Fund - Direct - Quarterly IDCW;INF209K01WZ8;;14.0313;;;25-Nov-2022
+119655;Aditya Birla Sun Life Income Fund - Direct - Quarterly IDCW;INF209K01R13;INF209K01WZ8;14.0313;;;25-Nov-2022
 119657;Aditya Birla Sun Life Income Fund - Growth - Direct Plan;INF209K01WY1;;110.8123;;;25-Nov-2022
 100038;Aditya Birla Sun Life Income Fund - Growth - Regular Plan;INF209K01579;;103.9189;;;25-Nov-2022
 133445;Aditya Birla Sun Life Income Fund - Regular - IDCW;INF209KA1WJ6;INF209KA1WK4;12.0173;;;25-Nov-2022
@@ -4392,7 +4388,7 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;31.3835;;;25-Nov-2022
-120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;10.1153;;;25-Nov-2022
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.5184;;;25-Nov-2022
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;27.8663;;;25-Nov-2022
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;29.0816;;;25-Nov-2022
 106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.6221;;;25-Nov-2022
@@ -4606,9 +4602,9 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 148492;HSBC Dynamic Bond Fund - Direct Growth;INF336L01PH9;;10.8159;;;25-Nov-2022
-148495;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01PM9;INF336L01PN7;10.1614;;;25-Nov-2022
+148493;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01PL1;INF336L01PK3;10.1322;;;25-Nov-2022
 148496;HSBC Dynamic Bond Fund - Regular Growth;INF336L01PO5;;10.7190;;;25-Nov-2022
-148499;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PP2;INF336L01PQ0;10.1192;;;25-Nov-2022
+148497;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PS6;INF336L01PR8;10.0541;;;25-Nov-2022
 
 ICICI Prudential Mutual Fund
 120692;ICICI Prudential Corporate Bond Fund - Direct Plan - Growth;INF109K016B1;;25.4359;;;25-Nov-2022
@@ -5081,17 +5077,17 @@ SBI Mutual Fund
 125500;SBI Banking & PSU Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01U74;INF200K01U66;1178.2350;;;25-Nov-2022
 
 Sundaram Mutual Fund
-119629;Sundaram Banking and PSU Debt Fund Direct Plan - Bonus;INF903J01RI4;;17.9522;;;25-Nov-2022
-119627;Sundaram Banking and PSU Debt Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01PC1;10.2294;;;25-Nov-2022
-119625;Sundaram Banking and PSU Debt Fund Direct Plan - Growth;INF903J01PA5;;35.8834;;;25-Nov-2022
-119626;Sundaram Banking and PSU Debt Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5238;;;25-Nov-2022
-118326;Sundaram Banking and PSU Debt Fund Regular Plan - Bonus;INF903J01LY4;;17.9034;;;25-Nov-2022
-100782;Sundaram Banking and PSU Debt Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.3544;;;25-Nov-2022
-100784;Sundaram Banking and PSU Debt Fund Regular Plan - Growth;INF903J01IN3;;35.5035;;;25-Nov-2022
-100793;Sundaram Banking and PSU Debt Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5764;;;25-Nov-2022
-100783;Sundaram Banking and PSU Debt Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;12.1118;;;25-Nov-2022
+119629;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Bonus;INF903J01RI4;;17.9522;;;25-Nov-2022
+119627;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01PC1;10.2294;;;25-Nov-2022
+119625;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Growth;INF903J01PA5;;35.8834;;;25-Nov-2022
+119626;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5238;;;25-Nov-2022
+118326;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Bonus;INF903J01LY4;;17.9034;;;25-Nov-2022
+100782;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.3544;;;25-Nov-2022
+100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;35.5035;;;25-Nov-2022
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5764;;;25-Nov-2022
+100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;12.1118;;;25-Nov-2022
+100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.4812;;;25-Nov-2022
 100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;31.9961;;;25-Nov-2022
-100780;Sundaram Banking and PSU Debt Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.4812;;;25-Nov-2022
 
 Tata Mutual Fund
 147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K016X1;;12.0850;;;25-Nov-2022
@@ -5642,14 +5638,14 @@ SBI Mutual Fund
 100928;SBI Conservative Hybrid Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01883;INF200K01891;16.1080;;;25-Nov-2022
 
 Sundaram Mutual Fund
-119635;Sundaram Debt Oriented Hybrid Fund Direct Plan - Growth;INF903J01OP6;;26.2062;;;25-Nov-2022
-119638;Sundaram Debt Oriented Hybrid Fund Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;17.4307;;;25-Nov-2022
-119636;Sundaram Debt Oriented Hybrid Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OQ4;INF903J01OT8;13.5525;;;25-Nov-2022
-119637;Sundaram Debt Oriented Hybrid Fund Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;17.5923;;;25-Nov-2022
-112868;Sundaram Debt Oriented Hybrid Fund Regular Plan - Growth;INF903J01HB0;;24.3618;;;25-Nov-2022
-112869;Sundaram Debt Oriented Hybrid Fund Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;16.0650;;;25-Nov-2022
-112867;Sundaram Debt Oriented Hybrid Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.4484;;;25-Nov-2022
-112870;Sundaram Debt Oriented Hybrid Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;16.2872;;;25-Nov-2022
+119635;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Growth;INF903J01OP6;;26.2062;;;25-Nov-2022
+119638;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;17.4307;;;25-Nov-2022
+119636;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OQ4;INF903J01OT8;13.5525;;;25-Nov-2022
+119637;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;17.5923;;;25-Nov-2022
+112868;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Growth;INF903J01HB0;;24.3618;;;25-Nov-2022
+112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;16.0650;;;25-Nov-2022
+112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.4484;;;25-Nov-2022
+112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;16.2872;;;25-Nov-2022
 
 UTI Mutual Fund
 102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;53.5684;;;25-Nov-2022
@@ -5695,6 +5691,12 @@ Bandhan Mutual Fund
 140383;BANDHAN Hybrid Equity Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;16.809;;;25-Nov-2022
 140381;BANDHAN Hybrid Equity Fund-Regular Plan Growth;INF194KA1U15;;17.518;;;25-Nov-2022
 140384;BANDHAN Hybrid Equity Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;15.401;;;25-Nov-2022
+
+Bank of India Mutual Fund
+139527;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH;INF761K01DM6;;24.43;;;25-Nov-2022
+139530;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN IDCW;INF761K01DN4;INF761K01DO2;19.95;;;25-Nov-2022
+139529;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN  GROWTH;INF761K01DP9;;23.10;;;25-Nov-2022
+139528;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN IDCW;INF761K01DQ7;INF761K01DR5;19.57;;;25-Nov-2022
 
 Baroda BNP Paribas Mutual Fund
 150259;Baroda BNP Paribas Aggressive Hybrid Fund -DIRECT PLAN- IDCW OPTION;INF251K01PB5;INF251K01PA7;16.0401;;;25-Nov-2022
@@ -7354,7 +7356,7 @@ HDFC Mutual Fund
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;57.0131;;;25-Nov-2022
 123004;ICICI Prudential Nifty 100 ETF;INF109KA1962;;203.6960;;;25-Nov-2022
-141596;ICICI Prudential Nifty 100 Low Volatility 30 ETF;INF109KB10T8;;145.0172;;;25-Nov-2022
+141596;ICICI Prudential Nifty 100 Low Volatility 30 ETF;INF109KC19U5;;145.0172;;;25-Nov-2022
 150455;ICICI Prudential Nifty 200 Momentum 30 ETF;INF109KC17C7;;20.2843;;;25-Nov-2022
 149928;ICICI Prudential Nifty 5 yr Benchmark G-SEC ETF;INF109KC14A8;;50.3765;;;25-Nov-2022
 121366;ICICI Prudential Nifty 50 ETF;INF109K012R6;;201.2664;;;25-Nov-2022
@@ -7368,7 +7370,7 @@ ICICI Prudential Mutual Fund
 148466;ICICI Prudential Nifty IT ETF;INF109KC16I6;;31.5123;;;25-Nov-2022
 147921;ICICI Prudential Nifty Midcap 150 ETF;INF109KC1G82;;121.6248;;;25-Nov-2022
 144587;ICICI Prudential Nifty Next 50 ETF;INF109KC1NS5;;44.1320;;;25-Nov-2022
-147530;ICICI Prudential Nifty Private Bank ETF;INF109KC1E35;;216.4012;;;25-Nov-2022
+147530;ICICI Prudential Nifty Private Bank ETF;INF109KC18U7;;216.4012;;;25-Nov-2022
 139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KB1WY5;;101.4212;;;25-Nov-2022
 143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;26.2789;;;25-Nov-2022
 144947;ICICI Prudential S&P BSE Liquid Rate ETF;INF109KC1KT9;;1000.0000;;;25-Nov-2022

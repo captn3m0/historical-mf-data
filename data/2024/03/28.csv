@@ -1847,6 +1847,10 @@ SBI Mutual Fund
 146642;SBI Equity Minimum Variance Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1A89;INF200KA1A97;22.7953;;;28-Mar-2024
 146644;SBI Equity Minimum Variance Fund - Regular Plan - Growth;INF200KA1A48;;22.3742;;;28-Mar-2024
 146641;SBI Equity Minimum Variance Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1A55;INF200KA1A63;22.3777;;;28-Mar-2024
+119708;SBI ESG Exclusionary Strategy Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SC4;INF200K01SD2;80.8134;;;28-Mar-2024
+119709;SBI ESG Exclusionary Strategy Fund - Direct Plan -Growth;INF200K01SE0;;225.1081;;;28-Mar-2024
+104523;SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth;INF200K01214;;207.0883;;;28-Mar-2024
+101295;SBI ESG Exclusionary Strategy Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;64.7657;;;28-Mar-2024
 119782;SBI Healthcare Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UN7;INF200K01UO5;269.2344;;;28-Mar-2024
 119783;SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH;INF200K01UP2;;387.5145;;;28-Mar-2024
 100644;SBI Healthcare Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01453;INF200K01461;216.1215;;;28-Mar-2024
@@ -1859,10 +1863,6 @@ SBI Mutual Fund
 119613;SBI Magnum Comma Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RZ7;INF200K01SA8;55.3377;;;28-Mar-2024
 103145;SBI Magnum COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;90.6615;;;28-Mar-2024
 103146;SBI Magnum Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;51.4604;;;28-Mar-2024
-119708;SBI Magnum Equity ESG Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SC4;INF200K01SD2;80.8134;;;28-Mar-2024
-119709;SBI Magnum Equity ESG Fund - DIRECT PLAN -GROWTH;INF200K01SE0;;225.1081;;;28-Mar-2024
-101295;SBI Magnum Equity ESG Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;64.7657;;;28-Mar-2024
-104523;SBI Magnum Equity ESG Fund- REGULAR PLAN - Growth;INF200K01214;;207.0883;;;28-Mar-2024
 119710;SBI Magnum Global Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SL5;INF200K01SM3;131.4732;;;28-Mar-2024
 119711;SBI MAGNUM GLOBAL FUND - DIRECT PLAN -GROWTH;INF200K01SN1;;368.3071;;;28-Mar-2024
 103114;SBI Magnum Global Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;103.0313;;;28-Mar-2024
@@ -4262,15 +4262,15 @@ SBI Mutual Fund
 102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;17.9220;;;28-Mar-2024
 
 Sundaram Mutual Fund
-119676;Sundaram Medium Term Bond Fund Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;14.4744;;;28-Mar-2024
-119675;Sundaram Medium Term Bond Fund Direct Plan - Growth;INF903J01PO6;;70.2113;;;28-Mar-2024
-119672;Sundaram Medium Term Bond Fund Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;25.3497;;;28-Mar-2024
-100608;Sundaram Medium Term Bond Fund Institutional Plan - Growth;INF903J01FY6;;71.8406;;;28-Mar-2024
-100610;Sundaram Medium Term Bond Fund Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;12.9211;;;28-Mar-2024
-100604;Sundaram Medium Term Bond Fund Regular Plan - Bonus;INF903J01FX8;;21.7141;;;28-Mar-2024
-100603;Sundaram Medium Term Bond Fund Regular Plan - Growth;INF903J01FQ2;;63.5742;;;28-Mar-2024
-100609;Sundaram Medium Term Bond Fund Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;13.0225;;;28-Mar-2024
-100602;Sundaram Medium Term Bond Fund Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;12.7468;;;28-Mar-2024
+119676;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;14.4744;;;28-Mar-2024
+119675;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Growth;INF903J01PO6;;70.2113;;;28-Mar-2024
+119672;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;25.3497;;;28-Mar-2024
+100608;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Growth;INF903J01FY6;;71.8406;;;28-Mar-2024
+100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;12.9211;;;28-Mar-2024
+100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Bonus;INF903J01FX8;;21.7141;;;28-Mar-2024
+100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;INF903J01FQ2;;63.5742;;;28-Mar-2024
+100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;13.0225;;;28-Mar-2024
+100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;12.7468;;;28-Mar-2024
 
 Union Mutual Fund
 148479;Union Medium Duration Fund - Direct Plan -  Growth Option;INF582M01GQ6;;11.8115;;;28-Mar-2024
@@ -5274,17 +5274,17 @@ SBI Mutual Fund
 125500;SBI Banking & PSU Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01U74;INF200K01U66;1287.7174;;;28-Mar-2024
 
 Sundaram Mutual Fund
-119629;Sundaram Banking and PSU Debt Fund Direct Plan - Bonus;INF903J01RI4;;19.6841;;;28-Mar-2024
-119627;Sundaram Banking and PSU Debt Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01PC1;10.2300;;;28-Mar-2024
-119625;Sundaram Banking and PSU Debt Fund Direct Plan - Growth;INF903J01PA5;;39.3471;;;28-Mar-2024
-119626;Sundaram Banking and PSU Debt Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5382;;;28-Mar-2024
-118326;Sundaram Banking and PSU Debt Fund Regular Plan - Bonus;INF903J01LY4;;19.5967;;;28-Mar-2024
-100782;Sundaram Banking and PSU Debt Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.3550;;;28-Mar-2024
-100784;Sundaram Banking and PSU Debt Fund Regular Plan - Growth;INF903J01IN3;;38.8615;;;28-Mar-2024
-100793;Sundaram Banking and PSU Debt Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5907;;;28-Mar-2024
-100783;Sundaram Banking and PSU Debt Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;12.1220;;;28-Mar-2024
+119629;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Bonus;INF903J01RI4;;19.6841;;;28-Mar-2024
+119627;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01PC1;10.2300;;;28-Mar-2024
+119625;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Growth;INF903J01PA5;;39.3471;;;28-Mar-2024
+119626;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5382;;;28-Mar-2024
+118326;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Bonus;INF903J01LY4;;19.5967;;;28-Mar-2024
+100782;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.3550;;;28-Mar-2024
+100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;38.8615;;;28-Mar-2024
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5907;;;28-Mar-2024
+100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;12.1220;;;28-Mar-2024
+100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.4953;;;28-Mar-2024
 100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;35.0224;;;28-Mar-2024
-100780;Sundaram Banking and PSU Debt Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.4953;;;28-Mar-2024
 
 Tata Mutual Fund
 147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K016X1;;13.2868;;;28-Mar-2024
@@ -5819,14 +5819,14 @@ SBI Mutual Fund
 100928;SBI Conservative Hybrid Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01883;INF200K01891;18.5870;;;28-Mar-2024
 
 Sundaram Mutual Fund
-119635;Sundaram Debt Oriented Hybrid Fund Direct Plan - Growth;INF903J01OP6;;29.6465;;;28-Mar-2024
-119638;Sundaram Debt Oriented Hybrid Fund Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;19.5684;;;28-Mar-2024
-119636;Sundaram Debt Oriented Hybrid Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OQ4;INF903J01OT8;13.5624;;;28-Mar-2024
-119637;Sundaram Debt Oriented Hybrid Fund Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;19.6606;;;28-Mar-2024
-112868;Sundaram Debt Oriented Hybrid Fund Regular Plan - Growth;INF903J01HB0;;27.2290;;;28-Mar-2024
-112869;Sundaram Debt Oriented Hybrid Fund Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;17.8051;;;28-Mar-2024
-112867;Sundaram Debt Oriented Hybrid Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.4564;;;28-Mar-2024
-112870;Sundaram Debt Oriented Hybrid Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;17.9647;;;28-Mar-2024
+119635;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Growth;INF903J01OP6;;29.6465;;;28-Mar-2024
+119638;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;19.5684;;;28-Mar-2024
+119636;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OQ4;INF903J01OT8;13.5624;;;28-Mar-2024
+119637;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;19.6606;;;28-Mar-2024
+112868;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Growth;INF903J01HB0;;27.2290;;;28-Mar-2024
+112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;17.8051;;;28-Mar-2024
+112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.4564;;;28-Mar-2024
+112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;17.9647;;;28-Mar-2024
 
 UTI Mutual Fund
 102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;60.9526;;;28-Mar-2024
@@ -8305,6 +8305,12 @@ SBI Mutual Fund
 148762;SBI International Access - US Equity FoF - Regular Plan - Growth;INF200KA1T96;;15.0610;;;28-Mar-2024
 148761;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U36;INF200KA1U44;15.4166;;;28-Mar-2024
 148759;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;15.0607;;;28-Mar-2024
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Fund Direct Plan - Growth;INF903J01OB6;;33.2366;;;28-Mar-2024
+119601;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NZ7;INF903J01OA8;29.5586;;;28-Mar-2024
+106370;Sundaram Global Brand Fund Regular Plan - Growth;INF903J01EX1;;30.7226;;;28-Mar-2024
+106369;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EY9;INF903J01EZ6;26.3266;;;28-Mar-2024
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 

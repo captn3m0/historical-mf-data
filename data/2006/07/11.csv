@@ -865,9 +865,6 @@ Baroda BNP Paribas Mutual Fund
 102021;Baroda BNP Paribas MULTI CAP FUND - Regular Plan - IDCW Option;INF955L01658;INF955L01666;15.56;15.56;15.91;11-Jul-2006
 
 ICICI Prudential Mutual Fund
-102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;; 20.58 ; 20.58 ; 21.04 ;11-Jul-2006
-102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6; 16.72 ; 16.72 ; 17.10 ;11-Jul-2006
-102530;ICICI Prudential MidCap Fund - Institutional Option - I;INF109K01AM4;; 8.01 ; 8.01 ; 8.19 ;11-Jul-2006
 101228;ICICI Prudential Multicap Fund - Growth;INF109K01613;; 61.82 ; 61.82 ; 63.21 ;11-Jul-2006
 101706;ICICI Prudential Multicap Fund - IDCW;INF109K01FK7;INF109K01621; 18.65 ; 18.65 ; 19.07 ;11-Jul-2006
 102957;ICICI Prudential Multicap Fund - Institutional Option - I;INF109K01639;; 16.38 ; 16.38 ; 16.75 ;11-Jul-2006
@@ -983,6 +980,11 @@ Aditya Birla Sun Life Mutual Fund
 Franklin Templeton Mutual Fund
 100472;Franklin India PRIMA FUND - IDCW ;INF090I01726;INF090I01734;51.18;51.18;52.33;11-Jul-2006
 100473;Franklin India Prima Fund-Growth;INF090I01809;;160.73;160.73;164.35;11-Jul-2006
+
+ICICI Prudential Mutual Fund
+102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;; 20.58 ; 20.58 ; 21.04 ;11-Jul-2006
+102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6; 16.72 ; 16.72 ; 17.10 ;11-Jul-2006
+102530;ICICI Prudential MidCap Fund - Institutional Option - I;INF109K01AM4;; 8.01 ; 8.01 ; 8.19 ;11-Jul-2006
 
 Nippon India Mutual Fund
 100375;NIPPON INDIA GROWTH FUND - IDCW Option;INF204K01299;INF204K01307;44.62;44.62;45.62;11-Jul-2006
@@ -1185,11 +1187,11 @@ Nippon India Mutual Fund
 
 SBI Mutual Fund
 100645;SBI Consumption Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01404;INF200K01412;14.02;13.88;14.34;11-Jul-2006
+101295;SBI ESG Exclusionary Strategy Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;25.53;25.27;26.10;11-Jul-2006
 100644;SBI Healthcare Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01453;INF200K01461;24.44;24.20;24.99;11-Jul-2006
 102823;SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH;INF200K01446;;29.72;29.42;30.39;11-Jul-2006
 103145;SBI Magnum COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;12.71;12.58;13.00;11-Jul-2006
 103146;SBI Magnum Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;12.71;12.58;13.00;11-Jul-2006
-101295;SBI Magnum Equity ESG Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;25.53;25.27;26.10;11-Jul-2006
 103114;SBI Magnum Global Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;24.20;23.96;24.74;11-Jul-2006
 103034;SBI MAGNUM GLOBAL FUND - REGULAR PLAN -GROWTH;INF200K01271;;30.97;30.66;31.67;11-Jul-2006
 100643;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01420;INF200K01438;18.02;17.84;18.43;11-Jul-2006
@@ -1411,15 +1413,15 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;10.4302;10.4302;11-Jul-2006
 
 Kotak Mahindra Mutual Fund
-100833;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;11-Jul-2006
-100835;Kotak Liquid Regular Plan Growth;INF174K01NI9;;14.3714;14.3714;14.3714;11-Jul-2006
-100834;Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.036;10.036;10.036;11-Jul-2006
+100831;Kotak Liquid Fund -Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;11-Jul-2006
+100836;Kotak Liquid Fund -Sweep (Daily Dividend);;;10.0071;10.0071;10.0071;11-Jul-2006
+100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;11-Jul-2006
+100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;14.3714;14.3714;14.3714;11-Jul-2006
+100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.036;10.036;10.036;11-Jul-2006
 100830;Kotak Liquid-Institutional Plan  (Growth);INF174K01FZ9;;14.3024;14.3024;14.3024;11-Jul-2006
 100832;Kotak Liquid-Institutional Plan (Weekly Dividend);;INF174K01GB8;10.0233;10.0233;10.0233;11-Jul-2006
-100831;Kotak Liquid-Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;11-Jul-2006
 100828;Kotak Liquid-Regular (Dividend);;INF174K01FY2;10.0205;10.0205;10.0205;11-Jul-2006
 100829;Kotak Liquid-Regular (Growth);INF174K01NM1;;14.121;14.121;14.121;11-Jul-2006
-100836;Kotak Liquid-Sweep (Daily Dividend);;;10.0071;10.0071;10.0071;11-Jul-2006
 
 Nippon India Mutual Fund
 100852;NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION;;INF204K01UM1;15.2823;15.2823;15.2823;11-Jul-2006
@@ -1608,9 +1610,9 @@ ICICI Prudential Mutual Fund
 103636;ICICI Prudential Money Market Fund Option -Fortnightly IDCW;INF109K01UA7;;0;0;0;11-Jul-2006
 
 Kotak Mahindra Mutual Fund
-101893;Kotak Money Market Scheme - (Growth);INF174K01NA6;;11.6931;11.6931;11.6931;11-Jul-2006
-101892;Kotak Money market Scheme - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;10.0495;10.0495;10.0495;11-Jul-2006
-101894;Kotak Money Market Scheme - (Weekly Reinvestment of Income Distribution cum capital withdrawal option);INF174K01NC2;;10.0059;10.0059;10.0059;11-Jul-2006
+101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;11.6931;11.6931;11.6931;11-Jul-2006
+101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;10.0495;10.0495;10.0495;11-Jul-2006
+101894;Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option);INF174K01NC2;;10.0059;10.0059;10.0059;11-Jul-2006
 
 Nippon India Mutual Fund
 103050;NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option;;INF204K01UY6;10.0031;10.0031;10.0031;11-Jul-2006
@@ -1737,16 +1739,16 @@ SBI Mutual Fund
 102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;10.3328;10.2295;10.3328;11-Jul-2006
 
 Sundaram Mutual Fund
-100607;Sundaram Medium Term Bond Fund Institutional Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01GB2;INF903J01GE6;0.0000;0.0000;0.0000;11-Jul-2006
-100611;Sundaram Medium Term Bond Fund Institutional Plan - Bonus;INF903J01GF3;;11.2298;11.2298;11.2298;11-Jul-2006
-100608;Sundaram Medium Term Bond Fund Institutional Plan - Growth;INF903J01FY6;;0.0000;0.0000;0.0000;11-Jul-2006
-100606;Sundaram Medium Term Bond Fund Institutional Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01GA4;INF903J01GD8;0.0000;0.0000;0.0000;11-Jul-2006
-100605;Sundaram Medium Term Bond Fund Institutional Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FZ3;INF903J01GC0;0.0000;0.0000;0.0000;11-Jul-2006
-100610;Sundaram Medium Term Bond Fund Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;10.4278;10.4278;10.4278;11-Jul-2006
-100604;Sundaram Medium Term Bond Fund Regular Plan - Bonus;INF903J01FX8;;11.6019;11.6019;11.6019;11-Jul-2006
-100603;Sundaram Medium Term Bond Fund Regular Plan - Growth;INF903J01FQ2;;22.0331;22.0331;22.0331;11-Jul-2006
-100609;Sundaram Medium Term Bond Fund Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;10.3228;10.3228;10.3228;11-Jul-2006
-100602;Sundaram Medium Term Bond Fund Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;10.2293;10.2293;10.2293;11-Jul-2006
+100607;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01GB2;INF903J01GE6;0.0000;0.0000;0.0000;11-Jul-2006
+100611;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Bonus;INF903J01GF3;;11.2298;11.2298;11.2298;11-Jul-2006
+100608;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Growth;INF903J01FY6;;0.0000;0.0000;0.0000;11-Jul-2006
+100606;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01GA4;INF903J01GD8;0.0000;0.0000;0.0000;11-Jul-2006
+100605;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FZ3;INF903J01GC0;0.0000;0.0000;0.0000;11-Jul-2006
+100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;10.4278;10.4278;10.4278;11-Jul-2006
+100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Bonus;INF903J01FX8;;11.6019;11.6019;11.6019;11-Jul-2006
+100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;INF903J01FQ2;;22.0331;22.0331;22.0331;11-Jul-2006
+100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;10.3228;10.3228;10.3228;11-Jul-2006
+100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;10.2293;10.2293;10.2293;11-Jul-2006
 
 Tata Mutual Fund
 101703;Tata Medium Term Fund -Regular Plan - Growth Option;INF277K01717;;12.0651;12.0651;12.0651;11-Jul-2006
@@ -1959,12 +1961,12 @@ Aditya Birla Sun Life Mutual Fund
 103187;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan;INF209K01BE7;INF209K01EA9;10.3898;10.3898;10.3898;11-Jul-2006
 
 Sundaram Mutual Fund
-100782;Sundaram Banking and PSU Debt Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.0519;10.0519;10.0519;11-Jul-2006
-100784;Sundaram Banking and PSU Debt Fund Regular Plan - Growth;INF903J01IN3;;10.9089;10.9089;10.9089;11-Jul-2006
-100793;Sundaram Banking and PSU Debt Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.1841;10.1841;10.1841;11-Jul-2006
-100783;Sundaram Banking and PSU Debt Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;0.0000;0.0000;0.0000;11-Jul-2006
+100782;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.0519;10.0519;10.0519;11-Jul-2006
+100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;10.9089;10.9089;10.9089;11-Jul-2006
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.1841;10.1841;10.1841;11-Jul-2006
+100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;0.0000;0.0000;0.0000;11-Jul-2006
+100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.1615;10.1615;10.1615;11-Jul-2006
 100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;10.8250;10.8250;10.8250;11-Jul-2006
-100780;Sundaram Banking and PSU Debt Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.1615;10.1615;10.1615;11-Jul-2006
 
 Open Ended Schemes ( Debt Scheme - Gilt Fund )
 

@@ -690,9 +690,6 @@ Baroda BNP Paribas Mutual Fund
 102021;Baroda BNP Paribas MULTI CAP FUND - Regular Plan - IDCW Option;INF955L01658;INF955L01666;27.52;27.24;27.52;16-Mar-2010
 
 ICICI Prudential Mutual Fund
-102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;;31.44;31.13;31.44;16-Mar-2010
-102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6;15.65;15.49;15.65;16-Mar-2010
-102530;ICICI Prudential MidCap Fund - Institutional Option - I;INF109K01AM4;;12.73;12.60;12.73;16-Mar-2010
 101228;ICICI Prudential Multicap Fund - Growth;INF109K01613;;102.07;101.05;102.07;16-Mar-2010
 101706;ICICI Prudential Multicap Fund - IDCW;INF109K01FK7;INF109K01621;15.99;15.83;15.99;16-Mar-2010
 102957;ICICI Prudential Multicap Fund - Institutional Option - I;INF109K01639;;28.18;27.90;28.18;16-Mar-2010
@@ -893,6 +890,11 @@ Franklin Templeton Mutual Fund
 HDFC Mutual Fund
 105758;HDFC Mid-Cap Opportunities Fund - Growth Plan;INF179K01CR2;;12.828;0;0;16-Mar-2010
 105757;HDFC Mid-Cap Opportunities Fund - IDCW Plan;INF179K01CS0;INF179K01CT8;12.828;0;0;16-Mar-2010
+
+ICICI Prudential Mutual Fund
+102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;;31.44;31.13;31.44;16-Mar-2010
+102529;ICICI Prudential MidCap Fund - IDCW;INF109K01EH6;INF109K01AL6;15.65;15.49;15.65;16-Mar-2010
+102530;ICICI Prudential MidCap Fund - Institutional Option - I;INF109K01AM4;;12.73;12.60;12.73;16-Mar-2010
 
 Invesco Mutual Fund
 105503;Invesco India Midcap Fund - Growth Option;INF205K01BC9;;12.42;0.00;0.00;16-Mar-2010
@@ -1506,12 +1508,12 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;10.4302;10.4302;16-Mar-2010
 
 Kotak Mahindra Mutual Fund
-100833;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;16-Mar-2010
-100835;Kotak Liquid Regular Plan Growth;INF174K01NI9;;18.6278;18.6278;18.6278;16-Mar-2010
-100834;Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.0367;10.0367;10.0367;16-Mar-2010
+100831;Kotak Liquid Fund -Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;16-Mar-2010
+100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;16-Mar-2010
+100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;18.6278;18.6278;18.6278;16-Mar-2010
+100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.0367;10.0367;10.0367;16-Mar-2010
 100830;Kotak Liquid-Institutional Plan  (Growth);INF174K01FZ9;;18.1983;18.1983;18.1983;16-Mar-2010
 100832;Kotak Liquid-Institutional Plan (Weekly Dividend);;INF174K01GB8;10.0237;10.0237;10.0237;16-Mar-2010
-100831;Kotak Liquid-Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;16-Mar-2010
 100828;Kotak Liquid-Regular (Dividend);;INF174K01FY2;10.0233;10.0233;10.0233;16-Mar-2010
 100829;Kotak Liquid-Regular (Growth);INF174K01NM1;;17.8223;17.8223;17.8223;16-Mar-2010
 
@@ -1711,10 +1713,10 @@ ICICI Prudential Mutual Fund
 103636;ICICI Prudential Money Market Fund Option -Fortnightly IDCW;INF109K01UA7;;100.2160;100.2160;100.2160;16-Mar-2010
 
 Kotak Mahindra Mutual Fund
-106842;Kotak Money Market Scheme - (Daily Reinvestment of Income Distribution cum capital withdrawal option);INF174K01ND0;;10.0598;10.0598;10.0598;16-Mar-2010
-101893;Kotak Money Market Scheme - (Growth);INF174K01NA6;;15.0577;15.0577;15.0577;16-Mar-2010
-101892;Kotak Money market Scheme - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;10.0058;10.0058;10.0058;16-Mar-2010
-101894;Kotak Money Market Scheme - (Weekly Reinvestment of Income Distribution cum capital withdrawal option);INF174K01NC2;;10.0272;10.0272;10.0272;16-Mar-2010
+106842;Kotak Money Market Fund - (Daily Reinvestment of Income Distribution cum capital withdrawal option);INF174K01ND0;;10.0598;10.0598;10.0598;16-Mar-2010
+101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;15.0577;15.0577;15.0577;16-Mar-2010
+101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;10.0058;10.0058;10.0058;16-Mar-2010
+101894;Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option);INF174K01NC2;;10.0272;10.0272;10.0272;16-Mar-2010
 
 Nippon India Mutual Fund
 103050;NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option;;INF204K01UY6;10.0031;10.0031;10.0031;16-Mar-2010
