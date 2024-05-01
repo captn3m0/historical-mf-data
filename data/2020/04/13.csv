@@ -3168,8 +3168,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.6337;;;13-Apr-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.4838;;;13-Apr-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.5787;;;13-Apr-2020
-120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;9.6623;;;13-Apr-2020
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;9.5545;;;13-Apr-2020
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;9.6518;;;13-Apr-2020
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;9.6483;;;13-Apr-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.5001;;;13-Apr-2020
 
 ICICI Prudential Mutual Fund
@@ -4488,10 +4488,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.015;;;13-Apr-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.7428;;;13-Apr-2020
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.2537;;;13-Apr-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;25.5567;;;13-Apr-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;26.5004;;;13-Apr-2020
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;15.5915;;;13-Apr-2020
+110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;13.3199;;;13-Apr-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.4594;;;13-Apr-2020
@@ -5319,8 +5319,8 @@ Sundaram Mutual Fund
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;31.7688;;;13-Apr-2020
 100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.3412;;;13-Apr-2020
 100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;11.7073;;;13-Apr-2020
+100781;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Growth;INF903J01IK9;;28.6389;;;13-Apr-2020
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.2479;;;13-Apr-2020
-100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;28.6389;;;13-Apr-2020
 
 Tata Mutual Fund
 147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K016X1;;10.2443;;;13-Apr-2020
@@ -5758,7 +5758,7 @@ Kotak Mahindra Mutual Fund
 114859;Kotak Debt Hybrid - Growth;INF174K01393;;31.3886;;;13-Apr-2020
 120154;Kotak Debt Hybrid - Growth - Direct;INF174K01JZ1;;33.8854;;;13-Apr-2020
 114858;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01419;INF174K01401;10.9892;;;13-Apr-2020
-120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;;11.5179;;;13-Apr-2020
+120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;INF174K01KB0;11.5179;;;13-Apr-2020
 114860;Kotak Debt Hybrid - Quarterly Payout of Income Distribution cum capital withdrawal option;INF174K01435;INF174K01427;12.3997;;;13-Apr-2020
 120156;Kotak Debt Hybrid - Quarterly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KC8;;13.1104;;;13-Apr-2020
 
@@ -6916,12 +6916,12 @@ Tata Mutual Fund
 119312;Tata Young Citizens' Fund-Direct Plan-Growth Option;INF277K01QW4;;22.6103;;;13-Apr-2020
 
 UTI Mutual Fund
-120771;UTI CCF Saving Plan - Direct Plan;;;20.9029;;;13-Apr-2020
-100678;UTI CCF Saving Plan - Regular Plan;;;20.6748;;;13-Apr-2020
-120724;UTI CCF Investment Plan - Direct Plan - Growth Option;;;31.3606;;;13-Apr-2020
-120725;UTI CCF Investment Plan - Direct Plan - IDCW;;;31.4107;;;13-Apr-2020
-102267;UTI CCF Investment Plan - Regular Plan - Growth Option;;;29.8334;;;13-Apr-2020
-102266;UTI CCF Investment Plan - Regular Plan - IDCW;;;29.8353;;;13-Apr-2020
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;31.3606;;;13-Apr-2020
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;31.4107;;;13-Apr-2020
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;29.8334;;;13-Apr-2020
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;29.8353;;;13-Apr-2020
+120771;UTI Children's Hybrid Fund - Direct Plan;;;20.9029;;;13-Apr-2020
+100678;UTI Children's Hybrid Fund - Regular Plan;;;20.6748;;;13-Apr-2020
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -7158,7 +7158,7 @@ ICICI Prudential Mutual Fund
 147921;ICICI Prudential Nifty Midcap 150 ETF;INF109KC1G82;;47.84;;;13-Apr-2020
 144587;ICICI Prudential Nifty Next 50 ETF;INF109KC1NS5;;23.08;;;13-Apr-2020
 147530;ICICI Prudential Nifty Private Bank ETF;INF109KC18U7;;103.62;;;13-Apr-2020
-139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KB1WY5;;46.76;;;13-Apr-2020
+139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KC11V0;;46.76;;;13-Apr-2020
 143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;119.45;;;13-Apr-2020
 144947;ICICI Prudential S&P BSE Liquid Rate ETF;INF109KC1KT9;;1000;;;13-Apr-2020
 139519;ICICI Prudential S&P BSE Midcap Select ETF;INF109KB1XT3;;49.26;;;13-Apr-2020

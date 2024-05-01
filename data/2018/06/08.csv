@@ -2579,7 +2579,7 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.2546;22.2546;22.2546;08-Jun-2018
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0033;10.0033;10.0033;08-Jun-2018
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.9723;15.9723;15.9723;08-Jun-2018
-120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;10.3628;10.3628;10.3628;08-Jun-2018
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;10.0846;10.0846;08-Jun-2018
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;17.4521;17.4521;17.4521;08-Jun-2018
 104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0444;10.0444;10.0444;08-Jun-2018
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0067;10.0067;10.0067;08-Jun-2018
@@ -4463,8 +4463,8 @@ Sundaram Mutual Fund
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;27.0054;27.0054;27.0054;08-Jun-2018
 100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.8691;10.8691;10.8691;08-Jun-2018
 100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;10.9033;10.9033;10.9033;08-Jun-2018
+100781;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Growth;INF903J01IK9;;24.3447;24.3447;24.3447;08-Jun-2018
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.7719;10.7719;10.7719;08-Jun-2018
-100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;24.3447;24.3447;24.3447;08-Jun-2018
 
 UTI Mutual Fund
 140135;UTI Banking & PSU Fund - Direct Plan - Annual IDCW;INF789FA1V03;INF789FA1V11;10.5107;10.5107;0;08-Jun-2018
@@ -4912,7 +4912,7 @@ Kotak Mahindra Mutual Fund
 114859;Kotak Debt Hybrid - Growth;INF174K01393;;29.3226;29.3226;29.3226;08-Jun-2018
 120154;Kotak Debt Hybrid - Growth - Direct;INF174K01JZ1;;30.9864;30.9864;30.9864;08-Jun-2018
 114858;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01419;INF174K01401;12.233;12.233;12.233;08-Jun-2018
-120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;;12.6641;12.6641;12.6641;08-Jun-2018
+120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;INF174K01KB0;12.6641;12.6641;12.6641;08-Jun-2018
 114860;Kotak Debt Hybrid - Quarterly Payout of Income Distribution cum capital withdrawal option;INF174K01435;INF174K01427;13.6463;13.6463;13.6463;08-Jun-2018
 120156;Kotak Debt Hybrid - Quarterly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KC8;;14.2488;14.2488;14.2488;08-Jun-2018
 
@@ -5771,12 +5771,12 @@ Tata Mutual Fund
 119312;Tata Young Citizens' Fund-Direct Plan-Growth Option;INF277K01QW4;;27.7247;27.4475;27.7247;08-Jun-2018
 
 UTI Mutual Fund
-120771;UTI CCF Saving Plan - Direct Plan;;;22.9619;22.9619;22.9619;08-Jun-2018
-100678;UTI CCF Saving Plan - Regular Plan;;;22.7906;22.7906;22.7906;08-Jun-2018
-120724;UTI CCF Investment Plan - Direct Plan - Growth Option;;;39.0867;39.0867;39.0867;08-Jun-2018
-120725;UTI CCF Investment Plan - Direct Plan - IDCW;;;39.1467;39.1467;39.1467;08-Jun-2018
-102267;UTI CCF Investment Plan - Regular Plan - Growth Option;;;37.8086;37.8086;37.8086;08-Jun-2018
-102266;UTI CCF Investment Plan - Regular Plan - IDCW;;;37.8112;37.8112;37.8112;08-Jun-2018
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;39.0867;39.0867;39.0867;08-Jun-2018
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;39.1467;39.1467;39.1467;08-Jun-2018
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;37.8086;37.8086;37.8086;08-Jun-2018
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;37.8112;37.8112;37.8112;08-Jun-2018
+120771;UTI Children's Hybrid Fund - Direct Plan;;;22.9619;22.9619;22.9619;08-Jun-2018
+100678;UTI Children's Hybrid Fund - Regular Plan;;;22.7906;22.7906;22.7906;08-Jun-2018
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -5975,7 +5975,7 @@ ICICI Prudential Mutual Fund
 123004;ICICI Prudential Nifty 100 ETF;INF109KA1962;;116.7504;N.A.;N.A.;08-Jun-2018
 141596;ICICI Prudential Nifty 100 Low Volatility 30 ETF;INF109KC19U5;;85.32;N.A.;N.A.;08-Jun-2018
 121366;ICICI Prudential Nifty 50 ETF;INF109K012R6;;111.1805;N.A.;N.A.;08-Jun-2018
-139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KB1WY5;;49.70;N.A.;N.A.;08-Jun-2018
+139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KC11V0;;49.70;N.A.;N.A.;08-Jun-2018
 143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;147.89;N.A.;N.A.;08-Jun-2018
 139519;ICICI Prudential S&P BSE Midcap Select ETF;INF109KB1XT3;;67.86;N.A.;N.A.;08-Jun-2018
 101705;ICICI Prudential S&P BSE Sensex ETF;INF346A01034;;371.1505;371.1505;371.1505;08-Jun-2018

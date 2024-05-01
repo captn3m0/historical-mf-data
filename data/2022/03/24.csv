@@ -5125,8 +5125,8 @@ Sundaram Mutual Fund
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;34.9644;;;24-Mar-2022
 100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5728;;;24-Mar-2022
 100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;12.1090;;;24-Mar-2022
+100781;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Growth;INF903J01IK9;;31.5195;;;24-Mar-2022
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.4776;;;24-Mar-2022
-100781;Sundaram Banking and PSU Debt Fund Retail Plan - Growth;INF903J01IK9;;31.5195;;;24-Mar-2022
 
 Tata Mutual Fund
 147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K016X1;;11.8598;;;24-Mar-2022
@@ -5611,7 +5611,7 @@ Kotak Mahindra Mutual Fund
 114859;Kotak Debt Hybrid - Growth;INF174K01393;;42.6456;;;24-Mar-2022
 120154;Kotak Debt Hybrid - Growth - Direct;INF174K01JZ1;;47.1877;;;24-Mar-2022
 114858;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01419;INF174K01401;12.6415;;;24-Mar-2022
-120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;;13.4486;;;24-Mar-2022
+120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;INF174K01KB0;13.4486;;;24-Mar-2022
 
 L&T Mutual Fund
 119852;L&T Conservative Hybrid Fund -Direct Plan- Growth;INF917K01GF1;;46.3342;;;24-Mar-2022
@@ -6749,12 +6749,12 @@ Tata Mutual Fund
 119312;Tata Young Citizens' Fund-Direct Plan-Growth Option;INF277K01QW4;;44.0521;;;24-Mar-2022
 
 UTI Mutual Fund
-120771;UTI CCF Saving Plan - Direct Plan;;;30.518;;;24-Mar-2022
-100678;UTI CCF Saving Plan - Regular Plan;;;30.0518;;;24-Mar-2022
-120724;UTI CCF Investment Plan - Direct Plan - Growth Option;;;62.1147;;;24-Mar-2022
-120725;UTI CCF Investment Plan - Direct Plan - IDCW;;;62.2202;;;24-Mar-2022
-102267;UTI CCF Investment Plan - Regular Plan - Growth Option;;;57.9598;;;24-Mar-2022
-102266;UTI CCF Investment Plan - Regular Plan - IDCW;;;57.963;;;24-Mar-2022
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;62.1147;;;24-Mar-2022
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;62.2202;;;24-Mar-2022
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;57.9598;;;24-Mar-2022
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;57.963;;;24-Mar-2022
+120771;UTI Children's Hybrid Fund - Direct Plan;;;30.518;;;24-Mar-2022
+100678;UTI Children's Hybrid Fund - Regular Plan;;;30.0518;;;24-Mar-2022
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -7190,7 +7190,7 @@ ICICI Prudential Mutual Fund
 149928;ICICI Prudential Nifty 5 yr Benchmark G-SEC ETF;INF109KC14A8;;49.6443;;;24-Mar-2022
 121366;ICICI Prudential Nifty 50 ETF;INF109K012R6;;185.2620;;;24-Mar-2022
 148456;ICICI Prudential Nifty Alpha Low- Volatility 30 ETF;INF109KC1N59;;169.0280;;;24-Mar-2022
-149463;ICICI Prudential Nifty Auto ETF;INF109KC1Y49;;104.3327;;;24-Mar-2022
+149463;ICICI Prudential Nifty Auto ETF;INF109KC10V2;;104.3327;;;24-Mar-2022
 147483;ICICI Prudential Nifty Bank ETF;INF109KC15I8;;353.7585;;;24-Mar-2022
 149072;ICICI Prudential Nifty FMCG ETF;INF109KC1R48;;361.3365;;;24-Mar-2022
 148957;ICICI Prudential Nifty Healthcare ETF;INF109KC1Q72;;86.0606;;;24-Mar-2022
@@ -7199,7 +7199,7 @@ ICICI Prudential Mutual Fund
 147921;ICICI Prudential Nifty Midcap 150 ETF;INF109KC1G82;;111.2508;;;24-Mar-2022
 144587;ICICI Prudential Nifty Next 50 ETF;INF109KC1NS5;;41.7391;;;24-Mar-2022
 147530;ICICI Prudential Nifty Private Bank ETF;INF109KC18U7;;177.2060;;;24-Mar-2022
-139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KB1WY5;;98.3901;;;24-Mar-2022
+139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KC11V0;;98.3901;;;24-Mar-2022
 143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;24.2833;;;24-Mar-2022
 144947;ICICI Prudential S&P BSE Liquid Rate ETF;INF109KC1KT9;;1000.0000;;;24-Mar-2022
 139519;ICICI Prudential S&P BSE Midcap Select ETF;INF109KB1XT3;;101.5605;;;24-Mar-2022
