@@ -925,10 +925,10 @@ Aditya Birla Sun Life Mutual Fund
 103308;Aditya Birla Sun Life Focused Fund -Regular - IDCW;INF209K01454;INF209K01CS5;14.9986;;;21-Nov-2018
 
 Axis Mutual Fund
-120468;Axis Focused 25 Fund - Direct Plan - Growth Option;INF846K01CQ8;;27.57;;;21-Nov-2018
-120467;Axis Focused 25 Fund - Direct Plan - IDCW;INF846K01CO3;INF846K01CP0;27.22;;;21-Nov-2018
-117560;Axis Focused 25 Fund - Regular Plan - Growth Option;INF846K01CH7;;25.70;;;21-Nov-2018
-117559;Axis Focused 25 Fund - Regular Plan - IDCW;INF846K01CI5;INF846K01CJ3;17.91;;;21-Nov-2018
+120468;Axis Focused Fund - Direct Plan - Growth Option;INF846K01CQ8;;27.57;;;21-Nov-2018
+120467;Axis Focused Fund - Direct Plan - IDCW;INF846K01CO3;INF846K01CP0;27.22;;;21-Nov-2018
+117560;Axis Focused Fund - Regular Plan - Growth Option;INF846K01CH7;;25.70;;;21-Nov-2018
+117559;Axis Focused Fund - Regular Plan - IDCW;INF846K01CI5;INF846K01CJ3;17.91;;;21-Nov-2018
 
 Bandhan Mutual Fund
 108592;BANDHAN Focused Equity Fund - Regular Plan - Growth;INF194K01466;;35.26;;;21-Nov-2018
@@ -3094,8 +3094,8 @@ ICICI Prudential Mutual Fund
 120579;ICICI Prudential Child Care Fund (Gift Plan) - Direct Plan - Cumulative;INF109K01Y49;;139.78;;;21-Nov-2018
 
 LIC Mutual Fund
-120285;LIC MF Children's Gift Fund-Direct Plan-Growth;INF767K01FB1;;16.5891;;;21-Nov-2018
-101271;LIC MF Children's Gift Fund-Regular Plan-Growth;INF767K01048;;15.6768;;;21-Nov-2018
+120285;LIC MF Children's Fund-Direct Plan-Growth;INF767K01FB1;;16.5891;;;21-Nov-2018
+101271;LIC MF Children's Fund-Regular Plan-Growth;INF767K01048;;15.6768;;;21-Nov-2018
 
 Tata Mutual Fund
 101491;Tata Young Citizens' Fund -Regular Plan-Growth Option;INF277K01AJ5;;24.0085;;;21-Nov-2018
@@ -3143,6 +3143,10 @@ HDFC Mutual Fund
 101281;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;INF179K01LA9;;311.1972;;;21-Nov-2018
 
 ICICI Prudential Mutual Fund
+141839;ICICI Prudential BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;10.9282;;;21-Nov-2018
+141841;ICICI Prudential BSE Sensex Index Fund - Direct Plan - Cumulative Option;INF109KB10X0;;10.9617;;;21-Nov-2018
+141842;ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW Option;INF109KB12X6;;10.9618;;;21-Nov-2018
+141840;ICICI Prudential BSE Sensex Index Fund - IDCW Option;INF109KB19W3;;10.9282;;;21-Nov-2018
 101349;ICICI Prudential Nifty 50 Index Fund - Cumulative Option;INF109K01PI0;;102.0741;;;21-Nov-2018
 120620;ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option;INF109K012M7;;104.4925;;;21-Nov-2018
 135391;ICICI Prudential Nifty 50 Index Fund - Direct Plan IDCW Option;INF109KB1NL1;INF109KB1NM9;14.0514;;;21-Nov-2018
@@ -3151,10 +3155,6 @@ ICICI Prudential Mutual Fund
 120683;ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  IDCW;INF109K01Y64;INF109K01Y72;24.8868;;;21-Nov-2018
 112957;ICICI Prudential Nifty Next 50 Index Fund - Growth;INF109K01IF1;;24.2545;;;21-Nov-2018
 112958;ICICI Prudential Nifty Next 50 Index Fund -IDCW;INF109K01PR1;INF109K01IE4;24.2545;;;21-Nov-2018
-141839;ICICI Prudential S&P BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;10.9282;;;21-Nov-2018
-141841;ICICI Prudential S&P BSE Sensex Index Fund - Direct Plan - Cumulative Option;INF109KB10X0;;10.9617;;;21-Nov-2018
-141842;ICICI Prudential S&P BSE Sensex Index Fund - Direct Plan - IDCW Option;INF109KB12X6;;10.9618;;;21-Nov-2018
-141840;ICICI Prudential S&P BSE Sensex Index Fund - IDCW Option;INF109KB19W3;;10.9282;;;21-Nov-2018
 
 IDBI Mutual Fund
 118347;IDBI NIFTY 50  Index Fund Growth Direct;INF397L01AP6;;20.5340;;;21-Nov-2018
@@ -3167,14 +3167,14 @@ IDBI Mutual Fund
 118456;IDBI Nifty Next 50 Index Fund IDCW Direct;INF397L01AY8;INF397L01AX0;21.7734;;;21-Nov-2018
 
 LIC Mutual Fund
+120308;LIC MF BSE Sensex Index Fund-Direct Plan-Growth;INF767K01FJ4;;67.2939;;;21-Nov-2018
+120312;LIC MF BSE Sensex Index Fund-Direct Plan-IDCW;INF767K01FI6;INF767K01FK2;22.5773;;;21-Nov-2018
+101199;LIC MF BSE Sensex Index Fund-Regular Plan-Growth;INF767K01139;;65.2405;;;21-Nov-2018
+101198;LIC MF BSE Sensex Index Fund-Regular Plan-IDCW;INF767K01121;INF767K01113;22.3623;;;21-Nov-2018
 120307;LIC MF Nifty 50 Index Fund-Direct Plan-Growth;INF767K01FF2;;60.1166;;;21-Nov-2018
 120309;LIC MF Nifty 50 Index Fund-Direct Plan-IDCW;INF767K01FG0;INF767K01FH8;22.1453;;;21-Nov-2018
 101201;LIC MF Nifty 50 Index Fund-Regular Plan-Growth;INF767K01162;;58.3302;;;21-Nov-2018
 101200;LIC MF Nifty 50 Index Fund-Regular Plan-IDCW;INF767K01154;INF767K01147;21.5179;;;21-Nov-2018
-120308;LIC MF S & P BSE Sensex Index Fund-Direct Plan-Growth;INF767K01FJ4;;67.2939;;;21-Nov-2018
-120312;LIC MF S & P BSE Sensex Index Fund-Direct Plan-IDCW;INF767K01FI6;INF767K01FK2;22.5773;;;21-Nov-2018
-101199;LIC MF S & P BSE Sensex Index Fund-Regular Plan-Growth;INF767K01139;;65.2405;;;21-Nov-2018
-101198;LIC MF S & P BSE Sensex Index Fund-Regular Plan-IDCW;INF767K01121;INF767K01113;22.3623;;;21-Nov-2018
 
 Nippon India Mutual Fund
 113300;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - ANNUAL - IDCW Option;INF204K01II4;INF204K01IL8;17.7184;;;21-Nov-2018
@@ -3296,15 +3296,15 @@ HDFC Mutual Fund
 
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;35.3556;;;21-Nov-2018
-123004;ICICI Prudential Nifty 100 ETF;INF109KA1962;;114.9923;;;21-Nov-2018
+143247;ICICI Prudential BSE 500 ETF;INF109KC1V59;;143.2;;;21-Nov-2018
+144947;ICICI Prudential BSE Liquid Rate ETF;INF109KC1KT9;;1000;;;21-Nov-2018
+139519;ICICI Prudential BSE Midcap Select ETF;INF109KC10W0;;66.23;;;21-Nov-2018
+101705;ICICI Prudential BSE Sensex ETF;INF346A01034;;370.8702;;;21-Nov-2018
+123004;ICICI Prudential Nifty 100 ETF;INF109KC16V9;;114.9923;;;21-Nov-2018
 141596;ICICI Prudential Nifty 100 Low Volatility 30 ETF;INF109KC19U5;;84.38;;;21-Nov-2018
 121366;ICICI Prudential Nifty 50 ETF;INF109K012R6;;110.2025;;;21-Nov-2018
 144587;ICICI Prudential Nifty Next 50 ETF;INF109KC1NS5;;27.46;;;21-Nov-2018
 139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KC11V0;;51.5;;;21-Nov-2018
-143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;143.2;;;21-Nov-2018
-144947;ICICI Prudential S&P BSE Liquid Rate ETF;INF109KC1KT9;;1000;;;21-Nov-2018
-139519;ICICI Prudential S&P BSE Midcap Select ETF;INF109KB1XT3;;66.23;;;21-Nov-2018
-101705;ICICI Prudential S&P BSE Sensex ETF;INF346A01034;;370.8702;;;21-Nov-2018
 
 Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1121.2392;;;21-Nov-2018
@@ -3317,9 +3317,9 @@ Kotak Mahindra Mutual Fund
 109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;359.7199;;;21-Nov-2018
 
 LIC Mutual Fund
+135672;LIC MF BSE Sensex ETF;INF767K01OT5;;365.7065;;;21-Nov-2018
 136473;LIC MF Nifty 100 ETF;INF767K01PC8;;111.508;;;21-Nov-2018
 135607;LIC MF Nifty 50 ETF;INF767K01OS7;;109.4629;;;21-Nov-2018
-135672;LIC MF S & P BSE Sensex ETF;INF767K01OT5;;365.7065;;;21-Nov-2018
 
 Mirae Asset Mutual Fund
 145633;Mirae Asset Nifty 50 ETF (MAN50ETF);INF769K01EG9;;105.898;;;21-Nov-2018

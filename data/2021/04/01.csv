@@ -995,10 +995,10 @@ Aditya Birla Sun Life Mutual Fund
 103308;Aditya Birla Sun Life Focused Fund -Regular - IDCW;INF209K01454;INF209K01CS5;18.0754;;;01-Apr-2021
 
 Axis Mutual Fund
-120468;Axis Focused 25 Fund - Direct Plan - Growth Option;INF846K01CQ8;;41.87;;;01-Apr-2021
-120467;Axis Focused 25 Fund - Direct Plan - IDCW;INF846K01CO3;INF846K01CP0;33.38;;;01-Apr-2021
-117560;Axis Focused 25 Fund - Regular Plan - Growth Option;INF846K01CH7;;37.90;;;01-Apr-2021
-117559;Axis Focused 25 Fund - Regular Plan - IDCW;INF846K01CI5;INF846K01CJ3;19.65;;;01-Apr-2021
+120468;Axis Focused Fund - Direct Plan - Growth Option;INF846K01CQ8;;41.87;;;01-Apr-2021
+120467;Axis Focused Fund - Direct Plan - IDCW;INF846K01CO3;INF846K01CP0;33.38;;;01-Apr-2021
+117560;Axis Focused Fund - Regular Plan - Growth Option;INF846K01CH7;;37.90;;;01-Apr-2021
+117559;Axis Focused Fund - Regular Plan - IDCW;INF846K01CI5;INF846K01CJ3;19.65;;;01-Apr-2021
 
 Bandhan Mutual Fund
 108592;BANDHAN Focused Equity Fund - Regular Plan - Growth;INF194K01466;;46.47;;;01-Apr-2021
@@ -3522,8 +3522,8 @@ ICICI Prudential Mutual Fund
 120579;ICICI Prudential Child Care Fund (Gift Plan) - Direct Plan - Cumulative;INF109K01Y49;;177.45;;;01-Apr-2021
 
 LIC Mutual Fund
-120285;LIC MF Children's Gift Fund-Direct Plan-Growth;INF767K01FB1;;22.829;;;01-Apr-2021
-101271;LIC MF Children's Gift Fund-Regular Plan-Growth;INF767K01048;;21.1528;;;01-Apr-2021
+120285;LIC MF Children's Fund-Direct Plan-Growth;INF767K01FB1;;22.829;;;01-Apr-2021
+101271;LIC MF Children's Fund-Regular Plan-Growth;INF767K01048;;21.1528;;;01-Apr-2021
 
 SBI Mutual Fund
 148490;SBI Magnum Children's Benefit Fund - Investment Plan - Direct Plan - Growth;INF200KA1R07;;14.6308;;;01-Apr-2021
@@ -3595,6 +3595,10 @@ HDFC Mutual Fund
 101281;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;INF179K01LA9;;446.8471;;;01-Apr-2021
 
 ICICI Prudential Mutual Fund
+141839;ICICI Prudential BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;15.7362;;;01-Apr-2021
+141841;ICICI Prudential BSE Sensex Index Fund - Direct Plan - Cumulative Option;INF109KB10X0;;15.8653;;;01-Apr-2021
+141842;ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW Option;INF109KB12X6;;15.8652;;;01-Apr-2021
+141840;ICICI Prudential BSE Sensex Index Fund - IDCW Option;INF109KB19W3;;15.7362;;;01-Apr-2021
 101349;ICICI Prudential Nifty 50 Index Fund - Cumulative Option;INF109K01PI0;;144.536;;;01-Apr-2021
 120620;ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option;INF109K012M7;;149.3366;;;01-Apr-2021
 135391;ICICI Prudential Nifty 50 Index Fund - Direct Plan IDCW Option;INF109KB1NL1;INF109KB1NM9;20.082;;;01-Apr-2021
@@ -3603,10 +3607,6 @@ ICICI Prudential Mutual Fund
 120683;ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  IDCW;INF109K01Y64;INF109K01Y72;31.6342;;;01-Apr-2021
 112957;ICICI Prudential Nifty Next 50 Index Fund - Growth;INF109K01IF1;;30.5182;;;01-Apr-2021
 112958;ICICI Prudential Nifty Next 50 Index Fund -IDCW;INF109K01PR1;INF109K01IE4;30.5182;;;01-Apr-2021
-141839;ICICI Prudential S&P BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;15.7362;;;01-Apr-2021
-141841;ICICI Prudential S&P BSE Sensex Index Fund - Direct Plan - Cumulative Option;INF109KB10X0;;15.8653;;;01-Apr-2021
-141842;ICICI Prudential S&P BSE Sensex Index Fund - Direct Plan - IDCW Option;INF109KB12X6;;15.8652;;;01-Apr-2021
-141840;ICICI Prudential S&P BSE Sensex Index Fund - IDCW Option;INF109KB19W3;;15.7362;;;01-Apr-2021
 
 IDBI Mutual Fund
 118347;IDBI NIFTY 50  Index Fund Growth Direct;INF397L01AP6;;29.3332;;;01-Apr-2021
@@ -3635,14 +3635,14 @@ L&T Mutual Fund
 148364;L&T Nifty Next 50 Index Fund - Regular Plan - IDCW ;INF917K01D87;INF917K01E03;14.975;;;01-Apr-2021
 
 LIC Mutual Fund
+120308;LIC MF BSE Sensex Index Fund-Direct Plan-Growth;INF767K01FJ4;;96.7546;;;01-Apr-2021
+120312;LIC MF BSE Sensex Index Fund-Direct Plan-IDCW;INF767K01FI6;INF767K01FK2;32.442;;;01-Apr-2021
+101199;LIC MF BSE Sensex Index Fund-Regular Plan-Growth;INF767K01139;;92.8664;;;01-Apr-2021
+101198;LIC MF BSE Sensex Index Fund-Regular Plan-IDCW;INF767K01121;INF767K01113;31.8306;;;01-Apr-2021
 120307;LIC MF Nifty 50 Index Fund-Direct Plan-Growth;INF767K01FF2;;85.141;;;01-Apr-2021
 120309;LIC MF Nifty 50 Index Fund-Direct Plan-IDCW;INF767K01FG0;INF767K01FH8;31.3775;;;01-Apr-2021
 101201;LIC MF Nifty 50 Index Fund-Regular Plan-Growth;INF767K01162;;81.6941;;;01-Apr-2021
 101200;LIC MF Nifty 50 Index Fund-Regular Plan-IDCW;INF767K01154;INF767K01147;30.1366;;;01-Apr-2021
-120308;LIC MF S & P BSE Sensex Index Fund-Direct Plan-Growth;INF767K01FJ4;;96.7546;;;01-Apr-2021
-120312;LIC MF S & P BSE Sensex Index Fund-Direct Plan-IDCW;INF767K01FI6;INF767K01FK2;32.442;;;01-Apr-2021
-101199;LIC MF S & P BSE Sensex Index Fund-Regular Plan-Growth;INF767K01139;;92.8664;;;01-Apr-2021
-101198;LIC MF S & P BSE Sensex Index Fund-Regular Plan-IDCW;INF767K01121;INF767K01113;31.8306;;;01-Apr-2021
 
 Motilal Oswal Mutual Fund
 147794;Motilal Oswal Nifty 50 Index Fund - Direct plan - Growth;INF247L01AE7;;12.2859;;;01-Apr-2021
@@ -3796,19 +3796,19 @@ HDFC Mutual Fund
 
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;36.6619;;;01-Apr-2021
-123004;ICICI Prudential Nifty 100 ETF;INF109KA1962;;161.5475;;;01-Apr-2021
+143247;ICICI Prudential BSE 500 ETF;INF109KC1V59;;204.73;;;01-Apr-2021
+139519;ICICI Prudential BSE Midcap Select ETF;INF109KC10W0;;86.58;;;01-Apr-2021
+101705;ICICI Prudential BSE Sensex ETF;INF346A01034;;539.3716;;;01-Apr-2021
+123004;ICICI Prudential Nifty 100 ETF;INF109KC16V9;;161.5475;;;01-Apr-2021
 141596;ICICI Prudential Nifty 100 Low Volatility 30 ETF;INF109KC19U5;;118.99;;;01-Apr-2021
 121366;ICICI Prudential Nifty 50 ETF;INF109K012R6;;158.1752;;;01-Apr-2021
-148456;ICICI Prudential Nifty Alpha Low- Volatility 30 ETF;INF109KC1N59;;142.93;;;01-Apr-2021
+148456;ICICI Prudential Nifty Alpha Low- Volatility 30 ETF;INF109KC17V7;;142.93;;;01-Apr-2021
 147483;ICICI Prudential Nifty Bank ETF;INF109KC15I8;;336.46;;;01-Apr-2021
 148466;ICICI Prudential Nifty IT ETF;INF109KC16I6;;261.13;;;01-Apr-2021
-147921;ICICI Prudential Nifty Midcap 150 ETF;INF109KC1G82;;91.93;;;01-Apr-2021
+147921;ICICI Prudential Nifty Midcap 150 ETF;INF109KC11W8;;91.93;;;01-Apr-2021
 144587;ICICI Prudential Nifty Next 50 ETF;INF109KC1NS5;;35.25;;;01-Apr-2021
 147530;ICICI Prudential Nifty Private Bank ETF;INF109KC18U7;;178.19;;;01-Apr-2021
 139455;ICICI Prudential Nifty50 Value 20 ETF;INF109KC11V0;;79.05;;;01-Apr-2021
-143247;ICICI Prudential S&P BSE 500 ETF;INF109KC1V59;;204.73;;;01-Apr-2021
-139519;ICICI Prudential S&P BSE Midcap Select ETF;INF109KB1XT3;;86.58;;;01-Apr-2021
-101705;ICICI Prudential S&P BSE Sensex ETF;INF346A01034;;539.3716;;;01-Apr-2021
 
 Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1606.8085;;;01-Apr-2021
@@ -3822,9 +3822,9 @@ Kotak Mahindra Mutual Fund
 109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;520.5643;;;01-Apr-2021
 
 LIC Mutual Fund
+135672;LIC MF BSE Sensex ETF;INF767K01OT5;;532.436;;;01-Apr-2021
 136473;LIC MF Nifty 100 ETF;INF767K01PC8;;156.888;;;01-Apr-2021
 135607;LIC MF Nifty 50 ETF;INF767K01OS7;;157.1665;;;01-Apr-2021
-135672;LIC MF S & P BSE Sensex ETF;INF767K01OT5;;532.436;;;01-Apr-2021
 
 Mirae Asset Mutual Fund
 148572;Mirae Asset ESG Sector Leaders ETF;INF769K01GS9;;25.303;;;01-Apr-2021
