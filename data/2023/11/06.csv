@@ -91,10 +91,10 @@ Kotak Mahindra Mutual Fund
 149182;Kotak Multicap Fund-Regular Plan-Growth;INF174KA1HS9;;12.975;;;06-Nov-2023
 
 LIC Mutual Fund
-150659;LIC MF Multi Cap Fund-Direct Growth;INF767K01RK7;;11.9708;;;06-Nov-2023
-150660;LIC MF Multi Cap Fund-Direct IDCW;INF767K01RL5;INF767K01RM3;11.9708;;;06-Nov-2023
-150661;LIC MF Multi Cap Fund-Regular Growth;INF767K01RH3;;11.7587;;;06-Nov-2023
-150662;LIC MF Multi Cap Fund-Regular IDCW;INF767K01RI1;INF767K01RJ9;11.7587;;;06-Nov-2023
+150659;LIC MF Multi Cap Fund-Direct Plan-Growth;INF767K01RK7;;11.9708;;;06-Nov-2023
+150660;LIC MF Multi Cap Fund-Direct Plan-IDCW;INF767K01RL5;INF767K01RM3;11.9708;;;06-Nov-2023
+150661;LIC MF Multi Cap Fund-Regular Plan-Growth;INF767K01RH3;;11.7587;;;06-Nov-2023
+150662;LIC MF Multi Cap Fund-Regular Plan-IDCW;INF767K01RI1;INF767K01RJ9;11.7587;;;06-Nov-2023
 
 Mahindra Manulife Mutual Fund
 141223;Mahindra Manulife Multi Cap Fund - Direct Plan - IDCW;INF174V01366;INF174V01358;22.9985;;;06-Nov-2023
@@ -3655,9 +3655,9 @@ Kotak Mahindra Mutual Fund
 119747;Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1141.7102;;;06-Nov-2023
 
 LIC Mutual Fund
-150392;LIC MF Money Market Fund-Direct Growth;INF767K01RE0;;1079.5279;;;06-Nov-2023
-150393;LIC MF Money Market Fund-Regular Growth;INF767K01RB6;;1073.6099;;;06-Nov-2023
-150394;LIC MF Money Market Fund-Regular IDCW;INF767K01RC4;INF767K01RD2;1073.6099;;;06-Nov-2023
+150392;LIC MF Money Market Fund-Direct Plan-Growth;INF767K01RE0;;1079.5279;;;06-Nov-2023
+150393;LIC MF Money Market Fund-Regular Plan-Growth;INF767K01RB6;;1073.6099;;;06-Nov-2023
+150394;LIC MF Money Market Fund-Regular Plan-IDCW;INF767K01RC4;INF767K01RD2;1073.6099;;;06-Nov-2023
 
 Mirae Asset Mutual Fund
 149112;Mirae Asset Money Market Fund Direct Growth;INF769K01HN8;;1125.5615;;;06-Nov-2023
@@ -6565,11 +6565,11 @@ Kotak Mahindra Mutual Fund
 
 LIC Mutual Fund
 151952;LIC MF Equity Savings Fund-Direct Plan-Growth;INF397L01AZ5;;25.3819;;;06-Nov-2023
-151953;LIC MF Equity Savings Fund-Direct Plan-Monthly Dividend;INF397L01BA6;INF397L01BB4;17.1504;;;06-Nov-2023
-151954;LIC MF Equity Savings Fund-Direct Plan-Quarterly Dividend;INF397L01BD0;INF397L01BE8;14.1455;;;06-Nov-2023
+151953;LIC MF Equity Savings Fund-Direct Plan-Monthly IDCW;INF397L01BA6;INF397L01BB4;17.1504;;;06-Nov-2023
+151954;LIC MF Equity Savings Fund-Direct Plan-Quarterly IDCW;INF397L01BD0;INF397L01BE8;14.1455;;;06-Nov-2023
 151950;LIC MF Equity Savings Fund-Regular Plan-Growth;INF397L01315;;22.8842;;;06-Nov-2023
-151949;LIC MF Equity Savings Fund-Regular Plan-Monthly Dividend;INF397L01257;INF397L01265;18.0298;;;06-Nov-2023
-151951;LIC MF Equity Savings Fund-Regular Plan-Quarterly Dividend;INF397L01281;INF397L01299;17.0463;;;06-Nov-2023
+151949;LIC MF Equity Savings Fund-Regular Plan-Monthly IDCW;INF397L01257;INF397L01265;18.0298;;;06-Nov-2023
+151951;LIC MF Equity Savings Fund-Regular Plan-Quarterly IDCW;INF397L01281;INF397L01299;17.0463;;;06-Nov-2023
 
 Mahindra Manulife Mutual Fund
 140444;Mahindra Manulife Equity Savings Fund - Direct Plan -Growth;INF174V01184;;19.6203;;;06-Nov-2023
@@ -7734,6 +7734,7 @@ LIC Mutual Fund
 133307;LIC MF Nifty 8-13 yr G-Sec ETF;INF767K01MV5;;23.9886;;;06-Nov-2023
 
 Mirae Asset Mutual Fund
+152097;Mirae Asset BSE Sensex ETF;INF769K01KT9;;65.0679;;;06-Nov-2023
 149379;Mirae Asset Hang Seng TECH ETF;INF769K01HS7;;14.4918;;;06-Nov-2023
 148572;Mirae Asset ESG Sector Leaders ETF;INF769K01GS9;;31.9578;;;06-Nov-2023
 151604;Mirae Asset Nifty 100 Low Volatility 30 ETF;INF769K01JU9;;151.9327;;;06-Nov-2023
@@ -7749,7 +7750,6 @@ Mirae Asset Mutual Fund
 147906;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);INF769K01FN2;;457.5608;;;06-Nov-2023
 148927;Mirae Asset NYSE FANG + ETF;INF769K01HF4;;63.3610;;;06-Nov-2023
 149169;Mirae Asset S&P 500 Top 50 ETF;INF769K01HP3;;32.6155;;;06-Nov-2023
-152097;Mirae Asset S&P BSE Sensex ETF;INF769K01KT9;;65.0679;;;06-Nov-2023
 151779;Mirae Asset Silver ETF;INF769K01KG6;;71.9436;;;06-Nov-2023
 
 Motilal Oswal Mutual Fund
@@ -8282,8 +8282,8 @@ Kotak Mahindra Mutual Fund
 151602;Kotak Silver ETF Fund of Fund - Regular Plan - Growth Option;INF174KA1MR1;;9.9568;;;06-Nov-2023
 
 LIC Mutual Fund
-151974;LIC MF Gold ETF Fund of Fund -Direct Plan-Growth;INF397L01BU4;;17.2007;;;06-Nov-2023
-151973;LIC MF Gold ETF Fund of Fund -Regular Plan-Growth;INF397L01992;;16.4336;;;06-Nov-2023
+151974;LIC MF Gold ETF Fund of Fund-Direct Plan-Growth;INF397L01BU4;;17.2007;;;06-Nov-2023
+151973;LIC MF Gold ETF Fund of Fund-Regular Plan-Growth;INF397L01992;;16.4336;;;06-Nov-2023
 
 Mirae Asset Mutual Fund
 148501;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;INF769K01GD1;INF769K01GF6;18.454;;;06-Nov-2023
