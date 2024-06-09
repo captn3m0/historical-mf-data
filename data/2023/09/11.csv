@@ -1527,10 +1527,10 @@ ICICI Prudential Mutual Fund
 117619;ICICI Prudential US Bluechip Equity Fund - IDCW;INF109K01E43;INF109K01E50;52.34;;;11-Sep-2023
 
 Invesco Mutual Fund
-148751;Invesco India ESG Equity Fund - Direct Plan - Growth;INF205KA1338;;14.23;;;11-Sep-2023
-148752;Invesco India ESG Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1320;INF205KA1346;14.22;;;11-Sep-2023
-148753;Invesco India ESG Equity Fund - Growth;INF205KA1304;;13.63;;;11-Sep-2023
-148754;Invesco India ESG Equity Fund - IDCW (Payout / Reinvestment);INF205KA1296;INF205KA1312;13.63;;;11-Sep-2023
+148751;Invesco India ESG Integration Strategy Fund - Direct Plan - Growth;INF205KA1338;;14.23;;;11-Sep-2023
+148752;Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1320;INF205KA1346;14.22;;;11-Sep-2023
+148753;Invesco India ESG Integration Strategy Fund - Growth;INF205KA1304;;13.63;;;11-Sep-2023
+148754;Invesco India ESG Integration Strategy Fund - IDCW (Payout / Reinvestment);INF205KA1296;INF205KA1312;13.63;;;11-Sep-2023
 120385;Invesco India Financial Services Fund - Direct Plan - Growth;INF205K01KY4;;108.32;;;11-Sep-2023
 120384;Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KW8;INF205K01KX6;55.79;;;11-Sep-2023
 108377;Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment);INF205K01171;INF205K01163;47.36;;;11-Sep-2023
@@ -6167,9 +6167,9 @@ Aditya Birla Sun Life Mutual Fund
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;36.0863;;;11-Sep-2023
-120523;Axis Multi Asset Allocation Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;23.0963;;;11-Sep-2023
+120523;Axis Multi Asset Allocation Fund - Direct Plan - Monthly IDCW;INF846K01ET8;INF846K01EU6;23.0963;;;11-Sep-2023
 113064;Axis Multi Asset Allocation Fund - Regular Plan - Growth Option;INF846K01768;;31.6924;;;11-Sep-2023
-113065;Axis Multi Asset Allocation Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;18.1405;;;11-Sep-2023
+113065;Axis Multi Asset Allocation Fund - Regular Plan - Monthly IDCW;INF846K01776;INF846K01784;18.1405;;;11-Sep-2023
 
 Baroda BNP Paribas Mutual Fund
 150865;Baroda BNP Paribas Multi Asset Fund - Direct Plan - Growth Option;INF251K01RF2;;11.3770;;;11-Sep-2023
@@ -6250,9 +6250,9 @@ Aditya Birla Sun Life Mutual Fund
 
 Axis Mutual Fund
 130773;Axis Arbitrage Fund - Direct Plan - Growth;INF846K01PZ1;;17.6956;;;11-Sep-2023
-130774;Axis Arbitrage Fund - Direct Plan - IDCW;INF846K01QA2;INF846K01QB0;11.6272;;;11-Sep-2023
+130774;Axis Arbitrage Fund - Direct Plan - Monthly IDCW;INF846K01QA2;INF846K01QB0;11.6272;;;11-Sep-2023
 130771;Axis Arbitrage Fund - Regular Plan - Growth;INF846K01QC8;;16.4857;;;11-Sep-2023
-130776;Axis Arbitrage Fund - Regular Plan - IDCW;INF846K01QD6;INF846K01QE4;10.8432;;;11-Sep-2023
+130776;Axis Arbitrage Fund - Regular Plan - Monthly IDCW;INF846K01QD6;INF846K01QE4;10.8432;;;11-Sep-2023
 
 Bandhan Mutual Fund
 133680;BANDHAN Arbitrage Fund - Regular Plan - Annual IDCW;INF194KA1YD2;INF194KA1YE0;10.8819;;;11-Sep-2023
@@ -7092,10 +7092,12 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;166.4264;;;11-Sep-2023
 
 HDFC Mutual Fund
+151729;HDFC BSE 500 Index Fund - Growth Option;INF179KC1GH7;;11.8667;;;11-Sep-2023
+151728;HDFC S&P BSE 500 Index Fund - Growth Option - Direct Plan;INF179KC1GG9;;11.9002;;;11-Sep-2023
+119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;625.5898;;;11-Sep-2023
+101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;612.4716;;;11-Sep-2023
 119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;190.5254;;;11-Sep-2023
 101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;186.8828;;;11-Sep-2023
-119065;HDFC Index Fund-S&P BSE Sensex Plan - Direct Plan;INF179K01WN9;;625.5898;;;11-Sep-2023
-101281;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;INF179K01LA9;;612.4716;;;11-Sep-2023
 149870;HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option;INF179KC1CA1;;11.9073;;;11-Sep-2023
 149871;HDFC Nifty 100 Equal Weight Index Fund - Growth Option;INF179KC1CB9;;11.7998;;;11-Sep-2023
 149868;HDFC NIFTY 100 Index Fund - Direct Plan - Growth Option;INF179KC1BY3;;11.6815;;;11-Sep-2023
@@ -7124,8 +7126,6 @@ HDFC Mutual Fund
 151727;HDFC NIFTY Smallcap 250 Index Fund - Growth Option - Direct Plan;INF179KC1GE4;;13.6253;;;11-Sep-2023
 149107;HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option;INF179KC1BM8;;13.28;;;11-Sep-2023
 149106;HDFC NIFTY50 Equal weight Index Fund - Growth Option;INF179KC1BN6;;13.1149;;;11-Sep-2023
-151729;HDFC S&P BSE 500 Index Fund - Growth Option;INF179KC1GH7;;11.8667;;;11-Sep-2023
-151728;HDFC S&P BSE 500 Index Fund - Growth Option - Direct Plan;INF179KC1GG9;;11.9002;;;11-Sep-2023
 
 HSBC Mutual Fund
 149966;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;INF336L01QH7;;10.7563;;;11-Sep-2023
@@ -7352,6 +7352,16 @@ Navi Mutual Fund
 152061;NAVI S&P BSE SENSEX INDEX FUND - REGULAR PLAN - GROWTH;INF959L01HJ1;;10.2046;;;11-Sep-2023
 
 Nippon India Mutual Fund
+113295;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - ANNUAL - IDCW Option;INF204K01IQ7;INF204K01IT1;26.5888;;;11-Sep-2023
+118786;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01K64;INF204K01K72;28.2840;;;11-Sep-2023
+118788;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01K98;INF204K01L06;28.2469;;;11-Sep-2023
+118790;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - QUARTERLY - IDCW Option;INF204K01L14;INF204K01L22;28.2859;;;11-Sep-2023
+118785;Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Bonus Option;INF204K01K56;;35.5574;;;11-Sep-2023
+118791;Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Growth Option;INF204K01K80;;35.5574;;;11-Sep-2023
+113270;Nippon India Index Fund - BSE Sensex Plan - Growth Plan - Bonus Option;INF204K01IN4;;33.7333;;;11-Sep-2023
+113269;Nippon India Index Fund - BSE Sensex Plan - Growth Plan - Growth Option;INF204K01IM6;;33.7333;;;11-Sep-2023
+113294;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - HALF YEARLY - IDCW Option;INF204K01IP9;INF204K01IS3;26.5994;;;11-Sep-2023
+113271;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - QUARTERLY - IDCW Option;INF204K01IO2;INF204K01IR5;26.5916;;;11-Sep-2023
 113300;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - ANNUAL - IDCW Option;INF204K01II4;INF204K01IL8;26.3473;;;11-Sep-2023
 118743;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01H10;INF204K01H28;28.6180;;;11-Sep-2023
 118745;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01H44;INF204K01H51;28.5777;;;11-Sep-2023
@@ -7362,16 +7372,6 @@ Nippon India Mutual Fund
 113296;Nippon India Index Fund - Nifty 50 Plan - Growth Plan - Growth Option;INF204K01IE3;;33.5257;;;11-Sep-2023
 113299;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - HALF YEARLY - IDCW Option;INF204K01IH6;INF204K01IK0;26.4383;;;11-Sep-2023
 113298;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - QUARTERLY - IDCW Option;INF204K01IG8;INF204K01IJ2;26.4383;;;11-Sep-2023
-113295;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - ANNUAL - IDCW Option;INF204K01IQ7;INF204K01IT1;26.5888;;;11-Sep-2023
-118786;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01K64;INF204K01K72;28.2840;;;11-Sep-2023
-118788;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01K98;INF204K01L06;28.2469;;;11-Sep-2023
-118790;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - QUARTERLY - IDCW Option;INF204K01L14;INF204K01L22;28.2859;;;11-Sep-2023
-118785;Nippon India Index Fund - S&P BSE Sensex Plan - Direct Plan Growth Plan - Bonus Option;INF204K01K56;;35.5574;;;11-Sep-2023
-118791;Nippon India Index Fund - S&P BSE Sensex Plan - Direct Plan Growth Plan - Growth Option;INF204K01K80;;35.5574;;;11-Sep-2023
-113270;Nippon India Index Fund - S&P BSE Sensex Plan - Growth Plan - Bonus Option;INF204K01IN4;;33.7333;;;11-Sep-2023
-113269;Nippon India Index Fund - S&P BSE Sensex Plan - Growth Plan - Growth Option;INF204K01IM6;;33.7333;;;11-Sep-2023
-113294;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - HALF YEARLY - IDCW Option;INF204K01IP9;INF204K01IS3;26.5994;;;11-Sep-2023
-113271;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - QUARTERLY - IDCW Option;INF204K01IO2;INF204K01IR5;26.5916;;;11-Sep-2023
 148721;Nippon India Nifty 50 Value 20 Index Fund - Direct Plan - Growth Option;INF204KB12Z0;;14.9912;;;11-Sep-2023
 148722;NIPPON INDIA NIFTY 50 VALUE 20 INDEX FUND - DIRECT Plan - IDCW Option;INF204KB13Z8;INF204KB14Z6;14.9912;;;11-Sep-2023
 148720;NIPPON INDIA NIFTY 50 VALUE 20 INDEX FUND - IDCW Option;INF204KB10Z4;INF204KB11Z2;14.7585;;;11-Sep-2023
@@ -7512,6 +7512,12 @@ Taurus Mutual Fund
 UTI Mutual Fund
 143341;UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option;INF789FC12T1;;17.0584;;;11-Sep-2023
 143340;UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option;INF789FC11T3;;16.5948;;;11-Sep-2023
+151764;UTI BSE Housing Index Fund - Direct Plan - Growth Option;INF789F1AYR1;;11.3315;;;11-Sep-2023
+151763;UTI BSE Housing Index Fund - Regular Plan - Growth Option;INF789F1AYS9;;11.315;;;11-Sep-2023
+149881;UTI BSE Low Volatility Index Fund - Direct Plan  - Growth Option;INF789F1AVF2;;12.9454;;;11-Sep-2023
+149880;UTI BSE Low Volatility Index Fund - Regular Plan - Growth Option;INF789F1AVE5;;12.8531;;;11-Sep-2023
+149803;UTI BSE Sensex Index Fund - Direct Plan - Growth Option;INF789F1AVD7;;11.8167;;;11-Sep-2023
+149802;UTI BSE Sensex Index Fund - Regular Plan  -Growth Option;INF789F1AVC9;;11.7977;;;11-Sep-2023
 151185;UTI CRISIL SDL Maturity April 2033 Index Fund - Direct Plan - Growth Option;INF789F1AWX3;;10.606;;;11-Sep-2023
 151184;UTI CRISIL SDL Maturity April 2033 Index Fund - Regular Plan - Growth Option;INF789F1AWW5;;10.5857;;;11-Sep-2023
 151239;UTI CRISIL SDL Maturity June 2027 Index Fund - Direct Plan - Growth Option;INF789F1AWZ8;;10.4581;;;11-Sep-2023
@@ -7532,12 +7538,6 @@ UTI Mutual Fund
 151488;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Regular Plan - Growth Option;INF789F1AXQ5;;10.4193;;;11-Sep-2023
 151762;UTI Nifty50 Equal Weight Index Fund - Direct Plan - Growth Option;INF789F1AYP5;;10.8822;;;11-Sep-2023
 151761;UTI Nifty50 Equal Weight Index Fund - Regular Plan - Growth Option;INF789F1AYQ3;;10.8663;;;11-Sep-2023
-151764;UTI S&P BSE Housing Index Fund - Direct Plan - Growth Option;INF789F1AYR1;;11.3315;;;11-Sep-2023
-151763;UTI S&P BSE Housing Index Fund - Regular Plan - Growth Option;INF789F1AYS9;;11.315;;;11-Sep-2023
-149881;UTI S&P BSE Low Volatility Index Fund - Direct Plan  - Growth Option;INF789F1AVF2;;12.9454;;;11-Sep-2023
-149880;UTI S&P BSE Low Volatility Index Fund - Regular Plan - Growth Option;INF789F1AVE5;;12.8531;;;11-Sep-2023
-149803;UTI S&P BSE Sensex Index Fund - Direct Plan - Growth Option;INF789F1AVD7;;11.8167;;;11-Sep-2023
-149802;UTI S&P BSE Sensex Index Fund - Regular Plan  -Growth Option;INF789F1AVC9;;11.7977;;;11-Sep-2023
 
 Open Ended Schemes ( Other Scheme - Gold ETF )
 
@@ -7585,6 +7585,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Aditya Birla Sun Life Mutual Fund
+139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;65.5672;;;11-Sep-2023
 151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.;;;11-Sep-2023
 150498;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;INF209KB14K7;;23.3979;;;11-Sep-2023
 150497;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;INF209KB15K4;;16.7476;;;11-Sep-2023
@@ -7593,17 +7594,16 @@ Aditya Birla Sun Life Mutual Fund
 149262;Aditya Birla Sun Life Nifty Healthcare ETF;INF209KB10C2;;9.8489;;;11-Sep-2023
 149293;Aditya Birla Sun Life Nifty IT ETF;INF209KB11D8;;33.5415;;;11-Sep-2023
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;47.9918;;;11-Sep-2023
-139581;Aditya Birla Sun Life S&P BSE Sensex ETF;INF209KB10E8;;65.5672;;;11-Sep-2023
 149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;72.8823;;;11-Sep-2023
 
 Axis Mutual Fund
+151585;Axis BSE Sensex ETF;INF846K010Q0;;67.5362;;;11-Sep-2023
 141545;Axis Nifty 50 ETF;INF846K01W98;;214.2676;;;11-Sep-2023
 148926;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF;INF846K01Z04;;11.1774;;;11-Sep-2023
 148559;Axis NIFTY Bank ETF;INF846K01X63;;462.7213;;;11-Sep-2023
 148934;Axis NIFTY Healthcare ETF;INF846K01Z12;;98.3883;;;11-Sep-2023
 149156;Axis NIFTY India Consumption ETF;INF846K016C7;;86.8369;;;11-Sep-2023
 148799;Axis IT ETF;INF846K01Y96;;340.3412;;;11-Sep-2023
-151585;Axis S & P BSE Sensex ETF;INF846K010Q0;;67.5362;;;11-Sep-2023
 150610;Axis Silver ETF;INF846K011K1;;73.2410;;;11-Sep-2023
 
 Bandhan Mutual Fund
@@ -7633,6 +7633,8 @@ Groww Mutual Fund
 147113;Groww Nifty50 Exchange Traded Fund (formerly known as Indiabulls Nifty50 Exchange Traded) Fund;INF666M01FS5;;210.3678;;;11-Sep-2023
 
 HDFC Mutual Fund
+151376;HDFC BSE 500 ETF - Growth Option;INF179KC1EZ4;;28.1208;;;11-Sep-2023
+135854;HDFC BSE Sensex ETF - Growth Plan;INF179KC1HX2;;737.6786;;;11-Sep-2023
 150476;HDFC NIFTY 100 ETF - Growth Option;INF179KC1HR4;;201.9457;;;11-Sep-2023
 152049;HDFC NIFTY 1D RATE LIQUID ETF;;;1000;;;11-Sep-2023
 135853;HDFC NIFTY 50 ETF - Growth Plan;INF179KC1965;;218.2241;;;11-Sep-2023
@@ -7647,8 +7649,6 @@ HDFC Mutual Fund
 150620;HDFC NIFTY100 QUALITY 30 ETF - Growth Option;INF179KC1DL6;;45.3694;;;11-Sep-2023
 150657;HDFC NIFTY200 MOMENTUM 30 ETF - Growth Option;INF179KC1HV6;;232.9643;;;11-Sep-2023
 150619;HDFC NIFTY 50 VALUE 20 ETF - Growth Option;INF179KC1DK8;;106.0245;;;11-Sep-2023
-151376;HDFC S&P BSE 500 ETF - Growth Option;INF179KC1EZ4;;28.1208;;;11-Sep-2023
-135854;HDFC S&P BSE Sensex ETF - Growth Plan;INF179KC1HX2;;737.6786;;;11-Sep-2023
 150556;HDFC Silver ETF - Growth Option;INF179KC1DI2;;70.6739;;;11-Sep-2023
 
 ICICI Prudential Mutual Fund
@@ -7735,6 +7735,8 @@ Motilal Oswal Mutual Fund
 
 Nippon India Mutual Fund
 140107;CPSE ETF;INF457M01133;;52.7768;;;11-Sep-2023
+131331;Nippon India ETF BSE Sensex;INF204KA1UN7;;747.2654;;;11-Sep-2023
+147579;Nippon India ETF BSE Sensex Next 50;INF204KB15D0;;60.6794;;;11-Sep-2023
 140095;Nippon India ETF Hang Seng BeES;INF204KB19I1;;264.7522;;;11-Sep-2023
 121146;Nippon India ETF Nifty 100;INF204K014N5;;208.4506;;;11-Sep-2023
 140086;Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option;INF732E01037;;1000.0000;;;11-Sep-2023
@@ -7753,8 +7755,6 @@ Nippon India Mutual Fund
 140085;Nippon India ETF Nifty Next 50 Junior BeES;INF732E01045;;494.2679;;;11-Sep-2023
 140089;Nippon India ETF Nifty PSU Bank BeES;INF204KB16I7;;53.9370;;;11-Sep-2023
 148798;Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight;INF204KC1022;;115.0114;;;11-Sep-2023
-131331;Nippon India ETF S&P BSE Sensex;INF204KA1UN7;;747.2654;;;11-Sep-2023
-147579;Nippon India ETF S&P BSE Sensex Next 50;INF204KB15D0;;60.6794;;;11-Sep-2023
 149465;Nippon India Nifty Auto ETF;INF204KC1337;;166.3358;;;11-Sep-2023
 149008;Nippon India Nifty Pharma ETF;INF204KC1089;;15.5521;;;11-Sep-2023
 149758;Nippon India Silver ETF;INF204KC1402;;70.3842;;;11-Sep-2023
@@ -7781,12 +7781,12 @@ Tata Mutual Fund
 147614;Tata Nifty Private Bank Exchange Traded Fund;INF277K010X4;;241.7323;;;11-Sep-2023
 
 UTI Mutual Fund
+146388;UTI - BSE Sensex Next 50 Exchange Traded Fund;INF789F1AUU3;;61.7055;;;11-Sep-2023
 141665;UTI Nifty Next 50 Exchange Traded Fund;INF789F1AUW9;;49.2107;;;11-Sep-2023
-146388;UTI - S&P BSE Sensex Next 50 Exchange Traded Fund;INF789F1AUU3;;61.7055;;;11-Sep-2023
+135321;UTI BSE Sensex ETF;INF789FB1X58;;720.3111;;;11-Sep-2023
 135320;UTI Nifty 50 ETF;INF789F1AZC0;;2146.1207;;;11-Sep-2023
 148173;UTI Nifty Bank ETF;INF789F1AUV1;;46.3291;;;11-Sep-2023
 152050;UTI Nifty Midcap 150 Exchange Traded Fund;INF789F1AYX9;;155.0108;;;11-Sep-2023
-135321;UTI S&P BSE Sensex ETF;INF789FB1X58;;720.3111;;;11-Sep-2023
 151730;UTI Silver Exchange Traded Fund;INF789F1AYK6;;71.9828;;;11-Sep-2023
 
 Open Ended Schemes ( Other Scheme - FoF Overseas )
