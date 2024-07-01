@@ -1943,13 +1943,13 @@ ICICI Prudential Mutual Fund
 145550;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;INF109KC13H5;INF109KC14H3;102.0767;;;14-May-2020
 145537;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;;INF109KC12G9;100.0005;;;14-May-2020
 145541;ICICI Prudential Overnight Fund - Direct Plan - Fortnightly IDCW;INF109KC18G6;INF109KC17G8;100.1289;;;14-May-2020
-145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;;INF109KC11G1;108.1084;;;14-May-2020
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;108.1084;;;14-May-2020
 145545;ICICI Prudential Overnight Fund - Direct Plan - Half Yearly IDCW;INF109KC11H9;INF109KC12H7;102.0743;;;14-May-2020
 145542;ICICI Prudential Overnight Fund - Direct Plan - Monthly IDCW;INF109KC13G7;INF109KC14G5;100.1290;;;14-May-2020
 145544;ICICI Prudential Overnight Fund - Direct Plan - Quarterly IDCW;INF109KC19G4;INF109KC10H1;100.8394;;;14-May-2020
 145539;ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW;INF109KC16G0;INF109KC15G2;100.0190;;;14-May-2020
 145540;ICICI Prudential Overnight Fund - Fortnightly IDCW;INF109KC14F7;INF109KC13F9;100.1256;;;14-May-2020
-145535;ICICI Prudential Overnight Fund - Growth;;INF109KC17E3;107.9467;;;14-May-2020
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;107.9467;;;14-May-2020
 145549;ICICI Prudential Overnight Fund - Half Yearly IDCW;INF109KC17F0;INF109KC18F8;100.1332;;;14-May-2020
 145548;ICICI Prudential Overnight Fund - Monthly IDCW;INF109KC19E9;INF109KC10F5;100.1248;;;14-May-2020
 145543;ICICI Prudential Overnight Fund - Quarterly IDCW;INF109KC15F4;INF109KC16F2;100.8445;;;14-May-2020
@@ -3164,8 +3164,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;20.646;;;14-May-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.6509;;;14-May-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.137;;;14-May-2020
-120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8124;;;14-May-2020
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;8.7296;;;14-May-2020
+120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;8.8219;;;14-May-2020
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;8.7177;;;14-May-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.6658;;;14-May-2020
 
 ICICI Prudential Mutual Fund
@@ -4464,7 +4464,7 @@ HSBC Mutual Fund
 120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.3977;;;14-May-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.1628;;;14-May-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.1346;;;14-May-2020
-110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;13.6387;;;14-May-2020
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.6976;;;14-May-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.7144;;;14-May-2020
@@ -5279,10 +5279,10 @@ Sundaram Mutual Fund
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;11.3726;;;14-May-2020
 
 Tata Mutual Fund
-147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K016X1;;10.5515;;;14-May-2020
-147638;Tata Banking & PSU Debt Fund  Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ;;INF277K014X6;10.5515;;;14-May-2020
-147634;Tata Banking & PSU Debt Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K013X8;;10.5165;;;14-May-2020
-147633;Tata Banking & PSU Debt Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;;INF277K012X0;10.5165;;;14-May-2020
+147637;Tata Banking & PSU Debt Fund  Direct Plan - Payout of Income Distribution cum capital withdrawal option;INF277K016X1;;10.5515;;;14-May-2020
+147638;Tata Banking & PSU Debt Fund  Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option;;INF277K014X6;10.5515;;;14-May-2020
+147634;Tata Banking & PSU Debt Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option;INF277K013X8;;10.5165;;;14-May-2020
+147633;Tata Banking & PSU Debt Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option;;INF277K012X0;10.5165;;;14-May-2020
 147636;Tata Banking & PSU Debt Fund-Direct Plan-Growth;INF277K015X3;;10.5515;;;14-May-2020
 147635;Tata Banking & PSU Debt Fund-Regular Plan-Growth;INF277K011X2;;10.5165;;;14-May-2020
 
@@ -6221,9 +6221,9 @@ Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;20.0135;;;14-May-2020
-120523;Axis Multi Asset Allocation Fund - Direct Plan - IDCW;INF846K01ET8;INF846K01EU6;16.4645;;;14-May-2020
+120523;Axis Multi Asset Allocation Fund - Direct Plan - Monthly IDCW;INF846K01ET8;INF846K01EU6;16.4645;;;14-May-2020
 113064;Axis Multi Asset Allocation Fund - Regular Plan - Growth Option;INF846K01768;;18.4823;;;14-May-2020
-113065;Axis Multi Asset Allocation Fund - Regular Plan - IDCW;INF846K01776;INF846K01784;14.3246;;;14-May-2020
+113065;Axis Multi Asset Allocation Fund - Regular Plan - Monthly IDCW;INF846K01776;INF846K01784;14.3246;;;14-May-2020
 
 HDFC Mutual Fund
 103131;HDFC Multi-Asset Fund - Growth Option;INF179K01AP0;;29.136;;;14-May-2020
@@ -6287,9 +6287,9 @@ Aditya Birla Sun Life Mutual Fund
 
 Axis Mutual Fund
 130773;Axis Arbitrage Fund - Direct Plan - Growth;INF846K01PZ1;;14.9639;;;14-May-2020
-130774;Axis Arbitrage Fund - Direct Plan - IDCW;INF846K01QA2;INF846K01QB0;11.2082;;;14-May-2020
+130774;Axis Arbitrage Fund - Direct Plan - Monthly IDCW;INF846K01QA2;INF846K01QB0;11.2082;;;14-May-2020
 130771;Axis Arbitrage Fund - Regular Plan - Growth;INF846K01QC8;;14.2900;;;14-May-2020
-130776;Axis Arbitrage Fund - Regular Plan - IDCW;INF846K01QD6;INF846K01QE4;10.5188;;;14-May-2020
+130776;Axis Arbitrage Fund - Regular Plan - Monthly IDCW;INF846K01QD6;INF846K01QE4;10.5188;;;14-May-2020
 
 Bandhan Mutual Fund
 133680;BANDHAN Arbitrage Fund - Regular Plan - Annual IDCW;INF194KA1YD2;INF194KA1YE0;10.2371;;;14-May-2020
@@ -6904,10 +6904,10 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;74.4529;;;14-May-2020
 
 HDFC Mutual Fund
+119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;280.2465;;;14-May-2020
+101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;276.2119;;;14-May-2020
 119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;84.3979;;;14-May-2020
 101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;83.3381;;;14-May-2020
-119065;HDFC Index Fund-S&P BSE Sensex Plan - Direct Plan;INF179K01WN9;;280.2465;;;14-May-2020
-101281;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;INF179K01LA9;;276.2119;;;14-May-2020
 
 ICICI Prudential Mutual Fund
 141839;ICICI Prudential BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;9.7563;;;14-May-2020
@@ -6970,6 +6970,16 @@ Motilal Oswal Mutual Fund
 148382;Motilal Oswal S&P 500 Index Fund - Regular Plan Growth;INF247L01AH0;;9.7104;;;14-May-2020
 
 Nippon India Mutual Fund
+113295;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - ANNUAL - IDCW Option;INF204K01IQ7;INF204K01IT1;12.6400;;;14-May-2020
+118786;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01K64;INF204K01K72;13.2151;;;14-May-2020
+118788;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01K98;INF204K01L06;13.2052;;;14-May-2020
+118790;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - QUARTERLY - IDCW Option;INF204K01L14;INF204K01L22;13.2191;;;14-May-2020
+118785;Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Bonus Option;INF204K01K56;;15.9547;;;14-May-2020
+118791;Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Growth Option;INF204K01K80;;15.9536;;;14-May-2020
+113270;Nippon India Index Fund - BSE Sensex Plan - Growth Plan - Bonus Option;INF204K01IN4;;15.3529;;;14-May-2020
+113269;Nippon India Index Fund - BSE Sensex Plan - Growth Plan - Growth Option;INF204K01IM6;;15.3524;;;14-May-2020
+113294;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - HALF YEARLY - IDCW Option;INF204K01IP9;INF204K01IS3;12.6401;;;14-May-2020
+113271;NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - QUARTERLY - IDCW Option;INF204K01IO2;INF204K01IR5;12.6407;;;14-May-2020
 113300;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - ANNUAL - IDCW Option;INF204K01II4;INF204K01IL8;12.5195;;;14-May-2020
 118743;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01H10;INF204K01H28;13.2049;;;14-May-2020
 118745;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01H44;INF204K01H51;13.1953;;;14-May-2020
@@ -6980,16 +6990,6 @@ Nippon India Mutual Fund
 113296;Nippon India Index Fund - Nifty 50 Plan - Growth Plan - Growth Option;INF204K01IE3;;15.2545;;;14-May-2020
 113299;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - HALF YEARLY - IDCW Option;INF204K01IH6;INF204K01IK0;12.5607;;;14-May-2020
 113298;NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - QUARTERLY - IDCW Option;INF204K01IG8;INF204K01IJ2;12.5607;;;14-May-2020
-113295;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - ANNUAL - IDCW Option;INF204K01IQ7;INF204K01IT1;12.6400;;;14-May-2020
-118786;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - ANNUAL - IDCW Option;INF204K01K64;INF204K01K72;13.2151;;;14-May-2020
-118788;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - HALF YEARLY - IDCW Option;INF204K01K98;INF204K01L06;13.2052;;;14-May-2020
-118790;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - DIRECT Plan - QUARTERLY - IDCW Option;INF204K01L14;INF204K01L22;13.2191;;;14-May-2020
-118785;Nippon India Index Fund - S&P BSE Sensex Plan - Direct Plan Growth Plan - Bonus Option;INF204K01K56;;15.9547;;;14-May-2020
-118791;Nippon India Index Fund - S&P BSE Sensex Plan - Direct Plan Growth Plan - Growth Option;INF204K01K80;;15.9536;;;14-May-2020
-113270;Nippon India Index Fund - S&P BSE Sensex Plan - Growth Plan - Bonus Option;INF204K01IN4;;15.3529;;;14-May-2020
-113269;Nippon India Index Fund - S&P BSE Sensex Plan - Growth Plan - Growth Option;INF204K01IM6;;15.3524;;;14-May-2020
-113294;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - HALF YEARLY - IDCW Option;INF204K01IP9;INF204K01IS3;12.6401;;;14-May-2020
-113271;NIPPON INDIA INDEX FUND - S&P BSE SENSEX PLAN - QUARTERLY - IDCW Option;INF204K01IO2;INF204K01IR5;12.6407;;;14-May-2020
 
 Principal Mutual Fund
 119488;Principal Nifty 100 Equal Weight Fund - Direct Plan - Growth Option;INF173K01EZ4;;57.7589;;;14-May-2020
@@ -7071,10 +7071,10 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Aditya Birla Sun Life Mutual Fund
+139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;292.5592;;;14-May-2020
 115512;Aditya Birla Sun Life Nifty ETF;INF209KB19D1;;99.7864;;;14-May-2020
 147735;Aditya Birla Sun Life Nifty Bank ETF;INF209KB17D5;;189.6511;;;14-May-2020
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;235.4404;;;14-May-2020
-139581;Aditya Birla Sun Life S&P BSE Sensex ETF;INF209KB10E8;;292.5592;;;14-May-2020
 
 Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;944.0774;;;14-May-2020
@@ -7097,8 +7097,8 @@ Groww Mutual Fund
 147113;Groww Nifty50 Exchange Traded Fund (formerly known as Indiabulls Nifty50 Exchange Traded) Fund;INF666M01FS5;;93.1504;;;14-May-2020
 
 HDFC Mutual Fund
+135854;HDFC BSE Sensex ETF - Growth Plan;INF179KC1HX2;;3284.82;;;14-May-2020
 135853;HDFC NIFTY 50 ETF - Growth Plan;INF179KC1965;;960.27;;;14-May-2020
-135854;HDFC S&P BSE Sensex ETF - Growth Plan;INF179KC1HX2;;3284.82;;;14-May-2020
 
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;22.8551;;;14-May-2020
@@ -7119,11 +7119,11 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;980.5474;;;14-May-2020
 
 Kotak Mahindra Mutual Fund
+109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;321.3815;;;14-May-2020
 112351;Kotak Nifty 50 ETF;INF174K014P6;;94.8013;;;14-May-2020
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;47.0643;;;14-May-2020
 133122;Kotak Nifty Bank ETF;INF174K01F59;;192.843;;;14-May-2020
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;119.0562;;;14-May-2020
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;321.3815;;;14-May-2020
 
 LIC Mutual Fund
 135672;LIC MF BSE Sensex ETF;INF767K01OT5;;328.018;;;14-May-2020
@@ -7142,6 +7142,8 @@ Motilal Oswal Mutual Fund
 
 Nippon India Mutual Fund
 140107;CPSE ETF;INF457M01133;;16.2679;;;14-May-2020
+131331;Nippon India ETF BSE Sensex;INF204KA1UN7;;333.0101;;;14-May-2020
+147579;Nippon India ETF BSE Sensex Next 50;INF204KB15D0;;25.2840;;;14-May-2020
 140095;Nippon India ETF Hang Seng BeES;INF204KB19I1;;293.3052;;;14-May-2020
 121146;Nippon India ETF Nifty 100;INF204K014N5;;95.8058;;;14-May-2020
 140086;Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option;INF732E01037;;1000.0000;;;14-May-2020
@@ -7156,31 +7158,29 @@ Nippon India Mutual Fund
 146271;Nippon India ETF Nifty Midcap 150;INF204KB1V68;;49.7961;;;14-May-2020
 140085;Nippon India ETF Nifty Next 50 Junior BeES;INF732E01045;;242.8777;;;14-May-2020
 140089;Nippon India ETF Nifty PSU Bank BeES;INF204KB16I7;;13.2600;;;14-May-2020
-131331;Nippon India ETF S&P BSE Sensex;INF204KA1UN7;;333.0101;;;14-May-2020
-147579;Nippon India ETF S&P BSE Sensex Next 50;INF204KB15D0;;25.2840;;;14-May-2020
 
 Quantum Mutual Fund
 108479;Quantum Nifty 50 ETF;INF082J01028;;939.0389;;;14-May-2020
 
 SBI Mutual Fund
+134014;SBI BSE 100 ETF;INF200KA1572;;95.9440;;;14-May-2020
+121109;SBI BSE SENSEX ETF;INF200K01VT2;;331.0885;;;14-May-2020
+144916;SBI BSE Sensex Next 50 ETF;INF200KA1VQ2;;255.7109;;;14-May-2020
 139430;SBI Nifty 10 yr Benchmark G-Sec ETF;INF200KA1JT1;;197.8429;;;14-May-2020
 145648;SBI Nifty 200 Quality 30 ETF;INF200KA1WX6;;85.9122;;;14-May-2020
 135106;SBI Nifty 50 ETF;INF200KA1FS1;;94.1952;;;14-May-2020
 134008;SBI Nifty Bank ETF;INF200KA1580;;190.2078;;;14-May-2020
 134013;SBI Nifty Next 50 ETF;INF200KA1598;;240.1470;;;14-May-2020
-134014;SBI S&P BSE 100 ETF;INF200KA1572;;95.9440;;;14-May-2020
-121109;SBI S&P BSE SENSEX ETF;INF200K01VT2;;331.0885;;;14-May-2020
-144916;SBI S&P BSE Sensex Next 50 ETF;INF200KA1VQ2;;255.7109;;;14-May-2020
 
 Tata Mutual Fund
 145801;Tata Nifty 50 Exchange Traded Fund;INF277K015R5;;92.6893;;;14-May-2020
 147614;Tata Nifty Private Bank Exchange Traded Fund;INF277K010X4;;105.0561;;;14-May-2020
 
 UTI Mutual Fund
+146388;UTI - BSE Sensex Next 50 Exchange Traded Fund;INF789F1AUU3;;255.3099;;;14-May-2020
 141665;UTI Nifty Next 50 Exchange Traded Fund;INF789F1AUW9;;240.5765;;;14-May-2020
-146388;UTI - S&P BSE Sensex Next 50 Exchange Traded Fund;INF789F1AUU3;;255.3099;;;14-May-2020
+135321;UTI BSE Sensex ETF;INF789FB1X58;;329.0191;;;14-May-2020
 135320;UTI Nifty 50 ETF;INF789F1AZC0;;968.9909;;;14-May-2020
-135321;UTI S&P BSE Sensex ETF;INF789FB1X58;;329.0191;;;14-May-2020
 
 Open Ended Schemes ( Other Scheme - FoF Overseas )
 
