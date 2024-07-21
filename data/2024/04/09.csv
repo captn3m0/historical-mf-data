@@ -2136,10 +2136,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;41.8806;;;09-Apr-2024
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;104.434;;;09-Apr-2024
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;120.541;;;09-Apr-2024
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;39.084;;;09-Apr-2024
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;50.494;;;09-Apr-2024
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;104.434;;;09-Apr-2024
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;120.541;;;09-Apr-2024
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;39.084;;;09-Apr-2024
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;50.494;;;09-Apr-2024
 
 LIC Mutual Fund
 120270;LIC MF ELSS Tax Saver-Direct Plan-Growth;INF767K01EM1;;146.0014;;;09-Apr-2024
@@ -4496,10 +4496,10 @@ ICICI Prudential Mutual Fund
 152364;ICICI Prudential Nifty50 Value 20 Index Fund - IDCW;INF109KC10U4;INF109KC11U2;10.1724;;;09-Apr-2024
 
 Kotak Mahindra Mutual Fund
-152039;Kotak S&P BSE Housing Index Fund - Direct Plan - Growth Option;INF174KA1OX5;;12.542;;;09-Apr-2024
-152037;Kotak S&P BSE Housing Index Fund - Direct Plan - IDCW Option;INF174KA1OY3;INF174KA1OZ0;12.541;;;09-Apr-2024
-152038;Kotak S&P BSE Housing Index Fund - Regular Plan - Growth Option;INF174KA1OU1;;12.491;;;09-Apr-2024
-152040;Kotak S&P BSE Housing Index Fund - Regular Plan - IDCW Option;INF174KA1OV9;INF174KA1OW7;12.491;;;09-Apr-2024
+152038;Kotak  BSE Housing Index Fund - Regular Plan - Growth Option;INF174KA1OU1;;12.491;;;09-Apr-2024
+152040;Kotak  BSE Housing Index Fund - Regular Plan - IDCW Option;INF174KA1OV9;INF174KA1OW7;12.491;;;09-Apr-2024
+152039;Kotak BSE Housing Index Fund - Direct Plan - Growth Option;INF174KA1OX5;;12.542;;;09-Apr-2024
+152037;Kotak BSE Housing Index Fund - Direct Plan - IDCW Option;INF174KA1OY3;INF174KA1OZ0;12.541;;;09-Apr-2024
 151781;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;INF174KA1OB1;;14.757;;;09-Apr-2024
 151782;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout;INF174KA1OC9;INF174KA1OD7;14.757;;;09-Apr-2024
 151783;Kotak Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option;INF174KA1NY5;;14.697;;;09-Apr-2024
@@ -4658,6 +4658,8 @@ Sundaram Mutual Fund
 149480;Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund-Income Distribution CUM Capital Withdrawal;INF173K01AH0;INF173K01AI8;81.0534;;;09-Apr-2024
 
 Tata Mutual Fund
+119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;195.6301;;;09-Apr-2024
+101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;185.5657;;;09-Apr-2024
 119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;150.4596;;;09-Apr-2024
 101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;139.2990;;;09-Apr-2024
 150738;Tata Nifty Midcap 150 Momentum 50 Index Fund - Growth - Direct Plan;INF277KA1612;;16.2988;;;09-Apr-2024
@@ -4666,8 +4668,6 @@ Tata Mutual Fund
 150742;Tata Nifty Midcap 150 Momentum 50 Index Fund - IDCW Payout - Regular Plan;INF277KA1661;;16.1013;;;09-Apr-2024
 150739;Tata Nifty Midcap 150 Momentum 50 Index Fund - IDCW Reinvestment - Direct Plan;;INF277KA1620;16.2988;;;09-Apr-2024
 150743;Tata Nifty Midcap 150 Momentum 50 Index Fund - IDCW Reinvestment - Regular Plan;;INF277KA1653;16.1013;;;09-Apr-2024
-119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;195.6301;;;09-Apr-2024
-101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;185.5657;;;09-Apr-2024
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;45.5874;;;09-Apr-2024
@@ -4845,7 +4845,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;2525.6527;;;09-Apr-2024
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;79.8664;;;09-Apr-2024
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;79.8664;;;09-Apr-2024
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;18.5362;;;09-Apr-2024
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1000;;;09-Apr-2024
 112351;Kotak Nifty 50 ETF;INF174K014P6;;243.977;;;09-Apr-2024

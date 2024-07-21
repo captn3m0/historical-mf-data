@@ -2018,10 +2018,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;33.6957;;;03-Nov-2023
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;85.581;;;03-Nov-2023
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;98.252;;;03-Nov-2023
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;32.028;;;03-Nov-2023
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;41.157;;;03-Nov-2023
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;85.581;;;03-Nov-2023
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;98.252;;;03-Nov-2023
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;32.028;;;03-Nov-2023
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;41.157;;;03-Nov-2023
 
 LIC Mutual Fund
 120270;LIC MF ELSS Tax Saver-Direct Plan-Growth;INF767K01EM1;;126.2659;;;03-Nov-2023
@@ -7252,10 +7252,10 @@ Invesco Mutual Fund
 151595;Invesco India Nifty G-sec Sep 2032 Index Fund - Regular - IDCW Payout;INF205KA1809;;1037.0424;;;03-Nov-2023
 
 Kotak Mahindra Mutual Fund
-152039;Kotak S&P BSE Housing Index Fund - Direct Plan - Growth Option;INF174KA1OX5;;10.313;;;03-Nov-2023
-152037;Kotak S&P BSE Housing Index Fund - Direct Plan - IDCW Option;INF174KA1OY3;INF174KA1OZ0;10.313;;;03-Nov-2023
-152038;Kotak S&P BSE Housing Index Fund - Regular Plan - Growth Option;INF174KA1OU1;;10.3;;;03-Nov-2023
-152040;Kotak S&P BSE Housing Index Fund - Regular Plan - IDCW Option;INF174KA1OV9;INF174KA1OW7;10.3;;;03-Nov-2023
+152038;Kotak  BSE Housing Index Fund - Regular Plan - Growth Option;INF174KA1OU1;;10.3;;;03-Nov-2023
+152040;Kotak  BSE Housing Index Fund - Regular Plan - IDCW Option;INF174KA1OV9;INF174KA1OW7;10.3;;;03-Nov-2023
+152039;Kotak BSE Housing Index Fund - Direct Plan - Growth Option;INF174KA1OX5;;10.313;;;03-Nov-2023
+152037;Kotak BSE Housing Index Fund - Direct Plan - IDCW Option;INF174KA1OY3;INF174KA1OZ0;10.313;;;03-Nov-2023
 151781;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;INF174KA1OB1;;10.792;;;03-Nov-2023
 151782;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout;INF174KA1OC9;INF174KA1OD7;10.792;;;03-Nov-2023
 151783;Kotak Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option;INF174KA1NY5;;10.772;;;03-Nov-2023
@@ -7498,6 +7498,8 @@ Sundaram Mutual Fund
 149480;Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund-Income Distribution CUM Capital Withdrawal;INF173K01AH0;INF173K01AI8;62.2141;;;03-Nov-2023
 
 Tata Mutual Fund
+119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;168.5926;;;03-Nov-2023
+101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;160.1300;;;03-Nov-2023
 150692;TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND - DIRECT PLAN - GROWTH;INF277KA1554;;10.7842;;;03-Nov-2023
 150693;TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND - DIRECT PLAN - IDCW PAYOUT;INF277KA1570;;10.7842;;;03-Nov-2023
 150697;TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND - DIRECT PLAN - IDCW REINVESTMENT;;INF277KA1562;10.7842;;;03-Nov-2023
@@ -7530,8 +7532,6 @@ Tata Mutual Fund
 150327;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Direct Plan-IDCW Payout;INF277KA1380;;10.8308;;;03-Nov-2023
 150330;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan -Growth;INF277KA1406;;10.7778;;;03-Nov-2023
 150329;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan- IDCW Reinvestment;;INF277KA1422;10.7778;;;03-Nov-2023
-119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;168.5926;;;03-Nov-2023
-101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;160.1300;;;03-Nov-2023
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;38.8381;;;03-Nov-2023
@@ -7712,7 +7712,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;2141.9099;;;03-Nov-2023
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;68.7946;;;03-Nov-2023
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;68.7946;;;03-Nov-2023
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;15.3056;;;03-Nov-2023
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1000;;;03-Nov-2023
 112351;Kotak Nifty 50 ETF;INF174K014P6;;206.8192;;;03-Nov-2023
