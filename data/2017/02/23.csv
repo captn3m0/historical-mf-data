@@ -1889,10 +1889,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;13.3273;13.3273;13.3273;23-Feb-2017
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;36.123;36.123;36.123;23-Feb-2017
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;38.098;38.098;38.098;23-Feb-2017
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.91;18.91;18.91;23-Feb-2017
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.43;21.43;21.43;23-Feb-2017
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;36.123;36.123;36.123;23-Feb-2017
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;38.098;38.098;38.098;23-Feb-2017
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.91;18.91;18.91;23-Feb-2017
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.43;21.43;21.43;23-Feb-2017
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;45.771;45.771;45.771;23-Feb-2017
@@ -5211,12 +5211,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;17.8409;17.6625;17.8409;23-Feb-2017
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;19.1742;19.1742;19.1742;23-Feb-2017
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;13.0557;13.0557;13.0557;23-Feb-2017
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;13.2769;13.2769;13.2769;23-Feb-2017
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;19.8888;19.8888;19.8888;23-Feb-2017
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.6873;13.6873;13.6873;23-Feb-2017
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;14.1401;14.1401;14.1401;23-Feb-2017
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;19.1742;19.1742;19.1742;23-Feb-2017
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;13.0557;13.0557;13.0557;23-Feb-2017
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;13.2769;13.2769;13.2769;23-Feb-2017
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;19.8888;19.8888;19.8888;23-Feb-2017
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.6873;13.6873;13.6873;23-Feb-2017
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;14.1401;14.1401;14.1401;23-Feb-2017
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;20.8180;20.6098;20.8180;23-Feb-2017
@@ -6231,10 +6231,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;10.6205;10.6205;10.6205;23-Feb-2017
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;55.8247;55.6851;55.8247;23-Feb-2017
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;53.1629;53.0300;53.1629;23-Feb-2017
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;71.6152;71.4362;71.6152;23-Feb-2017
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;70.1758;70.0004;70.1758;23-Feb-2017
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;55.8247;55.6851;55.8247;23-Feb-2017
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;53.1629;53.0300;53.1629;23-Feb-2017
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;17.1489;17.0632;17.1489;23-Feb-2017
@@ -6295,8 +6295,8 @@ Aditya Birla Sun Life Mutual Fund
 115512;Aditya Birla Sun Life Nifty ETF;INF209KB19D1;;94.3928;94.3928;94.3928;23-Feb-2017
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;289.1940;289.1940;289.1940;23-Feb-2017
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;89.4400;89.4400;89.4400;23-Feb-2017
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;289.1940;289.1940;289.1940;23-Feb-2017
 
 Edelweiss Mutual Fund
 139367;Edelweiss ETF - Nifty 100 Quality 30;INF754K01EM9;;224.5513;224.5513;224.5513;23-Feb-2017
@@ -6318,7 +6318,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;923.9344;923.9344;923.9344;23-Feb-2017
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;297.048;297.048;297.048;23-Feb-2017
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;297.048;297.048;297.048;23-Feb-2017
 112351;Kotak Nifty 50 ETF;INF174K014P6;;905.1266;905.1266;905.1266;23-Feb-2017
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;40.1471;40.1471;40.1471;23-Feb-2017
 133122;Kotak Nifty Bank ETF;INF174K01F59;;211.9204;211.9204;211.9204;23-Feb-2017

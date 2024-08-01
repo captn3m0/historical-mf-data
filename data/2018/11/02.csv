@@ -1539,10 +1539,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;15.3722;;;02-Nov-2018
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;39.737;;;02-Nov-2018
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;42.796;;;02-Nov-2018
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;17.688;;;02-Nov-2018
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;20.805;;;02-Nov-2018
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;39.737;;;02-Nov-2018
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;42.796;;;02-Nov-2018
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;17.688;;;02-Nov-2018
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;20.805;;;02-Nov-2018
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;55.183;;;02-Nov-2018
@@ -2669,7 +2669,7 @@ HSBC Mutual Fund
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.4507;;;02-Nov-2018
 120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;;;02-Nov-2018
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;17.9711;;;02-Nov-2018
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0519;;;02-Nov-2018
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0309;;;02-Nov-2018
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0074;;;02-Nov-2018
 
 ICICI Prudential Mutual Fund
@@ -3881,10 +3881,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;24.1746;;;02-Nov-2018
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.2224;;;02-Nov-2018
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.2071;;;02-Nov-2018
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;22.377;;;02-Nov-2018
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;23.122;;;02-Nov-2018
-110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;11.622;;;02-Nov-2018
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.6231;;;02-Nov-2018
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.0058;;;02-Nov-2018
@@ -4960,12 +4960,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;20.1538;;;02-Nov-2018
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;20.4468;;;02-Nov-2018
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.3642;;;02-Nov-2018
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.5771;;;02-Nov-2018
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;21.5226;;;02-Nov-2018
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.1767;;;02-Nov-2018
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.6980;;;02-Nov-2018
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;20.4468;;;02-Nov-2018
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.3642;;;02-Nov-2018
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.5771;;;02-Nov-2018
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;21.5226;;;02-Nov-2018
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.1767;;;02-Nov-2018
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.6980;;;02-Nov-2018
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;22.4427;;;02-Nov-2018
@@ -6105,10 +6105,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;10.9206;;;02-Nov-2018
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;67.1188;;;02-Nov-2018
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;63.5361;;;02-Nov-2018
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;88.2165;;;02-Nov-2018
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;85.9529;;;02-Nov-2018
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;67.1188;;;02-Nov-2018
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;63.5361;;;02-Nov-2018
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;20.7249;;;02-Nov-2018
@@ -6174,8 +6174,8 @@ Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;1074.3390;;;02-Nov-2018
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;357.8286;;;02-Nov-2018
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;107.9891;;;02-Nov-2018
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;357.8286;;;02-Nov-2018
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;02-Nov-2018
@@ -6205,7 +6205,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1116.2508;;;02-Nov-2018
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;357.4991;;;02-Nov-2018
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;357.4991;;;02-Nov-2018
 112351;Kotak Nifty 50 ETF;INF174K014P6;;108.0786;;;02-Nov-2018
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;53.1338;;;02-Nov-2018
 133122;Kotak Nifty Bank ETF;INF174K01F59;;262.8605;;;02-Nov-2018

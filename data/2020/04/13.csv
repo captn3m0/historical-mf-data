@@ -1664,10 +1664,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;13.6947;;;13-Apr-2020
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;36.028;;;13-Apr-2020
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;39.467;;;13-Apr-2020
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;14.175;;;13-Apr-2020
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;17.38;;;13-Apr-2020
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;36.028;;;13-Apr-2020
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;39.467;;;13-Apr-2020
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;14.175;;;13-Apr-2020
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;17.38;;;13-Apr-2020
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;43.664;;;13-Apr-2020
@@ -3169,7 +3169,7 @@ HSBC Mutual Fund
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.4838;;;13-Apr-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.5787;;;13-Apr-2020
 120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;9.6623;;;13-Apr-2020
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;9.5676;;;13-Apr-2020
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;9.5545;;;13-Apr-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.5001;;;13-Apr-2020
 
 ICICI Prudential Mutual Fund
@@ -4488,10 +4488,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.015;;;13-Apr-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.7428;;;13-Apr-2020
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.2537;;;13-Apr-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;25.5567;;;13-Apr-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;26.5004;;;13-Apr-2020
-110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.0775;;;13-Apr-2020
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.4872;;;13-Apr-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.4594;;;13-Apr-2020
@@ -5665,12 +5665,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;20.5265;;;13-Apr-2020
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;21.4690;;;13-Apr-2020
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.0890;;;13-Apr-2020
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.1115;;;13-Apr-2020
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;22.8742;;;13-Apr-2020
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.0982;;;13-Apr-2020
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.7535;;;13-Apr-2020
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;21.4690;;;13-Apr-2020
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.0890;;;13-Apr-2020
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.1115;;;13-Apr-2020
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;22.8742;;;13-Apr-2020
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.0982;;;13-Apr-2020
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.7535;;;13-Apr-2020
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;25.5588;;;13-Apr-2020
@@ -7061,10 +7061,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;8.7010;;;13-Apr-2020
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;58.0249;;;13-Apr-2020
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;54.6780;;;13-Apr-2020
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;78.7613;;;13-Apr-2020
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;76.2958;;;13-Apr-2020
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;58.0249;;;13-Apr-2020
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;54.6780;;;13-Apr-2020
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;17.8519;;;13-Apr-2020
@@ -7129,8 +7129,8 @@ Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;928.9786;;;13-Apr-2020
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;319.2852;;;13-Apr-2020
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;93.7428;;;13-Apr-2020
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;319.2852;;;13-Apr-2020
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;13-Apr-2020
@@ -7168,7 +7168,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;964.866;;;13-Apr-2020
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;317.0461;;;13-Apr-2020
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;317.0461;;;13-Apr-2020
 112351;Kotak Nifty 50 ETF;INF174K014P6;;93.2652;;;13-Apr-2020
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;47.5861;;;13-Apr-2020
 133122;Kotak Nifty Bank ETF;INF174K01F59;;197.113;;;13-Apr-2020

@@ -2588,10 +2588,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;7.2208;7.2208;7.2208;02-Jan-2013
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;20.427;20.427;20.427;02-Jan-2013
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;20.427;20.427;20.427;02-Jan-2013
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;12.509;12.509;12.509;02-Jan-2013
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;12.509;12.509;12.509;02-Jan-2013
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;20.427;20.427;20.427;02-Jan-2013
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;20.427;20.427;20.427;02-Jan-2013
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;12.509;12.509;12.509;02-Jan-2013
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;12.509;12.509;12.509;02-Jan-2013
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;23.818;23.818;23.818;02-Jan-2013
@@ -4240,7 +4240,7 @@ HSBC Mutual Fund
 120047;HSBC Dynamic Bond Fund - Direct Monthly IDCW;;INF336L01CN5;10.1714;10.0951;10.1714;02-Jan-2013
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;15.5792;15.4624;15.5792;02-Jan-2013
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;15.8634;15.7444;15.8634;02-Jan-2013
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;11.8054;11.7169;11.8054;02-Jan-2013
+110439;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01487;INF336L01479;10.7311;10.6506;10.7311;02-Jan-2013
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;10.5432;10.3323;10.5432;02-Jan-2013
@@ -4898,10 +4898,10 @@ Axis Mutual Fund
 112925;Axis Regular Saver Fund - Regular Plan - Quarterly IDCW;INF846K01701;INF846K01719;10.5651;10.2481;10.5651;02-Jan-2013
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;12.9322;12.9322;12.9322;02-Jan-2013
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;11.7004;11.7004;11.7004;02-Jan-2013
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;11.7127;11.7127;11.7127;02-Jan-2013
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;12.9324;12.9324;12.9324;02-Jan-2013
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;12.9322;12.9322;12.9322;02-Jan-2013
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;11.7004;11.7004;11.7004;02-Jan-2013
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;11.7127;11.7127;11.7127;02-Jan-2013
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;12.9324;12.9324;12.9324;02-Jan-2013
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;14.7256;14.5783;14.7256;02-Jan-2013
@@ -5501,10 +5501,10 @@ SBI Mutual Fund
 102273;SBI Nifty Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01545;INF200K01552;26.2821;26.0193;26.2821;02-Jan-2013
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;35.8919;34.4562;35.8919;02-Jan-2013
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;35.8919;34.4562;35.8919;02-Jan-2013
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;47.9610;46.0426;47.9610;02-Jan-2013
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;47.9604;46.0420;47.9604;02-Jan-2013
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;35.8919;34.4562;35.8919;02-Jan-2013
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;35.8919;34.4562;35.8919;02-Jan-2013
 
 Taurus Mutual Fund
 112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;INF044D01948;;11.2304;11.1181;11.2304;02-Jan-2013
@@ -5565,7 +5565,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;599.9796;599.9796;599.9796;02-Jan-2013
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;204.7674;204.7674;204.7674;02-Jan-2013
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;204.7674;204.7674;204.7674;02-Jan-2013
 112351;Kotak Nifty 50 ETF;INF174K014P6;;615.4586;615.4586;615.4586;02-Jan-2013
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;406.9879;406.9879;406.9879;02-Jan-2013
 

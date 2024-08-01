@@ -1864,10 +1864,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;28.2487;;;07-Feb-2022
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;72.404;;;07-Feb-2022
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;81.246;;;07-Feb-2022
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;27.097;;;07-Feb-2022
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;34.033;;;07-Feb-2022
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;72.404;;;07-Feb-2022
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;81.246;;;07-Feb-2022
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;27.097;;;07-Feb-2022
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;34.033;;;07-Feb-2022
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;83.788;;;07-Feb-2022
@@ -3360,10 +3360,10 @@ Navi Mutual Fund
 114855;Navi 3 in 1 Fund-Growth;INF959L01015;;25.3401;;;07-Feb-2022
 
 Nippon India Mutual Fund
-148457;Nippon India Multi Asset Fund - Direct Plan - Growth Option;INF204KB19V4;;13.3418;;;07-Feb-2022
-148458;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.3418;;;07-Feb-2022
-148460;NIPPON INDIA MULTI ASSET FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.0446;;;07-Feb-2022
-148459;Nippon India Multi Asset Fund - Regular Plan - Growth Option;INF204KB16V0;;13.0446;;;07-Feb-2022
+148457;Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option;INF204KB19V4;;13.3418;;;07-Feb-2022
+148458;NIPPON INDIA MULTI ASSET ALLOCATION FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.3418;;;07-Feb-2022
+148460;NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.0446;;;07-Feb-2022
+148459;Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option;INF204KB16V0;;13.0446;;;07-Feb-2022
 
 quant Mutual Fund
 120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;76.3077;;;07-Feb-2022
@@ -4144,10 +4144,10 @@ Sundaram Mutual Fund
 149480;Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund-Income Distribution CUM Capital Withdrawal;INF173K01AH0;INF173K01AI8;63.9439;;;07-Feb-2022
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;112.1780;;;07-Feb-2022
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;104.6426;;;07-Feb-2022
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;148.0177;;;07-Feb-2022
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;141.3536;;;07-Feb-2022
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;112.1780;;;07-Feb-2022
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;104.6426;;;07-Feb-2022
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;34.4443;;;07-Feb-2022
@@ -4217,8 +4217,8 @@ Axis Mutual Fund
 148799;Axis IT ETF;INF846K01Y96;;350.8435;;;07-Feb-2022
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;602.9940;;;07-Feb-2022
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;180.8496;;;07-Feb-2022
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;602.9940;;;07-Feb-2022
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;07-Feb-2022
@@ -4263,7 +4263,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1877.1647;;;07-Feb-2022
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;603.4244;;;07-Feb-2022
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;603.4244;;;07-Feb-2022
 112351;Kotak Nifty 50 ETF;INF174K014P6;;181.4593;;;07-Feb-2022
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;97.4382;;;07-Feb-2022
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;33.5929;;;07-Feb-2022

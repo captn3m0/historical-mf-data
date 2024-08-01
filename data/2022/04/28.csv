@@ -1852,10 +1852,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;27.3310;;;28-Apr-2022
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;71.334;;;28-Apr-2022
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;80.291;;;28-Apr-2022
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;26.697;;;28-Apr-2022
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;33.633;;;28-Apr-2022
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;71.334;;;28-Apr-2022
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;80.291;;;28-Apr-2022
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;26.697;;;28-Apr-2022
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;33.633;;;28-Apr-2022
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;82.463;;;28-Apr-2022
@@ -5535,12 +5535,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;27.1185;;;28-Apr-2022
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;25.7806;;;28-Apr-2022
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;13.6142;;;28-Apr-2022
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;13.3903;;;28-Apr-2022
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;27.9970;;;28-Apr-2022
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;15.0170;;;28-Apr-2022
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;15.4811;;;28-Apr-2022
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;25.7806;;;28-Apr-2022
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;13.6142;;;28-Apr-2022
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;13.3903;;;28-Apr-2022
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;27.9970;;;28-Apr-2022
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;15.0170;;;28-Apr-2022
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;15.4811;;;28-Apr-2022
 
 Baroda BNP Paribas Mutual Fund
 150206;BARODA BNP PARIBAS Conservative Hybrid Fund - Direct Plan - Growth Option;INF251K01HR8;;40.3118;;;28-Apr-2022
@@ -6154,10 +6154,10 @@ Navi Mutual Fund
 114855;Navi 3 in 1 Fund-Growth;INF959L01015;;25.0884;;;28-Apr-2022
 
 Nippon India Mutual Fund
-148457;Nippon India Multi Asset Fund - Direct Plan - Growth Option;INF204KB19V4;;13.4159;;;28-Apr-2022
-148458;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.4159;;;28-Apr-2022
-148460;NIPPON INDIA MULTI ASSET FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.0819;;;28-Apr-2022
-148459;Nippon India Multi Asset Fund - Regular Plan - Growth Option;INF204KB16V0;;13.0819;;;28-Apr-2022
+148457;Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option;INF204KB19V4;;13.4159;;;28-Apr-2022
+148458;NIPPON INDIA MULTI ASSET ALLOCATION FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.4159;;;28-Apr-2022
+148460;NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.0819;;;28-Apr-2022
+148459;Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option;INF204KB16V0;;13.0819;;;28-Apr-2022
 
 quant Mutual Fund
 120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;79.3693;;;28-Apr-2022
@@ -7022,6 +7022,8 @@ Mirae Asset Mutual Fund
 150358;Mirae Asset Nifty SDL Jun 2027 Index Fund -Direct Plan - Growth;INF769K01IH8;;9.8523;;;28-Apr-2022
 
 Motilal Oswal Mutual Fund
+149919;Motilal Oswal BSE Low Volatility Index Fund-Direct plan;INF247L01AY5;;10.2852;;;28-Apr-2022
+149920;Motilal Oswal BSE Low Volatility Index Fund-Regular plan;INF247L01AZ2;;10.2789;;;28-Apr-2022
 149349;Motilal Oswal MSCI EAFE Top 100 Select Index Fund - Direct Plan Growth;INF247L01AS7;;9.4403;;;28-Apr-2022
 149350;Motilal Oswal MSCI EAFE Top 100 Select Index Fund - Regular Plan Growth;INF247L01AT5;;9.4126;;;28-Apr-2022
 149800;Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan;INF247L01AV1;;9.6824;;;28-Apr-2022
@@ -7040,8 +7042,6 @@ Motilal Oswal Mutual Fund
 147623;Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan;INF247L01932;;21.3009;;;28-Apr-2022
 148381;Motilal Oswal S&P 500 Index Fund - Direct Plan Growth;INF247L01AG2;;14.5367;;;28-Apr-2022
 148382;Motilal Oswal S&P 500 Index Fund - Regular Plan Growth;INF247L01AH0;;14.3507;;;28-Apr-2022
-149919;Motilal Oswal S&P BSE Low Volatility Index Fund-Direct plan;INF247L01AY5;;10.2852;;;28-Apr-2022
-149920;Motilal Oswal S&P BSE Low Volatility Index Fund-Regular plan;INF247L01AZ2;;10.2789;;;28-Apr-2022
 
 Navi Mutual Fund
 149039;Navi Nifty 50 Index Fund-Direct Plan-Growth;INF959L01FP2;;10.8776;;;28-Apr-2022
@@ -7112,6 +7112,8 @@ Sundaram Mutual Fund
 149480;Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund-Income Distribution CUM Capital Withdrawal;INF173K01AH0;INF173K01AI8;64.7411;;;28-Apr-2022
 
 Tata Mutual Fund
+119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;147.9185;;;28-Apr-2022
+101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;141.1662;;;28-Apr-2022
 119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;112.5410;;;28-Apr-2022
 101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;104.8975;;;28-Apr-2022
 150331;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund -Regular Plan-IDCW Payout;INF277KA1414;;9.9773;;;28-Apr-2022
@@ -7120,8 +7122,6 @@ Tata Mutual Fund
 150327;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Direct Plan-IDCW Payout;INF277KA1380;;9.9796;;;28-Apr-2022
 150330;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan -Growth;INF277KA1406;;9.9773;;;28-Apr-2022
 150329;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan- IDCW Reinvestment;;INF277KA1422;9.9773;;;28-Apr-2022
-119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;147.9185;;;28-Apr-2022
-101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;141.1662;;;28-Apr-2022
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;34.4416;;;28-Apr-2022
@@ -7202,8 +7202,8 @@ Axis Mutual Fund
 148799;Axis IT ETF;INF846K01Y96;;324.0746;;;28-Apr-2022
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;601.9184;;;28-Apr-2022
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;181.2313;;;28-Apr-2022
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;601.9184;;;28-Apr-2022
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;28-Apr-2022
@@ -7254,7 +7254,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1883.9799;;;28-Apr-2022
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;602.9932;;;28-Apr-2022
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;602.9932;;;28-Apr-2022
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;13.0028;;;28-Apr-2022
 112351;Kotak Nifty 50 ETF;INF174K014P6;;182.1063;;;28-Apr-2022
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;96.8686;;;28-Apr-2022
@@ -7282,13 +7282,13 @@ Mirae Asset Mutual Fund
 149169;Mirae Asset S&P 500 Top 50 ETF;INF769K01HP3;;27.981;;;28-Apr-2022
 
 Motilal Oswal Mutual Fund
+149921;Motilal Oswal BSE Low Volatility ETF;INF247L01BA3;;115.7228;;;28-Apr-2022
 114984;Motilal Oswal Nasdaq 100 ETF (MOFN100);INF247L01AP3;;97.2727;;;28-Apr-2022
 149438;Motilal Oswal Nasdaq Q50 ETF;INF247L01AU3;;50.5727;;;28-Apr-2022
 149801;Motilal Oswal Nifty 200 Momentum 30 ETF;INF247L01AX7;;196.8279;;;28-Apr-2022
 148620;Motilal Oswal Nifty 5 year Benchmark G-sec ETF;INF247L01AK4;;48.9374;;;28-Apr-2022
 113069;Motilal Oswal Nifty 50 ETF;INF247L01536;;171.5583;;;28-Apr-2022
 114456;Motilal Oswal Nifty Midcap 100 ETF;INF247L01023;;31.8101;;;28-Apr-2022
-149921;Motilal Oswal S&P BSE Low Volatility ETF;INF247L01BA3;;115.7228;;;28-Apr-2022
 
 Nippon India Mutual Fund
 140107;CPSE ETF;INF457M01133;;36.4866;;;28-Apr-2022

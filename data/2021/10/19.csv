@@ -1863,10 +1863,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;30.1764;;;19-Oct-2021
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;72.607;;;19-Oct-2021
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;81.14;;;19-Oct-2021
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;27.173;;;19-Oct-2021
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;33.988;;;19-Oct-2021
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;72.607;;;19-Oct-2021
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;81.14;;;19-Oct-2021
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;27.173;;;19-Oct-2021
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;33.988;;;19-Oct-2021
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;87.453;;;19-Oct-2021
@@ -3317,10 +3317,10 @@ Navi Mutual Fund
 114855;Navi 3 in 1 Fund-Growth;INF959L01015;;26.4135;;;19-Oct-2021
 
 Nippon India Mutual Fund
-148457;Nippon India Multi Asset Fund - Direct Plan - Growth Option;INF204KB19V4;;13.6593;;;19-Oct-2021
-148458;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.6593;;;19-Oct-2021
-148460;NIPPON INDIA MULTI ASSET FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.4109;;;19-Oct-2021
-148459;Nippon India Multi Asset Fund - Regular Plan - Growth Option;INF204KB16V0;;13.4109;;;19-Oct-2021
+148457;Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option;INF204KB19V4;;13.6593;;;19-Oct-2021
+148458;NIPPON INDIA MULTI ASSET ALLOCATION FUND - DIRECT Plan - IDCW Option;INF204KB10W1;INF204KB11W9;13.6593;;;19-Oct-2021
+148460;NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option;INF204KB17V8;INF204KB18V6;13.4109;;;19-Oct-2021
+148459;Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option;INF204KB16V0;;13.4109;;;19-Oct-2021
 
 quant Mutual Fund
 120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;72.2518;;;19-Oct-2021
@@ -4096,10 +4096,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;16.8536;;;19-Oct-2021
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;119.7559;;;19-Oct-2021
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;111.8342;;;19-Oct-2021
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;158.2974;;;19-Oct-2021
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;151.3086;;;19-Oct-2021
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;119.7559;;;19-Oct-2021
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;111.8342;;;19-Oct-2021
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;36.7065;;;19-Oct-2021
@@ -4161,8 +4161,8 @@ Axis Mutual Fund
 148799;Axis IT ETF;INF846K01Y96;;374.1676;;;19-Oct-2021
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;644.5913;;;19-Oct-2021
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;192.8253;;;19-Oct-2021
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;644.5913;;;19-Oct-2021
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;19-Oct-2021
@@ -4201,7 +4201,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;2004.0502;;;19-Oct-2021
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;645.4321;;;19-Oct-2021
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;645.4321;;;19-Oct-2021
 112351;Kotak Nifty 50 ETF;INF174K014P6;;193.7432;;;19-Oct-2021
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;101.2941;;;19-Oct-2021
 133122;Kotak Nifty Bank ETF;INF174K01F59;;399.311;;;19-Oct-2021

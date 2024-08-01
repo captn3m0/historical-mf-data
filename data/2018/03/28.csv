@@ -1708,10 +1708,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;15.8996;15.8996;15.8996;28-Mar-2018
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;39.826;39.826;39.826;28-Mar-2018
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;42.615;42.615;42.615;28-Mar-2018
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.482;18.482;18.482;28-Mar-2018
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.585;21.585;21.585;28-Mar-2018
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;39.826;39.826;39.826;28-Mar-2018
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;42.615;42.615;42.615;28-Mar-2018
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.482;18.482;18.482;28-Mar-2018
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.585;21.585;21.585;28-Mar-2018
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;55.969;55.969;55.969;28-Mar-2018
@@ -5049,12 +5049,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;19.8097;19.6116;19.8097;28-Mar-2018
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;20.2739;20.2739;20.2739;28-Mar-2018
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.6966;12.6966;12.6966;28-Mar-2018
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.8557;12.8557;12.8557;28-Mar-2018
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;21.2301;21.2301;21.2301;28-Mar-2018
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.4646;13.4646;13.4646;28-Mar-2018
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.8112;13.8112;13.8112;28-Mar-2018
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;20.2739;20.2739;20.2739;28-Mar-2018
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.6966;12.6966;12.6966;28-Mar-2018
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.8557;12.8557;12.8557;28-Mar-2018
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;21.2301;21.2301;21.2301;28-Mar-2018
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.4646;13.4646;13.4646;28-Mar-2018
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.8112;13.8112;13.8112;28-Mar-2018
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;22.2602;22.2602;22.2602;28-Mar-2018
@@ -6118,10 +6118,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;11.2006;11.2006;11.2006;28-Mar-2018
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;63.7050;63.5457;63.7050;28-Mar-2018
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;60.4296;60.2785;60.4296;28-Mar-2018
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;82.3062;82.1004;82.3062;28-Mar-2018
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;80.3435;80.1426;80.3435;28-Mar-2018
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;63.7050;63.5457;63.7050;28-Mar-2018
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;60.4296;60.2785;60.4296;28-Mar-2018
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;19.7208;19.6222;19.7208;28-Mar-2018
@@ -6185,8 +6185,8 @@ Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;1019.4267;1019.4267;1019.4267;28-Mar-2018
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;333.8749;333.8749;333.8749;28-Mar-2018
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;102.4277;102.4277;102.4277;28-Mar-2018
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;333.8749;333.8749;333.8749;28-Mar-2018
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;1000.0000;1000.0000;28-Mar-2018
@@ -6213,7 +6213,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1060.3403;1060.3403;1060.3403;28-Mar-2018
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;333.927;333.927;333.927;28-Mar-2018
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;333.927;333.927;333.927;28-Mar-2018
 112351;Kotak Nifty 50 ETF;INF174K014P6;;102.651;102.651;102.651;28-Mar-2018
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;46.7649;46.7649;46.7649;28-Mar-2018
 133122;Kotak Nifty Bank ETF;INF174K01F59;;247.4209;247.4209;247.4209;28-Mar-2018
@@ -8569,15 +8569,15 @@ ICICI Prudential Mutual Fund
 134261;ICICI Prudential Multiple Yield Fund - Series 9 - 1140 Days Plan A Dividend Option;INF109KB1722;;11.1524;N.A.;N.A.;28-Mar-2018
 
 IL&FS Mutual Fund (IDF)
-130565;IL&FS Infrastructure Debt Fund Series 1A - Dividend payout option;INF613Q01025;;1535800.5352;N.A.;N.A.;28-Mar-2018
-129287;IL&FS Infrastructure Debt Fund Series 1A - Growth;INF613Q01017;;1535800.5352;N.A.;N.A.;28-Mar-2018
-129288;IL&FS Infrastructure Debt Fund Series 1C - Growth;INF613Q01058;;1550413.3830;N.A.;N.A.;28-Mar-2018
-130567;IL&FS Infrastructure Debt Fund Series 1C- Dividend Payout Option;INF613Q01066;;1550413.3830;N.A.;N.A.;28-Mar-2018
-142700;IL&FS Infrastructure Debt Fund Series 3A - Dividend payout option - Direct;INF613Q01082;;1015676.9010;N.A.;N.A.;28-Mar-2018
-142701;IL&FS Infrastructure Debt Fund Series 3A - Growth - Direct;INF613Q01074;;1015676.9010;N.A.;N.A.;28-Mar-2018
-142702;IL&FS Infrastructure Debt Fund Series 3A - Growth - Regular;INF613Q01090;;1015521.0891;N.A.;N.A.;28-Mar-2018
-130566;IL&FS Infrastructure Debt Fund Series 1B - Dividend Payout;INF613Q01041;;1542777.7844;N.A.;N.A.;28-Mar-2018
-129286;IL&FS Infrastructure Debt Fund Series 1B - Growth;INF613Q01033;;1542777.7844;N.A.;N.A.;28-Mar-2018
+130565;IL&FS Infrastructure Debt Fund Series 1A - Dividend payout option;INF613Q01025;Redeemed;1535800.5352;N.A.;N.A.;28-Mar-2018
+129287;IL&FS Infrastructure Debt Fund Series 1A - Growth;INF613Q01017;Redeemed;1535800.5352;N.A.;N.A.;28-Mar-2018
+129288;IL&FS Infrastructure Debt Fund Series 1C - Growth;INF613Q01058;Redeemed;1550413.3830;N.A.;N.A.;28-Mar-2018
+130567;IL&FS Infrastructure Debt Fund Series 1C- Dividend Payout Option;INF613Q01066;Redeemed;1550413.3830;N.A.;N.A.;28-Mar-2018
+142700;IL&FS Infrastructure Debt Fund Series 3A - Dividend payout option - Direct;INF613Q01082;Redeemed;1015676.9010;N.A.;N.A.;28-Mar-2018
+142701;IL&FS Infrastructure Debt Fund Series 3A - Growth - Direct;INF613Q01074;Redeemed;1015676.9010;N.A.;N.A.;28-Mar-2018
+142702;IL&FS Infrastructure Debt Fund Series 3A - Growth - Regular;INF613Q01090;Redeemed;1015521.0891;N.A.;N.A.;28-Mar-2018
+130566;IL&FS Infrastructure Debt Fund Series 1B - Dividend Payout;INF613Q01041;Redeemed;1542777.7844;N.A.;N.A.;28-Mar-2018
+129286;IL&FS Infrastructure Debt Fund Series 1B - Growth;INF613Q01033;Redeemed;1542777.7844;N.A.;N.A.;28-Mar-2018
 
 Invesco Mutual Fund
 126936;Invesco India Fixed Maturity Plan - Series 22 - Plan H (427 Days) - Direct Plan - Growth Option;INF205K01Y00;;14.0797;14.0797;14.0797;28-Mar-2018

@@ -1745,10 +1745,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;16.3908;;;13-Mar-2020
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;40.342;;;13-Mar-2020
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;44.144;;;13-Mar-2020
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;16.255;;;13-Mar-2020
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;19.44;;;13-Mar-2020
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;40.342;;;13-Mar-2020
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;44.144;;;13-Mar-2020
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;16.255;;;13-Mar-2020
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;19.44;;;13-Mar-2020
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;48.803;;;13-Mar-2020
@@ -5744,12 +5744,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;20.9525;;;13-Mar-2020
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;22.0825;;;13-Mar-2020
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.4976;;;13-Mar-2020
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.7260;;;13-Mar-2020
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;23.5127;;;13-Mar-2020
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.4644;;;13-Mar-2020
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;14.1381;;;13-Mar-2020
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;22.0825;;;13-Mar-2020
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.4976;;;13-Mar-2020
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.7260;;;13-Mar-2020
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;23.5127;;;13-Mar-2020
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.4644;;;13-Mar-2020
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;14.1381;;;13-Mar-2020
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;25.7611;;;13-Mar-2020
@@ -7140,10 +7140,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;9.1788;;;13-Mar-2020
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;64.3582;;;13-Mar-2020
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;60.6125;;;13-Mar-2020
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;87.1551;;;13-Mar-2020
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;84.5229;;;13-Mar-2020
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;64.3582;;;13-Mar-2020
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;60.6125;;;13-Mar-2020
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;19.5040;;;13-Mar-2020
@@ -7208,8 +7208,8 @@ Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;1028.4672;;;13-Mar-2020
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;353.3776;;;13-Mar-2020
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;103.4320;;;13-Mar-2020
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;353.3776;;;13-Mar-2020
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;13-Mar-2020
@@ -7247,7 +7247,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1068.4889;;;13-Mar-2020
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;351.6873;;;13-Mar-2020
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;351.6873;;;13-Mar-2020
 112351;Kotak Nifty 50 ETF;INF174K014P6;;103.2955;;;13-Mar-2020
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;48.1494;;;13-Mar-2020
 133122;Kotak Nifty Bank ETF;INF174K01F59;;257.9552;;;13-Mar-2020

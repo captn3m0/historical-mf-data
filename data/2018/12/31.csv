@@ -1574,10 +1574,10 @@ JM Financial Mutual Fund
 107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;16.0238;;;31-Dec-2018
 
 Kotak Mahindra Mutual Fund
-103339;Kotak Tax Saver-Scheme-Growth;INF174K01369;;41.519;;;31-Dec-2018
-119773;Kotak Tax Saver-Scheme-Growth - Direct;INF174K01LI3;;44.795;;;31-Dec-2018
-103338;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.104;;;31-Dec-2018
-119772;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.339;;;31-Dec-2018
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;41.519;;;31-Dec-2018
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;44.795;;;31-Dec-2018
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;18.104;;;31-Dec-2018
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;21.339;;;31-Dec-2018
 
 L&T Mutual Fund
 119417;L&T  Tax Advantage Fund-Direct Plan-Growth;INF917K01GP0;;55.028;;;31-Dec-2018
@@ -5027,12 +5027,12 @@ Axis Mutual Fund
 120480;Axis Regular Saver Fund- Direct Plan - Growth Option;INF846K01EA8;;20.6626;;;31-Dec-2018
 
 Bandhan Mutual Fund
-112353;BANDHAN Regular Savings Fund - Regular Plan - Growth;INF194K01RW9;;20.9098;;;31-Dec-2018
-112352;BANDHAN Regular Savings Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.5189;;;31-Dec-2018
-113361;BANDHAN Regular Savings Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.6693;;;31-Dec-2018
-118491;BANDHAN Regular Savings Fund-Direct Plan-Growth;INF194K015B9;;22.0374;;;31-Dec-2018
-118490;BANDHAN Regular Savings Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.3580;;;31-Dec-2018
-118492;BANDHAN Regular Savings Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.9398;;;31-Dec-2018
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;INF194K01RW9;;20.9098;;;31-Dec-2018
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;INF194K01RY5;INF194K01RX7;12.5189;;;31-Dec-2018
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;INF194K01SB1;INF194K01SA3;12.6693;;;31-Dec-2018
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;INF194K015B9;;22.0374;;;31-Dec-2018
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.3580;;;31-Dec-2018
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;13.9398;;;31-Dec-2018
 
 Baroda BNP Paribas Mutual Fund
 102661;BARODA CONSERVATIVE HYBRID FUND - Plan A - Growth Option;INF955L01161;;23.1970;;;31-Dec-2018
@@ -6197,10 +6197,10 @@ Sundaram Mutual Fund
 140450;Sundaram Smart Nifty 100 Equal Weight Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1658;11.1738;;;31-Dec-2018
 
 Tata Mutual Fund
-119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;69.1091;;;31-Dec-2018
-101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;65.3799;;;31-Dec-2018
 119287;Tata S&P BSE Sensex Index Fund - Direct Plan;INF277K01PK1;;90.9413;;;31-Dec-2018
 101746;Tata S&P BSE Sensex Index Fund -Regular Plan;INF277K01758;;88.5519;;;31-Dec-2018
+119288;Tata Nifty 50 Index Fund -Direct Plan;INF277K01PJ3;;69.1091;;;31-Dec-2018
+101659;Tata Nifty 50 Index Fund -Regular Plan;INF277K01741;;65.3799;;;31-Dec-2018
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;21.2974;;;31-Dec-2018
@@ -6267,8 +6267,8 @@ Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;1106.3363;;;31-Dec-2018
 
 Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;INF194KA1T91;;369.1210;;;31-Dec-2018
 139839;BANDHAN Nifty 50 ETF;INF194KA1U07;;111.1758;;;31-Dec-2018
-139840;BANDHAN S&P BSE Sensex ETF;INF194KA1T91;;369.1210;;;31-Dec-2018
 
 DSP Mutual Fund
 142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;31-Dec-2018
@@ -6298,7 +6298,7 @@ Invesco Mutual Fund
 115284;Invesco India Nifty 50 Exchange Traded Fund;INF205K01DA9;;1149.5585;;;31-Dec-2018
 
 Kotak Mahindra Mutual Fund
-109010;Kotak S&P BSE Sensex ETF;INF174KA1JD7;;368.7092;;;31-Dec-2018
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;368.7092;;;31-Dec-2018
 112351;Kotak Nifty 50 ETF;INF174K014P6;;111.3007;;;31-Dec-2018
 135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;53.7687;;;31-Dec-2018
 133122;Kotak Nifty Bank ETF;INF174K01F59;;277.6826;;;31-Dec-2018
@@ -8874,15 +8874,15 @@ IIFCL Mutual Fund (IDF)
 141615;IIFCL MUTUAL FUND INFRASTRUCTURE DEBT FUND SERIES II;INF017Q01029;;911903.7744;;;31-Dec-2018
 
 IL&FS Mutual Fund (IDF)
-129288;IL&FS Infrastructure Debt Fund Series 1C - Growth;INF613Q01058;;1672053.9286;;;31-Dec-2018
-130567;IL&FS Infrastructure Debt Fund Series 1C- Dividend Payout Option;INF613Q01066;;1672053.9286;;;31-Dec-2018
-142700;IL&FS Infrastructure Debt Fund Series 3A - Dividend payout option - Direct;INF613Q01082;;1094824.6932;;;31-Dec-2018
-142701;IL&FS Infrastructure Debt Fund Series 3A - Growth - Direct;INF613Q01074;;1094824.6932;;;31-Dec-2018
-142702;IL&FS Infrastructure Debt Fund Series 3A - Growth - Regular;INF613Q01090;;1093823.3513;;;31-Dec-2018
+129288;IL&FS Infrastructure Debt Fund Series 1C - Growth;INF613Q01058;Redeemed;1672053.9286;;;31-Dec-2018
+130567;IL&FS Infrastructure Debt Fund Series 1C- Dividend Payout Option;INF613Q01066;Redeemed;1672053.9286;;;31-Dec-2018
+142700;IL&FS Infrastructure Debt Fund Series 3A - Dividend payout option - Direct;INF613Q01082;Redeemed;1094824.6932;;;31-Dec-2018
+142701;IL&FS Infrastructure Debt Fund Series 3A - Growth - Direct;INF613Q01074;Redeemed;1094824.6932;;;31-Dec-2018
+142702;IL&FS Infrastructure Debt Fund Series 3A - Growth - Regular;INF613Q01090;Redeemed;1093823.3513;;;31-Dec-2018
 143397;IL&FS Infrastructure Debt Fund Series 3B - Dividend payout option;INF613Q01116;;1067043.7067;;;31-Dec-2018
 143396;IL&FS Infrastructure Debt Fund Series 3B - Growth - Direct;INF613Q01108;;1067043.7067;;;31-Dec-2018
-130566;IL&FS Infrastructure Debt Fund Series 1B - Dividend Payout;INF613Q01041;;1677116.1686;;;31-Dec-2018
-129286;IL&FS Infrastructure Debt Fund Series 1B - Growth;INF613Q01033;;1677116.1686;;;31-Dec-2018
+130566;IL&FS Infrastructure Debt Fund Series 1B - Dividend Payout;INF613Q01041;Redeemed;1677116.1686;;;31-Dec-2018
+129286;IL&FS Infrastructure Debt Fund Series 1B - Growth;INF613Q01033;Redeemed;1677116.1686;;;31-Dec-2018
 
 Invesco Mutual Fund
 135857;Invesco India Fixed Maturity Plan - Series 27 - Plan A - Direct - Sub plan - Growth;INF205K015F7;;12.6469;;;31-Dec-2018
