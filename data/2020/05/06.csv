@@ -686,12 +686,6 @@ HDFC Mutual Fund
 130501;HDFC Small Cap Fund - IDCW Option;INF179KA1SA9;INF179KA1SB7;14.672;;;06-May-2020
 130504;HDFC Small Cap Fund - IDCW Option - Direct Plan;INF179KA1RX3;INF179KA1RY1;18.606;;;06-May-2020
 
-HSBC Mutual Fund
-120069;HSBC Small Cap Fund - Direct Growth;INF336L01DQ6;;35.5872;;;06-May-2020
-120068;HSBC Small Cap Fund - Direct IDCW;INF336L01DO1;INF336L01DP8;15.5325;;;06-May-2020
-103006;HSBC Small Cap Fund - Regular Growth;INF336L01AV2;;33.4663;;;06-May-2020
-103007;HSBC Small Cap Fund - Regular IDCW;INF336L01AU4;INF336L01AT6;12.2618;;;06-May-2020
-
 ICICI Prudential Mutual Fund
 120591;ICICI Prudential Smallcap Fund - Direct Plan - Growth;INF109K015M0;;19.26;;;06-May-2020
 120870;ICICI Prudential Smallcap Fund - Direct Plan - IDCW;INF109K013M5;INF109K014M3;17.87;;;06-May-2020
@@ -720,7 +714,7 @@ Kotak Mahindra Mutual Fund
 102875;Kotak-Small Cap Fund - Growth;INF174K01211;;56.406;;;06-May-2020
 120164;Kotak-Small Cap Fund - Growth - Direct;INF174K01KT2;;61.814;;;06-May-2020
 102874;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01237;INF174K01229;25.867;;;06-May-2020
-120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;;28.538;;;06-May-2020
+120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;INF174K01KV8;28.538;;;06-May-2020
 
 L&T Mutual Fund
 129220;L&T Emerging Businesses Fund - Direct Plan - Growth;INF917K01QA1;;17.054;;;06-May-2020
@@ -1083,7 +1077,7 @@ Aditya Birla Sun Life Mutual Fund
 111348;Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan -Regular - IDCW;INF209K01199;INF209K01CG0;11.3202;;;06-May-2020
 120539;Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan;INF209K01VF2;;51.23;;;06-May-2020
 103168;Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan;INF209K01140;;48.35;;;06-May-2020
-120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;;22.32;;;06-May-2020
+120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;INF209K01VE5;22.32;;;06-May-2020
 103167;Aditya Birla Sun Life Digital India Fund -Regular - IDCW;INF209K01132;INF209K01CD7;17.63;;;06-May-2020
 119591;Aditya Birla Sun Life India Gennext Fund - Growth - Direct Plan;INF209K01WC7;;78.08;;;06-May-2020
 119590;Aditya Birla Sun Life India Gennext Fund -DIRECT - IDCW;INF209K01Q63;;23.5;;;06-May-2020
@@ -1211,12 +1205,6 @@ HDFC Mutual Fund
 107524;HDFC Infrastructure Fund - Growth Plan;INF179K01GF8;;9.591;;;06-May-2020
 118978;HDFC Infrastructure Fund - IDCW Option - Direct Plan;INF179K01WP4;INF179K01WR0;7.809;;;06-May-2020
 107525;HDFC Infrastructure Fund - IDCW Plan;INF179K01GE1;INF179K01GG6;5.725;;;06-May-2020
-
-HSBC Mutual Fund
-120034;HSBC Infrastructure Fund - Direct Growth;INF336L01DK9;;11.2888;;;06-May-2020
-120033;HSBC Infrastructure Fund - Direct IDCW;INF336L01DI3;INF336L01DJ1;9.5799;;;06-May-2020
-103407;HSBC Infrastructure Fund - Regular Growth;INF336L01255;;10.6423;;;06-May-2020
-103406;HSBC Infrastructure Fund - Regular IDCW;INF336L01248;INF336L01230;9.0523;;;06-May-2020
 
 ICICI Prudential Mutual Fund
 109445;ICICI Prudential Banking and Financial Services Fund -  Growth;INF109K01BU5;;42.72;;;06-May-2020
@@ -3157,8 +3145,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.8087;;;06-May-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.5571;;;06-May-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.7186;;;06-May-2020
-120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;9.7437;;;06-May-2020
-104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;9.7248;;;06-May-2020
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;9.7332;;;06-May-2020
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;9.6302;;;06-May-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.5736;;;06-May-2020
 
 ICICI Prudential Mutual Fund
@@ -4454,7 +4442,7 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.6327;;;06-May-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.0018;;;06-May-2020
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.3719;;;06-May-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.1034;;;06-May-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.0716;;;06-May-2020
 106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.6728;;;06-May-2020
@@ -7486,7 +7474,7 @@ Kotak Mahindra Mutual Fund
 114757;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;INF174K01AU1;INF174K01AV9;19.6099;;;06-May-2020
 119780;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01MQ4;INF174K01MR2;20.287;;;06-May-2020
 119777;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;INF174K01LN3;;82.975;;;06-May-2020
-119776;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;INF174K01LO1;;81.482;;;06-May-2020
+119776;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;INF174K01LO1;INF174K01LP8;81.482;;;06-May-2020
 102574;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;INF174K01468;;80.058;;;06-May-2020
 102573;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;INF174K01484;INF174K01476;77.928;;;06-May-2020
 

@@ -1922,12 +1922,6 @@ HDFC Mutual Fund
 130501;HDFC Small Cap Fund - IDCW Option;INF179KA1SA9;INF179KA1SB7;20.944;20.735;20.944;05-Nov-2015
 130504;HDFC Small Cap Fund - IDCW Option - Direct Plan;INF179KA1RX3;INF179KA1RY1;21.535;21.320;21.535;05-Nov-2015
 
-HSBC Mutual Fund
-120069;HSBC Small Cap Fund - Direct Growth;INF336L01DQ6;;38.6635;38.6635;38.6635;05-Nov-2015
-120068;HSBC Small Cap Fund - Direct IDCW;INF336L01DO1;INF336L01DP8;20.6671;20.6671;20.6671;05-Nov-2015
-103006;HSBC Small Cap Fund - Regular Growth;INF336L01AV2;;37.8558;37.8558;37.8558;05-Nov-2015
-103007;HSBC Small Cap Fund - Regular IDCW;INF336L01AU4;INF336L01AT6;20.2385;20.2385;20.2385;05-Nov-2015
-
 ICICI Prudential Mutual Fund
 120591;ICICI Prudential Smallcap Fund - Direct Plan - Growth;INF109K015M0;;20.42;20.22;20.42;05-Nov-2015
 120870;ICICI Prudential Smallcap Fund - Direct Plan - IDCW;INF109K013M5;INF109K014M3;20.42;20.22;20.42;05-Nov-2015
@@ -1939,7 +1933,7 @@ Kotak Mahindra Mutual Fund
 102875;Kotak-Small Cap Fund - Growth;INF174K01211;;51.969;51.449;51.969;05-Nov-2015
 120164;Kotak-Small Cap Fund - Growth - Direct;INF174K01KT2;;53.436;52.902;53.436;05-Nov-2015
 102874;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01237;INF174K01229;29.937;29.638;29.937;05-Nov-2015
-120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;;30.823;30.515;30.823;05-Nov-2015
+120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;INF174K01KV8;30.823;30.515;30.823;05-Nov-2015
 
 L&T Mutual Fund
 129220;L&T Emerging Businesses Fund - Direct Plan - Growth;INF917K01QA1;;14.823;14.675;14.823;05-Nov-2015
@@ -2225,7 +2219,7 @@ Aditya Birla Sun Life Mutual Fund
 111348;Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan -Regular - IDCW;INF209K01199;INF209K01CG0;15.4284;14.9655;15.4284;05-Nov-2015
 120539;Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan;INF209K01VF2;;36.57;36.20;36.57;05-Nov-2015
 103168;Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan;INF209K01140;;35.83;35.47;35.83;05-Nov-2015
-120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;;18.75;18.56;18.75;05-Nov-2015
+120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;INF209K01VE5;18.75;18.56;18.75;05-Nov-2015
 103167;Aditya Birla Sun Life Digital India Fund -Regular - IDCW;INF209K01132;INF209K01CD7;18.28;18.10;18.28;05-Nov-2015
 119591;Aditya Birla Sun Life India Gennext Fund - Growth - Direct Plan;INF209K01WC7;;54.15;53.61;54.15;05-Nov-2015
 119590;Aditya Birla Sun Life India Gennext Fund -DIRECT - IDCW;INF209K01Q63;;23.05;22.82;23.05;05-Nov-2015
@@ -2317,12 +2311,6 @@ HDFC Mutual Fund
 107524;HDFC Infrastructure Fund - Growth Plan;INF179K01GF8;;15.374;15.220;15.374;05-Nov-2015
 118978;HDFC Infrastructure Fund - IDCW Option - Direct Plan;INF179K01WP4;INF179K01WR0;15.736;15.579;15.736;05-Nov-2015
 107525;HDFC Infrastructure Fund - IDCW Plan;INF179K01GE1;INF179K01GG6;14.060;13.919;14.060;05-Nov-2015
-
-HSBC Mutual Fund
-120034;HSBC Infrastructure Fund - Direct Growth;INF336L01DK9;;17.3711;17.3711;17.3711;05-Nov-2015
-120033;HSBC Infrastructure Fund - Direct IDCW;INF336L01DI3;INF336L01DJ1;14.7773;14.7773;14.7773;05-Nov-2015
-103407;HSBC Infrastructure Fund - Regular Growth;INF336L01255;;17.0124;17.0124;17.0124;05-Nov-2015
-103406;HSBC Infrastructure Fund - Regular IDCW;INF336L01248;INF336L01230;14.4707;14.4707;14.4707;05-Nov-2015
 
 ICICI Prudential Mutual Fund
 109445;ICICI Prudential Banking and Financial Services Fund -  Growth;INF109K01BU5;;35.28;34.93;35.28;05-Nov-2015
@@ -4683,10 +4671,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;20.3861;20.3861;20.3861;05-Nov-2015
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1378;12.1378;12.1378;05-Nov-2015
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.7009;10.7009;10.7009;05-Nov-2015
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;19.4432;19.4432;19.4432;05-Nov-2015
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;19.9387;19.9387;19.9387;05-Nov-2015
-106770;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01537;12.5126;12.5126;12.5126;05-Nov-2015
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.8206;10.8206;10.8206;05-Nov-2015
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;10.9024;10.8479;10.9024;05-Nov-2015
@@ -6941,7 +6929,7 @@ Kotak Mahindra Mutual Fund
 114757;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;INF174K01AU1;INF174K01AV9;11.3113;11.0851;11.3113;05-Nov-2015
 119780;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01MQ4;INF174K01MR2;11.4527;11.2236;11.4527;05-Nov-2015
 119777;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;INF174K01LN3;;60.789;60.181;60.789;05-Nov-2015
-119776;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;INF174K01LO1;;59.702;59.105;59.702;05-Nov-2015
+119776;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;INF174K01LO1;INF174K01LP8;59.702;59.105;59.702;05-Nov-2015
 102574;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;INF174K01468;;60.56;59.954;60.56;05-Nov-2015
 102573;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;INF174K01484;INF174K01476;58.95;58.361;58.95;05-Nov-2015
 

@@ -815,10 +815,6 @@ HDFC Mutual Fund
 HSBC Mutual Fund
 105227;HSBC Dividend Yield Equity Fund - Dividend;INF336L01BC0;INF336L01BB2;11.8946;11.7757;11.8946;15-Jan-2013
 105228;HSBC Dividend Yield Equity Fund - Growth;INF336L01BD8;;11.8946;11.7757;11.8946;15-Jan-2013
-120076;HSBC - Small Cap Fund - Dividend Direct;;INF336L01EC4;10.0789;9.9781;10.0789;15-Jan-2013
-120077;HSBC - Small Cap Fund - Growth Direct;INF336L01ED2;;10.8395;10.7311;10.8395;15-Jan-2013
-108096;HSBC Small Cap Fund - Dividend;INF336L01AX8;INF336L01AW0;10.0769;9.9761;10.0769;15-Jan-2013
-108097;HSBC Small Cap Fund - Growth;INF336L01AY6;;10.8345;10.7262;10.8345;15-Jan-2013
 
 ICICI Prudential Mutual Fund
 103028;ICICI Prudential Blended Plan A -  Dividend;INF109K01DZ0;INF109K01AO0;13.1294;13.0309;13.1294;15-Jan-2013
@@ -2119,12 +2115,6 @@ Franklin Templeton Mutual Fund
 103361;Franklin India Smaller Companies Fund - IDCW ;INF090I01544;INF090I01551;16.0938;15.9329;16.0938;15-Jan-2013
 103360;Franklin India Smaller Companies Fund-Growth;INF090I01569;;17.3819;17.2081;17.3819;15-Jan-2013
 
-HSBC Mutual Fund
-120069;HSBC Small Cap Fund - Direct Growth;INF336L01DQ6;;21.0745;20.8638;21.0745;15-Jan-2013
-120068;HSBC Small Cap Fund - Direct IDCW;INF336L01DO1;INF336L01DP8;11.2662;11.1535;11.2662;15-Jan-2013
-103006;HSBC Small Cap Fund - Regular Growth;INF336L01AV2;;21.0649;20.8543;21.0649;15-Jan-2013
-103007;HSBC Small Cap Fund - Regular IDCW;INF336L01AU4;INF336L01AT6;11.2616;11.1490;11.2616;15-Jan-2013
-
 ICICI Prudential Mutual Fund
 120591;ICICI Prudential Smallcap Fund - Direct Plan - Growth;INF109K015M0;;12.49;12.37;12.49;15-Jan-2013
 120870;ICICI Prudential Smallcap Fund - Direct Plan - IDCW;INF109K013M5;INF109K014M3;12.49;12.37;12.49;15-Jan-2013
@@ -2136,7 +2126,7 @@ Kotak Mahindra Mutual Fund
 102875;Kotak-Small Cap Fund - Growth;INF174K01211;;30.576;30.27;30.576;15-Jan-2013
 120164;Kotak-Small Cap Fund - Growth - Direct;INF174K01KT2;;30.592;30.286;30.592;15-Jan-2013
 102874;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01237;INF174K01229;19.29;19.097;19.29;15-Jan-2013
-120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;;19.299;19.106;19.299;15-Jan-2013
+120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;INF174K01KV8;19.299;19.106;19.299;15-Jan-2013
 
 Nippon India Mutual Fund
 118775;NIPPON INDIA SMALL CAP FUND - Direct Plan - IDCW Option;INF204K01J91;INF204K01K07;10.8459;10.6290;10.8459;15-Jan-2013
@@ -2377,7 +2367,7 @@ Aditya Birla Sun Life Mutual Fund
 111348;Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan -Regular - IDCW;INF209K01199;INF209K01CG0;17.1563;16.6416;17.1563;15-Jan-2013
 120539;Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan;INF209K01VF2;;19.94;19.74;19.94;15-Jan-2013
 103168;Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan;INF209K01140;;19.94;19.74;19.94;15-Jan-2013
-120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;;13.03;12.90;13.03;15-Jan-2013
+120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;INF209K01VE5;13.03;12.90;13.03;15-Jan-2013
 103167;Aditya Birla Sun Life Digital India Fund -Regular - IDCW;INF209K01132;INF209K01CD7;13.02;12.89;13.02;15-Jan-2013
 119591;Aditya Birla Sun Life India Gennext Fund - Growth - Direct Plan;INF209K01WC7;;32.06;31.74;32.06;15-Jan-2013
 119590;Aditya Birla Sun Life India Gennext Fund -DIRECT - IDCW;INF209K01Q63;;16.79;16.62;16.79;15-Jan-2013
@@ -2462,12 +2452,6 @@ HDFC Mutual Fund
 107524;HDFC Infrastructure Fund - Growth Plan;INF179K01GF8;;11.247;11.135;11.247;15-Jan-2013
 118978;HDFC Infrastructure Fund - IDCW Option - Direct Plan;INF179K01WP4;INF179K01WR0;11.25;11.138;11.25;15-Jan-2013
 107525;HDFC Infrastructure Fund - IDCW Plan;INF179K01GE1;INF179K01GG6;11.247;11.135;11.247;15-Jan-2013
-
-HSBC Mutual Fund
-120034;HSBC Infrastructure Fund - Direct Growth;INF336L01DK9;;12.6431;12.5167;12.6431;15-Jan-2013
-120033;HSBC Infrastructure Fund - Direct IDCW;INF336L01DI3;INF336L01DJ1;10.7537;10.6462;10.7537;15-Jan-2013
-103407;HSBC Infrastructure Fund - Regular Growth;INF336L01255;;12.6373;12.5109;12.6373;15-Jan-2013
-103406;HSBC Infrastructure Fund - Regular IDCW;INF336L01248;INF336L01230;10.7492;10.6417;10.7492;15-Jan-2013
 
 ICICI Prudential Mutual Fund
 109445;ICICI Prudential Banking and Financial Services Fund -  Growth;INF109K01BU5;;23.54;23.30;23.54;15-Jan-2013
