@@ -3155,8 +3155,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;20.7846;;;03-Jun-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.709;;;03-Jun-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2482;;;03-Jun-2020
-120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8769;;;03-Jun-2020
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;8.7777;;;03-Jun-2020
+120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;8.8865;;;03-Jun-2020
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;8.8638;;;03-Jun-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.724;;;03-Jun-2020
 
 ICICI Prudential Mutual Fund
@@ -4453,10 +4453,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.9062;;;03-Jun-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1163;;;03-Jun-2020
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.4158;;;03-Jun-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3321;;;03-Jun-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3139;;;03-Jun-2020
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;16.0646;;;03-Jun-2020
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.6256;;;03-Jun-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.9172;;;03-Jun-2020
@@ -5847,10 +5847,10 @@ Canara Robeco Mutual Fund
 106167;CANARA ROBECO EQUITY HYBRID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01068;INF760K01076;69.9900;;;03-Jun-2020
 
 DSP Mutual Fund
-119019;DSP Equity & Bond Fund - Direct Plan - Growth;INF740K01NY4;;158.730;;;03-Jun-2020
-119020;DSP Equity & Bond Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;35.943;;;03-Jun-2020
-100081;DSP Equity & Bond Fund- Regular Plan - Growth;INF740K01318;;148.829;;;03-Jun-2020
-100082;DSP Equity & Bond Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;19.388;;;03-Jun-2020
+119019;DSP Aggressive Hybrid Fund - Direct Plan - Growth;INF740K01NY4;;158.730;;;03-Jun-2020
+119020;DSP Aggressive Hybrid Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;35.943;;;03-Jun-2020
+100081;DSP Aggressive Hybrid Fund- Regular Plan - Growth;INF740K01318;;148.829;;;03-Jun-2020
+100082;DSP Aggressive Hybrid Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;19.388;;;03-Jun-2020
 
 Edelweiss Mutual Fund
 118625;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;INF754K01CB6;INF754K01CC4;17.34;;;03-Jun-2020
@@ -6827,8 +6827,8 @@ Axis Mutual Fund
 135761;Axis Children's Fund - No Lock in - Regular Plan - IDCW;INF846K01WN3;INF846K01WL7;12.8588;;;03-Jun-2020
 
 HDFC Mutual Fund
-119066;HDFC Childrens Gift Fund - Direct Plan;;;117.037;;;03-Jun-2020
-100900;HDFC Childrens Gift Fund - Growth Plan;;;110.186;;;03-Jun-2020
+119066;HDFC Childrens Fund - Direct Plan;;;117.037;;;03-Jun-2020
+100900;HDFC Childrens Fund - Growth Plan;;;110.186;;;03-Jun-2020
 
 ICICI Prudential Mutual Fund
 101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;124.66;;;03-Jun-2020
@@ -6896,10 +6896,10 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;81.7857;;;03-Jun-2020
 
 HDFC Mutual Fund
-119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;307.449;;;03-Jun-2020
-101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;302.9896;;;03-Jun-2020
-119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;92.9448;;;03-Jun-2020
-101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;91.7672;;;03-Jun-2020
+119065;HDFC BSE Sensex Index Fund - Direct Plan;INF179K01WN9;;307.449;;;03-Jun-2020
+101281;HDFC BSE Sensex Index Fund - Growth Plan;INF179K01LA9;;302.9896;;;03-Jun-2020
+119063;HDFC Nifty 50 Index Fund - Direct Plan;INF179K01WM1;;92.9448;;;03-Jun-2020
+101525;HDFC Nifty 50 Index Fund - Growth Plan;INF179K01KZ8;;91.7672;;;03-Jun-2020
 
 ICICI Prudential Mutual Fund
 141839;ICICI Prudential BSE Sensex Index Fund - Cumulative Option;INF109KB17W7;;10.7014;;;03-Jun-2020
@@ -7033,7 +7033,7 @@ Axis Mutual Fund
 113434;Axis Gold ETF;INF846K01W80;;4095.7341;;;03-Jun-2020
 
 HDFC Mutual Fund
-113049;HDFC Gold Exchange Traded Fund. - Growth Option;INF179KC1981;;4218.4702;;;03-Jun-2020
+113049;HDFC Gold ETF - Growth Option;INF179KC1981;;4218.4702;;;03-Jun-2020
 
 ICICI Prudential Mutual Fund
 113076;ICICI Prudential Gold ETF;INF109KC1NT3;;42.1232;;;03-Jun-2020
@@ -7417,8 +7417,8 @@ HDFC Mutual Fund
 130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;18.5337;;;03-Jun-2020
 130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;15.2878;;;03-Jun-2020
 130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;16.2787;;;03-Jun-2020
-119132;HDFC Gold Fund - Direct Plan;INF179K01VX0;;15.4048;;;03-Jun-2020
-115934;HDFC Gold Fund - Growth Option;INF179K01LC5;;14.9766;;;03-Jun-2020
+119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;15.4048;;;03-Jun-2020
+115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;14.9766;;;03-Jun-2020
 
 HSBC Mutual Fund
 129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;15.0587;;;03-Jun-2020

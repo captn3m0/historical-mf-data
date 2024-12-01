@@ -5644,10 +5644,10 @@ Canara Robeco Mutual Fund
 106167;CANARA ROBECO EQUITY HYBRID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01068;INF760K01076;84.8300;;;06-Jan-2023
 
 DSP Mutual Fund
-119019;DSP Equity & Bond Fund - Direct Plan - Growth;INF740K01NY4;;250.646;;;06-Jan-2023
-119020;DSP Equity & Bond Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;50.769;;;06-Jan-2023
-100081;DSP Equity & Bond Fund- Regular Plan - Growth;INF740K01318;;228.859;;;06-Jan-2023
-100082;DSP Equity & Bond Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;23.904;;;06-Jan-2023
+119019;DSP Aggressive Hybrid Fund - Direct Plan - Growth;INF740K01NY4;;250.646;;;06-Jan-2023
+119020;DSP Aggressive Hybrid Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;50.769;;;06-Jan-2023
+100081;DSP Aggressive Hybrid Fund- Regular Plan - Growth;INF740K01318;;228.859;;;06-Jan-2023
+100082;DSP Aggressive Hybrid Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;23.904;;;06-Jan-2023
 
 Edelweiss Mutual Fund
 118625;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;INF754K01CB6;INF754K01CC4;24.83;;;06-Jan-2023
@@ -6631,8 +6631,8 @@ Axis Mutual Fund
 135761;Axis Children's Fund - No Lock in - Regular Plan - IDCW;INF846K01WN3;INF846K01WL7;19.1495;;;06-Jan-2023
 
 HDFC Mutual Fund
-119066;HDFC Childrens Gift Fund - Direct Plan;;;213.046;;;06-Jan-2023
-100900;HDFC Childrens Gift Fund - Growth Plan;;;196.191;;;06-Jan-2023
+119066;HDFC Childrens Fund - Direct Plan;;;213.046;;;06-Jan-2023
+100900;HDFC Childrens Fund - Growth Plan;;;196.191;;;06-Jan-2023
 
 ICICI Prudential Mutual Fund
 101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;201.11;;;06-Jan-2023
@@ -6883,14 +6883,14 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;147.7671;;;06-Jan-2023
 
 HDFC Mutual Fund
-119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;552.8328;;;06-Jan-2023
-101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;541.9739;;;06-Jan-2023
-119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;168.918;;;06-Jan-2023
-101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;165.9127;;;06-Jan-2023
+119065;HDFC BSE Sensex Index Fund - Direct Plan;INF179K01WN9;;552.8328;;;06-Jan-2023
+101281;HDFC BSE Sensex Index Fund - Growth Plan;INF179K01LA9;;541.9739;;;06-Jan-2023
 149870;HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option;INF179KC1CA1;;10.3314;;;06-Jan-2023
 149871;HDFC Nifty 100 Equal Weight Index Fund - Growth Option;INF179KC1CB9;;10.2795;;;06-Jan-2023
 149868;HDFC NIFTY 100 Index Fund - Direct Plan - Growth Option;INF179KC1BY3;;10.4773;;;06-Jan-2023
 149869;HDFC NIFTY 100 Index Fund - Growth Option;INF179KC1BZ0;;10.4205;;;06-Jan-2023
+119063;HDFC Nifty 50 Index Fund - Direct Plan;INF179K01WM1;;168.918;;;06-Jan-2023
+101525;HDFC Nifty 50 Index Fund - Growth Plan;INF179K01KZ8;;165.9127;;;06-Jan-2023
 150844;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option;INF179KC1EG4;;10.113;;;06-Jan-2023
 150845;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option - Direct Plan;INF179KC1EE9;;10.115;;;06-Jan-2023
 150846;HDFC Nifty G-Sec July 2031 Index Fund - Growth Option;INF179KC1EI0;;10.089;;;06-Jan-2023
@@ -7243,7 +7243,7 @@ Axis Mutual Fund
 113434;Axis Gold ETF;INF846K01W80;;48.0250;;;06-Jan-2023
 
 HDFC Mutual Fund
-113049;HDFC Gold Exchange Traded Fund. - Growth Option;INF179KC1981;;49.2951;;;06-Jan-2023
+113049;HDFC Gold ETF - Growth Option;INF179KC1981;;49.2951;;;06-Jan-2023
 
 ICICI Prudential Mutual Fund
 113076;ICICI Prudential Gold ETF;INF109KC1NT3;;49.2509;;;06-Jan-2023
@@ -7814,8 +7814,8 @@ HDFC Mutual Fund
 130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;30.7615;;;06-Jan-2023
 130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;24.8919;;;06-Jan-2023
 130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;27.0186;;;06-Jan-2023
-119132;HDFC Gold Fund - Direct Plan;INF179K01VX0;;17.9531;;;06-Jan-2023
-115934;HDFC Gold Fund - Growth Option;INF179K01LC5;;17.2816;;;06-Jan-2023
+119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;17.9531;;;06-Jan-2023
+115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;17.2816;;;06-Jan-2023
 150736;HDFC Silver ETF Fund of Fund - Growth Option;INF179KC1DV5;;11.667;;;06-Jan-2023
 150737;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;INF179KC1DU7;;11.68;;;06-Jan-2023
 
@@ -7898,14 +7898,14 @@ Invesco Mutual Fund
 116075;Invesco India Gold ETF Fund of Fund - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;16.3438;;;06-Jan-2023
 
 Kotak Mahindra Mutual Fund
-150822;Kotak All Weather Debt FOF-Direct Plan-Growth;INF174KA1KJ2;;10.0804;;;06-Jan-2023
-150823;Kotak All Weather Debt FOF-Direct Plan-IDCW;INF174KA1KK0;INF174KA1KL8;10.0804;;;06-Jan-2023
-150820;Kotak All Weather Debt FOF-Regular Plan-Growth;INF174KA1KG8;;10.0793;;;06-Jan-2023
-150821;Kotak All Weather Debt FOF-Regular Plan-IDCW;INF174KA1KH6;INF174KA1KI4;10.0793;;;06-Jan-2023
 114758;Kotak Gold Fund Growth;INF174K01AT3;;22.2872;;;06-Jan-2023
 119781;Kotak Gold Fund Growth - Direct;INF174K01MP6;;23.2766;;;06-Jan-2023
 114757;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;INF174K01AU1;INF174K01AV9;22.2872;;;06-Jan-2023
 119780;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01MQ4;INF174K01MR2;23.2764;;;06-Jan-2023
+150822;Kotak Income Plus Arbitrage FOF-Direct Plan-Growth;INF174KA1KJ2;;10.0804;;;06-Jan-2023
+150823;Kotak Income Plus Arbitrage FOF-Direct Plan-IDCW;INF174KA1KK0;INF174KA1KL8;10.0804;;;06-Jan-2023
+150820;Kotak Income Plus Arbitrage FOF-Regular Plan-Growth;INF174KA1KG8;;10.0793;;;06-Jan-2023
+150821;Kotak Income Plus Arbitrage FOF-Regular Plan-IDCW;INF174KA1KH6;INF174KA1KI4;10.0793;;;06-Jan-2023
 119777;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;INF174K01LN3;;159.15;;;06-Jan-2023
 119776;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;INF174K01LO1;INF174K01LP8;156.286;;;06-Jan-2023
 102574;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;INF174K01468;;150.591;;;06-Jan-2023

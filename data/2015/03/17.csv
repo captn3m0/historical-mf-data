@@ -5842,12 +5842,12 @@ Canara Robeco Mutual Fund
 106167;CANARA ROBECO EQUITY HYBRID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01068;INF760K01076;83.1600;83.1600;83.1600;17-Mar-2015
 
 DSP Mutual Fund
-131086;DSP BlackRock Equity & Bond Fund - Direct Plan - Quarterly Dividend;INF740K010D5;INF740K011D3;11.600;11.484;11.600;17-Mar-2015
-131087;DSP BlackRock Equity & Bond Fund - Regular Plan - Quarterly Dividend;INF740K018C0;INF740K019C8;11.496;11.381;11.496;17-Mar-2015
-119019;DSP Equity & Bond Fund - Direct Plan - Growth;INF740K01NY4;;110.079;108.978;110.079;17-Mar-2015
-119020;DSP Equity & Bond Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;33.739;33.402;33.739;17-Mar-2015
-100081;DSP Equity & Bond Fund- Regular Plan - Growth;INF740K01318;;108.709;107.622;108.709;17-Mar-2015
-100082;DSP Equity & Bond Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;26.405;26.141;26.405;17-Mar-2015
+119019;DSP Aggressive Hybrid Fund - Direct Plan - Growth;INF740K01NY4;;110.079;108.978;110.079;17-Mar-2015
+119020;DSP Aggressive Hybrid Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;33.739;33.402;33.739;17-Mar-2015
+131086;DSP Aggressive Hybrid Fund - Direct Plan - Quarterly Dividend;INF740K010D5;INF740K011D3;11.600;11.484;11.600;17-Mar-2015
+131087;DSP Aggressive Hybrid Fund - Regular Plan - Quarterly Dividend;INF740K018C0;INF740K019C8;11.496;11.381;11.496;17-Mar-2015
+100081;DSP Aggressive Hybrid Fund- Regular Plan - Growth;INF740K01318;;108.709;107.622;108.709;17-Mar-2015
+100082;DSP Aggressive Hybrid Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;26.405;26.141;26.405;17-Mar-2015
 
 Edelweiss Mutual Fund
 118625;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;INF754K01CB6;INF754K01CC4;18.20;18.20;18.20;17-Mar-2015
@@ -6341,10 +6341,10 @@ Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
 
 HDFC Mutual Fund
-100899;HDFC Children Gift Fund-Savings;;;35.5432;34.4769;35.5432;17-Mar-2015
-119066;HDFC Childrens Gift Fund - Direct Plan;;;86.25;83.663;86.25;17-Mar-2015
-100900;HDFC Childrens Gift Fund - Growth Plan;;;85.045;82.494;85.045;17-Mar-2015
-119067;HDFC Childrens Gift Fund Savings Plan-Direct Plan;;;36.1788;35.0934;36.1788;17-Mar-2015
+119066;HDFC Childrens Fund - Direct Plan;;;86.25;83.663;86.25;17-Mar-2015
+100900;HDFC Childrens Fund - Growth Plan;;;85.045;82.494;85.045;17-Mar-2015
+119067;HDFC Childrens Fund Savings Plan-Direct Plan;;;36.1788;35.0934;36.1788;17-Mar-2015
+100899;HDFC Childrens Fund-Savings;;;35.5432;34.4769;35.5432;17-Mar-2015
 
 ICICI Prudential Mutual Fund
 101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;103.65;102.61;103.65;17-Mar-2015
@@ -6396,10 +6396,10 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;69.0456;68.3551;69.0456;17-Mar-2015
 
 HDFC Mutual Fund
-119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;244.91;242.4609;244.91;17-Mar-2015
-101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;243.4352;241.0008;243.4352;17-Mar-2015
-119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;76.5788;75.813;76.5788;17-Mar-2015
-101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;76.2653;75.5026;76.2653;17-Mar-2015
+119065;HDFC BSE Sensex Index Fund - Direct Plan;INF179K01WN9;;244.91;242.4609;244.91;17-Mar-2015
+101281;HDFC BSE Sensex Index Fund - Growth Plan;INF179K01LA9;;243.4352;241.0008;243.4352;17-Mar-2015
+119063;HDFC Nifty 50 Index Fund - Direct Plan;INF179K01WM1;;76.5788;75.813;76.5788;17-Mar-2015
+101525;HDFC Nifty 50 Index Fund - Growth Plan;INF179K01KZ8;;76.2653;75.5026;76.2653;17-Mar-2015
 
 ICICI Prudential Mutual Fund
 101349;ICICI Prudential Nifty 50 Index Fund - Cumulative Option;INF109K01PI0;;82.8365;82.6294;82.8365;17-Mar-2015
@@ -6498,7 +6498,7 @@ Canara Robeco Mutual Fund
 117076;Canara Robeco Gold Exchange Traded Fund;INF760K01BR1;;2497.3516;2497.3516;2497.3516;17-Mar-2015
 
 HDFC Mutual Fund
-113049;HDFC Gold Exchange Traded Fund. - Growth Option;INF179KC1981;;2447.3241;0;0;17-Mar-2015
+113049;HDFC Gold ETF - Growth Option;INF179KC1981;;2447.3241;0;0;17-Mar-2015
 
 ICICI Prudential Mutual Fund
 113076;ICICI Prudential Gold ETF;INF109KC1NT3;;2478.5879;N.A.;N.A.;17-Mar-2015
@@ -6760,8 +6760,8 @@ HDFC Mutual Fund
 130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;14.2396;14.0972;14.2396;17-Mar-2015
 130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;12.3094;12.1863;12.3094;17-Mar-2015
 130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;12.5189;12.3937;12.5189;17-Mar-2015
-119132;HDFC Gold Fund - Direct Plan;INF179K01VX0;;9.0058;9.0058;9.0058;17-Mar-2015
-115934;HDFC Gold Fund - Growth Option;INF179K01LC5;;8.9577;8.9577;8.9577;17-Mar-2015
+119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;9.0058;9.0058;9.0058;17-Mar-2015
+115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;8.9577;8.9577;8.9577;17-Mar-2015
 
 HSBC Mutual Fund
 129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;11.4663;11.4663;11.4663;17-Mar-2015

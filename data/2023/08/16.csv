@@ -2984,10 +2984,10 @@ Canara Robeco Mutual Fund
 106167;CANARA ROBECO EQUITY HYBRID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01068;INF760K01076;87.8800;;;16-Aug-2023
 
 DSP Mutual Fund
-119019;DSP Equity & Bond Fund - Direct Plan - Growth;INF740K01NY4;;285.056;;;16-Aug-2023
-119020;DSP Equity & Bond Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;56.214;;;16-Aug-2023
-100081;DSP Equity & Bond Fund- Regular Plan - Growth;INF740K01318;;258.654;;;16-Aug-2023
-100082;DSP Equity & Bond Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;25.496;;;16-Aug-2023
+119019;DSP Aggressive Hybrid Fund - Direct Plan - Growth;INF740K01NY4;;285.056;;;16-Aug-2023
+119020;DSP Aggressive Hybrid Fund - Direct Plan - IDCW;INF740K01NZ1;INF740K01OA2;56.214;;;16-Aug-2023
+100081;DSP Aggressive Hybrid Fund- Regular Plan - Growth;INF740K01318;;258.654;;;16-Aug-2023
+100082;DSP Aggressive Hybrid Fund- Regular Plan - IDCW;INF740K01326;INF740K01334;25.496;;;16-Aug-2023
 
 Edelweiss Mutual Fund
 118625;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;INF754K01CB6;INF754K01CC4;26.92;;;16-Aug-2023
@@ -3939,8 +3939,8 @@ Axis Mutual Fund
 135761;Axis Children's Fund - No Lock in - Regular Plan - IDCW;INF846K01WN3;INF846K01WL7;20.5369;;;16-Aug-2023
 
 HDFC Mutual Fund
-119066;HDFC Childrens Gift Fund - Direct Plan;;;247.675;;;16-Aug-2023
-100900;HDFC Childrens Gift Fund - Growth Plan;;;226.907;;;16-Aug-2023
+119066;HDFC Childrens Fund - Direct Plan;;;247.675;;;16-Aug-2023
+100900;HDFC Childrens Fund - Growth Plan;;;226.907;;;16-Aug-2023
 
 ICICI Prudential Mutual Fund
 101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;224.79;;;16-Aug-2023
@@ -4092,14 +4092,14 @@ Franklin Templeton Mutual Fund
 HDFC Mutual Fund
 151729;HDFC BSE 500 Index Fund - Growth Option;INF179KC1GH7;;11.3509;;;16-Aug-2023
 151728;HDFC S&P BSE 500 Index Fund - Growth Option - Direct Plan;INF179KC1GG9;;11.3773;;;16-Aug-2023
-119065;HDFC Index Fund - BSE Sensex Plan - Direct Plan;INF179K01WN9;;610.6647;;;16-Aug-2023
-101281;HDFC Index Fund - BSE Sensex Plan - Growth Plan;INF179K01LA9;;597.9445;;;16-Aug-2023
-119063;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;INF179K01WM1;;185.4092;;;16-Aug-2023
-101525;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;INF179K01KZ8;;181.8902;;;16-Aug-2023
+119065;HDFC BSE Sensex Index Fund - Direct Plan;INF179K01WN9;;610.6647;;;16-Aug-2023
+101281;HDFC BSE Sensex Index Fund - Growth Plan;INF179K01LA9;;597.9445;;;16-Aug-2023
 149870;HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option;INF179KC1CA1;;11.3366;;;16-Aug-2023
 149871;HDFC Nifty 100 Equal Weight Index Fund - Growth Option;INF179KC1CB9;;11.239;;;16-Aug-2023
 149868;HDFC NIFTY 100 Index Fund - Direct Plan - Growth Option;INF179KC1BY3;;11.322;;;16-Aug-2023
 149869;HDFC NIFTY 100 Index Fund - Growth Option;INF179KC1BZ0;;11.2201;;;16-Aug-2023
+119063;HDFC Nifty 50 Index Fund - Direct Plan;INF179K01WM1;;185.4092;;;16-Aug-2023
+101525;HDFC Nifty 50 Index Fund - Growth Plan;INF179K01KZ8;;181.8902;;;16-Aug-2023
 151725;HDFC NIFTY Midcap 150 Index Fund - Growth Option;INF179KC1GD6;;12.0563;;;16-Aug-2023
 151724;HDFC NIFTY Midcap 150 Index Fund - Growth Option - Direct Plan;INF179KC1GC8;;12.0832;;;16-Aug-2023
 149288;HDFC NIFTY Next 50 Index Fund - Direct Plan - Growth Option;INF179KC1BQ9;;10.3332;;;16-Aug-2023
@@ -4362,7 +4362,7 @@ DSP Mutual Fund
 151737;DSP Gold ETF;INF740KA1SW3;;58.5671;;;16-Aug-2023
 
 HDFC Mutual Fund
-113049;HDFC Gold Exchange Traded Fund. - Growth Option;INF179KC1981;;51.2393;;;16-Aug-2023
+113049;HDFC Gold ETF - Growth Option;INF179KC1981;;51.2393;;;16-Aug-2023
 
 Invesco Mutual Fund
 112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;5205.2545;;;16-Aug-2023
@@ -4501,7 +4501,7 @@ Mirae Asset Mutual Fund
 151604;Mirae Asset Nifty 100 Low Volatility 30 ETF;INF769K01JU9;;150.4712;;;16-Aug-2023
 151908;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;;INF769K01KS1;1000.0000;;;16-Aug-2023
 145633;Mirae Asset Nifty 50 ETF;INF769K01EG9;;204.9328;;;16-Aug-2023
-151857;Mirae Asset Nifty Bank ETF;;;439.8303;;;16-Aug-2023
+151857;Mirae Asset Nifty Bank ETF;INF769K01KR3;;439.8303;;;16-Aug-2023
 149105;Mirae Asset Nifty Financial Services ETF;INF769K01HI8;;19.9029;;;16-Aug-2023
 149786;Mirae Asset Nifty India Manufacturing ETF;INF769K01IB1;;97.2415;;;16-Aug-2023
 149918;Mirae Asset Nifty Midcap 150 ETF;INF769K01IC9;;14.2790;;;16-Aug-2023
@@ -4758,8 +4758,8 @@ HDFC Mutual Fund
 130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;34.6919;;;16-Aug-2023
 130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;27.9397;;;16-Aug-2023
 130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;30.4709;;;16-Aug-2023
-119132;HDFC Gold Fund - Direct Plan;INF179K01VX0;;18.9262;;;16-Aug-2023
-115934;HDFC Gold Fund - Growth Option;INF179K01LC5;;18.1836;;;16-Aug-2023
+119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;18.9262;;;16-Aug-2023
+115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;18.1836;;;16-Aug-2023
 150736;HDFC Silver ETF Fund of Fund - Growth Option;INF179KC1DV5;;12.118;;;16-Aug-2023
 150737;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;INF179KC1DU7;;12.162;;;16-Aug-2023
 
