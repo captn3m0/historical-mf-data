@@ -4694,7 +4694,7 @@ HSBC Mutual Fund
 148492;HSBC Dynamic Bond Fund - Direct Growth;INF336L01PH9;;10.2944;;;06-May-2021
 148493;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01PL1;INF336L01PK3;10.1778;;;06-May-2021
 148496;HSBC Dynamic Bond Fund - Regular Growth;INF336L01PO5;;10.2686;;;06-May-2021
-148499;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PP2;INF336L01PQ0;10.2686;;;06-May-2021
+148497;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PS6;INF336L01PR8;10.06;;;06-May-2021
 
 ICICI Prudential Mutual Fund
 111988;ICICI Prudential Corporate Bond Fund - Daily IDCW;INF109K01CR9;;10.1124;;;06-May-2021
@@ -7161,10 +7161,10 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Aditya Birla Sun Life Mutual Fund
+139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;463.6882;;;06-May-2021
 115512;Aditya Birla Sun Life Nifty 50 ETF;INF209KB19D1;;162.112;;;06-May-2021
 147735;Aditya Birla Sun Life Nifty Bank ETF;INF209KB17D5;;325.9867;;;06-May-2021
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;361.3126;;;06-May-2021
-139581;Aditya Birla Sun Life S&P BSE Sensex ETF;INF209KB10E8;;463.6882;;;06-May-2021
 
 Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;153.2229;;;06-May-2021
@@ -7198,7 +7198,7 @@ HDFC Mutual Fund
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;36.1726;;;06-May-2021
 143247;ICICI Prudential BSE 500 ETF;INF109KC1V59;;205.15;;;06-May-2021
-144947;ICICI Prudential BSE Liquid Rate ETF;INF109KC1KT9;;1000.0000;;;06-May-2021
+144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;INF109KC1KT9;;1000.0000;;;06-May-2021
 139519;ICICI Prudential BSE Midcap Select ETF;INF109KC10W0;;85.50;;;06-May-2021
 101705;ICICI Prudential BSE Sensex ETF;INF346A01034;;527.7452;;;06-May-2021
 123004;ICICI Prudential Nifty 100 ETF;INF109KC16V9;;160.8538;;;06-May-2021
@@ -7489,21 +7489,6 @@ Axis Mutual Fund
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;14.5281;;;06-May-2021
 
 Bandhan Mutual Fund
-108547;BANDHAN All Seasons Bond Fund - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;13.4015;;;06-May-2021
-117868;BANDHAN All Seasons Bond Fund - Regular Plan - Daily IDCW;;INF194K01F55;11.4686;;;06-May-2021
-115874;BANDHAN All Seasons Bond Fund - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;11.4745;;;06-May-2021
-108545;BANDHAN All Seasons Bond Fund - Regular Plan - Growth;INF194K01SE5;;34.5537;;;06-May-2021
-108546;BANDHAN All Seasons Bond Fund - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;11.8304;;;06-May-2021
-131399;BANDHAN All Seasons Bond Fund - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;12.0802;;;06-May-2021
-108544;BANDHAN All Seasons Bond Fund - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.5218;;;06-May-2021
-117867;BANDHAN All Seasons Bond Fund - Regular Plan - Weekly IDCW;;INF194K01F63;11.4719;;;06-May-2021
-118408;BANDHAN All Seasons Bond Fund-Direct Plan-Annual IDCW;INF194K01U98;INF194K01U80;14.0487;;;06-May-2021
-118409;BANDHAN All Seasons Bond Fund-Direct Plan-Daily IDCW;;INF194K01V63;11.4688;;;06-May-2021
-118414;BANDHAN All Seasons Bond Fund-Direct Plan-Fortnightly IDCW;INF194K01V55;INF194K01V48;11.4758;;;06-May-2021
-118410;BANDHAN All Seasons Bond Fund-Direct Plan-Growth;INF194K01U72;;35.7883;;;06-May-2021
-118411;BANDHAN All Seasons Bond Fund-Direct Plan-Half Yearly IDCW;INF194K01V14;INF194K01V06;13.4354;;;06-May-2021
-131398;BANDHAN All Seasons Bond Fund-Direct Plan-Periodic IDCW;INF194KA1TV4;INF194KA1TW2;12.3008;;;06-May-2021
-118413;BANDHAN All Seasons Bond Fund-Direct Plan-Quarterly IDCW;INF194K01V30;INF194K01V22;12.6904;;;06-May-2021
 112332;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - Growth;INF194K01953;;27.3654;;;06-May-2021
 112331;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - IDCW;INF194K01961;INF194K01979;18.5768;;;06-May-2021
 118485;BANDHAN Asset Allocation Fund Of Fund-Aggressive Plan-Direct Plan-Growth;INF194K012B6;;28.6850;;;06-May-2021
@@ -7516,6 +7501,21 @@ Bandhan Mutual Fund
 112330;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - IDCW;INF194K01AC7;INF194K01AD5;17.5760;;;06-May-2021
 118489;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-Growth;INF194K019A3;;27.5139;;;06-May-2021
 118488;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-IDCW;INF194K010B0;INF194K011B8;18.0811;;;06-May-2021
+118408;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Annual IDCW;INF194K01U98;INF194K01U80;14.0487;;;06-May-2021
+118409;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Daily IDCW;;INF194K01V63;11.4688;;;06-May-2021
+118414;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Fortnightly IDCW;INF194K01V55;INF194K01V48;11.4758;;;06-May-2021
+118410;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Growth;INF194K01U72;;35.7883;;;06-May-2021
+118411;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Half Yearly IDCW;INF194K01V14;INF194K01V06;13.4354;;;06-May-2021
+131398;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Periodic IDCW;INF194KA1TV4;INF194KA1TW2;12.3008;;;06-May-2021
+118413;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Quarterly IDCW;INF194K01V30;INF194K01V22;12.6904;;;06-May-2021
+108547;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;13.4015;;;06-May-2021
+117868;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Daily IDCW;;INF194K01F55;11.4686;;;06-May-2021
+115874;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;11.4745;;;06-May-2021
+108545;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Growth;INF194K01SE5;;34.5537;;;06-May-2021
+108546;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;11.8304;;;06-May-2021
+131399;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;12.0802;;;06-May-2021
+108544;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.5218;;;06-May-2021
+117867;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Weekly IDCW;;INF194K01F63;11.4719;;;06-May-2021
 
 Edelweiss Mutual Fund
 147851;Bharat Bond FOF - April 2023 - Direct Plan - Growth Option;INF754K01KS3;;11.2522;;;06-May-2021

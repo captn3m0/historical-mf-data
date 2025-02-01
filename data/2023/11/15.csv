@@ -7303,10 +7303,10 @@ Kotak Mahindra Mutual Fund
 149864;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Direct Plan-IDCW Option;INF174KA1IS7;INF174KA1IT5;10.9626;;;15-Nov-2023
 149862;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Regular Plan-Growth;INF174KA1IO6;;10.9288;;;15-Nov-2023
 149866;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Regular Plan-IDCW Option;INF174KA1IP3;INF174KA1IQ1;10.9322;;;15-Nov-2023
-151216;Kotak Nifty SDL Jul 20226 Index Fund Regular Plan Growth;INF174KA1KZ8;;10.5742;;;15-Nov-2023
-151217;Kotak Nifty SDL Jul 20226 Index Fund Regular Plan IDCW;INF174KA1LA9;INF174KA1LB7;10.5743;;;15-Nov-2023
 151218;Kotak Nifty SDL Jul 2026 Index Fund Direct Plan Growth;INF174KA1LC5;;10.5937;;;15-Nov-2023
 151219;Kotak Nifty SDL Jul 2026 Index Fund Direct Plan IDCW;INF174KA1LD3;INF174KA1LE1;10.2122;;;15-Nov-2023
+151216;Kotak Nifty SDL Jul 2026 Index Fund Regular Plan Growth;INF174KA1KZ8;;10.5742;;;15-Nov-2023
+151217;Kotak Nifty SDL Jul 2026 Index Fund Regular Plan IDCW;INF174KA1LA9;INF174KA1LB7;10.5743;;;15-Nov-2023
 151608;Kotak Nifty SDL Jul 2028 Index Fund - Direct Plan - Growth;INF174KA1MV3;;10.4609;;;15-Nov-2023
 151606;Kotak Nifty SDL Jul 2028 Index Fund - Direct Plan - IDCW Payout;INF174KA1MW1;INF174KA1MX9;10.4609;;;15-Nov-2023
 151607;Kotak Nifty SDL Jul 2028 Index Fund - Regular Plan - Growth;INF174KA1MS9;;10.4444;;;15-Nov-2023
@@ -7641,6 +7641,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Aditya Birla Sun Life Mutual Fund
+139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;64.2537;;;15-Nov-2023
 151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.;;;15-Nov-2023
 150498;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;INF209KB14K7;;24.2215;;;15-Nov-2023
 150497;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;INF209KB15K4;;16.7752;;;15-Nov-2023
@@ -7649,7 +7650,6 @@ Aditya Birla Sun Life Mutual Fund
 149262;Aditya Birla Sun Life Nifty Healthcare ETF;INF209KB10C2;;9.9496;;;15-Nov-2023
 149293;Aditya Birla Sun Life Nifty IT ETF;INF209KB11D8;;32.4842;;;15-Nov-2023
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;47.8616;;;15-Nov-2023
-139581;Aditya Birla Sun Life S&P BSE Sensex ETF;INF209KB10E8;;64.2537;;;15-Nov-2023
 149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;73.8405;;;15-Nov-2023
 
 Axis Mutual Fund
@@ -7689,7 +7689,7 @@ HDFC Mutual Fund
 151376;HDFC BSE 500 ETF - Growth Option;INF179KC1EZ4;;27.8654;;;15-Nov-2023
 135854;HDFC BSE Sensex ETF - Growth Plan;INF179KC1HX2;;722.8981;;;15-Nov-2023
 150476;HDFC NIFTY 100 ETF - Growth Option;INF179KC1HR4;;19.9371;;;15-Nov-2023
-152049;HDFC NIFTY 1D RATE LIQUID ETF;;;1000;;;15-Nov-2023
+152049;HDFC NIFTY 1D RATE LIQUID ETF;INF179KC1HE2;;1000;;;15-Nov-2023
 135853;HDFC NIFTY 50 ETF - Growth Plan;INF179KC1965;;215.03;;;15-Nov-2023
 148461;HDFC NIFTY Bank ETF - GROWTH;INF179KC1HY0;;447.6793;;;15-Nov-2023
 150621;HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option;INF179KC1DJ0;;100.3494;;;15-Nov-2023
@@ -7707,7 +7707,7 @@ HDFC Mutual Fund
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;78.4053;;;15-Nov-2023
 143247;ICICI Prudential BSE 500 ETF;INF109KC1V59;;29.3320;;;15-Nov-2023
-144947;ICICI Prudential BSE Liquid Rate ETF;INF109KC1KT9;;1000.0000;;;15-Nov-2023
+144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;INF109KC1KT9;;1000.0000;;;15-Nov-2023
 139519;ICICI Prudential BSE Midcap Select ETF;INF109KC10W0;;125.9858;;;15-Nov-2023
 101705;ICICI Prudential BSE Sensex ETF;INF346A01034;;732.1041;;;15-Nov-2023
 151196;ICICI Prudential Nifty 10 yr Benchmark G-sec ETF;INF109KC18O0;;219.5100;;;15-Nov-2023
@@ -8133,22 +8133,6 @@ Axis Mutual Fund
 150615;Axis Silver Fund of Fund- Direct Plan-Growth Option;INF846K015J4;;12.7868;;;15-Nov-2023
 
 Bandhan Mutual Fund
-118412;BANDHAN ALL SEASONS BOND FUND - DIRECT PLAN-WEEKLY IDCW;;INF194K01V71;12.3886;;;15-Nov-2023
-108547;BANDHAN All Seasons Bond Fund - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;14.3927;;;15-Nov-2023
-117868;BANDHAN All Seasons Bond Fund - Regular Plan - Daily IDCW;;INF194K01F55;12.3582;;;15-Nov-2023
-115874;BANDHAN All Seasons Bond Fund - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;12.3501;;;15-Nov-2023
-108545;BANDHAN All Seasons Bond Fund - Regular Plan - Growth;INF194K01SE5;;38.5367;;;15-Nov-2023
-108546;BANDHAN All Seasons Bond Fund - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;12.7989;;;15-Nov-2023
-131399;BANDHAN All Seasons Bond Fund - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;13.4759;;;15-Nov-2023
-108544;BANDHAN All Seasons Bond Fund - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.6026;;;15-Nov-2023
-117867;BANDHAN All Seasons Bond Fund - Regular Plan - Weekly IDCW;;INF194K01F63;12.3899;;;15-Nov-2023
-118408;BANDHAN All Seasons Bond Fund-Direct Plan-Annual IDCW;INF194K01U98;INF194K01U80;15.1917;;;15-Nov-2023
-118409;BANDHAN All Seasons Bond Fund-Direct Plan-Daily IDCW;;INF194K01V63;12.3875;;;15-Nov-2023
-118414;BANDHAN All Seasons Bond Fund-Direct Plan-Fortnightly IDCW;INF194K01V55;INF194K01V48;12.3840;;;15-Nov-2023
-118410;BANDHAN All Seasons Bond Fund-Direct Plan-Growth;INF194K01U72;;40.2678;;;15-Nov-2023
-118411;BANDHAN All Seasons Bond Fund-Direct Plan-Half Yearly IDCW;INF194K01V14;INF194K01V06;15.1325;;;15-Nov-2023
-131398;BANDHAN All Seasons Bond Fund-Direct Plan-Periodic IDCW;INF194KA1TV4;INF194KA1TW2;13.8404;;;15-Nov-2023
-118413;BANDHAN All Seasons Bond Fund-Direct Plan-Quarterly IDCW;INF194K01V30;INF194K01V22;12.6927;;;15-Nov-2023
 112332;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - Growth;INF194K01953;;35.4372;;;15-Nov-2023
 112331;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - IDCW;INF194K01961;INF194K01979;21.7567;;;15-Nov-2023
 118485;BANDHAN Asset Allocation Fund Of Fund-Aggressive Plan-Direct Plan-Growth;INF194K012B6;;37.8311;;;15-Nov-2023
@@ -8161,6 +8145,22 @@ Bandhan Mutual Fund
 112330;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - IDCW;INF194K01AC7;INF194K01AD5;19.4514;;;15-Nov-2023
 118489;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-Growth;INF194K019A3;;34.5516;;;15-Nov-2023
 118488;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-IDCW;INF194K010B0;INF194K011B8;20.2738;;;15-Nov-2023
+118408;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Annual IDCW;INF194K01U98;INF194K01U80;15.1917;;;15-Nov-2023
+118409;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Daily IDCW;;INF194K01V63;12.3875;;;15-Nov-2023
+118414;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Fortnightly IDCW;INF194K01V55;INF194K01V48;12.3840;;;15-Nov-2023
+118410;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Growth;INF194K01U72;;40.2678;;;15-Nov-2023
+118411;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Half Yearly IDCW;INF194K01V14;INF194K01V06;15.1325;;;15-Nov-2023
+131398;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Periodic IDCW;INF194KA1TV4;INF194KA1TW2;13.8404;;;15-Nov-2023
+118413;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Quarterly IDCW;INF194K01V30;INF194K01V22;12.6927;;;15-Nov-2023
+118412;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Weekly IDCW;;INF194K01V71;12.3886;;;15-Nov-2023
+108547;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;14.3927;;;15-Nov-2023
+117868;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Daily IDCW;;INF194K01F55;12.3582;;;15-Nov-2023
+115874;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;12.3501;;;15-Nov-2023
+108545;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Growth;INF194K01SE5;;38.5367;;;15-Nov-2023
+108546;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;12.7989;;;15-Nov-2023
+131399;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;13.4759;;;15-Nov-2023
+108544;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.6026;;;15-Nov-2023
+117867;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Weekly IDCW;;INF194K01F63;12.3899;;;15-Nov-2023
 
 Edelweiss Mutual Fund
 149401;BHARAT Bond ETF FOF - April 2032 Direct Growth;INF754K01NY5;;10.8986;;;15-Nov-2023

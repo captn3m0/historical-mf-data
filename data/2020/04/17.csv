@@ -4482,7 +4482,7 @@ HSBC Mutual Fund
 120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.8332;;;17-Apr-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;25.7505;;;17-Apr-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;26.7021;;;17-Apr-2020
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;15.7098;;;17-Apr-2020
+106741;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01586;INF336L01578;16.2825;;;17-Apr-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.5289;;;17-Apr-2020
@@ -7120,10 +7120,10 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Aditya Birla Sun Life Mutual Fund
+139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;296.8235;;;17-Apr-2020
 115512;Aditya Birla Sun Life Nifty 50 ETF;INF209KB19D1;;101.1149;;;17-Apr-2020
 147735;Aditya Birla Sun Life Nifty Bank ETF;INF209KB17D5;;205.5748;;;17-Apr-2020
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;237.6885;;;17-Apr-2020
-139581;Aditya Birla Sun Life S&P BSE Sensex ETF;INF209KB10E8;;296.8235;;;17-Apr-2020
 
 Axis Mutual Fund
 141545;Axis Nifty 50 ETF;INF846K01W98;;956.9074;;;17-Apr-2020
@@ -7152,7 +7152,7 @@ HDFC Mutual Fund
 ICICI Prudential Mutual Fund
 141957;BHARAT 22 ETF;INF109KB15Y7;;25.3893;;;17-Apr-2020
 143247;ICICI Prudential BSE 500 ETF;INF109KC1V59;;123.61;;;17-Apr-2020
-144947;ICICI Prudential BSE Liquid Rate ETF;INF109KC1KT9;;1000;;;17-Apr-2020
+144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;INF109KC1KT9;;1000;;;17-Apr-2020
 139519;ICICI Prudential BSE Midcap Select ETF;INF109KC10W0;;52.31;;;17-Apr-2020
 101705;ICICI Prudential BSE Sensex ETF;INF346A01034;;337.7029;;;17-Apr-2020
 123004;ICICI Prudential Nifty 100 ETF;INF109KC16V9;;101.491;;;17-Apr-2020
@@ -7401,21 +7401,6 @@ Axis Mutual Fund
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;15.4091;;;17-Apr-2020
 
 Bandhan Mutual Fund
-108547;BANDHAN All Seasons Bond Fund - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;12.3282;;;17-Apr-2020
-117868;BANDHAN All Seasons Bond Fund - Regular Plan - Daily IDCW;;INF194K01F55;11.0515;;;17-Apr-2020
-115874;BANDHAN All Seasons Bond Fund - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;11.0687;;;17-Apr-2020
-108545;BANDHAN All Seasons Bond Fund - Regular Plan - Growth;INF194K01SE5;;31.7869;;;17-Apr-2020
-108546;BANDHAN All Seasons Bond Fund - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;11.8607;;;17-Apr-2020
-131399;BANDHAN All Seasons Bond Fund - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;12.3305;;;17-Apr-2020
-108544;BANDHAN All Seasons Bond Fund - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.6911;;;17-Apr-2020
-117867;BANDHAN All Seasons Bond Fund - Regular Plan - Weekly IDCW;;INF194K01F63;11.0673;;;17-Apr-2020
-118408;BANDHAN All Seasons Bond Fund-Direct Plan-Annual IDCW;INF194K01U98;INF194K01U80;12.8704;;;17-Apr-2020
-118409;BANDHAN All Seasons Bond Fund-Direct Plan-Daily IDCW;;INF194K01V63;11.0517;;;17-Apr-2020
-118414;BANDHAN All Seasons Bond Fund-Direct Plan-Fortnightly IDCW;INF194K01V55;INF194K01V48;11.0712;;;17-Apr-2020
-118410;BANDHAN All Seasons Bond Fund-Direct Plan-Growth;INF194K01U72;;32.7917;;;17-Apr-2020
-118411;BANDHAN All Seasons Bond Fund-Direct Plan-Half Yearly IDCW;INF194K01V14;INF194K01V06;12.3010;;;17-Apr-2020
-131398;BANDHAN All Seasons Bond Fund-Direct Plan-Periodic IDCW;INF194KA1TV4;INF194KA1TW2;12.5524;;;17-Apr-2020
-118413;BANDHAN All Seasons Bond Fund-Direct Plan-Quarterly IDCW;INF194K01V30;INF194K01V22;12.8438;;;17-Apr-2020
 112332;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - Growth;INF194K01953;;19.7199;;;17-Apr-2020
 112331;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - IDCW;INF194K01961;INF194K01979;13.9684;;;17-Apr-2020
 118485;BANDHAN Asset Allocation Fund Of Fund-Aggressive Plan-Direct Plan-Growth;INF194K012B6;;20.4900;;;17-Apr-2020
@@ -7428,6 +7413,21 @@ Bandhan Mutual Fund
 112330;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - IDCW;INF194K01AC7;INF194K01AD5;14.8237;;;17-Apr-2020
 118489;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-Growth;INF194K019A3;;22.0786;;;17-Apr-2020
 118488;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-IDCW;INF194K010B0;INF194K011B8;15.1507;;;17-Apr-2020
+118408;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Annual IDCW;INF194K01U98;INF194K01U80;12.8704;;;17-Apr-2020
+118409;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Daily IDCW;;INF194K01V63;11.0517;;;17-Apr-2020
+118414;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Fortnightly IDCW;INF194K01V55;INF194K01V48;11.0712;;;17-Apr-2020
+118410;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Growth;INF194K01U72;;32.7917;;;17-Apr-2020
+118411;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Half Yearly IDCW;INF194K01V14;INF194K01V06;12.3010;;;17-Apr-2020
+131398;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Periodic IDCW;INF194KA1TV4;INF194KA1TW2;12.5524;;;17-Apr-2020
+118413;Bandhan Income Plus Arbitrage Fund of Funds - Direct Plan - Quarterly IDCW;INF194K01V30;INF194K01V22;12.8438;;;17-Apr-2020
+108547;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;12.3282;;;17-Apr-2020
+117868;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Daily IDCW;;INF194K01F55;11.0515;;;17-Apr-2020
+115874;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Fortnightly IDCW;INF194K01SM8;INF194K01SL0;11.0687;;;17-Apr-2020
+108545;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Growth;INF194K01SE5;;31.7869;;;17-Apr-2020
+108546;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;11.8607;;;17-Apr-2020
+131399;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;12.3305;;;17-Apr-2020
+108544;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.6911;;;17-Apr-2020
+117867;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Weekly IDCW;;INF194K01F63;11.0673;;;17-Apr-2020
 
 Edelweiss Mutual Fund
 147851;Bharat Bond FOF - April 2023 - Direct Plan - Growth Option;INF754K01KS3;;10.239;;;17-Apr-2020
