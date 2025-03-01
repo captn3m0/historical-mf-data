@@ -426,10 +426,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;17;;;01-Aug-2018
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;118.028;;;01-Aug-2018
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;125.183;;;01-Aug-2018
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;26.37;;;01-Aug-2018
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;28.286;;;01-Aug-2018
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;125.183;;;01-Aug-2018
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;118.028;;;01-Aug-2018
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;28.286;;;01-Aug-2018
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;26.37;;;01-Aug-2018
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;31.305;;;01-Aug-2018
@@ -1370,8 +1370,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;109.4436;;;01-Aug-2018
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;58.4365;;;01-Aug-2018
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;55.052;;;01-Aug-2018
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;119.39;;;01-Aug-2018
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;126.367;;;01-Aug-2018
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;119.39;;;01-Aug-2018
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;126.367;;;01-Aug-2018
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -2585,9 +2585,9 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.507;;;01-Aug-2018
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0033;;;01-Aug-2018
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.1797;;;01-Aug-2018
-120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.095;;;01-Aug-2018
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;;;01-Aug-2018
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;17.6774;;;01-Aug-2018
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0411;;;01-Aug-2018
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0519;;;01-Aug-2018
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0036;;;01-Aug-2018
 
 ICICI Prudential Mutual Fund
@@ -3793,7 +3793,7 @@ HSBC Mutual Fund
 120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.0444;;;01-Aug-2018
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;22.0764;;;01-Aug-2018
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;22.7967;;;01-Aug-2018
-106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5147;;;01-Aug-2018
+106770;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01537;14.2125;;;01-Aug-2018
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.1872;;;01-Aug-2018

@@ -413,10 +413,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;26.66;;;02-Nov-2021
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;197.623;;;02-Nov-2021
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;217.405;;;02-Nov-2021
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;34.478;;;02-Nov-2021
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;38.363;;;02-Nov-2021
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;217.405;;;02-Nov-2021
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;197.623;;;02-Nov-2021
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;38.363;;;02-Nov-2021
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;34.478;;;02-Nov-2021
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;36.161;;;02-Nov-2021
@@ -1726,8 +1726,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;144.7505;;;02-Nov-2021
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;68.6246;;;02-Nov-2021
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;62.3229;;;02-Nov-2021
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;135.1585;;;02-Nov-2021
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;148.3786;;;02-Nov-2021
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;135.1585;;;02-Nov-2021
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;148.3786;;;02-Nov-2021
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -7650,22 +7650,22 @@ Aditya Birla Sun Life Mutual Fund
 116795;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;INF209K01PG2;INF209K01PH0;14.756;;;02-Nov-2021
 
 Axis Mutual Fund
-147905;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;11.3868;;;02-Nov-2021
-147895;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;11.4522;;;02-Nov-2021
-147889;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;INF846K01U09;;11.4470;;;02-Nov-2021
-147894;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;INF846K01U74;INF846K01U82;10.1221;;;02-Nov-2021
-147891;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;INF846K01U90;INF846K01V08;11.4525;;;02-Nov-2021
-147892;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;11.4567;;;02-Nov-2021
-147893;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;11.4503;;;02-Nov-2021
-147898;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;11.4155;;;02-Nov-2021
-147890;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;INF846K01V16;;11.3866;;;02-Nov-2021
-147897;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;12.2657;;;02-Nov-2021
-147888;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;INF846K01W07;INF846K01W15;11.3865;;;02-Nov-2021
-147896;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;11.3860;;;02-Nov-2021
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;15.8651;;;02-Nov-2021
 120472;Axis Gold Fund - Direct Plan - IDCW;INF846K01DQ6;INF846K01DR4;15.8799;;;02-Nov-2021
 115897;Axis Gold Fund - Regular Plan - Growth Option;INF846K01AL3;;14.7108;;;02-Nov-2021
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;14.7294;;;02-Nov-2021
+147905;Axis Income Advantage Fund of Fund - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;11.3868;;;02-Nov-2021
+147895;Axis Income Advantage Fund of Funds - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;11.4522;;;02-Nov-2021
+147889;Axis Income Advantage Fund of Funds - Direct Plan - Growth Option;INF846K01U09;;11.4470;;;02-Nov-2021
+147894;Axis Income Advantage Fund of Funds - Direct Plan - Half Yearly Dividend Option;INF846K01U74;INF846K01U82;10.1221;;;02-Nov-2021
+147891;Axis Income Advantage Fund of Funds - Direct Plan - IDCW;INF846K01U90;INF846K01V08;11.4525;;;02-Nov-2021
+147892;Axis Income Advantage Fund of Funds - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;11.4567;;;02-Nov-2021
+147893;Axis Income Advantage Fund of Funds - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;11.4503;;;02-Nov-2021
+147898;Axis Income Advantage Fund of Funds - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;11.4155;;;02-Nov-2021
+147890;Axis Income Advantage Fund of Funds - Regular Plan - Growth Option;INF846K01V16;;11.3866;;;02-Nov-2021
+147897;Axis Income Advantage Fund of Funds - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;12.2657;;;02-Nov-2021
+147888;Axis Income Advantage Fund of Funds - Regular Plan - IDCW;INF846K01W07;INF846K01W15;11.3865;;;02-Nov-2021
+147896;Axis Income Advantage Fund of Funds - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;11.3860;;;02-Nov-2021
 149243;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;INF846K017C5;;10.0079;;;02-Nov-2021
 149242;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;INF846K010D8;;10.0073;;;02-Nov-2021
 149245;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;INF846K011D6;INF846K012D4;10.0073;;;02-Nov-2021

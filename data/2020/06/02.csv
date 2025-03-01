@@ -369,10 +369,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;15.09;;;02-Jun-2020
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;109.261;;;02-Jun-2020
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;118.168;;;02-Jun-2020
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;20.222;;;02-Jun-2020
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;22.12;;;02-Jun-2020
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;118.168;;;02-Jun-2020
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;109.261;;;02-Jun-2020
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;22.12;;;02-Jun-2020
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;20.222;;;02-Jun-2020
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;23.029;;;02-Jun-2020
@@ -1527,8 +1527,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;94.1713;;;02-Jun-2020
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;36.6811;;;02-Jun-2020
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;33.866;;;02-Jun-2020
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;73.4445;;;02-Jun-2020
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;79.3216;;;02-Jun-2020
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;73.4445;;;02-Jun-2020
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;79.3216;;;02-Jun-2020
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -3155,7 +3155,7 @@ HSBC Mutual Fund
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.7059;;;02-Jun-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2424;;;02-Jun-2020
 120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;8.8832;;;02-Jun-2020
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;8.7866;;;02-Jun-2020
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;8.7745;;;02-Jun-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.7209;;;02-Jun-2020
 
 ICICI Prudential Mutual Fund
@@ -4452,10 +4452,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.9084;;;02-Jun-2020
-120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.4166;;;02-Jun-2020
+120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1173;;;02-Jun-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3348;;;02-Jun-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3166;;;02-Jun-2020
-106739;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01503;INF336L01495;10.5739;;;02-Jun-2020
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.6276;;;02-Jun-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.9117;;;02-Jun-2020
@@ -7326,21 +7326,21 @@ Aditya Birla Sun Life Mutual Fund
 116795;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;INF209K01PG2;INF209K01PH0;14.6767;;;02-Jun-2020
 
 Axis Mutual Fund
-147905;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;10.3361;;;02-Jun-2020
-147895;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;10.3470;;;02-Jun-2020
-147889;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;INF846K01U09;;10.3438;;;02-Jun-2020
-147891;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;INF846K01U90;INF846K01V08;10.3472;;;02-Jun-2020
-147892;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;10.3528;;;02-Jun-2020
-147893;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;10.3469;;;02-Jun-2020
-147898;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;10.3622;;;02-Jun-2020
-147890;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;INF846K01V16;;10.3360;;;02-Jun-2020
-147897;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;11.1302;;;02-Jun-2020
-147888;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;INF846K01W07;INF846K01W15;10.3359;;;02-Jun-2020
-147896;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;10.3354;;;02-Jun-2020
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;15.6570;;;02-Jun-2020
 120472;Axis Gold Fund - Direct Plan - IDCW;INF846K01DQ6;INF846K01DR4;15.6719;;;02-Jun-2020
 115897;Axis Gold Fund - Regular Plan - Growth Option;INF846K01AL3;;14.5844;;;02-Jun-2020
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;14.6020;;;02-Jun-2020
+147905;Axis Income Advantage Fund of Fund - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;10.3361;;;02-Jun-2020
+147895;Axis Income Advantage Fund of Funds - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;10.3470;;;02-Jun-2020
+147889;Axis Income Advantage Fund of Funds - Direct Plan - Growth Option;INF846K01U09;;10.3438;;;02-Jun-2020
+147891;Axis Income Advantage Fund of Funds - Direct Plan - IDCW;INF846K01U90;INF846K01V08;10.3472;;;02-Jun-2020
+147892;Axis Income Advantage Fund of Funds - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;10.3528;;;02-Jun-2020
+147893;Axis Income Advantage Fund of Funds - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;10.3469;;;02-Jun-2020
+147898;Axis Income Advantage Fund of Funds - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;10.3622;;;02-Jun-2020
+147890;Axis Income Advantage Fund of Funds - Regular Plan - Growth Option;INF846K01V16;;10.3360;;;02-Jun-2020
+147897;Axis Income Advantage Fund of Funds - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;11.1302;;;02-Jun-2020
+147888;Axis Income Advantage Fund of Funds - Regular Plan - IDCW;INF846K01W07;INF846K01W15;10.3359;;;02-Jun-2020
+147896;Axis Income Advantage Fund of Funds - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;10.3354;;;02-Jun-2020
 
 Bandhan Mutual Fund
 112332;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - Growth;INF194K01953;;20.4815;;;02-Jun-2020

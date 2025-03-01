@@ -1170,10 +1170,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;12.08;11.96;12.08;13-Apr-2016
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;79.838;79.04;79.838;13-Apr-2016
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;82.127;81.306;82.127;13-Apr-2016
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;22.167;21.945;22.167;13-Apr-2016
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;22.845;22.617;22.845;13-Apr-2016
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;82.127;81.306;82.127;13-Apr-2016
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;79.838;79.04;79.838;13-Apr-2016
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;22.845;22.617;22.845;13-Apr-2016
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;22.167;21.945;22.167;13-Apr-2016
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;26.122;25.861;26.122;13-Apr-2016
@@ -2057,8 +2057,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;83.814;83.814;83.81;13-Apr-2016
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;41.3707;41.3707;41.37;13-Apr-2016
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;40.0603;40.0603;40.06;13-Apr-2016
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;86.8768;86.8768;86.88;13-Apr-2016
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;89.4627;89.4627;89.46;13-Apr-2016
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;86.8768;86.8768;86.88;13-Apr-2016
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;89.4627;89.4627;89.46;13-Apr-2016
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -3184,7 +3184,7 @@ HSBC Mutual Fund
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;13.7051;13.7051;13.7051;13-Apr-2016
 120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.084;10.084;10.084;13-Apr-2016
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;14.9917;14.9917;14.9917;13-Apr-2016
-104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;10.2056;10.2056;10.2056;13-Apr-2016
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0261;10.0261;10.0261;13-Apr-2016
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0027;10.0027;10.0027;13-Apr-2016
 
 ICICI Prudential Mutual Fund
@@ -4341,7 +4341,7 @@ HSBC Mutual Fund
 120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;11.1346;11.1346;11.1346;13-Apr-2016
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;19.8726;19.8726;19.8726;13-Apr-2016
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;20.4023;20.4023;20.4023;13-Apr-2016
-110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;14.0536;14.0536;14.0536;13-Apr-2016
+106739;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01503;INF336L01495;10.6785;10.6785;10.6785;13-Apr-2016
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.3486;11.3202;11.3486;13-Apr-2016

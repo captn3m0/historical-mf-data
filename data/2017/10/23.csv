@@ -691,10 +691,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;15.43;15.28;15.43;23-Oct-2017
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;114.155;113.013;114.155;23-Oct-2017
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;119.821;118.623;119.821;23-Oct-2017
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;27.949;27.67;27.949;23-Oct-2017
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;29.556;29.26;29.556;23-Oct-2017
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;119.821;118.623;119.821;23-Oct-2017
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;114.155;113.013;114.155;23-Oct-2017
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;29.556;29.26;29.556;23-Oct-2017
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;27.949;27.67;27.949;23-Oct-2017
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;32.326;32.003;32.326;23-Oct-2017
@@ -1604,8 +1604,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;99.8334;99.8334;99.8334;23-Oct-2017
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;56.5539;56.5539;56.5539;23-Oct-2017
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;53.7754;53.7754;53.7754;23-Oct-2017
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;116.6208;116.6208;116.6208;23-Oct-2017
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;122.2959;122.2959;122.2959;23-Oct-2017
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;116.6208;116.6208;116.6208;23-Oct-2017
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;122.2959;122.2959;122.2959;23-Oct-2017
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -2795,7 +2795,7 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;21.6083;21.6083;21.6083;23-Oct-2017
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0021;10.0021;10.0021;23-Oct-2017
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.4024;15.4024;15.4024;23-Oct-2017
-120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;10.3855;10.3855;10.3855;23-Oct-2017
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0822;10.0822;10.0822;23-Oct-2017
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;16.8345;16.8345;16.8345;23-Oct-2017
 104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0563;10.0563;10.0563;23-Oct-2017
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0075;10.0075;10.0075;23-Oct-2017

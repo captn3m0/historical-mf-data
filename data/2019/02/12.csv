@@ -432,10 +432,10 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;15.78;;;12-Feb-2019
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth;INF174K01187;;110.039;;;12-Feb-2019
-120158;Kotak Equity Opportunities Fund - Growth - Direct;INF174K01LF9;;117.36;;;12-Feb-2019
-103233;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01203;INF174K01195;23.228;;;12-Feb-2019
-120157;Kotak Equity Opportunities Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LG7;;25.059;;;12-Feb-2019
+120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;117.36;;;12-Feb-2019
+103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;110.039;;;12-Feb-2019
+120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;25.059;;;12-Feb-2019
+103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;23.228;;;12-Feb-2019
 
 L&T Mutual Fund
 119398;L&T Large and Midcap Fund- Direct Plan -IDCW;INF917K01FS6;INF917K01FR8;26.656;;;12-Feb-2019
@@ -1447,8 +1447,8 @@ UTI Mutual Fund
 100739;UTI MNC Fund - Regular Plan - IDCW;INF789F01828;INF789F01836;102.3266;;;12-Feb-2019
 120730;UTI Transportation and Logistics Fund - Direct Plan - IDCW;INF789F01SF9;INF789F01SG7;45.5156;;;12-Feb-2019
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;42.6036;;;12-Feb-2019
-102398;UTI-Transpotation and Logistics  Fund-Growth Option;INF789F01299;;92.3935;;;12-Feb-2019
-120731;UTI-Transpotation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;98.4259;;;12-Feb-2019
+102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;92.3935;;;12-Feb-2019
+120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;98.4259;;;12-Feb-2019
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -2796,7 +2796,7 @@ HSBC Mutual Fund
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.8696;;;12-Feb-2019
 120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.0978;;;12-Feb-2019
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;18.4261;;;12-Feb-2019
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0395;;;12-Feb-2019
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;10.1509;;;12-Feb-2019
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0151;;;12-Feb-2019
 
 ICICI Prudential Mutual Fund
@@ -4009,10 +4009,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;24.8968;;;12-Feb-2019
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;11.3581;;;12-Feb-2019
+120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.3101;;;12-Feb-2019
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;22.9811;;;12-Feb-2019
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;23.7629;;;12-Feb-2019
-110439;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01487;INF336L01479;11.653;;;12-Feb-2019
+110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;11.9441;;;12-Feb-2019
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.2889;;;12-Feb-2019
