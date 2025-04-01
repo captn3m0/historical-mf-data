@@ -964,10 +964,10 @@ Groww Mutual Fund
 140818;Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DG5;INF666M01DH3;14.1316;;;25-Jul-2023
 
 HDFC Mutual Fund
-118935;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;INF179K01VC4;;548.794;;;25-Jul-2023
-101764;HDFC Capital Builder Value Fund - Growth Plan;INF179K01426;;499.597;;;25-Jul-2023
-118934;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;32.683;;;25-Jul-2023
-101765;HDFC Capital Builder Value Fund - IDCW Plan;INF179K01400;INF179K01418;27.595;;;25-Jul-2023
+118935;HDFC Value Fund - Growth Option - Direct Plan;INF179K01VC4;;548.794;;;25-Jul-2023
+101764;HDFC Value Fund - Growth Plan;INF179K01426;;499.597;;;25-Jul-2023
+118934;HDFC Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;32.683;;;25-Jul-2023
+101765;HDFC Value Fund - IDCW Plan;INF179K01400;INF179K01418;27.595;;;25-Jul-2023
 
 HSBC Mutual Fund
 151113;HSBC Value Fund - Direct Growth;INF917K01HD4;;76.7569;;;25-Jul-2023
@@ -4888,7 +4888,7 @@ HSBC Mutual Fund
 151046;HSBC Credit Risk Fund - Regular Annual IDCW;INF917K01UN6;INF917K01UM8;11.8640;;;25-Jul-2023
 151043;HSBC Credit Risk Fund - Regular Growth;INF917K01130;;25.1122;;;25-Jul-2023
 151042;HSBC Credit Risk Fund - Regular IDCW;INF917K01114;INF917K01122;10.3258;;;25-Jul-2023
-151041;HSBC Credit Risk Fund- Regular Plan - Bonus;;;24.7095;;;25-Jul-2023
+151041;HSBC Credit Risk Fund- Regular Plan - Bonus;;INF917K01CU9;24.7095;;;25-Jul-2023
 
 ICICI Prudential Mutual Fund
 120711;ICICI Prudential Credit Risk Fund - Direct Plan - Growth;INF109K01V00;;29.5241;;;25-Jul-2023
@@ -5751,10 +5751,10 @@ Axis Mutual Fund
 144396;Axis Aggressive Hybrid Fund - Regular Plan - Regular IDCW;INF846K01E74;INF846K01E82;12.39;;;25-Jul-2023
 
 Bandhan Mutual Fund
-140382;BANDHAN Hybrid Equity Fund-Direct Plan Growth;INF194KA1U56;;20.729;;;25-Jul-2023
-140383;BANDHAN Hybrid Equity Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;17.548;;;25-Jul-2023
-140381;BANDHAN Hybrid Equity Fund-Regular Plan Growth;INF194KA1U15;;18.831;;;25-Jul-2023
-140384;BANDHAN Hybrid Equity Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;15.945;;;25-Jul-2023
+140382;Bandhan Aggressive Hybrid Fund-Direct Plan Growth;INF194KA1U56;;20.729;;;25-Jul-2023
+140383;Bandhan Aggressive Hybrid Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;17.548;;;25-Jul-2023
+140381;Bandhan Aggressive Hybrid Fund-Regular Plan Growth;INF194KA1U15;;18.831;;;25-Jul-2023
+140384;Bandhan Aggressive Hybrid Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;15.945;;;25-Jul-2023
 
 Bank of India Mutual Fund
 139527;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH;INF761K01DM6;;27.25;;;25-Jul-2023
@@ -6853,10 +6853,10 @@ Aditya Birla Sun Life Mutual Fund
 150698;Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Direct Growth;INF209KB10N9;;10.6326;;;25-Jul-2023
 150701;Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Regular Growth;INF209KB18M4;;10.6198;;;25-Jul-2023
 150700;Aditya Birla Sun Life Crisil IBX Gilt-April 2026 Index Fund-Regular IDCW;INF209KB19M2;;10.6203;;;25-Jul-2023
-151427;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Direct Growth;;;10.4947;;;25-Jul-2023
-151425;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Direct IDCW Payout;;;10.496;;;25-Jul-2023
-151428;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Regular Growth;;;10.4783;;;25-Jul-2023
-151426;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Regular IDCW Payout;;;10.4784;;;25-Jul-2023
+151427;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Direct Growth;INF209KB14S0;;10.4947;;;25-Jul-2023
+151425;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Direct IDCW Payout;INF209KB15S7;;10.496;;;25-Jul-2023
+151428;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Regular Growth;INF209KB12S4;;10.4783;;;25-Jul-2023
+151426;Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Regular IDCW Payout;INF209KB13S2;;10.4784;;;25-Jul-2023
 148962;Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Direct Growth;INF209KB1Z71;;13.0774;;;25-Jul-2023
 148963;Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Direct-IDCW;INF209KB1Z89;INF209KB1Z97;13.0775;;;25-Jul-2023
 148965;Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Regular Growth;INF209KB1Z48;;12.8975;;;25-Jul-2023
@@ -7091,7 +7091,7 @@ Franklin Templeton Mutual Fund
 118581;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;INF090I01GS4;;163.2531;;;25-Jul-2023
 
 HDFC Mutual Fund
-151729;HDFC BSE 500 Index Fund - Growth Option;INF179KC1GH7;;11.3662;;;25-Jul-2023
+151729;HDFC BSE 500 Index Fund - Regular Plan - Growth Option;INF179KC1GH7;;11.3662;;;25-Jul-2023
 151728;HDFC S&P BSE 500 Index Fund - Growth Option - Direct Plan;INF179KC1GG9;;11.3878;;;25-Jul-2023
 119065;HDFC BSE Sensex Index Fund - Direct Plan;INF179K01WN9;;617.0949;;;25-Jul-2023
 101281;HDFC BSE Sensex Index Fund - Growth Plan;INF179K01LA9;;604.3126;;;25-Jul-2023
@@ -7832,10 +7832,6 @@ Baroda BNP Paribas Mutual Fund
 150284;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;INF251K01QQ1;;11.0134;;;25-Jul-2023
 
 DSP Mutual Fund
-130493;DSP Global Allocation Fund of Fund - Direct Plan - Growth;INF740K01Z50;;18.3317;;;25-Jul-2023
-130491;DSP Global Allocation Fund of Fund - Direct Plan - IDCW;INF740K01Z68;INF740K01Z76;15.7367;;;25-Jul-2023
-130492;DSP Global Allocation Fund of Fund - Regular Plan - Growth;INF740K01Z27;;17.5344;;;25-Jul-2023
-130490;DSP Global Allocation Fund of Fund - Regular Plan - IDCW;INF740K01Z35;INF740K01Z43;15.1557;;;25-Jul-2023
 119275;DSP Global Clean Energy Fund of Fund - Direct Plan - Growth;INF740K01PC5;;19.3111;;;25-Jul-2023
 119276;DSP Global Clean Energy Fund of Fund - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;15.6560;;;25-Jul-2023
 112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;18.5590;;;25-Jul-2023
@@ -7991,14 +7987,14 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;21.2868;;;25-Jul-2023
-131898;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;33.9948;;;25-Jul-2023
-131895;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;20.2987;;;25-Jul-2023
-131896;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;32.3674;;;25-Jul-2023
 131865;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;INF084M01DM9;;24.6344;;;25-Jul-2023
 131864;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;INF084M01AE2;;47.6668;;;25-Jul-2023
 131866;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;23.474;;;25-Jul-2023
 131863;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;43.8945;;;25-Jul-2023
+131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;21.2868;;;25-Jul-2023
+131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;33.9948;;;25-Jul-2023
+131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;20.2987;;;25-Jul-2023
+131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;32.3674;;;25-Jul-2023
 132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;38.1003;;;25-Jul-2023
 132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;41.6024;;;25-Jul-2023
 132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;38.446;;;25-Jul-2023
@@ -8084,6 +8080,12 @@ Bandhan Mutual Fund
 108544;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.5506;;;25-Jul-2023
 117867;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Weekly IDCW;;INF194K01F63;12.1721;;;25-Jul-2023
 
+DSP Mutual Fund
+130493;DSP Income Plus Arbitrage Fund of Fund - Direct Plan - Growth;INF740K01Z50;;18.3317;;;25-Jul-2023
+130491;DSP Income Plus Arbitrage Fund of Fund - Direct Plan - IDCW;INF740K01Z68;INF740K01Z76;15.7367;;;25-Jul-2023
+130492;DSP Income Plus Arbitrage Fund of Fund - Regular Plan - Growth;INF740K01Z27;;17.5344;;;25-Jul-2023
+130490;DSP Income Plus Arbitrage Fund of Fund - Regular Plan - IDCW;INF740K01Z35;INF740K01Z43;15.1557;;;25-Jul-2023
+
 Edelweiss Mutual Fund
 149401;BHARAT Bond ETF FOF - April 2032 Direct Growth;INF754K01NY5;;10.8154;;;25-Jul-2023
 149402;BHARAT Bond ETF FOF - April 2032 Direct Plan Dividend;INF754K01NZ2;INF754K01OA3;10.8154;;;25-Jul-2023
@@ -8125,27 +8127,27 @@ HDFC Mutual Fund
 148903;HDFC Asset Allocator Fund of Funds - Growth Option -Direct Plan;INF179KC1BA3;;13.85;;;25-Jul-2023
 148900;HDFC Asset Allocator Fund of Funds - IDCW Option;INF179KC1BE5;;13.47;;;25-Jul-2023
 148902;HDFC Asset Allocator Fund of Funds - IDCW Option - Direct Plan;INF179KC1BB1;;13.85;;;25-Jul-2023
-130533;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;INF179KA1SF8;;31.7323;;;25-Jul-2023
-130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;34.5099;;;25-Jul-2023
-130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;27.8062;;;25-Jul-2023
-130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;30.311;;;25-Jul-2023
 119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;19.0968;;;25-Jul-2023
 115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;18.3509;;;25-Jul-2023
+130533;HDFC Income Plus Arbitrage Active FOF - Growth Option;INF179KA1SF8;;31.7323;;;25-Jul-2023
+130543;HDFC Income Plus Arbitrage Active FOF - Growth Option - Direct Plan;INF179KA1SC5;;34.5099;;;25-Jul-2023
+130540;HDFC Income Plus Arbitrage Active FOF - IDCW Option;INF179KA1SG6;;27.8062;;;25-Jul-2023
+130547;HDFC Income Plus Arbitrage Active FOF - IDCW Option - Direct Plan;INF179KA1SD3;;30.311;;;25-Jul-2023
 150736;HDFC Silver ETF Fund of Fund - Growth Option;INF179KC1DV5;;12.725;;;25-Jul-2023
 150737;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;INF179KC1DU7;;12.768;;;25-Jul-2023
 
 HSBC Mutual Fund
-129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;18.5313;;;25-Jul-2023
-129197;HSBC Managed Solutions - Conservative - Growth Direct;INF336L01IP7;;19.3738;;;25-Jul-2023
-129196;HSBC Managed Solutions India Conservative Fund IDCW;INF336L01IK8;INF336L01IL6;17.2019;;;25-Jul-2023
-129199;HSBC Managed Solutions - Growth - Dividend;INF336L01HY1;INF336L01HZ8;27.5061;;;25-Jul-2023
-129201;HSBC Managed Solutions - Growth - Dividend Direct;INF336L01IB7;INF336L01IC5;28.4468;;;25-Jul-2023
-129065;HSBC Managed Solutions - Growth - Growth;INF336L01IA9;;29.9899;;;25-Jul-2023
-129200;HSBC Managed Solutions - Growth - Growth Direct;INF336L01ID3;;30.9364;;;25-Jul-2023
-129191;HSBC Managed Solutions - Moderate - Growth;INF336L01IG6;;27.0482;;;25-Jul-2023
-129193;HSBC Managed Solutions - Moderate - Growth Direct;INF336L01IJ0;;28.1569;;;25-Jul-2023
-129194;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;INF336L01IH4;INF336L01II2;15.7946;;;25-Jul-2023
-129192;HSBC Managed Solutions India Moderate Fund IDCW;INF336L01IE1;INF336L01IF8;25.419;;;25-Jul-2023
+129199;HSBC Aggressive Hybrid Active FOF - Dividend;INF336L01HY1;INF336L01HZ8;27.5061;;;25-Jul-2023
+129201;HSBC Aggressive Hybrid Active FOF - Dividend Direct;INF336L01IB7;INF336L01IC5;28.4468;;;25-Jul-2023
+129065;HSBC Aggressive Hybrid Active FOF - Growth;INF336L01IA9;;29.9899;;;25-Jul-2023
+129200;HSBC Aggressive Hybrid Active FOF - Growth Direct;INF336L01ID3;;30.9364;;;25-Jul-2023
+129195;HSBC Income Plus Arbitrage Active FOF - Growth;INF336L01IM4;;18.5313;;;25-Jul-2023
+129197;HSBC Income Plus Arbitrage Active FOF - Growth Direct;INF336L01IP7;;19.3738;;;25-Jul-2023
+129196;HSBC Income Plus Arbitrage Active FOF IDCW;INF336L01IK8;INF336L01IL6;17.2019;;;25-Jul-2023
+129191;HSBC Multi Asset Active FOF - Growth;INF336L01IG6;;27.0482;;;25-Jul-2023
+129193;HSBC Multi Asset Active FOF - Growth Direct;INF336L01IJ0;;28.1569;;;25-Jul-2023
+129194;HSBC Multi Asset Active FOF Direct Plan IDCW;INF336L01IH4;INF336L01II2;15.7946;;;25-Jul-2023
+129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;25.419;;;25-Jul-2023
 
 ICICI Prudential Mutual Fund
 120679;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;INF109K01X16;;99.1091;;;25-Jul-2023
@@ -8729,13 +8731,13 @@ Nippon India Mutual Fund
 150932;Nippon India Fixed Horizon Fund - XLIV - Series 4-Direct Plan-Growth Option;INF204KC1931;;10.4041;;;25-Jul-2023
 150935;Nippon India Fixed Horizon Fund - XLIV - Series 4-Regular Plan-Growth Option;INF204KC1915;;10.3895;;;25-Jul-2023
 150934;Nippon India Fixed Horizon Fund - XLIV - Series 4-Regular Plan-Payout of IDCW;INF204KC1923;;10.3895;;;25-Jul-2023
-151674;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Growth Option;;;10.2272;;;25-Jul-2023
-151671;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Payout of IDCW;;;10.2272;;;25-Jul-2023
-151672;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Growth Option;;;10.2206;;;25-Jul-2023
-151673;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Payout of IDCW;;;10.2206;;;25-Jul-2023
-151708;Nippon India Fixed Horizon Fund-XLV-Series 5-Direct Plan-Growth Option;;;10.3031;;;25-Jul-2023
-151710;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Growth Option;;;10.2932;;;25-Jul-2023
-151711;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Payout of IDCW;;;10.2932;;;25-Jul-2023
+151674;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Growth Option;INF204KC1BF1;;10.2272;;;25-Jul-2023
+151671;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Payout of IDCW;INF204KC1BG9;;10.2272;;;25-Jul-2023
+151672;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Growth Option;INF204KC1BD6;;10.2206;;;25-Jul-2023
+151673;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Payout of IDCW;INF204KC1BE4;;10.2206;;;25-Jul-2023
+151708;Nippon India Fixed Horizon Fund-XLV-Series 5-Direct Plan-Growth Option;INF204KC1BJ3;;10.3031;;;25-Jul-2023
+151710;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Growth Option;INF204KC1BH7;;10.2932;;;25-Jul-2023
+151711;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Payout of IDCW;INF204KC1BI5;;10.2932;;;25-Jul-2023
 
 SBI Mutual Fund
 148172;SBI Capital Protection Oriented Fund - Series A (Plan 8) - Direct Plan - Growth;INF200KA1P25;;13.0975;;;25-Jul-2023

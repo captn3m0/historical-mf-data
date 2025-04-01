@@ -843,10 +843,10 @@ Groww Mutual Fund
 140818;Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DG5;INF666M01DH3;7.3756;;;01-Jun-2020
 
 HDFC Mutual Fund
-118935;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;INF179K01VC4;;239.871;;;01-Jun-2020
-101764;HDFC Capital Builder Value Fund - Growth Plan;INF179K01426;;224.785;;;01-Jun-2020
-118934;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;18.672;;;01-Jun-2020
-101765;HDFC Capital Builder Value Fund - IDCW Plan;INF179K01400;INF179K01418;16.858;;;01-Jun-2020
+118935;HDFC Value Fund - Growth Option - Direct Plan;INF179K01VC4;;239.871;;;01-Jun-2020
+101764;HDFC Value Fund - Growth Plan;INF179K01426;;224.785;;;01-Jun-2020
+118934;HDFC Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;18.672;;;01-Jun-2020
+101765;HDFC Value Fund - IDCW Plan;INF179K01400;INF179K01418;16.858;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
 120323;ICICI Prudential Value Discovery Fund - Direct Plan - Growth;INF109K012K1;;137.78;;;01-Jun-2020
@@ -3098,23 +3098,23 @@ DSP Mutual Fund
 133927;DSP Low Duration Fund - Regular Plan - IDCW - Weekly;INF740KA1OP6;INF740KA1OQ4;10.0872;;;01-Jun-2020
 
 Edelweiss Mutual Fund
-140217;Edelweiss Low Duration Fund - Direct Plan - Annual Dividend Option;INF754K01FO2;INF754K01FK0;2192.9845;;;01-Jun-2020
-140222;Edelweiss Low Duration Fund - Direct Plan - Daily Dividend Option;;INF754K01FG8;960.1721;;;01-Jun-2020
-140216;Edelweiss Low Duration Fund - Direct Plan - Dividend Option;INF754K01FF0;INF754K01FE3;2237.3217;;;01-Jun-2020
-140223;Edelweiss Low Duration Fund - Direct Plan - Fortnightly Dividend Option;INF754K01FM6;INF754K01FI4;1949.3636;;;01-Jun-2020
-140220;Edelweiss Low Duration Fund - Direct Plan - Growth Option;INF754K01FD5;;2192.9122;;;01-Jun-2020
-140218;Edelweiss Low Duration Fund - Direct Plan - Monthly Dividend Option;INF754K01FN4;INF754K01FJ2;1950.8609;;;01-Jun-2020
-140219;Edelweiss Low Duration Fund - Direct Plan - Weekly Dividend Option;INF754K01FL8;INF754K01FH6;958.493;;;01-Jun-2020
-140208;Edelweiss Low Duration Fund - Regular Plan - Daily Dividend Option;;INF754K01FR5;950.4198;;;01-Jun-2020
-140214;Edelweiss Low Duration Fund - Regular Plan - Dividend Option;INF754K01FB9;INF754K01FC7;1441.2228;;;01-Jun-2020
-140205;Edelweiss Low Duration Fund - Regular Plan - Fortnightly Dividend Option;INF754K01GB7;INF754K01FT1;1912.2315;;;01-Jun-2020
-140207;Edelweiss Low Duration Fund - Regular Plan - Growth Option;INF754K01FQ7;;2129.1822;;;01-Jun-2020
-140206;Edelweiss Low Duration Fund - Regular Plan - Monthly Dividend Option;INF754K01GC5;INF754K01FU9;1014.7908;;;01-Jun-2020
-140209;Edelweiss Low Duration Fund - Regular Plan - Weekly Dividend Option;INF754K01GA9;INF754K01FS3;950.7751;;;01-Jun-2020
-140200;Edelweiss Low Duration Fund - Retail Plan - Daily Dividend Option;;INF754K01FW5;949.017;;;01-Jun-2020
-140201;Edelweiss Low Duration Fund - Retail Plan - Growth Option;INF754K01FV7;;1913.1022;;;01-Jun-2020
-140204;Edelweiss Low Duration Fund - Retail Plan - Monthly Dividend Option;;INF754K01FZ8;1045.1515;;;01-Jun-2020
-140202;Edelweiss Low Duration Fund - Retail Plan - Weekly Dividend Option;;INF754K01FX3;951.4743;;;01-Jun-2020
+140217;Edelweiss Low Duration Fund - Direct Plan - Annual Dividend Option;;;2192.9845;;;01-Jun-2020
+140222;Edelweiss Low Duration Fund - Direct Plan - Daily Dividend Option;;;960.1721;;;01-Jun-2020
+140216;Edelweiss Low Duration Fund - Direct Plan - Dividend Option;;;2237.3217;;;01-Jun-2020
+140223;Edelweiss Low Duration Fund - Direct Plan - Fortnightly Dividend Option;;;1949.3636;;;01-Jun-2020
+140220;Edelweiss Low Duration Fund - Direct Plan - Growth Option;;;2192.9122;;;01-Jun-2020
+140218;Edelweiss Low Duration Fund - Direct Plan - Monthly Dividend Option;;;1950.8609;;;01-Jun-2020
+140219;Edelweiss Low Duration Fund - Direct Plan - Weekly Dividend Option;;;958.493;;;01-Jun-2020
+140208;Edelweiss Low Duration Fund - Regular Plan - Daily Dividend Option;;;950.4198;;;01-Jun-2020
+140214;Edelweiss Low Duration Fund - Regular Plan - Dividend Option;;;1441.2228;;;01-Jun-2020
+140205;Edelweiss Low Duration Fund - Regular Plan - Fortnightly Dividend Option;;;1912.2315;;;01-Jun-2020
+140207;Edelweiss Low Duration Fund - Regular Plan - Growth Option;;;2129.1822;;;01-Jun-2020
+140206;Edelweiss Low Duration Fund - Regular Plan - Monthly Dividend Option;;;1014.7908;;;01-Jun-2020
+140209;Edelweiss Low Duration Fund - Regular Plan - Weekly Dividend Option;;;950.7751;;;01-Jun-2020
+140200;Edelweiss Low Duration Fund - Retail Plan - Daily Dividend Option;;;949.017;;;01-Jun-2020
+140201;Edelweiss Low Duration Fund - Retail Plan - Growth Option;;;1913.1022;;;01-Jun-2020
+140204;Edelweiss Low Duration Fund - Retail Plan - Monthly Dividend Option;;;1045.1515;;;01-Jun-2020
+140202;Edelweiss Low Duration Fund - Retail Plan - Weekly Dividend Option;;;951.4743;;;01-Jun-2020
 
 Franklin Templeton Mutual Fund
 118530;Franklin India Low Duration Fund - Direct - Growth;INF090I01HG7;;21.2699;;;01-Jun-2020
@@ -3151,7 +3151,7 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;20.7776;;;01-Jun-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.7061;;;01-Jun-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2421;;;01-Jun-2020
-120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;9.1118;;;01-Jun-2020
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8734;;;01-Jun-2020
 104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;8.8607;;;01-Jun-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.7211;;;01-Jun-2020
 
@@ -4451,7 +4451,7 @@ HSBC Mutual Fund
 120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1193;;;01-Jun-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3399;;;01-Jun-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3216;;;01-Jun-2020
-106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5867;;;01-Jun-2020
+106741;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01586;INF336L01578;16.6552;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.9237;;;01-Jun-2020
@@ -5812,10 +5812,10 @@ Axis Mutual Fund
 144396;Axis Aggressive Hybrid Fund - Regular Plan - Regular IDCW;INF846K01E74;INF846K01E82;9.72;;;01-Jun-2020
 
 Bandhan Mutual Fund
-140382;BANDHAN Hybrid Equity Fund-Direct Plan Growth;INF194KA1U56;;10.45;;;01-Jun-2020
-140383;BANDHAN Hybrid Equity Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;9.47;;;01-Jun-2020
-140381;BANDHAN Hybrid Equity Fund-Regular Plan Growth;INF194KA1U15;;9.88;;;01-Jun-2020
-140384;BANDHAN Hybrid Equity Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;8.95;;;01-Jun-2020
+140382;Bandhan Aggressive Hybrid Fund-Direct Plan Growth;INF194KA1U56;;10.45;;;01-Jun-2020
+140383;Bandhan Aggressive Hybrid Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;9.47;;;01-Jun-2020
+140381;Bandhan Aggressive Hybrid Fund-Regular Plan Growth;INF194KA1U15;;9.88;;;01-Jun-2020
+140384;Bandhan Aggressive Hybrid Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;8.95;;;01-Jun-2020
 
 Bank of India Mutual Fund
 139527;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH;INF761K01DM6;;11.56;;;01-Jun-2020
@@ -7232,14 +7232,14 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;17.7932;;;01-Jun-2020
-131898;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;28.4177;;;01-Jun-2020
-131895;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;17.201;;;01-Jun-2020
-131896;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;27.4304;;;01-Jun-2020
 131865;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;INF084M01DM9;;14.3789;;;01-Jun-2020
 131864;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;INF084M01AE2;;28.4575;;;01-Jun-2020
 131866;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;13.7033;;;01-Jun-2020
 131863;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;26.2032;;;01-Jun-2020
+131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;17.7932;;;01-Jun-2020
+131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;28.4177;;;01-Jun-2020
+131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;17.201;;;01-Jun-2020
+131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;27.4304;;;01-Jun-2020
 132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;20.6963;;;01-Jun-2020
 132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;22.5974;;;01-Jun-2020
 132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;21.4893;;;01-Jun-2020
@@ -7344,25 +7344,25 @@ Franklin Templeton Mutual Fund
 132988;Franklin India Multi - Asset Solution Fund of Funds- IDCW;INF090I01LF1;INF090I01LG9;9.8682;;;01-Jun-2020
 
 HDFC Mutual Fund
-130533;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;INF179KA1SF8;;17.1443;;;01-Jun-2020
-130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;18.2109;;;01-Jun-2020
-130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;15.0222;;;01-Jun-2020
-130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;15.9952;;;01-Jun-2020
 119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;15.5248;;;01-Jun-2020
 115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;15.0934;;;01-Jun-2020
+130533;HDFC Income Plus Arbitrage Active FOF - Growth Option;INF179KA1SF8;;17.1443;;;01-Jun-2020
+130543;HDFC Income Plus Arbitrage Active FOF - Growth Option - Direct Plan;INF179KA1SC5;;18.2109;;;01-Jun-2020
+130540;HDFC Income Plus Arbitrage Active FOF - IDCW Option;INF179KA1SG6;;15.0222;;;01-Jun-2020
+130547;HDFC Income Plus Arbitrage Active FOF - IDCW Option - Direct Plan;INF179KA1SD3;;15.9952;;;01-Jun-2020
 
 HSBC Mutual Fund
-129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;15.0291;;;01-Jun-2020
-129197;HSBC Managed Solutions - Conservative - Growth Direct;INF336L01IP7;;15.344;;;01-Jun-2020
-129196;HSBC Managed Solutions India Conservative Fund IDCW;INF336L01IK8;INF336L01IL6;15.0291;;;01-Jun-2020
-129199;HSBC Managed Solutions - Growth - Dividend;INF336L01HY1;INF336L01HZ8;15.7319;;;01-Jun-2020
-129201;HSBC Managed Solutions - Growth - Dividend Direct;INF336L01IB7;INF336L01IC5;16.0068;;;01-Jun-2020
-129065;HSBC Managed Solutions - Growth - Growth;INF336L01IA9;;15.7319;;;01-Jun-2020
-129200;HSBC Managed Solutions - Growth - Growth Direct;INF336L01ID3;;16.0068;;;01-Jun-2020
-129191;HSBC Managed Solutions - Moderate - Growth;INF336L01IG6;;15.5774;;;01-Jun-2020
-129193;HSBC Managed Solutions - Moderate - Growth Direct;INF336L01IJ0;;15.8825;;;01-Jun-2020
-129194;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;INF336L01IH4;INF336L01II2;9.9595;;;01-Jun-2020
-129192;HSBC Managed Solutions India Moderate Fund IDCW;INF336L01IE1;INF336L01IF8;15.5774;;;01-Jun-2020
+129199;HSBC Aggressive Hybrid Active FOF - Dividend;INF336L01HY1;INF336L01HZ8;15.7319;;;01-Jun-2020
+129201;HSBC Aggressive Hybrid Active FOF - Dividend Direct;INF336L01IB7;INF336L01IC5;16.0068;;;01-Jun-2020
+129065;HSBC Aggressive Hybrid Active FOF - Growth;INF336L01IA9;;15.7319;;;01-Jun-2020
+129200;HSBC Aggressive Hybrid Active FOF - Growth Direct;INF336L01ID3;;16.0068;;;01-Jun-2020
+129195;HSBC Income Plus Arbitrage Active FOF - Growth;INF336L01IM4;;15.0291;;;01-Jun-2020
+129197;HSBC Income Plus Arbitrage Active FOF - Growth Direct;INF336L01IP7;;15.344;;;01-Jun-2020
+129196;HSBC Income Plus Arbitrage Active FOF IDCW;INF336L01IK8;INF336L01IL6;15.0291;;;01-Jun-2020
+129191;HSBC Multi Asset Active FOF - Growth;INF336L01IG6;;15.5774;;;01-Jun-2020
+129193;HSBC Multi Asset Active FOF - Growth Direct;INF336L01IJ0;;15.8825;;;01-Jun-2020
+129194;HSBC Multi Asset Active FOF Direct Plan IDCW;INF336L01IH4;INF336L01II2;9.9595;;;01-Jun-2020
+129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;15.5774;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
 120679;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;INF109K01X16;;56.3141;;;01-Jun-2020

@@ -2196,10 +2196,10 @@ Franklin Templeton Mutual Fund
 100497;Templeton India Value Fund - IDCW ;INF090I01270;INF090I01288;70.1339;69.4326;70.1339;01-Dec-2014
 
 HDFC Mutual Fund
-118935;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;INF179K01VC4;;200.998;198.988;200.998;01-Dec-2014
-101764;HDFC Capital Builder Value Fund - Growth Plan;INF179K01426;;199.437;197.443;199.437;01-Dec-2014
-118934;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;30.733;30.426;30.733;01-Dec-2014
-101765;HDFC Capital Builder Value Fund - IDCW Plan;INF179K01400;INF179K01418;30.438;30.134;30.438;01-Dec-2014
+118935;HDFC Value Fund - Growth Option - Direct Plan;INF179K01VC4;;200.998;198.988;200.998;01-Dec-2014
+101764;HDFC Value Fund - Growth Plan;INF179K01426;;199.437;197.443;199.437;01-Dec-2014
+118934;HDFC Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;30.733;30.426;30.733;01-Dec-2014
+101765;HDFC Value Fund - IDCW Plan;INF179K01400;INF179K01418;30.438;30.134;30.438;01-Dec-2014
 
 ICICI Prudential Mutual Fund
 120323;ICICI Prudential Value Discovery Fund - Direct Plan - Growth;INF109K012K1;;107.77;106.69;107.77;01-Dec-2014
@@ -6487,10 +6487,6 @@ Aditya Birla Sun Life Mutual Fund
 132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;17.19;17.02;17.19;01-Dec-2014
 
 DSP Mutual Fund
-130493;DSP Global Allocation Fund of Fund - Direct Plan - Growth;INF740K01Z50;;10.2474;10.1449;10.2474;01-Dec-2014
-130491;DSP Global Allocation Fund of Fund - Direct Plan - IDCW;INF740K01Z68;INF740K01Z76;10.2474;10.1449;10.2474;01-Dec-2014
-130492;DSP Global Allocation Fund of Fund - Regular Plan - Growth;INF740K01Z27;;10.2290;10.1267;10.2290;01-Dec-2014
-130490;DSP Global Allocation Fund of Fund - Regular Plan - IDCW;INF740K01Z35;INF740K01Z43;10.2290;10.1267;10.2290;01-Dec-2014
 119275;DSP Global Clean Energy Fund of Fund - Direct Plan - Growth;INF740K01PC5;;12.8501;12.7216;12.8501;01-Dec-2014
 119276;DSP Global Clean Energy Fund of Fund - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;12.8501;12.7216;12.8501;01-Dec-2014
 112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;12.7926;12.6647;12.7926;01-Dec-2014
@@ -6574,13 +6570,13 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;11.5200;11.5200;11.5200;01-Dec-2014
-131898;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;18.3887;18.3887;18.3887;01-Dec-2014
-131895;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;11.4531;11.4531;11.4531;01-Dec-2014
-131896;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;18.2643;18.2643;18.2643;01-Dec-2014
 131865;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;INF084M01DM9;;10.1618;10.1618;10.1618;01-Dec-2014
 131864;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;INF084M01AE2;;20.3394;20.3394;20.3394;01-Dec-2014
 131863;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;18.7368;18.7368;18.7368;01-Dec-2014
+131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;11.5200;11.5200;11.5200;01-Dec-2014
+131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;18.3887;18.3887;18.3887;01-Dec-2014
+131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;11.4531;11.4531;11.4531;01-Dec-2014
+131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;18.2643;18.2643;18.2643;01-Dec-2014
 132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;14.6246;14.6246;14.6246;01-Dec-2014
 132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;15.9721;15.9721;15.9721;01-Dec-2014
 132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;15.8348;15.8348;15.8348;01-Dec-2014
@@ -6636,6 +6632,12 @@ Canara Robeco Mutual Fund
 117540;Canara Robeco Gold Savings Fund - Regular Plan - Dividend;INF760K01BY7;INF760K01BX9;8.2415;8.2415;8.2415;01-Dec-2014
 117541;Canara Robeco Gold Savings Fund - Regular Plan - Growth;INF760K01BW1;;8.2368;8.2368;8.2368;01-Dec-2014
 
+DSP Mutual Fund
+130493;DSP Income Plus Arbitrage Fund of Fund - Direct Plan - Growth;INF740K01Z50;;10.2474;10.1449;10.2474;01-Dec-2014
+130491;DSP Income Plus Arbitrage Fund of Fund - Direct Plan - IDCW;INF740K01Z68;INF740K01Z76;10.2474;10.1449;10.2474;01-Dec-2014
+130492;DSP Income Plus Arbitrage Fund of Fund - Regular Plan - Growth;INF740K01Z27;;10.2290;10.1267;10.2290;01-Dec-2014
+130490;DSP Income Plus Arbitrage Fund of Fund - Regular Plan - IDCW;INF740K01Z35;INF740K01Z43;10.2290;10.1267;10.2290;01-Dec-2014
+
 Franklin Templeton Mutual Fund
 118543;Franklin India Dynamic Asset Allocation Fund Of Funds - Direct - Growth;INF090I01HV6;;60.9047;60.2957;60.9047;01-Dec-2014
 118542;Franklin India Dynamic Asset Allocation Fund of funds - Direct - IDCW ;INF090I01HT0;INF090I01HU8;39.9080;39.5089;39.9080;01-Dec-2014
@@ -6667,24 +6669,24 @@ Franklin Templeton Mutual Fund
 132988;Franklin India Multi - Asset Solution Fund of Funds- IDCW;INF090I01LF1;INF090I01LG9;9.9952;9.8952;9.9952;01-Dec-2014
 
 HDFC Mutual Fund
-130533;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;INF179KA1SF8;;13.6991;13.5621;13.6991;01-Dec-2014
-130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;13.8490;13.7105;13.8490;01-Dec-2014
-130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;12.0059;11.8858;12.0059;01-Dec-2014
-130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;12.1755;12.0537;12.1755;01-Dec-2014
 119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;8.9976;8.9976;8.9976;01-Dec-2014
 115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;8.9597;8.9597;8.9597;01-Dec-2014
+130533;HDFC Income Plus Arbitrage Active FOF - Growth Option;INF179KA1SF8;;13.6991;13.5621;13.6991;01-Dec-2014
+130543;HDFC Income Plus Arbitrage Active FOF - Growth Option - Direct Plan;INF179KA1SC5;;13.8490;13.7105;13.8490;01-Dec-2014
+130540;HDFC Income Plus Arbitrage Active FOF - IDCW Option;INF179KA1SG6;;12.0059;11.8858;12.0059;01-Dec-2014
+130547;HDFC Income Plus Arbitrage Active FOF - IDCW Option - Direct Plan;INF179KA1SD3;;12.1755;12.0537;12.1755;01-Dec-2014
 
 HSBC Mutual Fund
-129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;11.0935;11.0935;11.0935;01-Dec-2014
-129197;HSBC Managed Solutions - Conservative - Growth Direct;INF336L01IP7;;11.11;11.11;11.11;01-Dec-2014
-129196;HSBC Managed Solutions India Conservative Fund IDCW;INF336L01IK8;INF336L01IL6;11.0935;11.0935;11.0935;01-Dec-2014
-129199;HSBC Managed Solutions - Growth - Dividend;INF336L01HY1;INF336L01HZ8;12.5136;12.5136;12.5136;01-Dec-2014
-129201;HSBC Managed Solutions - Growth - Dividend Direct;INF336L01IB7;INF336L01IC5;12.5336;12.5336;12.5336;01-Dec-2014
-129065;HSBC Managed Solutions - Growth - Growth;INF336L01IA9;;12.5136;12.5136;12.5136;01-Dec-2014
-129200;HSBC Managed Solutions - Growth - Growth Direct;INF336L01ID3;;12.5336;12.5336;12.5336;01-Dec-2014
-129191;HSBC Managed Solutions - Moderate - Growth;INF336L01IG6;;11.975;11.975;11.975;01-Dec-2014
-129193;HSBC Managed Solutions - Moderate - Growth Direct;INF336L01IJ0;;11.9927;11.9927;11.9927;01-Dec-2014
-129192;HSBC Managed Solutions India Moderate Fund IDCW;INF336L01IE1;INF336L01IF8;11.975;11.975;11.975;01-Dec-2014
+129199;HSBC Aggressive Hybrid Active FOF - Dividend;INF336L01HY1;INF336L01HZ8;12.5136;12.5136;12.5136;01-Dec-2014
+129201;HSBC Aggressive Hybrid Active FOF - Dividend Direct;INF336L01IB7;INF336L01IC5;12.5336;12.5336;12.5336;01-Dec-2014
+129065;HSBC Aggressive Hybrid Active FOF - Growth;INF336L01IA9;;12.5136;12.5136;12.5136;01-Dec-2014
+129200;HSBC Aggressive Hybrid Active FOF - Growth Direct;INF336L01ID3;;12.5336;12.5336;12.5336;01-Dec-2014
+129195;HSBC Income Plus Arbitrage Active FOF - Growth;INF336L01IM4;;11.0935;11.0935;11.0935;01-Dec-2014
+129197;HSBC Income Plus Arbitrage Active FOF - Growth Direct;INF336L01IP7;;11.11;11.11;11.11;01-Dec-2014
+129196;HSBC Income Plus Arbitrage Active FOF IDCW;INF336L01IK8;INF336L01IL6;11.0935;11.0935;11.0935;01-Dec-2014
+129191;HSBC Multi Asset Active FOF - Growth;INF336L01IG6;;11.975;11.975;11.975;01-Dec-2014
+129193;HSBC Multi Asset Active FOF - Growth Direct;INF336L01IJ0;;11.9927;11.9927;11.9927;01-Dec-2014
+129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;11.975;11.975;11.975;01-Dec-2014
 
 ICICI Prudential Mutual Fund
 120679;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;INF109K01X16;;37.6656;37.2889;37.6656;01-Dec-2014

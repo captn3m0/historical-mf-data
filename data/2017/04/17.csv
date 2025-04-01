@@ -1198,10 +1198,10 @@ Groww Mutual Fund
 140820;Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Half Yearly -Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01DI1;INF666M01DJ9;10.6769;10.5701;10.6769;17-Apr-2017
 
 HDFC Mutual Fund
-118935;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;INF179K01VC4;;257.9720;255.3920;257.9720;17-Apr-2017
-101764;HDFC Capital Builder Value Fund - Growth Plan;INF179K01426;;250.2140;247.7120;250.2140;17-Apr-2017
-118934;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;28.4140;28.1300;28.4140;17-Apr-2017
-101765;HDFC Capital Builder Value Fund - IDCW Plan;INF179K01400;INF179K01418;27.2860;27.0130;27.2860;17-Apr-2017
+118935;HDFC Value Fund - Growth Option - Direct Plan;INF179K01VC4;;257.9720;255.3920;257.9720;17-Apr-2017
+101764;HDFC Value Fund - Growth Plan;INF179K01426;;250.2140;247.7120;250.2140;17-Apr-2017
+118934;HDFC Value Fund - IDCW Option - Direct Plan;INF179K01VA8;INF179K01VB6;28.4140;28.1300;28.4140;17-Apr-2017
+101765;HDFC Value Fund - IDCW Plan;INF179K01400;INF179K01418;27.2860;27.0130;27.2860;17-Apr-2017
 
 ICICI Prudential Mutual Fund
 120323;ICICI Prudential Value Discovery Fund - Direct Plan - Growth;INF109K012K1;;137.64;136.26;137.64;17-Apr-2017
@@ -2866,18 +2866,18 @@ DSP Mutual Fund
 133927;DSP Low Duration Fund - Regular Plan - IDCW - Weekly;INF740KA1OP6;INF740KA1OQ4;10.0674;10.0674;10.0674;17-Apr-2017
 
 Edelweiss Mutual Fund
-140222;Edelweiss Low Duration Fund - Direct Plan - Daily Dividend Option;;INF754K01FG8;10.0825;10.0825;10.0825;17-Apr-2017
-140220;Edelweiss Low Duration Fund - Direct Plan - Growth Option;INF754K01FD5;;19.5563;19.5563;19.5563;17-Apr-2017
-140219;Edelweiss Low Duration Fund - Direct Plan - Weekly Dividend Option;INF754K01FL8;INF754K01FH6;10.0781;10.0781;10.0781;17-Apr-2017
-140208;Edelweiss Low Duration Fund - Regular Plan - Daily Dividend Option;;INF754K01FR5;10.0089;10.0089;10.0089;17-Apr-2017
-140214;Edelweiss Low Duration Fund - Regular Plan - Dividend Option;INF754K01FB9;INF754K01FC7;13.1651;13.1651;13.1651;17-Apr-2017
-140207;Edelweiss Low Duration Fund - Regular Plan - Growth Option;INF754K01FQ7;;19.4632;19.4632;19.4632;17-Apr-2017
-140206;Edelweiss Low Duration Fund - Regular Plan - Monthly Dividend Option;INF754K01GC5;INF754K01FU9;10.0911;10.0911;10.0911;17-Apr-2017
-140209;Edelweiss Low Duration Fund - Regular Plan - Weekly Dividend Option;INF754K01GA9;INF754K01FS3;10.0774;10.0774;10.0774;17-Apr-2017
-140200;Edelweiss Low Duration Fund - Retail Plan - Daily Dividend Option;;INF754K01FW5;10.0353;10.0353;10.0353;17-Apr-2017
-140201;Edelweiss Low Duration Fund - Retail Plan - Growth Option;INF754K01FV7;;17.4036;17.4036;17.4036;17-Apr-2017
-140204;Edelweiss Low Duration Fund - Retail Plan - Monthly Dividend Option;;INF754K01FZ8;10.0796;10.0796;10.0796;17-Apr-2017
-140202;Edelweiss Low Duration Fund - Retail Plan - Weekly Dividend Option;;INF754K01FX3;10.0848;10.0848;10.0848;17-Apr-2017
+140222;Edelweiss Low Duration Fund - Direct Plan - Daily Dividend Option;;;10.0825;10.0825;10.0825;17-Apr-2017
+140220;Edelweiss Low Duration Fund - Direct Plan - Growth Option;;;19.5563;19.5563;19.5563;17-Apr-2017
+140219;Edelweiss Low Duration Fund - Direct Plan - Weekly Dividend Option;;;10.0781;10.0781;10.0781;17-Apr-2017
+140208;Edelweiss Low Duration Fund - Regular Plan - Daily Dividend Option;;;10.0089;10.0089;10.0089;17-Apr-2017
+140214;Edelweiss Low Duration Fund - Regular Plan - Dividend Option;;;13.1651;13.1651;13.1651;17-Apr-2017
+140207;Edelweiss Low Duration Fund - Regular Plan - Growth Option;;;19.4632;19.4632;19.4632;17-Apr-2017
+140206;Edelweiss Low Duration Fund - Regular Plan - Monthly Dividend Option;;;10.0911;10.0911;10.0911;17-Apr-2017
+140209;Edelweiss Low Duration Fund - Regular Plan - Weekly Dividend Option;;;10.0774;10.0774;10.0774;17-Apr-2017
+140200;Edelweiss Low Duration Fund - Retail Plan - Daily Dividend Option;;;10.0353;10.0353;10.0353;17-Apr-2017
+140201;Edelweiss Low Duration Fund - Retail Plan - Growth Option;;;17.4036;17.4036;17.4036;17-Apr-2017
+140204;Edelweiss Low Duration Fund - Retail Plan - Monthly Dividend Option;;;10.0796;10.0796;10.0796;17-Apr-2017
+140202;Edelweiss Low Duration Fund - Retail Plan - Weekly Dividend Option;;;10.0848;10.0848;10.0848;17-Apr-2017
 
 Franklin Templeton Mutual Fund
 118530;Franklin India Low Duration Fund - Direct - Growth;INF090I01HG7;;18.7719;18.6780;18.7719;17-Apr-2017
@@ -5382,10 +5382,10 @@ Aditya Birla Sun Life Mutual Fund
 103154;Aditya Birla Sun Life Equity Hybrid'95 Fund -Regular - IDCW;INF209K01BS7;INF209K01EE1;146.73;145.26;146.73;17-Apr-2017
 
 Bandhan Mutual Fund
-140382;BANDHAN Hybrid Equity Fund-Direct Plan Growth;INF194KA1U56;;10.7022;10.7022;10.7022;17-Apr-2017
-140383;BANDHAN Hybrid Equity Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;10.7012;10.7012;10.7012;17-Apr-2017
-140381;BANDHAN Hybrid Equity Fund-Regular Plan Growth;INF194KA1U15;;10.6459;10.6459;10.6459;17-Apr-2017
-140384;BANDHAN Hybrid Equity Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;10.6460;10.6460;10.6460;17-Apr-2017
+140382;Bandhan Aggressive Hybrid Fund-Direct Plan Growth;INF194KA1U56;;10.7022;10.7022;10.7022;17-Apr-2017
+140383;Bandhan Aggressive Hybrid Fund-Direct Plan IDCW;INF194KA1U64;INF194KA1U72;10.7012;10.7012;10.7012;17-Apr-2017
+140381;Bandhan Aggressive Hybrid Fund-Regular Plan Growth;INF194KA1U15;;10.6459;10.6459;10.6459;17-Apr-2017
+140384;Bandhan Aggressive Hybrid Fund-Regular Plan IDCW;INF194KA1U23;INF194KA1U31;10.6460;10.6460;10.6460;17-Apr-2017
 
 Bank of India Mutual Fund
 139527;BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH;INF761K01DM6;;11.55;11.43;11.55;17-Apr-2017
@@ -6388,14 +6388,14 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;14.4036;14.2596;14.4036;17-Apr-2017
-131898;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;22.9917;22.7618;22.9917;17-Apr-2017
-131895;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;14.1508;14.0093;14.1508;17-Apr-2017
-131896;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;22.5665;22.3408;22.5665;17-Apr-2017
 131865;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;INF084M01DM9;;12.8243;12.6961;12.8243;17-Apr-2017
 131864;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;INF084M01AE2;;25.6557;25.3991;25.6557;17-Apr-2017
 131866;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;12.2187;12.0965;12.2187;17-Apr-2017
 131863;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;23.6168;23.3806;23.6168;17-Apr-2017
+131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;14.4036;14.2596;14.4036;17-Apr-2017
+131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;22.9917;22.7618;22.9917;17-Apr-2017
+131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;14.1508;14.0093;14.1508;17-Apr-2017
+131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;22.5665;22.3408;22.5665;17-Apr-2017
 132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;18.7370;18.5496;18.7370;17-Apr-2017
 132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;20.4426;20.2382;20.4426;17-Apr-2017
 132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;19.9229;19.7237;19.9229;17-Apr-2017
@@ -6481,24 +6481,24 @@ Franklin Templeton Mutual Fund
 132988;Franklin India Multi - Asset Solution Fund of Funds- IDCW;INF090I01LF1;INF090I01LG9;11.4589;11.3443;11.4589;17-Apr-2017
 
 HDFC Mutual Fund
-130533;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;INF179KA1SF8;;16.6314;16.4651;16.6314;17-Apr-2017
-130543;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;INF179KA1SC5;;17.1949;17.0230;17.1949;17-Apr-2017
-130540;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;INF179KA1SG6;;14.5757;14.4299;14.5757;17-Apr-2017
-130547;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;INF179KA1SD3;;15.1028;14.9518;15.1028;17-Apr-2017
 119132;HDFC Gold ETF Fund of Fund - Direct Plan;INF179K01VX0;;10.0378;9.8370;10.0378;17-Apr-2017
 115934;HDFC Gold ETF Fund of Fund - Growth Option;INF179K01LC5;;9.8877;9.6899;9.8877;17-Apr-2017
+130533;HDFC Income Plus Arbitrage Active FOF - Growth Option;INF179KA1SF8;;16.6314;16.4651;16.6314;17-Apr-2017
+130543;HDFC Income Plus Arbitrage Active FOF - Growth Option - Direct Plan;INF179KA1SC5;;17.1949;17.0230;17.1949;17-Apr-2017
+130540;HDFC Income Plus Arbitrage Active FOF - IDCW Option;INF179KA1SG6;;14.5757;14.4299;14.5757;17-Apr-2017
+130547;HDFC Income Plus Arbitrage Active FOF - IDCW Option - Direct Plan;INF179KA1SD3;;15.1028;14.9518;15.1028;17-Apr-2017
 
 HSBC Mutual Fund
-129195;HSBC Managed Solutions - Conservative - Growth;INF336L01IM4;;13.2902;13.2902;13.2902;17-Apr-2017
-129197;HSBC Managed Solutions - Conservative - Growth Direct;INF336L01IP7;;13.3892;13.3892;13.3892;17-Apr-2017
-129196;HSBC Managed Solutions India Conservative Fund IDCW;INF336L01IK8;INF336L01IL6;13.2902;13.2902;13.2902;17-Apr-2017
-129199;HSBC Managed Solutions - Growth - Dividend;INF336L01HY1;INF336L01HZ8;15.6893;15.6893;15.6893;17-Apr-2017
-129201;HSBC Managed Solutions - Growth - Dividend Direct;INF336L01IB7;INF336L01IC5;15.8155;15.8155;15.8155;17-Apr-2017
-129065;HSBC Managed Solutions - Growth - Growth;INF336L01IA9;;15.6893;15.6893;15.6893;17-Apr-2017
-129200;HSBC Managed Solutions - Growth - Growth Direct;INF336L01ID3;;15.8155;15.8155;15.8155;17-Apr-2017
-129191;HSBC Managed Solutions - Moderate - Growth;INF336L01IG6;;15.0493;15.0493;15.0493;17-Apr-2017
-129193;HSBC Managed Solutions - Moderate - Growth Direct;INF336L01IJ0;;15.1613;15.1613;15.1613;17-Apr-2017
-129192;HSBC Managed Solutions India Moderate Fund IDCW;INF336L01IE1;INF336L01IF8;15.0493;15.0493;15.0493;17-Apr-2017
+129199;HSBC Aggressive Hybrid Active FOF - Dividend;INF336L01HY1;INF336L01HZ8;15.6893;15.6893;15.6893;17-Apr-2017
+129201;HSBC Aggressive Hybrid Active FOF - Dividend Direct;INF336L01IB7;INF336L01IC5;15.8155;15.8155;15.8155;17-Apr-2017
+129065;HSBC Aggressive Hybrid Active FOF - Growth;INF336L01IA9;;15.6893;15.6893;15.6893;17-Apr-2017
+129200;HSBC Aggressive Hybrid Active FOF - Growth Direct;INF336L01ID3;;15.8155;15.8155;15.8155;17-Apr-2017
+129195;HSBC Income Plus Arbitrage Active FOF - Growth;INF336L01IM4;;13.2902;13.2902;13.2902;17-Apr-2017
+129197;HSBC Income Plus Arbitrage Active FOF - Growth Direct;INF336L01IP7;;13.3892;13.3892;13.3892;17-Apr-2017
+129196;HSBC Income Plus Arbitrage Active FOF IDCW;INF336L01IK8;INF336L01IL6;13.2902;13.2902;13.2902;17-Apr-2017
+129191;HSBC Multi Asset Active FOF - Growth;INF336L01IG6;;15.0493;15.0493;15.0493;17-Apr-2017
+129193;HSBC Multi Asset Active FOF - Growth Direct;INF336L01IJ0;;15.1613;15.1613;15.1613;17-Apr-2017
+129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;15.0493;15.0493;15.0493;17-Apr-2017
 
 ICICI Prudential Mutual Fund
 120679;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;INF109K01X16;;46.4252;45.9609;46.4252;17-Apr-2017
