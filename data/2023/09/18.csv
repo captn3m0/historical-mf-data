@@ -182,10 +182,10 @@ Canara Robeco Mutual Fund
 113222;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;24.2600;;;18-Sep-2023
 
 DSP Mutual Fund
-119250;DSP Top 100 Equity Fund - Direct Plan - Growth;INF740K01PR3;;370.612;;;18-Sep-2023
-119249;DSP Top 100 Equity Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;25.621;;;18-Sep-2023
-101635;DSP Top 100 Equity Fund - Regular Plan - Growth;INF740K01243;;344.354;;;18-Sep-2023
-101636;DSP Top 100 Equity Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;22.705;;;18-Sep-2023
+119250;DSP Large Cap Fund - Direct Plan - Growth;INF740K01PR3;;370.612;;;18-Sep-2023
+119249;DSP Large Cap Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;25.621;;;18-Sep-2023
+101635;DSP Large Cap Fund - Regular Plan - Growth;INF740K01243;;344.354;;;18-Sep-2023
+101636;DSP Large Cap Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;22.705;;;18-Sep-2023
 
 Edelweiss Mutual Fund
 118616;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;INF754K01BT0;INF754K01BU8;32.93;;;18-Sep-2023
@@ -395,10 +395,10 @@ Canara Robeco Mutual Fund
 102921;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;69.9700;;;18-Sep-2023
 
 DSP Mutual Fund
-119218;DSP Equity Opportunities Fund - Direct Plan - Growth;INF740K01PL6;;475.911;;;18-Sep-2023
-119219;DSP Equity Opportunities Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;91.532;;;18-Sep-2023
-103819;DSP Equity Opportunities Fund-Regular Plan - Growth;INF740K01094;;434.004;;;18-Sep-2023
-103820;DSP Equity Opportunities Fund-Regular Plan - IDCW;INF740K01078;INF740K01086;32.718;;;18-Sep-2023
+119218;DSP Large & Mid Cap Fund - Direct Plan - Growth;INF740K01PL6;;475.911;;;18-Sep-2023
+119219;DSP Large & Mid Cap Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;91.532;;;18-Sep-2023
+103819;DSP Large & Mid Cap Fund - Regular Plan - Growth;INF740K01094;;434.004;;;18-Sep-2023
+103820;DSP Large & Mid Cap Fund - Regular Plan - IDCW;INF740K01078;INF740K01086;32.718;;;18-Sep-2023
 
 Edelweiss Mutual Fund
 140175;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;INF843K01AL0;;72.068;;;18-Sep-2023
@@ -1104,10 +1104,10 @@ Canara Robeco Mutual Fund
 148885;Canara Robeco Focused Equity Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01JV6;INF760K01JU8;13.6400;;;18-Sep-2023
 
 DSP Mutual Fund
-119096;DSP Focus Fund - Direct Plan - Growth;INF740K01OB0;;43.372;;;18-Sep-2023
-119095;DSP Focus Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;35.889;;;18-Sep-2023
-112901;DSP Focus Fund - Regular Plan - Growth;INF740K01532;;39.595;;;18-Sep-2023
-113032;DSP Focus Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;18.793;;;18-Sep-2023
+119096;DSP Focused Fund - Direct Plan - Growth;INF740K01OB0;;43.372;;;18-Sep-2023
+119095;DSP Focused Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;35.889;;;18-Sep-2023
+112901;DSP Focused Fund - Regular Plan - Growth;INF740K01532;;39.595;;;18-Sep-2023
+113032;DSP Focused Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;18.793;;;18-Sep-2023
 
 Edelweiss Mutual Fund
 150376;Edelweiss Focused Fund - Direct Plan - Growth;INF754K01OP1;;12.343;;;18-Sep-2023
@@ -7974,10 +7974,10 @@ SBI Mutual Fund
 148759;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;12.2402;;;18-Sep-2023
 
 Sundaram Mutual Fund
-119602;Sundaram Global Brand Fund Direct Plan - Growth;INF903J01OB6;;28.9062;;;18-Sep-2023
-119601;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NZ7;INF903J01OA8;25.7074;;;18-Sep-2023
-106370;Sundaram Global Brand Fund Regular Plan - Growth;INF903J01EX1;;26.8590;;;18-Sep-2023
-106369;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EY9;INF903J01EZ6;23.0159;;;18-Sep-2023
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;28.9062;;;18-Sep-2023
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;25.7074;;;18-Sep-2023
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;26.8590;;;18-Sep-2023
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;23.0159;;;18-Sep-2023
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -8164,10 +8164,10 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;13.4508;;;18-Sep-2023
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;13.1020;;;18-Sep-2023
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;13.1016;;;18-Sep-2023
-120313;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;INF109K01W82;;55.8083;;;18-Sep-2023
-120314;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;INF109K01W66;INF109K01W74;46.8178;;;18-Sep-2023
-102139;ICICI Prudential Income Optimizer Fund (FOF) - Growth;INF109K01811;;52.4123;;;18-Sep-2023
-102140;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;INF109K01EB9;INF109K01829;43.8871;;;18-Sep-2023
+120313;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - Growth;INF109K01W82;;55.8083;;;18-Sep-2023
+120314;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;46.8178;;;18-Sep-2023
+102139;ICICI Prudential Income Plus Arbitrage Active FOF - Growth;INF109K01811;;52.4123;;;18-Sep-2023
+102140;ICICI Prudential Income plus Arbitrage Active FOF - IDCW;INF109K01EB9;INF109K01829;43.8871;;;18-Sep-2023
 148035;ICICI Prudential India Equity FOF - Direct Plan - Growth;INF109KC1I49;;21.8742;;;18-Sep-2023
 148036;ICICI Prudential India Equity FOF - Direct Plan - IDCW;INF109KC1I64;INF109KC1I56;18.3011;;;18-Sep-2023
 148033;ICICI Prudential India Equity FOF - Growth;INF109KC1I15;;21.2328;;;18-Sep-2023

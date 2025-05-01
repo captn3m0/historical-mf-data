@@ -191,10 +191,10 @@ Canara Robeco Mutual Fund
 113222;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;17.7700;;;01-Aug-2018
 
 DSP Mutual Fund
-119250;DSP Top 100 Equity Fund - Direct Plan - Growth;INF740K01PR3;;218.409;;;01-Aug-2018
-119249;DSP Top 100 Equity Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;24.630;;;01-Aug-2018
-101635;DSP Top 100 Equity Fund - Regular Plan - Growth;INF740K01243;;210.931;;;01-Aug-2018
-101636;DSP Top 100 Equity Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;22.536;;;01-Aug-2018
+119250;DSP Large Cap Fund - Direct Plan - Growth;INF740K01PR3;;218.409;;;01-Aug-2018
+119249;DSP Large Cap Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;24.630;;;01-Aug-2018
+101635;DSP Large Cap Fund - Regular Plan - Growth;INF740K01243;;210.931;;;01-Aug-2018
+101636;DSP Large Cap Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;22.536;;;01-Aug-2018
 
 Edelweiss Mutual Fund
 118616;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;INF754K01BT0;INF754K01BU8;24.11;;;01-Aug-2018
@@ -390,10 +390,10 @@ Canara Robeco Mutual Fund
 102921;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;48.2800;;;01-Aug-2018
 
 DSP Mutual Fund
-119218;DSP Equity Opportunities Fund - Direct Plan - Growth;INF740K01PL6;;229.011;;;01-Aug-2018
-119219;DSP Equity Opportunities Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;54.740;;;01-Aug-2018
-103819;DSP Equity Opportunities Fund-Regular Plan - Growth;INF740K01094;;219.337;;;01-Aug-2018
-103820;DSP Equity Opportunities Fund-Regular Plan - IDCW;INF740K01078;INF740K01086;28.145;;;01-Aug-2018
+119218;DSP Large & Mid Cap Fund - Direct Plan - Growth;INF740K01PL6;;229.011;;;01-Aug-2018
+119219;DSP Large & Mid Cap Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;54.740;;;01-Aug-2018
+103819;DSP Large & Mid Cap Fund - Regular Plan - Growth;INF740K01094;;219.337;;;01-Aug-2018
+103820;DSP Large & Mid Cap Fund - Regular Plan - IDCW;INF740K01078;INF740K01086;28.145;;;01-Aug-2018
 
 Edelweiss Mutual Fund
 140175;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;INF843K01AL0;;33.685;;;01-Aug-2018
@@ -913,10 +913,10 @@ BNP Paribas Mutual Fund
 141812;BNP Paribas Focused 25 Equity Fund - Regular Plan-Growth Option;INF251K01PK6;;9.9300;;;01-Aug-2018
 
 DSP Mutual Fund
-119096;DSP Focus Fund - Direct Plan - Growth;INF740K01OB0;;24.377;;;01-Aug-2018
-119095;DSP Focus Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;24.377;;;01-Aug-2018
-112901;DSP Focus Fund - Regular Plan - Growth;INF740K01532;;23.492;;;01-Aug-2018
-113032;DSP Focus Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;14.391;;;01-Aug-2018
+119096;DSP Focused Fund - Direct Plan - Growth;INF740K01OB0;;24.377;;;01-Aug-2018
+119095;DSP Focused Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;24.377;;;01-Aug-2018
+112901;DSP Focused Fund - Regular Plan - Growth;INF740K01532;;23.492;;;01-Aug-2018
+113032;DSP Focused Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;14.391;;;01-Aug-2018
 
 Franklin Templeton Mutual Fund
 118564;Franklin India Focused Equity Fund - Direct - Growth;INF090I01IW2;;41.6535;;;01-Aug-2018
@@ -2585,9 +2585,9 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.507;;;01-Aug-2018
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;10.0033;;;01-Aug-2018
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;16.1797;;;01-Aug-2018
-120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.095;;;01-Aug-2018
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0846;;;01-Aug-2018
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;17.6774;;;01-Aug-2018
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0519;;;01-Aug-2018
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0411;;;01-Aug-2018
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0036;;;01-Aug-2018
 
 ICICI Prudential Mutual Fund
@@ -3790,10 +3790,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;23.7892;;;01-Aug-2018
-120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.0444;;;01-Aug-2018
+120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;10.704;;;01-Aug-2018
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;22.0764;;;01-Aug-2018
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;22.7967;;;01-Aug-2018
-106770;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01537;14.2125;;;01-Aug-2018
+106739;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01503;INF336L01495;10.5039;;;01-Aug-2018
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.1872;;;01-Aug-2018
@@ -6180,10 +6180,10 @@ Principal Mutual Fund
 102337;Principal Global Opportunities Fund-Growth Option;INF173K01CT1;;30.7078;;;01-Aug-2018
 
 Sundaram Mutual Fund
-119602;Sundaram Global Brand Fund Direct Plan - Growth;INF903J01OB6;;17.4941;;;01-Aug-2018
-119601;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NZ7;INF903J01OA8;15.6351;;;01-Aug-2018
-106370;Sundaram Global Brand Fund Regular Plan - Growth;INF903J01EX1;;16.9418;;;01-Aug-2018
-106369;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EY9;INF903J01EZ6;14.5259;;;01-Aug-2018
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;17.4941;;;01-Aug-2018
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;15.6351;;;01-Aug-2018
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;16.9418;;;01-Aug-2018
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;14.5259;;;01-Aug-2018
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -6321,10 +6321,10 @@ ICICI Prudential Mutual Fund
 120702;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;INF109K01X73;;28.3454;;;01-Aug-2018
 102141;ICICI Prudential Debt Management Fund (FOF) - Growth;INF109K01878;;27.8545;;;01-Aug-2018
 102143;ICICI Prudential Debt Management Fund (FOF ) - IDCW;INF109K01FS0;INF109K01886;27.8545;;;01-Aug-2018
-120313;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;INF109K01W82;;33.5072;;;01-Aug-2018
-120314;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;INF109K01W66;INF109K01W74;33.2766;;;01-Aug-2018
-102139;ICICI Prudential Income Optimizer Fund (FOF) - Growth;INF109K01811;;32.554;;;01-Aug-2018
-102140;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;INF109K01EB9;INF109K01829;32.554;;;01-Aug-2018
+120313;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - Growth;INF109K01W82;;33.5072;;;01-Aug-2018
+120314;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;33.2766;;;01-Aug-2018
+102139;ICICI Prudential Income Plus Arbitrage Active FOF - Growth;INF109K01811;;32.554;;;01-Aug-2018
+102140;ICICI Prudential Income plus Arbitrage Active FOF - IDCW;INF109K01EB9;INF109K01829;32.554;;;01-Aug-2018
 102134;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;INF109K01DW7;INF109K01803;66.2189;;;01-Aug-2018
 120243;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;INF109K01W33;INF109K01W41;67.8375;;;01-Aug-2018
 120242;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;INF109K01W58;;67.8398;;;01-Aug-2018

@@ -122,10 +122,10 @@ Canara Robeco Mutual Fund
 113222;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;15.1200;;;04-Jun-2020
 
 DSP Mutual Fund
-119250;DSP Top 100 Equity Fund - Direct Plan - Growth;INF740K01PR3;;188.435;;;04-Jun-2020
-119249;DSP Top 100 Equity Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;16.639;;;04-Jun-2020
-101635;DSP Top 100 Equity Fund - Regular Plan - Growth;INF740K01243;;179.607;;;04-Jun-2020
-101636;DSP Top 100 Equity Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;15.028;;;04-Jun-2020
+119250;DSP Large Cap Fund - Direct Plan - Growth;INF740K01PR3;;188.435;;;04-Jun-2020
+119249;DSP Large Cap Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;16.639;;;04-Jun-2020
+101635;DSP Large Cap Fund - Regular Plan - Growth;INF740K01243;;179.607;;;04-Jun-2020
+101636;DSP Large Cap Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;15.028;;;04-Jun-2020
 
 Edelweiss Mutual Fund
 118616;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;INF754K01BT0;INF754K01BU8;19.16;;;04-Jun-2020
@@ -327,10 +327,10 @@ Canara Robeco Mutual Fund
 102921;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;37.9200;;;04-Jun-2020
 
 DSP Mutual Fund
-119218;DSP Equity Opportunities Fund - Direct Plan - Growth;INF740K01PL6;;206.911;;;04-Jun-2020
-119219;DSP Equity Opportunities Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;49.458;;;04-Jun-2020
-103819;DSP Equity Opportunities Fund-Regular Plan - Growth;INF740K01094;;194.658;;;04-Jun-2020
-103820;DSP Equity Opportunities Fund-Regular Plan - IDCW;INF740K01078;INF740K01086;19.668;;;04-Jun-2020
+119218;DSP Large & Mid Cap Fund - Direct Plan - Growth;INF740K01PL6;;206.911;;;04-Jun-2020
+119219;DSP Large & Mid Cap Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;49.458;;;04-Jun-2020
+103819;DSP Large & Mid Cap Fund - Regular Plan - Growth;INF740K01094;;194.658;;;04-Jun-2020
+103820;DSP Large & Mid Cap Fund - Regular Plan - IDCW;INF740K01078;INF740K01086;19.668;;;04-Jun-2020
 
 Edelweiss Mutual Fund
 140175;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;INF843K01AL0;;30.421;;;04-Jun-2020
@@ -959,10 +959,10 @@ BNP Paribas Mutual Fund
 141812;BNP Paribas Focused 25 Equity Fund - Regular Plan-Growth Option;INF251K01PK6;;8.8940;;;04-Jun-2020
 
 DSP Mutual Fund
-119096;DSP Focus Fund - Direct Plan - Growth;INF740K01OB0;;21.707;;;04-Jun-2020
-119095;DSP Focus Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;21.707;;;04-Jun-2020
-112901;DSP Focus Fund - Regular Plan - Growth;INF740K01532;;20.524;;;04-Jun-2020
-113032;DSP Focus Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;11.842;;;04-Jun-2020
+119096;DSP Focused Fund - Direct Plan - Growth;INF740K01OB0;;21.707;;;04-Jun-2020
+119095;DSP Focused Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;21.707;;;04-Jun-2020
+112901;DSP Focused Fund - Regular Plan - Growth;INF740K01532;;20.524;;;04-Jun-2020
+113032;DSP Focused Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;11.842;;;04-Jun-2020
 
 Franklin Templeton Mutual Fund
 118564;Franklin India Focused Equity Fund - Direct - Growth;INF090I01IW2;;37.2546;;;04-Jun-2020
@@ -3154,8 +3154,8 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;20.8034;;;04-Jun-2020
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.7169;;;04-Jun-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2625;;;04-Jun-2020
-120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;8.8948;;;04-Jun-2020
-104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;8.8719;;;04-Jun-2020
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8852;;;04-Jun-2020
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;8.7857;;;04-Jun-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.7319;;;04-Jun-2020
 
 ICICI Prudential Mutual Fund
@@ -4452,10 +4452,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.9274;;;04-Jun-2020
-120050;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CR6;INF336L01CS4;10.4235;;;04-Jun-2020
+120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1252;;;04-Jun-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3506;;;04-Jun-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3333;;;04-Jun-2020
-106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5912;;;04-Jun-2020
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.6388;;;04-Jun-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.8842;;;04-Jun-2020
@@ -7287,10 +7287,10 @@ Principal Mutual Fund
 102337;Principal Global Opportunities Fund-Growth Option;INF173K01CT1;;30.2488;;;04-Jun-2020
 
 Sundaram Mutual Fund
-119602;Sundaram Global Brand Fund Direct Plan - Growth;INF903J01OB6;;19.4069;;;04-Jun-2020
-119601;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NZ7;INF903J01OA8;17.2687;;;04-Jun-2020
-106370;Sundaram Global Brand Fund Regular Plan - Growth;INF903J01EX1;;18.6291;;;04-Jun-2020
-106369;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EY9;INF903J01EZ6;15.9721;;;04-Jun-2020
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;19.4069;;;04-Jun-2020
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;17.2687;;;04-Jun-2020
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;18.6291;;;04-Jun-2020
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;15.9721;;;04-Jun-2020
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -7449,10 +7449,10 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;11.3824;;;04-Jun-2020
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;11.3441;;;04-Jun-2020
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;11.3441;;;04-Jun-2020
-120313;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;INF109K01W82;;35.7749;;;04-Jun-2020
-120314;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;INF109K01W66;INF109K01W74;35.5284;;;04-Jun-2020
-102139;ICICI Prudential Income Optimizer Fund (FOF) - Growth;INF109K01811;;34.4042;;;04-Jun-2020
-102140;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;INF109K01EB9;INF109K01829;34.4042;;;04-Jun-2020
+120313;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - Growth;INF109K01W82;;35.7749;;;04-Jun-2020
+120314;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;35.5284;;;04-Jun-2020
+102139;ICICI Prudential Income Plus Arbitrage Active FOF - Growth;INF109K01811;;34.4042;;;04-Jun-2020
+102140;ICICI Prudential Income plus Arbitrage Active FOF - IDCW;INF109K01EB9;INF109K01829;34.4042;;;04-Jun-2020
 148035;ICICI Prudential India Equity FOF - Direct Plan - Growth;INF109KC1I49;;8.5574;;;04-Jun-2020
 148036;ICICI Prudential India Equity FOF - Direct Plan - IDCW;INF109KC1I64;INF109KC1I56;8.5574;;;04-Jun-2020
 148033;ICICI Prudential India Equity FOF - Growth;INF109KC1I15;;8.5407;;;04-Jun-2020

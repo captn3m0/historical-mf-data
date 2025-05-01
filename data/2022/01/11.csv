@@ -150,10 +150,10 @@ Canara Robeco Mutual Fund
 113222;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;22.2200;;;11-Jan-2022
 
 DSP Mutual Fund
-119250;DSP Top 100 Equity Fund - Direct Plan - Growth;INF740K01PR3;;317.369;;;11-Jan-2022
-119249;DSP Top 100 Equity Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;26.551;;;11-Jan-2022
-101635;DSP Top 100 Equity Fund - Regular Plan - Growth;INF740K01243;;298.818;;;11-Jan-2022
-101636;DSP Top 100 Equity Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;23.690;;;11-Jan-2022
+119250;DSP Large Cap Fund - Direct Plan - Growth;INF740K01PR3;;317.369;;;11-Jan-2022
+119249;DSP Large Cap Fund - Direct Plan - IDCW;INF740K01PS1;INF740K01PT9;26.551;;;11-Jan-2022
+101635;DSP Large Cap Fund - Regular Plan - Growth;INF740K01243;;298.818;;;11-Jan-2022
+101636;DSP Large Cap Fund - Regular Plan - IDCW;INF740K01227;INF740K01235;23.690;;;11-Jan-2022
 
 Edelweiss Mutual Fund
 118616;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;INF754K01BT0;INF754K01BU8;30.84;;;11-Jan-2022
@@ -375,10 +375,10 @@ Canara Robeco Mutual Fund
 102921;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;64.5100;;;11-Jan-2022
 
 DSP Mutual Fund
-119218;DSP Equity Opportunities Fund - Direct Plan - Growth;INF740K01PL6;;392.259;;;11-Jan-2022
-119219;DSP Equity Opportunities Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;90.962;;;11-Jan-2022
-103819;DSP Equity Opportunities Fund-Regular Plan - Growth;INF740K01094;;363.488;;;11-Jan-2022
-103820;DSP Equity Opportunities Fund-Regular Plan - IDCW;INF740K01078;INF740K01086;33.114;;;11-Jan-2022
+119218;DSP Large & Mid Cap Fund - Direct Plan - Growth;INF740K01PL6;;392.259;;;11-Jan-2022
+119219;DSP Large & Mid Cap Fund - Direct Plan - IDCW;INF740K01PM4;INF740K01PN2;90.962;;;11-Jan-2022
+103819;DSP Large & Mid Cap Fund - Regular Plan - Growth;INF740K01094;;363.488;;;11-Jan-2022
+103820;DSP Large & Mid Cap Fund - Regular Plan - IDCW;INF740K01078;INF740K01086;33.114;;;11-Jan-2022
 
 Edelweiss Mutual Fund
 140175;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;INF843K01AL0;;60.536;;;11-Jan-2022
@@ -1060,10 +1060,10 @@ Canara Robeco Mutual Fund
 148885;Canara Robeco Focused Equity Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01JV6;INF760K01JU8;12.6800;;;11-Jan-2022
 
 DSP Mutual Fund
-119096;DSP Focus Fund - Direct Plan - Growth;INF740K01OB0;;37.82;;;11-Jan-2022
-119095;DSP Focus Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;37.82;;;11-Jan-2022
-112901;DSP Focus Fund - Regular Plan - Growth;INF740K01532;;35.152;;;11-Jan-2022
-113032;DSP Focus Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;20.282;;;11-Jan-2022
+119096;DSP Focused Fund - Direct Plan - Growth;INF740K01OB0;;37.82;;;11-Jan-2022
+119095;DSP Focused Fund - Direct Plan - IDCW;INF740K01OC8;INF740K01OD6;37.82;;;11-Jan-2022
+112901;DSP Focused Fund - Regular Plan - Growth;INF740K01532;;35.152;;;11-Jan-2022
+113032;DSP Focused Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;20.282;;;11-Jan-2022
 
 Franklin Templeton Mutual Fund
 118564;Franklin India Focused Equity Fund - Direct - Growth;INF090I01IW2;;74.2683;;;11-Jan-2022
@@ -7582,10 +7582,10 @@ SBI Mutual Fund
 148759;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;11.9369;;;11-Jan-2022
 
 Sundaram Mutual Fund
-119602;Sundaram Global Brand Fund Direct Plan - Growth;INF903J01OB6;;27.3100;;;11-Jan-2022
-119601;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NZ7;INF903J01OA8;24.2929;;;11-Jan-2022
-106370;Sundaram Global Brand Fund Regular Plan - Growth;INF903J01EX1;;25.8576;;;11-Jan-2022
-106369;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EY9;INF903J01EZ6;22.1578;;;11-Jan-2022
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;27.3100;;;11-Jan-2022
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;24.2929;;;11-Jan-2022
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;25.8576;;;11-Jan-2022
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;22.1578;;;11-Jan-2022
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -7770,10 +7770,10 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;13.5915;;;11-Jan-2022
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;13.4131;;;11-Jan-2022
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;13.4130;;;11-Jan-2022
-120313;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;INF109K01W82;;46.2569;;;11-Jan-2022
-120314;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;INF109K01W66;INF109K01W74;45.9380;;;11-Jan-2022
-102139;ICICI Prudential Income Optimizer Fund (FOF) - Growth;INF109K01811;;44.0801;;;11-Jan-2022
-102140;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;INF109K01EB9;INF109K01829;44.0801;;;11-Jan-2022
+120313;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - Growth;INF109K01W82;;46.2569;;;11-Jan-2022
+120314;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;45.9380;;;11-Jan-2022
+102139;ICICI Prudential Income Plus Arbitrage Active FOF - Growth;INF109K01811;;44.0801;;;11-Jan-2022
+102140;ICICI Prudential Income plus Arbitrage Active FOF - IDCW;INF109K01EB9;INF109K01829;44.0801;;;11-Jan-2022
 148035;ICICI Prudential India Equity FOF - Direct Plan - Growth;INF109KC1I49;;17.5602;;;11-Jan-2022
 148036;ICICI Prudential India Equity FOF - Direct Plan - IDCW;INF109KC1I64;INF109KC1I56;17.5602;;;11-Jan-2022
 148033;ICICI Prudential India Equity FOF - Growth;INF109KC1I15;;17.2563;;;11-Jan-2022
