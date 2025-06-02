@@ -25,10 +25,10 @@ Open Ended Schemes ( Equity Scheme - Large Cap Fund )
 
 
 Axis Mutual Fund
-120465;Axis Bluechip Fund - Direct Plan - Growth;INF846K01DP8;;68.44;;;31-May-2025
-120466;Axis Bluechip Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;26.74;;;31-May-2025
-112277;Axis Bluechip Fund - Regular Plan - Growth;INF846K01164;;59.57;;;31-May-2025
-112278;Axis Bluechip Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;18.81;;;31-May-2025
+120465;Axis Large Cap Fund - Direct Plan - Growth;INF846K01DP8;;68.44;;;31-May-2025
+120466;Axis Large Cap Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;26.74;;;31-May-2025
+112277;Axis Large Cap Fund - Regular Plan - Growth;INF846K01164;;59.57;;;31-May-2025
+112278;Axis Large Cap Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;18.81;;;31-May-2025
 
 Bandhan Mutual Fund
 108799;BANDHAN Large Cap Fund - Regular Plan - Growth;INF194K01516;;75.044;;;31-May-2025
@@ -46,10 +46,10 @@ Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
 
 Axis Mutual Fund
-145110;Axis Growth Opportunities Fund - Direct Plan - Growth;INF846K01J46;;34.95;;;31-May-2025
-145109;Axis Growth Opportunities Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;25.30;;;31-May-2025
-145112;Axis Growth Opportunities Fund - Regular Plan - Growth;INF846K01J79;;31.77;;;31-May-2025
-145111;Axis Growth Opportunities Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;19.99;;;31-May-2025
+145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;34.95;;;31-May-2025
+145109;Axis Large & Mid Cap Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;25.30;;;31-May-2025
+145112;Axis Large & Mid Cap Fund - Regular Plan - Growth;INF846K01J79;;31.77;;;31-May-2025
+145111;Axis Large & Mid Cap Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;19.99;;;31-May-2025
 
 Bandhan Mutual Fund
 108596;BANDHAN Core Equity Fund - Regular Plan - Growth;INF194K01524;;130.155;;;31-May-2025
@@ -467,6 +467,16 @@ Mahindra Manulife Mutual Fund
 149471;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;;;1000.0000;;;31-May-2025
 149470;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;;;1223.8611;;;31-May-2025
 
+Mirae Asset Mutual Fund
+147737;Mirae Asset Overnight Fund Direct Daily IDCW;;INF769K01FJ0;1000.0002;;;31-May-2025
+147738;Mirae Asset Overnight Fund Direct Monthly IDCW;INF769K01FF8;INF769K01FI2;1000.7822;;;31-May-2025
+147736;Mirae Asset Overnight Fund Direct Plan Growth;INF769K01FG6;;1322.1319;;;31-May-2025
+147740;Mirae Asset Overnight Fund Direct Weekly IDCW;;INF769K01FK8;1000.4726;;;31-May-2025
+147743;Mirae Asset Overnight Fund Regular Daily  IDCW ;;INF769K01FL6;1000.0018;;;31-May-2025
+147742;Mirae Asset Overnight Fund Regular Monthly IDCW;INF769K01FD3;INF769K01FH4;1000.7746;;;31-May-2025
+147739;Mirae Asset Overnight Fund Regular Plan Growth;INF769K01FE1;;1315.2073;;;31-May-2025
+147741;Mirae Asset Overnight Fund Regular Weekly IDCW;;INF769K01FM4;1000.4630;;;31-May-2025
+
 Nippon India Mutual Fund
 145830;NIPPON INDIA OVERNIGHT FUND - DAILY IDCW Option;;INF204KB1Q73;100.0207;;;31-May-2025
 145812;NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - DAILY IDCW Option;;INF204KB1R49;100.0210;;;31-May-2025
@@ -754,6 +764,16 @@ Mahindra Manulife Mutual Fund
 139534;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;;INF174V01028;1001.0440;;;31-May-2025
 139537;Mahindra Manulife Liquid Fund - Regular Plan - Growth;INF174V01010;;1690.5215;;;31-May-2025
 139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;;INF174V01036;1009.7554;;;31-May-2025
+
+Mirae Asset Mutual Fund
+118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2771.2895;;;31-May-2025
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1216.8539;;;31-May-2025
+118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;31-May-2025
+118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1135.6513;;;31-May-2025
+111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;31-May-2025
+111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2724.3993;;;31-May-2025
+111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1153.3023;;;31-May-2025
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.1541;;;31-May-2025
 
 Nippon India Mutual Fund
 100852;NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION;;INF204K01UM1;1528.9893;;;31-May-2025
@@ -1834,6 +1854,10 @@ Bandhan Mutual Fund
 Kotak Mahindra Mutual Fund
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1052.6241;;;31-May-2025
 
+Mirae Asset Mutual Fund
+153045;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;INF769K01MY5;;1034.6958;;;31-May-2025
+151908;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;;INF769K01KS1;1000.0000;;;31-May-2025
+
 SBI Mutual Fund
 134014;SBI BSE 100 ETF;INF200KA1572;;283.8941;;;31-May-2025
 153435;SBI BSE PSU BANK ETF;INF200KB1712;;40.6654;;;31-May-2025
@@ -1907,6 +1931,18 @@ Axis Mutual Fund
 120472;Axis Gold Fund - Direct Plan - IDCW;INF846K01DQ6;INF846K01DR4;30.4056;;;31-May-2025
 115897;Axis Gold Fund - Regular Plan - Growth Option;INF846K01AL3;;27.9505;;;31-May-2025
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;27.9858;;;31-May-2025
+147895;Axis Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;13.5144;;;31-May-2025
+147889;Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;INF846K01U09;;14.6561;;;31-May-2025
+147894;Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option;INF846K01U74;INF846K01U82;11.7061;;;31-May-2025
+147891;Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW;INF846K01U90;INF846K01V08;14.6687;;;31-May-2025
+147892;Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;14.6682;;;31-May-2025
+147893;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;11.9863;;;31-May-2025
+147898;Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;13.3043;;;31-May-2025
+147890;Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF846K01V16;;14.4157;;;31-May-2025
+147897;Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;12.2660;;;31-May-2025
+147888;Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW;INF846K01W07;INF846K01W15;14.4157;;;31-May-2025
+147896;Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;14.4149;;;31-May-2025
+147905;Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;11.4430;;;31-May-2025
 149243;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;INF846K017C5;;12.2109;;;31-May-2025
 149242;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;INF846K010D8;;12.1525;;;31-May-2025
 149245;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;INF846K011D6;INF846K012D4;12.1525;;;31-May-2025
