@@ -196,10 +196,10 @@ Aditya Birla Sun Life Mutual Fund
 103173;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;37.56;;;19-Feb-2025
 
 Axis Mutual Fund
-120465;Axis Bluechip Fund - Direct Plan - Growth;INF846K01DP8;;64.15;;;19-Feb-2025
-120466;Axis Bluechip Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;25.06;;;19-Feb-2025
-112277;Axis Bluechip Fund - Regular Plan - Growth;INF846K01164;;55.97;;;19-Feb-2025
-112278;Axis Bluechip Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;17.68;;;19-Feb-2025
+120465;Axis Large Cap Fund - Direct Plan - Growth;INF846K01DP8;;64.15;;;19-Feb-2025
+120466;Axis Large Cap Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;25.06;;;19-Feb-2025
+112277;Axis Large Cap Fund - Regular Plan - Growth;INF846K01164;;55.97;;;19-Feb-2025
+112278;Axis Large Cap Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;17.68;;;19-Feb-2025
 
 Bajaj Finserv Mutual Fund
 152783;BAJAJ FINSERV LARGE CAP FUND - DIRECT PLAN - GROWTH;INF0QA701896;;9.081;;;19-Feb-2025
@@ -413,10 +413,10 @@ Aditya Birla Sun Life Mutual Fund
 100034;Aditya Birla Sun Life Equity Advantage Fund -Regular - IDCW;INF209K01157;INF209K01CE5;122.87;;;19-Feb-2025
 
 Axis Mutual Fund
-145110;Axis Growth Opportunities Fund - Direct Plan - Growth;INF846K01J46;;32.26;;;19-Feb-2025
-145109;Axis Growth Opportunities Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;23.35;;;19-Feb-2025
-145112;Axis Growth Opportunities Fund - Regular Plan - Growth;INF846K01J79;;29.41;;;19-Feb-2025
-145111;Axis Growth Opportunities Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;18.51;;;19-Feb-2025
+145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;32.26;;;19-Feb-2025
+145109;Axis Large & Mid Cap Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;23.35;;;19-Feb-2025
+145112;Axis Large & Mid Cap Fund - Regular Plan - Growth;INF846K01J79;;29.41;;;19-Feb-2025
+145111;Axis Large & Mid Cap Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;18.51;;;19-Feb-2025
 
 Bajaj Finserv Mutual Fund
 152408;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth;INF0QA701763;;11.162;;;19-Feb-2025
@@ -4698,9 +4698,9 @@ Edelweiss Mutual Fund
 152617;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth;INF754K01SO5;;9.3121;;;19-Feb-2025
 152618;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Payout;INF754K01SP2;INF754K01SQ0;9.3121;;;19-Feb-2025
 149343;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth;INF754K01NR9;;14.9448;;;19-Feb-2025
-149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;;14.9448;;;19-Feb-2025
+149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;INF754K01NT5;14.9448;;;19-Feb-2025
 149341;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth;INF754K01NN8;;14.6307;;;19-Feb-2025
-149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;;14.6301;;;19-Feb-2025
+149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;INF754K01NP3;14.6301;;;19-Feb-2025
 150902;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - Growth;INF754K01QD2;;15.9532;;;19-Feb-2025
 150903;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - IDCW;INF754K01QE0;INF754K01QF7;15.9558;;;19-Feb-2025
 150900;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Regular Plan - Growth;INF754K01PZ7;;15.7002;;;19-Feb-2025
@@ -5581,14 +5581,14 @@ Edelweiss Mutual Fund
 140273;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;INF843K01ED9;;33.3392;;;19-Feb-2025
 
 Franklin Templeton Mutual Fund
-118550;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;INF090I01JP4;INF090I01JQ2;86.6624;;;19-Feb-2025
-116632;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;INF090I01EV3;INF090I01EU5;76.9847;;;19-Feb-2025
-116633;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;INF090I01EW1;;76.9847;;;19-Feb-2025
-118551;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;INF090I01JR0;;86.6624;;;19-Feb-2025
 129440;Franklin India Feeder - Templeton European Opportunities Fund - Direct - Growth;INF090I01KX6;;11.8696;;;19-Feb-2025
 129441;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;INF090I01KY4;INF090I01KZ1;11.8696;;;19-Feb-2025
 129438;Franklin India Feeder - Templeton European Opportunities Fund - Growth;INF090I01KU2;;10.5689;;;19-Feb-2025
 129439;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;INF090I01KV0;INF090I01KW8;10.5689;;;19-Feb-2025
+118551;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth;INF090I01JR0;;86.6624;;;19-Feb-2025
+118550;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;INF090I01JP4;INF090I01JQ2;86.6624;;;19-Feb-2025
+116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;76.9847;;;19-Feb-2025
+116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;76.9847;;;19-Feb-2025
 
 HDFC Mutual Fund
 149180;HDFC Developed World Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;15.536;;;19-Feb-2025
