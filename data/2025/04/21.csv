@@ -283,10 +283,10 @@ HSBC Mutual Fund
 101593;HSBC Large Cap Fund - Regular IDCW;INF336L01024;INF336L01032;44.1974;;;21-Apr-2025
 
 ICICI Prudential Mutual Fund
-120586;ICICI Prudential Bluechip Fund - Direct Plan - Growth;INF109K016L0;;115.71;;;21-Apr-2025
-120585;ICICI Prudential Bluechip Fund - Direct Plan - IDCW;INF109K014L5;INF109K015L2;60.98;;;21-Apr-2025
-108466;ICICI Prudential Bluechip Fund - Growth;INF109K01BL4;;105.51;;;21-Apr-2025
-108465;ICICI Prudential Bluechip Fund - IDCW;INF109K01EP9;INF109K01BM2;30.90;;;21-Apr-2025
+120585;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Direct Plan - IDCW;INF109K014L5;INF109K015L2;60.98;;;21-Apr-2025
+108466;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Growth;INF109K01BL4;;105.51;;;21-Apr-2025
+108465;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW;INF109K01EP9;INF109K01BM2;30.90;;;21-Apr-2025
+120586;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth;INF109K016L0;;115.71;;;21-Apr-2025
 
 Invesco Mutual Fund
 120392;Invesco India Largecap Fund - Direct Plan - Growth;INF205K01LB0;;78.51;;;21-Apr-2025
@@ -748,10 +748,10 @@ Nippon India Mutual Fund
 100377;Nippon India Growth Fund-Growth Plan-Growth Option;INF204K01323;;3835.1385;;;21-Apr-2025
 
 PGIM India Mutual Fund
-125301;PGIM India Midcap Opportunities Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;57.61;;;21-Apr-2025
-125307;PGIM India Midcap Opportunities Fund - Direct Plan - Growth Option;INF663L01DV3;;69.5;;;21-Apr-2025
-125306;PGIM India Midcap Opportunities Fund - Regular Plan - Dividend Option - Payout;INF663L01EA5;INF663L01EB3;23.58;;;21-Apr-2025
-125305;PGIM India Midcap Opportunities Fund - Regular Plan - Growth Option;INF663L01DZ4;;60.19;;;21-Apr-2025
+125301;PGIM India Midcap Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;57.61;;;21-Apr-2025
+125307;PGIM India Midcap Fund - Direct Plan - Growth Option;INF663L01DV3;;69.5;;;21-Apr-2025
+125306;PGIM India Midcap Fund - Regular Plan - Dividend Option - Payout;INF663L01EA5;INF663L01EB3;23.58;;;21-Apr-2025
+125305;PGIM India Midcap Fund - Regular Plan - Growth Option;INF663L01DZ4;;60.19;;;21-Apr-2025
 
 quant Mutual Fund
 120841;quant Mid Cap Fund - Growth Option - Direct Plan;INF966L01887;;236.1813;;;21-Apr-2025
@@ -1115,10 +1115,10 @@ HSBC Mutual Fund
 151111;HSBC Value Fund - Regular IDCW;INF677K01213;INF677K01015;48.7104;;;21-Apr-2025
 
 ICICI Prudential Mutual Fund
-120323;ICICI Prudential Value Discovery Fund - Direct Plan - Growth;INF109K012K1;;489.74;;;21-Apr-2025
-120322;ICICI Prudential Value Discovery Fund - Direct Plan - IDCW;INF109K011K3;INF109K010K5;114.48;;;21-Apr-2025
-102594;ICICI Prudential Value Discovery Fund - Growth;INF109K01AF8;;446.26;;;21-Apr-2025
-102595;ICICI Prudential Value Discovery Fund - IDCW;INF109K01EC7;INF109K01AD3;37.69;;;21-Apr-2025
+120323;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth;INF109K012K1;;489.74;;;21-Apr-2025
+120322;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - IDCW;INF109K011K3;INF109K010K5;114.48;;;21-Apr-2025
+102594;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth;INF109K01AF8;;446.26;;;21-Apr-2025
+102595;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW;INF109K01EC7;INF109K01AD3;37.69;;;21-Apr-2025
 
 ITI Mutual Fund
 148972;ITI Value Fund - Direct Plan - Growth Option;INF00XX01AQ6;;16.9834;;;21-Apr-2025
@@ -6300,12 +6300,12 @@ Nippon India Mutual Fund
 148271;Nippon India Equity Hybrid Fund - Segregated Portfolio 2 - Growth Plan;INF204KB10U5;;0.0000;;;21-Apr-2025
 
 PGIM India Mutual Fund
-138387;PGIM India Hybrid Equity Fund - Direct Plan - Dividend;INF663L01GY0;INF663L01GZ7;25.85;;;21-Apr-2025
-138386;PGIM India Hybrid Equity Fund - Direct Plan - Growth;INF663L01GX2;;148.68;;;21-Apr-2025
-138381;PGIM India Hybrid Equity Fund - Dividend Option;INF663L01HA8;INF663L01HB6;14.67;;;21-Apr-2025
-138382;PGIM India Hybrid Equity Fund - Growth Option;INF663L01HC4;;125;;;21-Apr-2025
-139820;PGIM India Hybrid Equity Fund-Direct Plan-Monthly Dividend Option;INF663L01OA4;INF663L01OB2;26.32;;;21-Apr-2025
-139821;PGIM India Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;23.7;;;21-Apr-2025
+138387;PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Dividend;INF663L01GY0;INF663L01GZ7;25.85;;;21-Apr-2025
+138386;PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Growth;INF663L01GX2;;148.68;;;21-Apr-2025
+138381;PGIM India Aggressive Hybrid Equity Fund - Dividend Option;INF663L01HA8;INF663L01HB6;14.67;;;21-Apr-2025
+138382;PGIM India Aggressive Hybrid Equity Fund - Growth Option;INF663L01HC4;;125;;;21-Apr-2025
+139820;PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Monthly Dividend Option;INF663L01OA4;INF663L01OB2;26.32;;;21-Apr-2025
+139821;PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;23.7;;;21-Apr-2025
 
 quant Mutual Fund
 101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;400.3194;;;21-Apr-2025
