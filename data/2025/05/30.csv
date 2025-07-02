@@ -152,10 +152,10 @@ PGIM India Mutual Fund
 152818;PGIM India Multi Cap Fund - Regular Plan - IDCW Option;INF663L01Y95;INF663L01Z37;9.45;;;30-May-2025
 
 quant Mutual Fund
-100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;623.6052;;;30-May-2025
-120823;quant Active Fund-GROWTH OPTION-Direct Plan;INF966L01614;;678.6505;;;30-May-2025
-120822;quant Active Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;78.5958;;;30-May-2025
-100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;71.3178;;;30-May-2025
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;623.6052;;;30-May-2025
+120823;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;INF966L01614;;678.6505;;;30-May-2025
+120822;quant Multi Cap Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;78.5958;;;30-May-2025
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;71.3178;;;30-May-2025
 
 Samco Mutual Fund
 152847;Samco Multi Cap Fund - Direct Plan - Growth;INF0K1H01198;;9.57;;;30-May-2025
@@ -319,10 +319,10 @@ JM Financial Mutual Fund
 134954;JM Large Cap Fund (Regular) - Quarterly IDCW;INF192K01JL3;INF192K01JM1;33.7633;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-114458;Kotak Bluechip Fund - Growth;INF174K01153;;562.516;;;30-May-2025
-120152;Kotak Bluechip Fund - Growth - Direct;INF174K01KW6;;646.049;;;30-May-2025
-120153;Kotak Bluechip Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KY2;INF174K01KX4;85.442;;;30-May-2025
-114457;Kotak Bluechip Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;72.611;;;30-May-2025
+120152;Kotak Large Cap  Fund - Growth - Direct;INF174K01KW6;;646.049;;;30-May-2025
+114458;Kotak Large Cap Fund - Growth;INF174K01153;;562.516;;;30-May-2025
+120153;Kotak Large Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KY2;INF174K01KX4;85.442;;;30-May-2025
+114457;Kotak Large Cap Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;72.611;;;30-May-2025
 
 LIC Mutual Fund
 120267;LIC MF Large Cap Fund-Direct Plan-Growth;INF767K01EJ7;;62.9877;;;30-May-2025
@@ -524,10 +524,10 @@ ITI Mutual Fund
 152822;ITI Large & Midcap Fund - Regular Plan - IDCW Option;INF00XX01CY6;INF00XX01CZ3;9.6682;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;380.597;;;30-May-2025
-103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;332.012;;;30-May-2025
-120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;67.16;;;30-May-2025
-103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;57.923;;;30-May-2025
+120158;Kotak Large & Midcap Fund - Direct- Growth;INF174K01LF9;;380.597;;;30-May-2025
+103234;Kotak Large & Midcap Fund - Growth-Regular;INF174K01187;;332.012;;;30-May-2025
+120157;Kotak Large & Midcap Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;67.16;;;30-May-2025
+103233;Kotak Large & Midcap Fund - IDCW-Regular;INF174K01203;INF174K01195;57.923;;;30-May-2025
 
 LIC Mutual Fund
 133710;LIC MF Large & Mid Cap Fund-Direct Plan-Growth;INF767K01NE9;;44.054;;;30-May-2025
@@ -713,10 +713,10 @@ JM Financial Mutual Fund
 150813;JM Midcap Fund (Regular) - IDCW;INF192K01MT0;INF192K01MU8;18.6654;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-104908;Kotak Emerging Equity Scheme - Growth;INF174K01DS9;;129.31;;;30-May-2025
-119775;Kotak Emerging Equity Scheme - Growth - Direct;INF174K01LT0;;149.472;;;30-May-2025
-104907;Kotak Emerging Equity Scheme - Payout of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;71.021;;;30-May-2025
-119774;Kotak Emerging Equity Scheme - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LU8;INF174K01LV6;89.053;;;30-May-2025
+119774;Kotak Midcap Fund  - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LU8;INF174K01LV6;89.053;;;30-May-2025
+104908;Kotak Midcap Fund - Growth;INF174K01DS9;;129.31;;;30-May-2025
+119775;Kotak Midcap Fund - Growth - Direct;INF174K01LT0;;149.472;;;30-May-2025
+104907;Kotak Midcap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;71.021;;;30-May-2025
 
 LIC Mutual Fund
 152002;LIC MF Mid Cap Fund-Direct Plan-Growth;INF397L01JK8;;32.1129;;;30-May-2025
@@ -1202,10 +1202,10 @@ Invesco Mutual Fund
 105459;Invesco India Contra Fund - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;53.89;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-103040;Kotak India EQ Contra Fund - Growth;INF174K01245;;146.024;;;30-May-2025
-119769;Kotak India EQ Contra Fund - Growth - Direct;INF174K01KZ9;;171.91;;;30-May-2025
-103039;Kotak India EQ Contra Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;50.334;;;30-May-2025
-119768;Kotak India EQ Contra Fund - Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01LA0;;61.174;;;30-May-2025
+103040;Kotak Contra Fund - Growth;INF174K01245;;146.024;;;30-May-2025
+119769;Kotak Contra Fund - Growth - Direct;INF174K01KZ9;;171.91;;;30-May-2025
+103039;Kotak Contra Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;50.334;;;30-May-2025
+119768;Kotak Contra Fund - Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01LA0;;61.174;;;30-May-2025
 
 SBI Mutual Fund
 119835;SBI CONTRA FUND - DIRECT PLAN - GROWTH;INF200K01RA0;;411.8995;;;30-May-2025
@@ -1295,10 +1295,10 @@ Invesco Mutual Fund
 148484;Invesco India Focused Fund - IDCW (Payout / Reinvestment);INF205KA1171;INF205KA1197;22.66;;;30-May-2025
 
 ITI Mutual Fund
-151777;ITI Focused Equity Fund - Direct Plan - Growth;INF00XX01CS8;;15.2213;;;30-May-2025
-151776;ITI Focused Equity Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;15.2213;;;30-May-2025
-151778;ITI Focused Equity Fund - Regular Plan - Growth;INF00XX01CV2;;14.6805;;;30-May-2025
-151775;ITI Focused Equity Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;14.6805;;;30-May-2025
+151777;ITI Focused Fund - Direct Plan - Growth;INF00XX01CS8;;15.2213;;;30-May-2025
+151776;ITI Focused Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;15.2213;;;30-May-2025
+151778;ITI Focused Fund - Regular Plan - Growth;INF00XX01CV2;;14.6805;;;30-May-2025
+151775;ITI Focused Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;14.6805;;;30-May-2025
 
 JM Financial Mutual Fund
 120488;JM Focused Fund (Direct)  - Growth Option;INF192K01BW7;;22.4463;;;30-May-2025
@@ -1307,10 +1307,10 @@ JM Financial Mutual Fund
 107409;JM Focused Fund (Regular) - IDCW;INF192K01551;INF192K01569;19.2761;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-147473;Kotak Focused equity Fund- Direct Plan- Growth option;INF174KA1EN7;;26.722;;;30-May-2025
-147477;Kotak Focused Equity Fund- Regular plan _ Growth Option;INF174KA1EK3;;24.358;;;30-May-2025
-147472;Kotak Focused Equity Fund- Regular Plan-Income Distribution cum capital withdrawal option;INF174KA1EM9;INF174KA1EL1;24.358;;;30-May-2025
-147475;Kotak Focused Equity Fund-Direct Plan- Income Distribution cum capital withdrawal option;INF174KA1EP2;INF174KA1EO5;26.723;;;30-May-2025
+147473;Kotak Focused Fund- Direct Plan- Growth option;INF174KA1EN7;;26.722;;;30-May-2025
+147477;Kotak Focused Fund- Regular plan _ Growth Option;INF174KA1EK3;;24.358;;;30-May-2025
+147472;Kotak Focused Fund- Regular Plan-Income Distribution cum capital withdrawal option;INF174KA1EM9;INF174KA1EL1;24.358;;;30-May-2025
+147475;Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option;INF174KA1EP2;INF174KA1EO5;26.723;;;30-May-2025
 
 LIC Mutual Fund
 152010;LIC MF Focused Fund-Direct Plan-Growth;INF397L01KA7;;23.6457;;;30-May-2025
@@ -2062,10 +2062,10 @@ quant Mutual Fund
 152338;quant Consumption Fund - Growth Option - Regular Plan;INF966L01DI7;;10.2981;;;30-May-2025
 152339;quant Consumption Fund - IDCW Option - Direct Plan;INF966L01DO5;INF966L01DP2;10.5249;;;30-May-2025
 152337;quant Consumption Fund - IDCW Option - Regular Plan;INF966L01DL1;INF966L01DM9;10.3022;;;30-May-2025
-148564;quant ESG Equity Fund - Growth Option - Direct Plan;INF966L01AD4;;35.4785;;;30-May-2025
-148560;quant ESG Equity Fund - Growth Option - Regular Plan;INF966L01AB8;;33.0534;;;30-May-2025
-148563;quant ESG Equity Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;35.436;;;30-May-2025
-148561;quant ESG Equity Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;32.893;;;30-May-2025
+148564;quant ESG Integration Strategy Fund - Growth Option - Direct Plan;INF966L01AD4;;35.4785;;;30-May-2025
+148560;quant ESG Integration Strategy Fund - Growth Option - Regular Plan;INF966L01AB8;;33.0534;;;30-May-2025
+148563;quant ESG Integration Strategy Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;35.436;;;30-May-2025
+148561;quant ESG Integration Strategy Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;32.893;;;30-May-2025
 151853;quant Healthcare Fund - Growth Option - Direct Plan;INF966L01CD0;;15.8943;;;30-May-2025
 151855;quant Healthcare Fund - Growth Option - Regular Plan;INF966L01CG3;;15.4126;;;30-May-2025
 151854;quant Healthcare Fund - IDCW Option - Direct Plan;INF966L01CE8;INF966L01CF5;15.8933;;;30-May-2025
@@ -6263,10 +6263,10 @@ JM Financial Mutual Fund
 100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;117.6351;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-133036;Kotak Equity Hybrid - Growth;INF174K01E92;;60.639;;;30-May-2025
-133035;Kotak Equity Hybrid - Growth - Direct;INF174K01F00;;71.093;;;30-May-2025
-119767;Kotak Equity Hybrid - Payout of Income Distribution cum  capital withdrawal option - Direct;INF174K01LL7;INF174K01LM5;43.581;;;30-May-2025
-100286;Kotak Equity Hybrid - Payout of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;35.637;;;30-May-2025
+133036;Kotak Aggressive Hybrid Fund - Growth;INF174K01E92;;60.639;;;30-May-2025
+133035;Kotak Aggressive Hybrid Fund - Growth - Direct;INF174K01F00;;71.093;;;30-May-2025
+119767;Kotak Aggressive Hybrid Fund - Payout of Income Distribution cum  capital withdrawal option - Direct;INF174K01LL7;INF174K01LM5;43.581;;;30-May-2025
+100286;Kotak Aggressive Hybrid Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;35.637;;;30-May-2025
 
 LIC Mutual Fund
 120261;LIC MF Aggressive Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;221.0714;;;30-May-2025
@@ -6327,10 +6327,10 @@ PGIM India Mutual Fund
 139821;PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;24.07;;;30-May-2025
 
 quant Mutual Fund
-101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;415.5638;;;30-May-2025
-120819;quant Absolute Fund-Growth Option-Direct Plan;INF966L01556;;451.8611;;;30-May-2025
-101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;57.3178;;;30-May-2025
-120818;quant Absolute Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;62.5863;;;30-May-2025
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;415.5638;;;30-May-2025
+120819;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;INF966L01556;;451.8611;;;30-May-2025
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;57.3178;;;30-May-2025
+120818;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;62.5863;;;30-May-2025
 
 SBI Mutual Fund
 119609;SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth;INF200K01RY0;;326.8919;;;30-May-2025
@@ -6693,10 +6693,10 @@ Nippon India Mutual Fund
 148459;Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option;INF204KB16V0;;21.0845;;;30-May-2025
 
 quant Mutual Fund
-120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;137.6202;;;30-May-2025
-101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;127.8014;;;30-May-2025
-101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;139.4147;;;30-May-2025
-120821;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;INF966L01580;;149.3261;;;30-May-2025
+120820;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;137.6202;;;30-May-2025
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;127.8014;;;30-May-2025
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;139.4147;;;30-May-2025
+120821;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;INF966L01580;;149.3261;;;30-May-2025
 
 Quantum Mutual Fund
 152474;Quantum Multi Asset Allocation Fund - Direct Plan Growth Option;INF082J01457;;11.68;;;30-May-2025
@@ -6882,10 +6882,10 @@ JM Financial Mutual Fund
 135169;JM Arbitrage Fund (Regular) - Quarterly IDCW;INF192K01KO5;INF192K01KP2;14.6457;;;30-May-2025
 
 Kotak Mahindra Mutual Fund
-105968;Kotak Equity Arbitrage Fund - Growth;INF174K01302;;37.2712;;;30-May-2025
-119771;Kotak Equity Arbitrage Fund - Growth - Direct;INF174K01LC6;;39.8062;;;30-May-2025
-105967;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.7257;;;30-May-2025
-119770;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LE2;INF174K01LD4;11.2081;;;30-May-2025
+119770;Kotak  Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LE2;INF174K01LD4;11.2081;;;30-May-2025
+105968;Kotak Arbitrage Fund - Growth;INF174K01302;;37.2712;;;30-May-2025
+119771;Kotak Arbitrage Fund - Growth - Direct;INF174K01LC6;;39.8062;;;30-May-2025
+105967;Kotak Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.7257;;;30-May-2025
 
 LIC Mutual Fund
 145895;LIC MF Arbitrage Fund-Direct Plan-Growth;INF767K01PP0;;14.3647;;;30-May-2025
