@@ -141,10 +141,10 @@ PGIM India Mutual Fund
 152818;PGIM India Multi Cap Fund - Regular Plan - IDCW Option;INF663L01Y95;INF663L01Z37;9.22;;;19-Nov-2024
 
 quant Mutual Fund
-100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;633.1275;;;19-Nov-2024
-120823;quant Active Fund-GROWTH OPTION-Direct Plan;INF966L01614;;684.8115;;;19-Nov-2024
-120822;quant Active Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;79.3094;;;19-Nov-2024
-100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;72.4166;;;19-Nov-2024
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;633.1275;;;19-Nov-2024
+120823;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;INF966L01614;;684.8115;;;19-Nov-2024
+120822;quant Multi Cap Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;79.3094;;;19-Nov-2024
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;72.4166;;;19-Nov-2024
 
 Samco Mutual Fund
 152847;Samco Multi Cap Fund - Direct Plan - Growth;INF0K1H01198;;9.62;;;19-Nov-2024
@@ -157,8 +157,8 @@ SBI Mutual Fund
 149883;SBI Multicap Fund- Regular Plan- Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA16E6;INF200KA17E4;15.9304;;;19-Nov-2024
 
 Sundaram Mutual Fund
-149668;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund) - Direct Plan -Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01FN7;INF173K01FO5;88.5688;;;19-Nov-2024
-149666;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)- Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01957;INF173K01965;66.1345;;;19-Nov-2024
+149668;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01FN7;INF173K01FO5;88.5688;;;19-Nov-2024
+149666;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01957;INF173K01965;66.1345;;;19-Nov-2024
 149669;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)-Direct Plan - Growth Option;INF173K01FQ0;;398.9790;;;19-Nov-2024
 149667;Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)-Growth Option;INF173K01940;;360.8898;;;19-Nov-2024
 
@@ -184,10 +184,10 @@ Open Ended Schemes ( Equity Scheme - Large Cap Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-119528;Aditya Birla Sun Life Frontline Equity Fund - Growth - Direct Plan;INF209K01YY7;;545.83;;;19-Nov-2024
-119527;Aditya Birla Sun Life Frontline Equity Fund-DIRECT - IDCW;INF209K01YX9;INF209K01YW1;93.29;;;19-Nov-2024
-103174;Aditya Birla Sun Life Frontline Equity Fund-Growth;INF209K01BR9;;496.08;;;19-Nov-2024
-103173;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;39.24;;;19-Nov-2024
+119528;Aditya Birla Sun Life Large Cap Fund - Growth - Direct Plan;INF209K01YY7;;545.83;;;19-Nov-2024
+119527;Aditya Birla Sun Life Large Cap Fund-DIRECT - IDCW;INF209K01YX9;INF209K01YW1;93.29;;;19-Nov-2024
+103174;Aditya Birla Sun Life Large Cap Fund-Growth;INF209K01BR9;;496.08;;;19-Nov-2024
+103173;Aditya Birla Sun Life Large Cap Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;39.24;;;19-Nov-2024
 
 Axis Mutual Fund
 120465;Axis Large Cap Fund - Direct Plan - Growth;INF846K01DP8;;65.44;;;19-Nov-2024
@@ -304,10 +304,10 @@ JM Financial Mutual Fund
 134954;JM Large Cap Fund (Regular) - Quarterly IDCW;INF192K01JL3;INF192K01JM1;34.4621;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-114458;Kotak Bluechip Fund - Growth;INF174K01153;;539.251;;;19-Nov-2024
-120152;Kotak Bluechip Fund - Growth - Direct;INF174K01KW6;;615.66;;;19-Nov-2024
-120153;Kotak Bluechip Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KY2;INF174K01KX4;81.423;;;19-Nov-2024
-114457;Kotak Bluechip Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;69.608;;;19-Nov-2024
+120152;Kotak Large Cap  Fund - Growth - Direct;INF174K01KW6;;615.66;;;19-Nov-2024
+114458;Kotak Large Cap Fund - Growth;INF174K01153;;539.251;;;19-Nov-2024
+120153;Kotak Large Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KY2;INF174K01KX4;81.423;;;19-Nov-2024
+114457;Kotak Large Cap Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;69.608;;;19-Nov-2024
 
 LIC Mutual Fund
 120267;LIC MF Large Cap Fund-Direct Plan-Growth;INF767K01EJ7;;59.6132;;;19-Nov-2024
@@ -354,10 +354,10 @@ quant Mutual Fund
 150442;quant Large Cap Fund - IDCW Option - Regular Plan;INF966L01AX2;INF966L01AY0;14.7184;;;19-Nov-2024
 
 SBI Mutual Fund
-119585;SBI Blue Chip Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01QV8;INF200K01QW6;62.4102;;;19-Nov-2024
-103616;SBI Blue Chip Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01164;INF200K01172;49.6089;;;19-Nov-2024
-119598;SBI BLUE CHIP FUND-DIRECT PLAN -GROWTH;INF200K01QX4;;96.1643;;;19-Nov-2024
-103504;SBI BLUE CHIP FUND-REGULAR PLAN GROWTH;INF200K01180;;87.2039;;;19-Nov-2024
+119585;SBI Large Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01QV8;INF200K01QW6;62.4102;;;19-Nov-2024
+103616;SBI Large Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01164;INF200K01172;49.6089;;;19-Nov-2024
+119598;SBI Large Cap FUND-DIRECT PLAN -GROWTH;INF200K01QX4;;96.1643;;;19-Nov-2024
+103504;SBI Large Cap FUND-REGULAR PLAN GROWTH;INF200K01180;;87.2039;;;19-Nov-2024
 
 Sundaram Mutual Fund
 148509;Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip  Fund)  Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1JE6;;18.1898;;;19-Nov-2024
@@ -401,10 +401,10 @@ Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-119436;Aditya Birla Sun Life Equity Advantage Fund - Growth - Direct Plan;INF209K01VH8;;945.9;;;19-Nov-2024
-100033;Aditya Birla Sun Life Equity Advantage Fund - Regular Growth;INF209K01165;;854.85;;;19-Nov-2024
-119433;Aditya Birla Sun Life Equity Advantage Fund -Direct - IDCW;INF209K01VG0;INF209K01VI6;202.71;;;19-Nov-2024
-100034;Aditya Birla Sun Life Equity Advantage Fund -Regular - IDCW;INF209K01157;INF209K01CE5;132.58;;;19-Nov-2024
+119436;Aditya Birla Sun Life Large & Mid Cap Fund - Growth - Direct Plan;INF209K01VH8;;945.9;;;19-Nov-2024
+100033;Aditya Birla Sun Life Large & Mid Cap Fund - Regular Growth;INF209K01165;;854.85;;;19-Nov-2024
+119433;Aditya Birla Sun Life Large & Mid Cap Fund -Direct - IDCW;INF209K01VG0;INF209K01VI6;202.71;;;19-Nov-2024
+100034;Aditya Birla Sun Life Large & Mid Cap Fund -Regular - IDCW;INF209K01157;INF209K01CE5;132.58;;;19-Nov-2024
 
 Axis Mutual Fund
 145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;34.10;;;19-Nov-2024
@@ -505,10 +505,10 @@ ITI Mutual Fund
 152822;ITI Large & Midcap Fund - Regular Plan - IDCW Option;INF00XX01CY6;INF00XX01CZ3;9.4394;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-120158;Kotak Equity Opportunities Fund - Direct- Growth;INF174K01LF9;;369.376;;;19-Nov-2024
-103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;323.999;;;19-Nov-2024
-120157;Kotak Equity Opportunities Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;65.179;;;19-Nov-2024
-103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;56.526;;;19-Nov-2024
+120158;Kotak Large & Midcap Fund - Direct- Growth;INF174K01LF9;;369.376;;;19-Nov-2024
+103234;Kotak Large & Midcap Fund - Growth-Regular;INF174K01187;;323.999;;;19-Nov-2024
+120157;Kotak Large & Midcap Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;65.179;;;19-Nov-2024
+103233;Kotak Large & Midcap Fund - IDCW-Regular;INF174K01203;INF174K01195;56.526;;;19-Nov-2024
 
 LIC Mutual Fund
 133710;LIC MF Large & Mid Cap Fund-Direct Plan-Growth;INF767K01NE9;;43.196;;;19-Nov-2024
@@ -545,12 +545,12 @@ Navi Mutual Fund
 135678;Navi Large & Midcap Fund- Regular Plan- Growth Option;INF959L01CK0;;34.4478;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118676;NIPPON INDIA VISION FUND - DIRECT Plan - IDCW Option;INF204K01F04;INF204K01F12;75.8917;;;19-Nov-2024
-118675;Nippon India Vision Fund - Direct Plan Growth Plan - Bonus Option;INF204K01E96;;250.3050;;;19-Nov-2024
-118678;Nippon India Vision Fund - Direct Plan Growth Plan - Growth Option;INF204K01F20;;1476.3583;;;19-Nov-2024
 100378;NIPPON INDIA VISION FUND - IDCW Option;INF204K01372;INF204K01380;67.5646;;;19-Nov-2024
 100379;Nippon India Vision Fund-GROWTH PLAN-Bonus Option;INF204K01398;;232.1785;;;19-Nov-2024
 100380;Nippon India Vision Fund-GROWTH PLAN-Growth Option;INF204K01406;;1378.5102;;;19-Nov-2024
+118676;NIPPON INDIA VISION LARGE & MID CAP  FUND - DIRECT Plan - IDCW Option;INF204K01F04;INF204K01F12;75.8917;;;19-Nov-2024
+118675;Nippon India Vision Large & Mid Cap Fund - Direct Plan Growth Plan - Bonus Option;INF204K01E96;;250.3050;;;19-Nov-2024
+118678;Nippon India Vision Large & Mid Cap Fund - Direct Plan Growth Plan - Growth Option;INF204K01F20;;1476.3583;;;19-Nov-2024
 
 PGIM India Mutual Fund
 152382;PGIM India Large and Midcap Fund - Direct Plan - Growth Option;INF663L01Y12;;11.68;;;19-Nov-2024
@@ -688,10 +688,10 @@ JM Financial Mutual Fund
 150813;JM Midcap Fund (Regular) - IDCW;INF192K01MT0;INF192K01MU8;18.6591;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-104908;Kotak Emerging Equity Scheme - Growth;INF174K01DS9;;128.919;;;19-Nov-2024
-119775;Kotak Emerging Equity Scheme - Growth - Direct;INF174K01LT0;;148.218;;;19-Nov-2024
-104907;Kotak Emerging Equity Scheme - Payout of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;70.806;;;19-Nov-2024
-119774;Kotak Emerging Equity Scheme - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LU8;INF174K01LV6;88.306;;;19-Nov-2024
+119774;Kotak Midcap Fund  - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01LU8;INF174K01LV6;88.306;;;19-Nov-2024
+119775;Kotak Midcap Fund - Direct Plan - Growth;INF174K01LT0;;148.218;;;19-Nov-2024
+104908;Kotak Midcap Fund - Regular Plan - Growth;INF174K01DS9;;128.919;;;19-Nov-2024
+104907;Kotak Midcap Fund - Regular Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;70.806;;;19-Nov-2024
 
 LIC Mutual Fund
 152002;LIC MF Mid Cap Fund-Direct Plan-Growth;INF397L01JK8;;31.6476;;;19-Nov-2024
@@ -718,13 +718,13 @@ Motilal Oswal Mutual Fund
 127039;Motilal Oswal Midcap Fund-Regular Plan-Growth Option;INF247L01411;;104.2025;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118666;NIPPON INDIA GROWTH FUND - DIRECT Plan - IDCW Option;INF204K01E39;INF204K01E47;194.1534;;;19-Nov-2024
-118665;Nippon India Growth Fund - Direct Plan Growth Plan - Bonus Option;INF204K01E21;;714.6668;;;19-Nov-2024
-118668;Nippon India Growth Fund - Direct Plan Growth Plan - Growth Option;INF204K01E54;;4301.6743;;;19-Nov-2024
 100375;NIPPON INDIA GROWTH FUND - IDCW Option;INF204K01299;INF204K01307;124.3730;;;19-Nov-2024
-106260;NIPPON INDIA GROWTH FUND - INSTITUTIONAL Plan - IDCW Option;INF204K01257;INF204K01265;1366.4293;;;19-Nov-2024
 100376;Nippon India Growth Fund-Growth Plan-Bonus Option;INF204K01315;;657.2803;;;19-Nov-2024
 100377;Nippon India Growth Fund-Growth Plan-Growth Option;INF204K01323;;3948.3302;;;19-Nov-2024
+118666;NIPPON INDIA GROWTH MID CAP FUND - DIRECT Plan - IDCW Option;INF204K01E39;INF204K01E47;194.1534;;;19-Nov-2024
+118665;Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Bonus Option;INF204K01E21;;714.6668;;;19-Nov-2024
+118668;Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Growth Option;INF204K01E54;;4301.6743;;;19-Nov-2024
+106260;NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option;INF204K01257;INF204K01265;1366.4293;;;19-Nov-2024
 
 PGIM India Mutual Fund
 125301;PGIM India Midcap Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;58.04;;;19-Nov-2024
@@ -739,10 +739,10 @@ quant Mutual Fund
 101066;quant Mid Cap Fund - IDCW Option - Regular Plan;INF966L01150;INF966L01168;76.63;;;19-Nov-2024
 
 SBI Mutual Fund
-119716;SBI Magnum MIDCAP FUND - DIRECT PLAN - GROWTH;INF200K01TP4;;254.3816;;;19-Nov-2024
-119715;SBI Magnum MidCap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TN9;INF200K01TO7;144.2187;;;19-Nov-2024
-102941;SBI Magnum MIDCAP FUND - REGULAR PLAN - GROWTH;INF200K01560;;228.2119;;;19-Nov-2024
-102942;SBI Magnum MidCap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01578;INF200K01586;93.2504;;;19-Nov-2024
+119716;SBI MIDCAP FUND - DIRECT PLAN - GROWTH;INF200K01TP4;;254.3816;;;19-Nov-2024
+119715;SBI Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TN9;INF200K01TO7;144.2187;;;19-Nov-2024
+102941;SBI MIDCAP FUND - REGULAR PLAN - GROWTH;INF200K01560;;228.2119;;;19-Nov-2024
+102942;SBI Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01578;INF200K01586;93.2504;;;19-Nov-2024
 
 Sundaram Mutual Fund
 119581;Sundaram Mid Cap Fund Direct Plan - Growth;INF903J01MJ3;;1432.8782;;;19-Nov-2024
@@ -1006,8 +1006,8 @@ SBI Mutual Fund
 
 Sundaram Mutual Fund
 149700;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund) - Direct Plan - Growth Option;INF173K01EV3;;144.8794;;;19-Nov-2024
-149699;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01ES9;INF173K01ET7;66.9559;;;19-Nov-2024
-149698;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Half Yearly Income Distribution CUM Capital Withdrawal Plan;INF173K01AD9;INF173K01AE7;40.3201;;;19-Nov-2024
+149699;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option;INF173K01ES9;INF173K01ET7;66.9559;;;19-Nov-2024
+149698;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Income Distribution CUM Capital Withdrawal Plan;INF173K01AD9;INF173K01AE7;40.3201;;;19-Nov-2024
 149697;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)-Growth Plan;INF173K01AC1;;133.8252;;;19-Nov-2024
 
 Tata Mutual Fund
@@ -1028,10 +1028,10 @@ Open Ended Schemes ( Equity Scheme - Value Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-119658;Aditya Birla Sun Life Pure Value Fund - Direct - IDCW;INF209K01WP9;;78.6017;;;19-Nov-2024
-119659;Aditya Birla Sun Life Pure Value Fund - Growth - Direct Plan;INF209K01WQ7;;138.1589;;;19-Nov-2024
-108167;Aditya Birla Sun Life Pure Value Fund - Growth Option;INF209K01LF3;;123.389;;;19-Nov-2024
-108166;Aditya Birla Sun Life Pure Value Fund - Regular - IDCW;INF209K01LE6;INF209K01LG1;43.3036;;;19-Nov-2024
+119658;Aditya Birla Sun Life Value Fund - Direct - IDCW;INF209K01WP9;INF209K01WR5;78.6017;;;19-Nov-2024
+119659;Aditya Birla Sun Life Value Fund - Growth - Direct Plan;INF209K01WQ7;;138.1589;;;19-Nov-2024
+108167;Aditya Birla Sun Life Value Fund - Growth Option;INF209K01LF3;;123.389;;;19-Nov-2024
+108166;Aditya Birla Sun Life Value Fund - Regular - IDCW;INF209K01LE6;INF209K01LG1;43.3036;;;19-Nov-2024
 
 Axis Mutual Fund
 149166;Axis Value Fund - Direct Plan - Growth;INF846K010C0;;18.63;;;19-Nov-2024
@@ -1165,10 +1165,10 @@ Invesco Mutual Fund
 105459;Invesco India Contra Fund - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;53.38;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-103040;Kotak India EQ Contra Fund - Growth;INF174K01245;;143.785;;;19-Nov-2024
-119769;Kotak India EQ Contra Fund - Growth - Direct;INF174K01KZ9;;168.125;;;19-Nov-2024
-103039;Kotak India EQ Contra Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;49.562;;;19-Nov-2024
-119768;Kotak India EQ Contra Fund - Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01LA0;;59.827;;;19-Nov-2024
+119769;Kotak Contra Fund - Direct Plan - Growth;INF174K01KZ9;;168.125;;;19-Nov-2024
+119768;Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct;INF174K01LA0;INF174K01LB8;59.827;;;19-Nov-2024
+103040;Kotak Contra Fund - Regular Plan - Growth;INF174K01245;;143.785;;;19-Nov-2024
+103039;Kotak Contra Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;49.562;;;19-Nov-2024
 
 SBI Mutual Fund
 119835;SBI CONTRA FUND - DIRECT PLAN - GROWTH;INF200K01RA0;;403.2732;;;19-Nov-2024
@@ -1258,10 +1258,10 @@ Invesco Mutual Fund
 148484;Invesco India Focused Fund - IDCW (Payout / Reinvestment);INF205KA1171;INF205KA1197;24.61;;;19-Nov-2024
 
 ITI Mutual Fund
-151777;ITI Focused Equity Fund - Direct Plan - Growth;INF00XX01CS8;;14.7199;;;19-Nov-2024
-151776;ITI Focused Equity Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;14.7199;;;19-Nov-2024
-151778;ITI Focused Equity Fund - Regular Plan - Growth;INF00XX01CV2;;14.3230;;;19-Nov-2024
-151775;ITI Focused Equity Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;14.3230;;;19-Nov-2024
+151777;ITI Focused Fund - Direct Plan - Growth;INF00XX01CS8;;14.7199;;;19-Nov-2024
+151776;ITI Focused Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;14.7199;;;19-Nov-2024
+151778;ITI Focused Fund - Regular Plan - Growth;INF00XX01CV2;;14.3230;;;19-Nov-2024
+151775;ITI Focused Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;14.3230;;;19-Nov-2024
 
 JM Financial Mutual Fund
 120488;JM Focused Fund (Direct)  - Growth Option;INF192K01BW7;;22.7857;;;19-Nov-2024
@@ -1270,10 +1270,10 @@ JM Financial Mutual Fund
 107409;JM Focused Fund (Regular) - IDCW;INF192K01551;INF192K01569;19.7347;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-147473;Kotak Focused equity Fund- Direct Plan- Growth option;INF174KA1EN7;;25.788;;;19-Nov-2024
-147477;Kotak Focused Equity Fund- Regular plan _ Growth Option;INF174KA1EK3;;23.674;;;19-Nov-2024
-147472;Kotak Focused Equity Fund- Regular Plan-Income Distribution cum capital withdrawal option;INF174KA1EM9;INF174KA1EL1;23.674;;;19-Nov-2024
-147475;Kotak Focused Equity Fund-Direct Plan- Income Distribution cum capital withdrawal option;INF174KA1EP2;INF174KA1EO5;25.789;;;19-Nov-2024
+147473;Kotak Focused Fund- Direct Plan- Growth option;INF174KA1EN7;;25.788;;;19-Nov-2024
+147477;Kotak Focused Fund- Regular plan _ Growth Option;INF174KA1EK3;;23.674;;;19-Nov-2024
+147472;Kotak Focused Fund- Regular Plan-Income Distribution cum capital withdrawal option;INF174KA1EM9;INF174KA1EL1;23.674;;;19-Nov-2024
+147475;Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option;INF174KA1EP2;INF174KA1EO5;25.789;;;19-Nov-2024
 
 LIC Mutual Fund
 152010;LIC MF Focused Fund-Direct Plan-Growth;INF397L01KA7;;22.3524;;;19-Nov-2024
@@ -1300,10 +1300,10 @@ Motilal Oswal Mutual Fund
 122388;Motilal Oswal Focused 25 Fund Regular - IDCW Payout/Reinvestment;INF247L01171;INF247L01163;21.6236;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118693;NIPPON INDIA FOCUSED EQUITY FUND - DIRECT Plan - IDCW Option;INF204K01F79;INF204K01F87;48.5564;;;19-Nov-2024
-118692;Nippon India Focused Equity Fund - Direct Plan Growth Plan - Growth Option;INF204K01F95;;124.1097;;;19-Nov-2024
-104638;NIPPON INDIA FOCUSED EQUITY FUND - IDCW OPTION;INF204K01GF4;INF204K01GG2;35.5615;;;19-Nov-2024
-104637;Nippon India Focused Equity Fund -Growth Plan -Growth Option;INF204K01GE7;;113.3167;;;19-Nov-2024
+118693;NIPPON INDIA FOCUSED  FUND - DIRECT Plan - IDCW Option;INF204K01F79;INF204K01F87;48.5564;;;19-Nov-2024
+104638;NIPPON INDIA FOCUSED  FUND - IDCW OPTION;INF204K01GF4;INF204K01GG2;35.5615;;;19-Nov-2024
+118692;Nippon India Focused Fund - Direct Plan Growth Plan - Growth Option;INF204K01F95;;124.1097;;;19-Nov-2024
+104637;Nippon India Focused Fund -Growth Plan -Growth Option;INF204K01GE7;;113.3167;;;19-Nov-2024
 
 Old Bridge Mutual Fund
 152358;Old Bridge Focused Fund - Direct Growth;INF0S5R01042;;11.48;;;19-Nov-2024
@@ -1318,16 +1318,16 @@ quant Mutual Fund
 109274;quant Focused Fund - IDCW Option - Regular Plan;INF966L01358;INF966L01366;63.4533;;;19-Nov-2024
 
 SBI Mutual Fund
-119834;SBI Focused Equity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RH5;INF200K01RI3;88.5369;;;19-Nov-2024
-119727;SBI FOCUSED EQUITY FUND - DIRECT PLAN -GROWTH;INF200K01RJ1;;363.3165;;;19-Nov-2024
-102765;SBI Focused Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01388;INF200K01396;59.5037;;;19-Nov-2024
-102756;SBI FOCUSED EQUITY FUND - REGULAR PLAN -GROWTH;INF200K01370;;325.3194;;;19-Nov-2024
+119834;SBI Focused Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RH5;INF200K01RI3;88.5369;;;19-Nov-2024
+119727;SBI FOCUSED FUND - DIRECT PLAN -GROWTH;INF200K01RJ1;;363.3165;;;19-Nov-2024
+102765;SBI Focused Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01388;INF200K01396;59.5037;;;19-Nov-2024
+102756;SBI FOCUSED FUND - REGULAR PLAN -GROWTH;INF200K01370;;325.3194;;;19-Nov-2024
 
 Sundaram Mutual Fund
 149533;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)- Direct Plan - Growth Option;INF173K01EK6;;173.4853;;;19-Nov-2024
-149534;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)- Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01EM2;INF173K01EL4;45.9387;;;19-Nov-2024
+149534;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01EM2;INF173K01EL4;45.9387;;;19-Nov-2024
+149531;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01197;INF173K01205;42.5153;;;19-Nov-2024
 149532;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)-Growth Option;INF173K01189;;157.6535;;;19-Nov-2024
-149531;Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)-Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01197;INF173K01205;42.5153;;;19-Nov-2024
 
 Tata Mutual Fund
 147759;TATA Focused Equity Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K019X5;;25.3258;;;19-Nov-2024
@@ -1941,10 +1941,10 @@ quant Mutual Fund
 152338;quant Consumption Fund - Growth Option - Regular Plan;INF966L01DI7;;10.5826;;;19-Nov-2024
 152339;quant Consumption Fund - IDCW Option - Direct Plan;INF966L01DO5;INF966L01DP2;10.7313;;;19-Nov-2024
 152337;quant Consumption Fund - IDCW Option - Regular Plan;INF966L01DL1;INF966L01DM9;10.5871;;;19-Nov-2024
-148564;quant ESG Equity Fund - Growth Option - Direct Plan;INF966L01AD4;;35.4686;;;19-Nov-2024
-148560;quant ESG Equity Fund - Growth Option - Regular Plan;INF966L01AB8;;33.3124;;;19-Nov-2024
-148563;quant ESG Equity Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;35.4273;;;19-Nov-2024
-148561;quant ESG Equity Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;33.1508;;;19-Nov-2024
+148564;quant ESG Integration Strategy Fund - Growth Option - Direct Plan;INF966L01AD4;;35.4686;;;19-Nov-2024
+148560;quant ESG Integration Strategy Fund - Growth Option - Regular Plan;INF966L01AB8;;33.3124;;;19-Nov-2024
+148563;quant ESG Integration Strategy Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;35.4273;;;19-Nov-2024
+148561;quant ESG Integration Strategy Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;33.1508;;;19-Nov-2024
 151853;quant Healthcare Fund - Growth Option - Direct Plan;INF966L01CD0;;16.1038;;;19-Nov-2024
 151855;quant Healthcare Fund - Growth Option - Regular Plan;INF966L01CG3;;15.7528;;;19-Nov-2024
 151854;quant Healthcare Fund - IDCW Option - Direct Plan;INF966L01CE8;INF966L01CF5;16.1028;;;19-Nov-2024
@@ -1993,6 +1993,10 @@ SBI Mutual Fund
 133857;SBI Banking & Financial Services Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1515;INF200KA1523;37.0941;;;19-Nov-2024
 133858;SBI BANKING & FINANCIAL SERVICES FUND - REGULAR PLAN - GROWTH;INF200KA1473;;37.4237;;;19-Nov-2024
 133860;SBI Banking & Financial Services Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1481;INF200KA1499;33.6083;;;19-Nov-2024
+119705;SBI COMMA Fund - DIRECT PLAN - Growth;INF200K01SB6;;104.7650;;;19-Nov-2024
+119613;SBI Comma Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RZ7;INF200K01SA8;59.6163;;;19-Nov-2024
+103145;SBI COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;97.3051;;;19-Nov-2024
+103146;SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;55.2313;;;19-Nov-2024
 120575;SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH;INF200K01RM5;;358.3217;;;19-Nov-2024
 119730;SBI Consumption Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RK9;INF200K01RL7;252.2545;;;19-Nov-2024
 120576;SBI CONSUMPTION OPPORTUNITIES FUND - REGULAR - GROWTH;INF200K01VR6;;316.2447;;;19-Nov-2024
@@ -2021,14 +2025,10 @@ SBI Mutual Fund
 152777;SBI Innovative Opportunities Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;INF200KB1332;INF200KB1340;9.4660;;;19-Nov-2024
 152774;SBI Innovative Opportunities Fund - Regular Plan - Growth;INF200KB1290;;9.4371;;;19-Nov-2024
 152775;SBI Innovative Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;INF200KB1308;INF200KB1316;9.4375;;;19-Nov-2024
-119705;SBI Magnum COMMA Fund - DIRECT PLAN - Growth;INF200K01SB6;;104.7650;;;19-Nov-2024
-119613;SBI Magnum Comma Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RZ7;INF200K01SA8;59.6163;;;19-Nov-2024
-103145;SBI Magnum COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;97.3051;;;19-Nov-2024
-103146;SBI Magnum Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;55.2313;;;19-Nov-2024
-119710;SBI Magnum Global Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SL5;INF200K01SM3;143.3033;;;19-Nov-2024
-119711;SBI MAGNUM GLOBAL FUND - DIRECT PLAN -GROWTH;INF200K01SN1;;401.4490;;;19-Nov-2024
 103114;SBI Magnum Global Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;111.8031;;;19-Nov-2024
-103034;SBI MAGNUM GLOBAL FUND - REGULAR PLAN -GROWTH;INF200K01271;;365.9777;;;19-Nov-2024
+119710;SBI MNC Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SL5;INF200K01SM3;143.3033;;;19-Nov-2024
+119711;SBI MNC FUND - DIRECT PLAN -GROWTH;INF200K01SN1;;401.4490;;;19-Nov-2024
+103034;SBI MNC FUND - REGULAR PLAN -GROWTH;INF200K01271;;365.9777;;;19-Nov-2024
 119732;SBI PSU Fund - DIRECT PLAN - GROWTH;INF200K01UY4;;33.5248;;;19-Nov-2024
 119733;SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UW8;INF200K01UX6;33.4758;;;19-Nov-2024
 112923;SBI PSU Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01BD8;INF200K01BE6;30.6574;;;19-Nov-2024
@@ -2420,10 +2420,10 @@ Samco Mutual Fund
 150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;INF0K1H01057;;14.01;;;19-Nov-2024
 
 SBI Mutual Fund
-119722;SBI Long Term Equity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UK3;;111.8952;;;19-Nov-2024
-119723;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;INF200K01UM9;;451.7582;;;19-Nov-2024
-103883;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;85.1109;;;19-Nov-2024
-105628;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;INF200K01495;;419.8028;;;19-Nov-2024
+119722;SBI ELSS Tax Saver Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UK3;;111.8952;;;19-Nov-2024
+119723;SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH;INF200K01UM9;;451.7582;;;19-Nov-2024
+103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;85.1109;;;19-Nov-2024
+105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;419.8028;;;19-Nov-2024
 
 Shriram Mutual Fund
 145819;Shriram ELSS Tax Saver Fund - Direct Growth;INF680P01158;;24.2216;;;19-Nov-2024
@@ -2436,10 +2436,10 @@ Sundaram Mutual Fund
 119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;19.7542;;;19-Nov-2024
 101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;207.3537;;;19-Nov-2024
 100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;16.3147;;;19-Nov-2024
-149571;Sundaram ELSS Tax Saver Fund Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NN1;;507.6697;;;19-Nov-2024
+149571;Sundaram ELSS Tax Saver Fund Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01NN1;;507.6697;;;19-Nov-2024
 149570;Sundaram ELSS Tax Saver Fund Direct Plan Growth;INF173K01HZ7;;508.1814;;;19-Nov-2024
 149569;Sundaram ELSS Tax Saver Fund Regular Growth;INF173K01361;;477.0178;;;19-Nov-2024
-149572;Sundaram ELSS Tax Saver Fund Regular Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;INF173K01NM3;;398.4055;;;19-Nov-2024
+149572;Sundaram ELSS Tax Saver Fund Regular Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01NM3;;398.4055;;;19-Nov-2024
 
 Tata Mutual Fund
 119281;Tata ELSS Tax Saver Fund- Direct Plan - Payout of IDCW Option;INF277K01I94;;222.4175;;;19-Nov-2024
@@ -3106,7 +3106,7 @@ Nippon India Mutual Fund
 118695;NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION;;INF204K01ZG2;1528.7400;;;19-Nov-2024
 118696;NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION;INF204K01ZI8;INF204K01ZJ6;1594.7528;;;19-Nov-2024
 118698;NIPPON INDIA LIQUID FUND - DIRECT Plan - QUARTERLY IDCW OPTION;INF204K01ZK4;INF204K01ZL2;1015.9662;;;19-Nov-2024
-118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;;INF204K01ZM0;1530.6102;;;19-Nov-2024
+118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;INF204KC1FN6;INF204K01ZM0;1530.6102;;;19-Nov-2024
 118701;Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option;INF204K01ZH0;;6183.5450;;;19-Nov-2024
 100855;NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION;INF204K01UO7;INF204K01UP4;1591.3037;;;19-Nov-2024
 112340;NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION;INF204K01UQ2;INF204K01UR0;1014.3294;;;19-Nov-2024
@@ -3115,7 +3115,7 @@ Nippon India Mutual Fund
 100843;NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION;INF204K01UT6;INF204K01UU4;1332.1540;;;19-Nov-2024
 100844;NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION;INF204K01UV2;INF204K01UW0;1226.7542;;;19-Nov-2024
 100838;NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION;;INF204K01UK5;1034.3514;;;19-Nov-2024
-100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;;INF204K01US8;1530.6071;;;19-Nov-2024
+100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;INF204KC1FM8;INF204K01US8;1530.6071;;;19-Nov-2024
 100851;Nippon India Liquid Fund -Growth Plan;INF204K01UN9;;6110.0342;;;19-Nov-2024
 
 PGIM India Mutual Fund
@@ -3180,7 +3180,7 @@ Sundaram Mutual Fund
 149744;Sundaram  Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct IDCW;;INF903JA1JK3;1136.1746;;;19-Nov-2024
 149742;Sundaram Liquid Fund (Formerly Known as  Principal Cash Management Fund) Regular Plan Principal Units;;INF903JA1JI7;1222.7317;;;19-Nov-2024
 149664;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option;INF173K01GU0;;2231.8716;;;19-Nov-2024
-149660;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - IDCW;INF173K01DD3;INF173K01DE1;1025.0472;;;19-Nov-2024
+149660;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW;INF173K01DD3;INF173K01DE1;1025.0472;;;19-Nov-2024
 149662;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - IDCW;INF173K01GV8;INF173K01GW6;1025.1293;;;19-Nov-2024
 149661;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option;INF173K01DA9;;2208.9698;;;19-Nov-2024
 149737;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct Principal Units;;INF903JA1JH9;1227.3222;;;19-Nov-2024
@@ -3467,12 +3467,12 @@ SBI Mutual Fund
 103884;SBI Magnum Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LM8;INF200K01LL0;1265.7809;;;19-Nov-2024
 
 Sundaram Mutual Fund
-149724;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) Direct Plan Quarterly IDCW;INF903JA1JQ0;INF903JA1JP2;1185.5550;;;19-Nov-2024
-149540;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly;INF173K01HK9;INF173K01HJ1;1061.3887;;;19-Nov-2024
+149537;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01CX3;INF173K01CY1;1060.8141;;;19-Nov-2024
+149724;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) Direct Plan -IDCW;INF903JA1JQ0;INF903JA1JP2;1185.5550;;;19-Nov-2024
 149539;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)- Direct Plan -Growth Option;INF173K01HI3;;2795.1275;;;19-Nov-2024
+149540;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)- Direct Plan Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01HK9;INF173K01HJ1;1061.3887;;;19-Nov-2024
 149535;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)-Growth Option;INF173K01CU9;;2582.3933;;;19-Nov-2024
-149537;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)-Monthly Income Distribution CUM Capital Withdrawal Option;INF173K01CX3;INF173K01CY1;1060.8141;;;19-Nov-2024
-149723;Sundaram Ultra Short Duration Fund (Formerly Known as Prinicpal Ultra Short Term Fund) Regular Plan Quarterly IDCW;INF903JA1JN7;INF903JA1JM9;1142.6159;;;19-Nov-2024
+149723;Sundaram Ultra Short Duration Fund (Formerly Known as Prinicpal Ultra Short Term Fund) Regular Plan -IDCW;INF903JA1JN7;INF903JA1JM9;1142.6159;;;19-Nov-2024
 
 Tata Mutual Fund
 146076;TATA Ultra Short Term Fund Direct Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option  ;;INF277K013T6;14.2098;;;19-Nov-2024
@@ -3738,11 +3738,11 @@ SBI Mutual Fund
 Sundaram Mutual Fund
 149747;Sundaram Low Duration Fund (Formerly Know as Principal Low Duation Fund) Regular Principal Units;;INF903JA1JW8;1281.8711;;;19-Nov-2024
 149526;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) - Direct Plan - Growth Option;INF173K01FS6;;3532.3034;;;19-Nov-2024
-149525;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;INF173K01FT4;INF173K01FU2;1096.0459;;;19-Nov-2024
-149752;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) Regular Quarterly IDCW;INF903JA1JT4;INF903JA1JS6;1191.1858;;;19-Nov-2024
+149525;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01FT4;INF173K01FU2;1096.0459;;;19-Nov-2024
+149752;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) Regular Plan IDCW;INF903JA1JT4;INF903JA1JS6;1191.1858;;;19-Nov-2024
 149519;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)- Growth Option;INF173K01DG6;;3309.9973;;;19-Nov-2024
-149521;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)- Monthly Income Distribution CUM Capital Withdrawal Option;INF173K01DJ0;INF173K01DK8;1086.2265;;;19-Nov-2024
-149750;Sundaram Low Duration Fund(Formerly Known as Principal Low Duration Fund) Direct Quarterly IDCW;INF903JA1JZ1;INF903JA1JY4;1229.1845;;;19-Nov-2024
+149521;Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01DJ0;INF173K01DK8;1086.2265;;;19-Nov-2024
+149750;Sundaram Low Duration Fund(Formerly Known as Principal Low Duration Fund) Direct Plan - IDCW;INF903JA1JZ1;INF903JA1JY4;1229.1845;;;19-Nov-2024
 
 Tata Mutual Fund
 119863;Tata Treasury Advantage Fund - Direct Plan - Growth Option;INF277K01OK4;;3851.8942;;;19-Nov-2024
@@ -3972,15 +3972,15 @@ SBI Mutual Fund
 
 Sundaram Mutual Fund
 145050;Sundaram Money Market Fund Direct Plan - Growth;INF903JA1FR6;;14.3896;;;19-Nov-2024
-145051;Sundaram Money Market Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FS4;;11.1625;;;19-Nov-2024
-145056;Sundaram Money Market Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1FX4;11.1625;;;19-Nov-2024
-145052;Sundaram Money Market Fund Direct Plan - Quarterly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FT2;;12.4575;;;19-Nov-2024
-145057;Sundaram Money Market Fund Direct Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1FY2;12.4575;;;19-Nov-2024
+145051;Sundaram Money Market Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FS4;;11.1625;;;19-Nov-2024
+145056;Sundaram Money Market Fund Direct Plan - Income Distribution cum Capital Withdrawal(IDCW);;INF903JA1FX4;11.1625;;;19-Nov-2024
+145052;Sundaram Money Market Fund Direct Plan- Income Distribution cum Capital Withdrawal(IDCW);INF903JA1FT2;;12.4575;;;19-Nov-2024
+145057;Sundaram Money Market Fund Direct Plan-Income Distribution cum Capital Withdrawal(IDCW);;INF903JA1FY2;12.4575;;;19-Nov-2024
 145042;Sundaram Money Market Fund Regular Plan - Growth;INF903JA1FJ3;;14.3089;;;19-Nov-2024
-145044;Sundaram Money Market Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FK1;;11.1419;;;19-Nov-2024
-145049;Sundaram Money Market Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1FP0;11.1419;;;19-Nov-2024
-145045;Sundaram Money Market Fund Regular Plan - Quarterly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FL9;;12.3861;;;19-Nov-2024
-145046;Sundaram Money Market Fund Regular Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1FQ8;12.3861;;;19-Nov-2024
+145045;Sundaram Money Market Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW );INF903JA1FL9;;12.3861;;;19-Nov-2024
+145046;Sundaram Money Market Fund Regular Plan -Income Distribution cum Capital Withdrawal (IDCW );;INF903JA1FQ8;12.3861;;;19-Nov-2024
+145049;Sundaram Money Market Fund Regular Plan -Income Distribution cum Capital Withdrawal(IDCW);;INF903JA1FP0;11.1419;;;19-Nov-2024
+145044;Sundaram Money Market Fund Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903JA1FK1;;11.1419;;;19-Nov-2024
 
 Tata Mutual Fund
 119421;Tata Money Market Fund- Direct Plan - Daily Reinvestment of IDCW Option;;INF277K011C6;1114.5200;;;19-Nov-2024
@@ -4198,12 +4198,12 @@ Mirae Asset Mutual Fund
 142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;14.9475;;;19-Nov-2024
 
 Nippon India Mutual Fund
-125269;NIPPON INDIA SHORT TERM FUND - Direct Plan - IDCW Option;INF204KA1ES0;INF204KA1ET8;22.0125;;;19-Nov-2024
-118797;NIPPON INDIA SHORT TERM FUND - Direct Plan - MONTHLY IDCW Option;INF204K01B40;;11.7452;;;19-Nov-2024
-118800;NIPPON INDIA SHORT TERM FUND - Direct Plan - QUARTERLY IDCW OPTION;INF204K01B65;INF204K01B73;15.3029;;;19-Nov-2024
-118796;Nippon India Short Term Fund - Direct Plan Growth Plan - Growth Option;INF204K01B32;;54.1638;;;19-Nov-2024
-125268;NIPPON INDIA SHORT TERM FUND - IDCW Option;INF204KA1EQ4;INF204KA1ER2;20.3476;;;19-Nov-2024
-101667;NIPPON INDIA SHORT TERM FUND - MONTHLY IDCW Option;INF204K01FM2;INF204K01FN0;11.5183;;;19-Nov-2024
+125269;NIPPON INDIA SHORT DURATION FUND - Direct Plan - IDCW Option;INF204KA1ES0;INF204KA1ET8;22.0125;;;19-Nov-2024
+118797;NIPPON INDIA SHORT DURATION FUND - Direct Plan - MONTHLY IDCW Option;INF204K01B40;;11.7452;;;19-Nov-2024
+118800;NIPPON INDIA SHORT DURATION FUND - Direct Plan - QUARTERLY IDCW OPTION;INF204K01B65;INF204K01B73;15.3029;;;19-Nov-2024
+118796;Nippon India Short Duration Fund - Direct Plan Growth Plan - Growth Option;INF204K01B32;;54.1638;;;19-Nov-2024
+125268;NIPPON INDIA SHORT DURATION FUND - IDCW Option;INF204KA1EQ4;INF204KA1ER2;20.3476;;;19-Nov-2024
+101667;NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option;INF204K01FM2;INF204K01FN0;11.5183;;;19-Nov-2024
 101669;NIPPON INDIA SHORT TERM FUND - QUARTERLY IDCW OPTION;INF204K01FO8;INF204K01FP5;14.9473;;;19-Nov-2024
 101665;Nippon India Short Term Fund-Growth Plan;INF204K01FL4;;50.0256;;;19-Nov-2024
 
@@ -4222,17 +4222,17 @@ SBI Mutual Fund
 106232;SBI Short Term Debt Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01HX3;INF200K01HY1;13.8164;;;19-Nov-2024
 
 Sundaram Mutual Fund
-149588;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan - Monthly;INF173K01GQ8;INF173K01GR6;12.9001;;;19-Nov-2024
-149726;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Direct Plan Annual IDCW;INF903JA1KR6;;14.5076;;;19-Nov-2024
-149733;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Direct Plan Halfyearly IDCW;INF903JA1KN5;;14.5058;;;19-Nov-2024
-149728;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Direct Plan Quarterly IDCW;INF903JA1KM7;;14.6762;;;19-Nov-2024
-149730;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Halfyearly IDCW;INF903JA1KF1;;14.2199;;;19-Nov-2024
-149735;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Plan Annual IDCW;INF903JA1KJ3;;14.2198;;;19-Nov-2024
+149728;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - IDCW;INF903JA1KM7;;14.6762;;;19-Nov-2024
+149588;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW);INF173K01GQ8;INF173K01GR6;12.9001;;;19-Nov-2024
+149731;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Regular - IDCW;INF903JA1KE4;;14.3899;;;19-Nov-2024
+149733;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Direct Plan - IDCW;INF903JA1KN5;;14.5058;;;19-Nov-2024
+149726;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Direct Plan IDCW;INF903JA1KR6;;14.5076;;;19-Nov-2024
+149730;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular - IDCW;INF903JA1KF1;;14.2199;;;19-Nov-2024
+149735;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Plan IDCW;INF903JA1KJ3;;14.2198;;;19-Nov-2024
 149736;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Principal Units;;INF903JA1KI5;15.2134;;;19-Nov-2024
-149731;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Quarterly IDCW;INF903JA1KE4;;14.3899;;;19-Nov-2024
 149587;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Direct Plan - Growth Option;INF173K01GP0;;45.4021;;;19-Nov-2024
 149585;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Growth Plan;INF173K01BA3;;42.1160;;;19-Nov-2024
-149586;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Income Distribution CUM Capital Withdrawal Option - Monthly;INF173K01BB1;INF173K01BC9;12.8643;;;19-Nov-2024
+149586;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01BB1;INF173K01BC9;12.8643;;;19-Nov-2024
 
 Tata Mutual Fund
 119949;Tata Short Term Bond Fund - Direct Plan - Growth Option;INF277K01QR4;;50.2018;;;19-Nov-2024
@@ -4350,21 +4350,21 @@ Kotak Mahindra Mutual Fund
 128078;Kotak Medium Term Fund - Standard Income Distribution cum capital withdrawal option;INF174K01VN2;INF174K01VP7;13.242;;;19-Nov-2024
 
 Nippon India Mutual Fund
-148284;NIPPON INDIA STRATEGIC DEBT FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - IDCW Option;INF204KB16Q0;INF204KB17Q8;0.0000;;;19-Nov-2024
-148289;NIPPON INDIA STRATEGIC DEBT FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB18Q6;INF204KB19Q4;0.0000;;;19-Nov-2024
-148290;NIPPON INDIA STRATEGIC DEBT FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option;INF204KB12R7;INF204KB13R5;0.0000;;;19-Nov-2024
-148287;NIPPON INDIA STRATEGIC DEBT FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB14R3;INF204KB15R0;0.0000;;;19-Nov-2024
-130052;Nippon India Strategic Debt Fund - Direct Plan - Bonus Option;INF204KA1QG9;;15.8402;;;19-Nov-2024
-130050;Nippon India Strategic Debt Fund - Direct Plan - Growth Option;INF204KA1QF1;;15.8365;;;19-Nov-2024
-130054;NIPPON INDIA STRATEGIC DEBT FUND - DIRECT Plan - IDCW Option;INF204KA1QH7;INF204KA1QJ3;13.3576;;;19-Nov-2024
-130055;NIPPON INDIA STRATEGIC DEBT FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KA1QI5;INF204KA1QK1;11.2764;;;19-Nov-2024
-130037;Nippon India Strategic Debt Fund - Growth Option;INF204KA1PZ1;;14.6742;;;19-Nov-2024
-130053;NIPPON INDIA STRATEGIC DEBT FUND - IDCW Option;INF204KA1QB0;INF204KA1QD6;12.5570;;;19-Nov-2024
-130056;NIPPON INDIA STRATEGIC DEBT FUND - QUARTERLY IDCW Option;INF204KA1QC8;INF204KA1QE4;10.8236;;;19-Nov-2024
-148283;Nippon India Strategic Debt Fund - Segregated Portfolio 2 - Bonus Option;INF204KB11R9;;0.0000;;;19-Nov-2024
-148288;Nippon India Strategic Debt Fund - Segregated Portfolio 2 - Direct Plan - Bonus Option;INF204KB15Q2;;0.0000;;;19-Nov-2024
-148285;Nippon India Strategic Debt Fund - Segregated Portfolio 2 - Direct Plan - Growth Option;INF204KB10R1;;0.0000;;;19-Nov-2024
-148286;Nippon India Strategic Debt Fund - Segregated Portfolio 2 - Growth Option;INF204KB16R8;;0.0000;;;19-Nov-2024
+130056;NIPPON INDIA MEDIUJM DURATION FUND - QUARTERLY IDCW Option;INF204KA1QC8;INF204KA1QE4;10.8236;;;19-Nov-2024
+148283;Nippon India Medium Duration  Fund - Segregated Portfolio 2 - Bonus Option;INF204KB11R9;;0.0000;;;19-Nov-2024
+148284;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - IDCW Option;INF204KB16Q0;INF204KB17Q8;0.0000;;;19-Nov-2024
+148289;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB18Q6;INF204KB19Q4;0.0000;;;19-Nov-2024
+148290;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option;INF204KB12R7;INF204KB13R5;0.0000;;;19-Nov-2024
+148287;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB14R3;INF204KB15R0;0.0000;;;19-Nov-2024
+130052;Nippon India Medium Duration Fund - Direct Plan - Bonus Option;INF204KA1QG9;;15.8402;;;19-Nov-2024
+130050;Nippon India Medium Duration Fund - Direct Plan - Growth Option;INF204KA1QF1;;15.8365;;;19-Nov-2024
+130054;NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - IDCW Option;INF204KA1QH7;INF204KA1QJ3;13.3576;;;19-Nov-2024
+130055;NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KA1QI5;INF204KA1QK1;11.2764;;;19-Nov-2024
+130037;Nippon India Medium Duration Fund - Growth Option;INF204KA1PZ1;;14.6742;;;19-Nov-2024
+130053;NIPPON INDIA MEDIUM DURATION FUND - IDCW Option;INF204KA1QB0;INF204KA1QD6;12.5570;;;19-Nov-2024
+148288;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Direct Plan - Bonus Option;INF204KB15Q2;;0.0000;;;19-Nov-2024
+148285;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Direct Plan - Growth Option;INF204KB10R1;;0.0000;;;19-Nov-2024
+148286;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Growth Option;INF204KB16R8;;0.0000;;;19-Nov-2024
 
 SBI Mutual Fund
 119824;SBI MAGNUM MEDIUM DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VB0;;52.3227;;;19-Nov-2024
@@ -4373,15 +4373,15 @@ SBI Mutual Fund
 102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;18.8238;;;19-Nov-2024
 
 Sundaram Mutual Fund
-119676;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;14.8235;;;19-Nov-2024
 119675;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Growth;INF903J01PO6;;73.3652;;;19-Nov-2024
-119672;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;26.3348;;;19-Nov-2024
+119676;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01PH0;INF903J01PM0;14.8235;;;19-Nov-2024
+119672;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan-Income Distribution cum Capital Withdrawal (IDCW);INF903J01PK4;INF903J01PL2;26.3348;;;19-Nov-2024
 100608;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Growth;INF903J01FY6;;74.6305;;;19-Nov-2024
-100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;13.1223;;;19-Nov-2024
-100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Bonus;INF903J01FX8;;22.5578;;;19-Nov-2024
 100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;INF903J01FQ2;;66.0442;;;19-Nov-2024
-100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;13.3778;;;19-Nov-2024
-100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;13.0891;;;19-Nov-2024
+100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan -Growth;INF903J01FX8;;22.5578;;;19-Nov-2024
+100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;13.1223;;;19-Nov-2024
+100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Income Distribution cum Capital Withdrawal(IDCW);INF903J01FS8;INF903J01FV2;13.3778;;;19-Nov-2024
+100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan-Income Distribution cum Capital Withdrawal(IDCW);INF903J01FR0;INF903J01FU4;13.0891;;;19-Nov-2024
 
 Union Mutual Fund
 148479;Union Medium Duration Fund - Direct Plan -  Growth Option;INF582M01GQ6;;12.3752;;;19-Nov-2024
@@ -4513,18 +4513,18 @@ LIC Mutual Fund
 151986;LIC MF Medium to Long Duration Fund-Regular Plan-Quarterly IDCW;INF397L01FU5;;15.048;;;19-Nov-2024
 
 Nippon India Mutual Fund
-100386;NIPPON INDIA INCOME FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;13.3471;;;19-Nov-2024
-118680;NIPPON INDIA INCOME FUND - Direct Plan - ANNUAL IDCW Option;INF204K01YT8;INF204K01YU6;14.7023;;;19-Nov-2024
-118681;NIPPON INDIA INCOME FUND - Direct Plan - HALF YEARLY IDCW Option;INF204K01YR2;INF204K01YS0;13.3344;;;19-Nov-2024
-118683;NIPPON INDIA INCOME FUND - Direct Plan - MONTHLY IDCW Option;INF204K01YN1;;11.4357;;;19-Nov-2024
-118684;NIPPON INDIA INCOME FUND - Direct Plan - QUARTERLY IDCW Option;INF204K01YP6;INF204K01YQ4;13.8157;;;19-Nov-2024
-118687;Nippon India Income Fund - Direct Plan Growth Plan - Growth Option;INF204K01XS2;;95.1740;;;19-Nov-2024
-118679;Nippon India Income Fund - Direct Plan Growth Plan-Bonus Option;INF204K01F38;;27.1968;;;19-Nov-2024
-100388;Nippon India Income Fund - Growth Plan Bonus Option;INF204K01CM9;;24.5950;;;19-Nov-2024
-100387;Nippon India Income Fund - Growth Plan Growth Option;INF204K01CL1;;85.5500;;;19-Nov-2024
-100385;NIPPON INDIA INCOME FUND - HALF YEARLY IDCW Option;INF204K01CR8;INF204K01CS6;12.3915;;;19-Nov-2024
-100383;NIPPON INDIA INCOME FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.7732;;;19-Nov-2024
-100384;NIPPON INDIA INCOME FUND - QUARTERLY IDCW Option;INF204K01CP2;INF204K01CQ0;13.1005;;;19-Nov-2024
+100386;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;13.3471;;;19-Nov-2024
+118680;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - Direct Plan - ANNUAL IDCW Option;INF204K01YT8;INF204K01YU6;14.7023;;;19-Nov-2024
+118681;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - Direct Plan - HALF YEARLY IDCW Option;INF204K01YR2;INF204K01YS0;13.3344;;;19-Nov-2024
+118683;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - Direct Plan - MONTHLY IDCW Option;INF204K01YN1;;11.4357;;;19-Nov-2024
+118679;Nippon India Medium to Long Duration  Fund - Direct Plan Growth Plan-Bonus Option;INF204K01F38;;27.1968;;;19-Nov-2024
+100388;Nippon India Medium to Long Duration  Fund - Growth Plan Bonus Option;INF204K01CM9;;24.5950;;;19-Nov-2024
+100387;Nippon India Medium to Long Duration  Fund - Growth Plan Growth Option;INF204K01CL1;;85.5500;;;19-Nov-2024
+100385;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - HALF YEARLY IDCW Option;INF204K01CR8;INF204K01CS6;12.3915;;;19-Nov-2024
+100384;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - QUARTERLY IDCW Option;INF204K01CP2;INF204K01CQ0;13.1005;;;19-Nov-2024
+118684;NIPPON INDIA MEDIUM TO LONG DURATION FUND - Direct Plan - QUARTERLY IDCW Option;INF204K01YP6;INF204K01YQ4;13.8157;;;19-Nov-2024
+118687;Nippon India Medium to Long Duration Fund - Direct Plan Growth Plan - Growth Option;INF204K01XS2;;95.1740;;;19-Nov-2024
+100383;NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.7732;;;19-Nov-2024
 
 SBI Mutual Fund
 119713;SBI Magnum Income Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SP6;INF200K01SQ4;20.5202;;;19-Nov-2024
@@ -4594,18 +4594,18 @@ Kotak Mahindra Mutual Fund
 152490;Kotak Long Duration Fund - Regular Plan - IDCW;INF174KA1RD0;INF174KA1RE8;10.571;;;19-Nov-2024
 
 Nippon India Mutual Fund
-143703;NIPPON INDIA NIVESH LAKSHYA FUND - ANNUAL IDCW Option;INF204KB1ZK1;INF204KB1ZL9;12.3466;;;19-Nov-2024
-143711;NIPPON INDIA NIVESH LAKSHYA FUND - DIRECT Plan - ANNUAL IDCW Option;INF204KB1YZ2;INF204KB1ZA2;12.3774;;;19-Nov-2024
-143701;NIPPON INDIA NIVESH LAKSHYA FUND - DIRECT Plan - HALF YEARLY IDCW Option;INF204KB1YX7;INF204KB1YY5;12.0682;;;19-Nov-2024
-143707;NIPPON INDIA NIVESH LAKSHYA FUND - DIRECT Plan - IDCW Option;INF204KB1YR9;INF204KB1YS7;17.4175;;;19-Nov-2024
-143705;NIPPON INDIA NIVESH LAKSHYA FUND - DIRECT Plan - MONTHLY IDCW Option;INF204KB1YT5;INF204KB1YU3;11.7690;;;19-Nov-2024
-143709;NIPPON INDIA NIVESH LAKSHYA FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KB1YV1;INF204KB1YW9;11.5489;;;19-Nov-2024
-143710;NIPPON INDIA NIVESH LAKSHYA FUND - HALF YEARLY IDCW Option;INF204KB1ZI5;INF204KB1ZJ3;12.0331;;;19-Nov-2024
-143706;NIPPON INDIA NIVESH LAKSHYA FUND - IDCW Option;INF204KB1ZC8;INF204KB1ZD6;17.0678;;;19-Nov-2024
-143712;NIPPON INDIA NIVESH LAKSHYA FUND - MONTHLY IDCW Option;INF204KB1ZE4;INF204KB1ZF1;11.7533;;;19-Nov-2024
-143708;NIPPON INDIA NIVESH LAKSHYA FUND - QUARTERLY IDCW Option;INF204KB1ZG9;INF204KB1ZH7;11.5384;;;19-Nov-2024
-143704;Nippon India Nivesh Lakshya Fund- Direct Plan- Growth Option;INF204KB1YQ1;;17.4173;;;19-Nov-2024
-143702;Nippon India Nivesh Lakshya Fund- Growth Option;INF204KB1ZB0;;17.0688;;;19-Nov-2024
+143709;NIPPON INDIA NIVESH LAKSHYA LONG DURATION  FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KB1YV1;INF204KB1YW9;11.5489;;;19-Nov-2024
+143703;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - ANNUAL IDCW Option;INF204KB1ZK1;INF204KB1ZL9;12.3466;;;19-Nov-2024
+143711;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - DIRECT Plan - ANNUAL IDCW Option;INF204KB1YZ2;INF204KB1ZA2;12.3774;;;19-Nov-2024
+143701;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - DIRECT Plan - HALF YEARLY IDCW Option;INF204KB1YX7;INF204KB1YY5;12.0682;;;19-Nov-2024
+143707;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - DIRECT Plan - IDCW Option;INF204KB1YR9;INF204KB1YS7;17.4175;;;19-Nov-2024
+143705;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - DIRECT Plan - MONTHLY IDCW Option;INF204KB1YT5;INF204KB1YU3;11.7690;;;19-Nov-2024
+143706;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - IDCW Option;INF204KB1ZC8;INF204KB1ZD6;17.0678;;;19-Nov-2024
+143712;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - MONTHLY IDCW Option;INF204KB1ZE4;INF204KB1ZF1;11.7533;;;19-Nov-2024
+143708;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - QUARTERLY IDCW Option;INF204KB1ZG9;INF204KB1ZH7;11.5384;;;19-Nov-2024
+143710;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND LONG DURATION - HALF YEARLY IDCW Option;INF204KB1ZI5;INF204KB1ZJ3;12.0331;;;19-Nov-2024
+143704;Nippon India Nivesh Lakshya Long Duration Fund- Direct Plan- Growth Option;INF204KB1YQ1;;17.4173;;;19-Nov-2024
+143702;Nippon India Nivesh Lakshya Long Duration Fund- Growth Option;INF204KB1ZB0;;17.0688;;;19-Nov-2024
 
 SBI Mutual Fund
 151214;SBI Long Duration Fund - Direct Plan - Growth;INF200KA16T4;;11.9818;;;19-Nov-2024
@@ -5008,16 +5008,16 @@ SBI Mutual Fund
 146210;SBI Corporate Bond Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1YP8;INF200KA1YQ6;14.2892;;;19-Nov-2024
 
 Sundaram Mutual Fund
-119631;Sundaram Corporate Bond Fund Direct Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01OX0;INF903J01OZ5;17.5171;;;19-Nov-2024
 119621;Sundaram Corporate Bond Fund Direct Plan - Growth;INF903J01NR4;;39.3707;;;19-Nov-2024
-119624;Sundaram Corporate Bond Fund Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OW2;INF903J01OY8;17.4034;;;19-Nov-2024
-119622;Sundaram Corporate Bond Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01NS2;INF903J01NT0;17.4392;;;19-Nov-2024
-119630;Sundaram Corporate Bond Fund Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01NU8;INF903J01NV6;19.3242;;;19-Nov-2024
-100788;Sundaram Corporate Bond Fund Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01IA0;INF903J01IE2;16.9990;;;19-Nov-2024
-100787;Sundaram Corporate Bond Fund Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HZ9;INF903J01ID4;17.2903;;;19-Nov-2024
-100785;Sundaram Corporate Bond Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HX4;INF903J01IB8;16.4827;;;19-Nov-2024
-100786;Sundaram Corporate Bond Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HY2;INF903J01IC6;18.7530;;;19-Nov-2024
+119624;Sundaram Corporate Bond Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01OW2;INF903J01OY8;17.4034;;;19-Nov-2024
+119622;Sundaram Corporate Bond Fund Direct Plan - Income Distribution cum Capital Withdrawal(IDCW);INF903J01NS2;INF903J01NT0;17.4392;;;19-Nov-2024
+119631;Sundaram Corporate Bond Fund Direct Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01OX0;INF903J01OZ5;17.5171;;;19-Nov-2024
+119630;Sundaram Corporate Bond Fund Direct Plan-Income Distribution cum Capital Withdrawal(IDCW);INF903J01NU8;INF903J01NV6;19.3242;;;19-Nov-2024
+100786;Sundaram Corporate Bond Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW );INF903J01HY2;INF903J01IC6;18.7530;;;19-Nov-2024
+100785;Sundaram Corporate Bond Fund Regular Plan -Income Distribution cum Capital Withdrawal(IDCW);INF903J01HX4;INF903J01IB8;16.4827;;;19-Nov-2024
 100789;Sundaram Corporate Bond Fund Regular Plan- Growth;INF903J01HW6;;38.1268;;;19-Nov-2024
+100788;Sundaram Corporate Bond Fund Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01IA0;INF903J01IE2;16.9990;;;19-Nov-2024
+100787;Sundaram Corporate Bond Fund Regular Plan-Income Distribution cum Capital Withdrawal (IDCW);INF903J01HZ9;INF903J01ID4;17.2903;;;19-Nov-2024
 
 Tata Mutual Fund
 149361;Tata Corporate Bond Fund-Direct Plan-Growth;INF277KA1224;;11.9698;;;19-Nov-2024
@@ -5382,17 +5382,17 @@ Mirae Asset Mutual Fund
 148418;Mirae Asset Banking and PSU Fund - Regular plan - IDCW;INF769K01FU7;INF769K01FW3;12.3067;;;19-Nov-2024
 
 Nippon India Mutual Fund
-134552;Nippon India Banking  & PSU Debt Fund- Direct Plan-Growth Plan- Bonus Option;INF204KA1U61;;20.3989;;;19-Nov-2024
-134547;Nippon India Banking  & PSU Debt Fund- Direct Plan-Growth Plan- Growth Option;INF204KA1U53;;20.3982;;;19-Nov-2024
-134545;Nippon India Banking  & PSU Debt Fund- Growth Plan- Growth Option;INF204KA1T56;;19.7023;;;19-Nov-2024
-134555;NIPPON INDIA BANKING & PSU DEBT FUND - Direct Plan - IDCW Option;INF204KA1U79;INF204KA1U87;20.3982;;;19-Nov-2024
-134550;NIPPON INDIA BANKING & PSU DEBT FUND - Direct Plan - MONTHLY IDCW Option;INF204KA1V37;INF204KA1V45;10.7601;;;19-Nov-2024
-134556;NIPPON INDIA BANKING & PSU DEBT FUND - Direct Plan - QUARTERLY IDCW Option;INF204KA1U95;INF204KA1V03;10.8832;;;19-Nov-2024
-134554;NIPPON INDIA BANKING & PSU DEBT FUND - Direct Plan - WEEKLY IDCW Option;INF204KA1V11;INF204KA1V29;10.3070;;;19-Nov-2024
-134548;NIPPON INDIA BANKING & PSU DEBT FUND - IDCW Option;INF204KA1T72;INF204KA1T80;19.7023;;;19-Nov-2024
-134549;NIPPON INDIA BANKING & PSU DEBT FUND - MONTHLY IDCW Option;INF204KA1U38;INF204KA1U46;10.6907;;;19-Nov-2024
-134551;NIPPON INDIA BANKING & PSU DEBT FUND - QUARTERLY IDCW Option;INF204KA1T98;INF204KA1U04;10.8222;;;19-Nov-2024
-134553;NIPPON INDIA BANKING & PSU DEBT FUND - WEEKLY IDCW Option;INF204KA1U12;INF204KA1U20;10.3079;;;19-Nov-2024
+134555;NIPPON INDIA BANKING and PSU  FUND - Direct Plan - IDCW Option;INF204KA1U79;INF204KA1U87;20.3982;;;19-Nov-2024
+134553;NIPPON INDIA BANKING and PSU  FUND - WEEKLY IDCW Option;INF204KA1U12;INF204KA1U20;10.3079;;;19-Nov-2024
+134547;Nippon India Banking and PSU  Fund- Direct Plan-Growth Plan- Growth Option;INF204KA1U53;;20.3982;;;19-Nov-2024
+134550;NIPPON INDIA BANKING and PSU FUND - Direct Plan - MONTHLY IDCW Option;INF204KA1V37;INF204KA1V45;10.7601;;;19-Nov-2024
+134556;NIPPON INDIA BANKING and PSU FUND - Direct Plan - QUARTERLY IDCW Option;INF204KA1U95;INF204KA1V03;10.8832;;;19-Nov-2024
+134554;NIPPON INDIA BANKING and PSU FUND - Direct Plan - WEEKLY IDCW Option;INF204KA1V11;INF204KA1V29;10.3070;;;19-Nov-2024
+134548;NIPPON INDIA BANKING and PSU FUND - IDCW Option;INF204KA1T72;INF204KA1T80;19.7023;;;19-Nov-2024
+134549;NIPPON INDIA BANKING and PSU FUND - MONTHLY IDCW Option;INF204KA1U38;INF204KA1U46;10.6907;;;19-Nov-2024
+134551;NIPPON INDIA BANKING and PSU FUND - QUARTERLY IDCW Option;INF204KA1T98;INF204KA1U04;10.8222;;;19-Nov-2024
+134552;Nippon India Banking and PSU Fund- Direct Plan-Growth Plan- Bonus Option;INF204KA1U61;;20.3989;;;19-Nov-2024
+134545;Nippon India Banking and PSU Fund- Growth Plan- Growth Option;INF204KA1T56;;19.7023;;;19-Nov-2024
 
 SBI Mutual Fund
 125502;SBI Banking & PSU Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01V16;1381.5539;;;19-Nov-2024
@@ -5407,10 +5407,10 @@ SBI Mutual Fund
 Sundaram Mutual Fund
 119629;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Bonus;INF903J01RI4;;20.7231;;;19-Nov-2024
 119625;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Growth;INF903J01PA5;;41.4241;;;19-Nov-2024
-119626;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5220;;;19-Nov-2024
+119626;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01PB3;INF903J01PE7;11.5220;;;19-Nov-2024
 118326;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Bonus;INF903J01LY4;;20.6145;;;19-Nov-2024
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;40.8797;;;19-Nov-2024
-100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5747;;;19-Nov-2024
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;11.5747;;;19-Nov-2024
 
 Trust Mutual Fund
 148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;INF0GCD01107;;1231.5273;;;19-Nov-2024
@@ -5556,18 +5556,18 @@ LIC Mutual Fund
 100316;LIC MF Gilt Fund-Regular Plan-IDCW;INF767K01683;INF767K01691;16.4784;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118670;NIPPON INDIA GILT SECURITIES FUND - Direct Plan - MONTHLY IDCW Option;INF204K01XQ6;INF204K01XR4;11.6394;;;19-Nov-2024
-118674;Nippon India Gilt Securities Fund - Direct Plan - P F Option - Automatic Annual Reinvest Option;;INF204K01E62;22.1156;;;19-Nov-2024
-118669;Nippon India Gilt Securities Fund - Direct Plan - P F Option - Automatic Capital Appreciation Payout Option;INF204K01E70;;40.7530;;;19-Nov-2024
-118673;Nippon India Gilt Securities Fund - Direct Plan - P F Option - Defined Maturity Date Option;INF204K01E88;;40.9694;;;19-Nov-2024
-118672;Nippon India Gilt Securities Fund - Direct Plan Growth Plan - Growth Option;INF204K01XP8;;40.8589;;;19-Nov-2024
-109717;Nippon India Gilt Securities Fund - Institutional Plan-Growth Plan -Growth Option;INF204K01BX8;;36.9940;;;19-Nov-2024
-109723;NIPPON INDIA GILT SECURITIES FUND - MONTHLY IDCW Option;INF204K01BV2;INF204K01BW0;10.5999;;;19-Nov-2024
-109720;Nippon India Gilt Securities Fund -Growth Plan - Growth Option;INF204K01BU4;;36.4131;;;19-Nov-2024
-109716;Nippon India Gilt Securities Fund -P F Option-Automatic Annual Reinvest Option;INF204K01CA4;;30.5344;;;19-Nov-2024
-109721;Nippon India Gilt Securities Fund -P F Option-Defined Maturity Date Option;INF204K01CB2;;36.4131;;;19-Nov-2024
-133265;Nippon India Gilt Securities Fund- Direct Plan- Growth Plan- Bonus Option;INF204KA1YV2;;22.8362;;;19-Nov-2024
-109724;Nippon India Gilt Securities Fund-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CC0;;36.4131;;;19-Nov-2024
+118670;NIPPON INDIA GILT  FUND - Direct Plan - MONTHLY IDCW Option;INF204K01XQ6;INF204K01XR4;11.6394;;;19-Nov-2024
+118669;Nippon India Gilt  Fund - Direct Plan - P F Option - Automatic Capital Appreciation Payout Option;INF204K01E70;;40.7530;;;19-Nov-2024
+118673;Nippon India Gilt  Fund - Direct Plan - P F Option - Defined Maturity Date Option;INF204K01E88;;40.9694;;;19-Nov-2024
+118672;Nippon India Gilt  Fund - Direct Plan Growth Plan - Growth Option;INF204K01XP8;;40.8589;;;19-Nov-2024
+109717;Nippon India Gilt  Fund - Institutional Plan-Growth Plan -Growth Option;INF204K01BX8;;36.9940;;;19-Nov-2024
+109723;NIPPON INDIA GILT  FUND - MONTHLY IDCW Option;INF204K01BV2;INF204K01BW0;10.5999;;;19-Nov-2024
+109720;Nippon India Gilt  Fund -Growth Plan - Growth Option;INF204K01BU4;;36.4131;;;19-Nov-2024
+109716;Nippon India Gilt  Fund -P F Option-Automatic Annual Reinvest Option;INF204K01CA4;;30.5344;;;19-Nov-2024
+109721;Nippon India Gilt  Fund -P F Option-Defined Maturity Date Option;INF204K01CB2;;36.4131;;;19-Nov-2024
+133265;Nippon India Gilt  Fund- Direct Plan- Growth Plan- Bonus Option;INF204KA1YV2;;22.8362;;;19-Nov-2024
+109724;Nippon India Gilt  Fund-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CC0;;36.4131;;;19-Nov-2024
+118674;Nippon India Gilt Fund - Direct Plan - P F Option - Automatic Annual Reinvest Option;;INF204K01E62;22.1156;;;19-Nov-2024
 
 PGIM India Mutual Fund
 138472;PGIM India Gilt Fund - Direct Plan - Growth;INF223J01ND7;;31.072;;;19-Nov-2024
@@ -5745,18 +5745,18 @@ Kotak Mahindra Mutual Fund
 147265;KOTAK FLOATING RATE FUND-REGULAR PLAN-STANDARD Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1EB2;1280.7593;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118656;Nippon India Floating Rate Fund  - Direct Plan Growth Plan - Growth Option;INF204K01E05;;45.0477;;;19-Nov-2024
-102676;NIPPON INDIA FLOATING RATE FUND - DAILY IDCW REINVESTMENT Option;;INF204K01CI7;10.3116;;;19-Nov-2024
-118654;NIPPON INDIA FLOATING RATE FUND - DIRECT Plan - DAILY IDCW Option;;INF204K01D71;10.3334;;;19-Nov-2024
-124590;NIPPON INDIA FLOATING RATE FUND - DIRECT Plan - IDCW Option;INF204KA1DU8;INF204KA1DV6;20.0982;;;19-Nov-2024
-118655;NIPPON INDIA FLOATING RATE FUND - DIRECT Plan - MONTHLY IDCW Option;INF204K01D89;INF204K01D97;11.3374;;;19-Nov-2024
-118661;NIPPON INDIA FLOATING RATE FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K01C98;INF204K01D06;10.9422;;;19-Nov-2024
-118660;NIPPON INDIA FLOATING RATE FUND - DIRECT Plan - WEEKLY IDCW Option;INF204K01D14;INF204K01E13;10.3179;;;19-Nov-2024
-102673;Nippon India Floating Rate Fund - Growth Plan-Growth Option;INF204K01CG1;;42.8909;;;19-Nov-2024
-124589;NIPPON INDIA FLOATING RATE FUND - IDCW Option;INF204KA1DS2;INF204KA1DT0;19.3661;;;19-Nov-2024
-102675;NIPPON INDIA FLOATING RATE FUND - MONTHLY IDCW Option;INF204K01CH9;INF204K01CK3;11.1367;;;19-Nov-2024
-112942;NIPPON INDIA FLOATING RATE FUND - QUARTERLY IDCW Option;INF204K01HK2;INF204K01HL0;11.0462;;;19-Nov-2024
-102677;NIPPON INDIA FLOATING RATE FUND - WEEKLY IDCW Option;INF204K01OQ5;INF204K01CJ5;10.3145;;;19-Nov-2024
+118660;NIPPON INDIA FLOATER  FUND - DIRECT Plan - WEEKLY IDCW Option;INF204K01D14;INF204K01E13;10.3179;;;19-Nov-2024
+118656;Nippon India Floater Fund  - Direct Plan Growth Plan - Growth Option;INF204K01E05;;45.0477;;;19-Nov-2024
+102676;NIPPON INDIA FLOATER FUND - DAILY IDCW REINVESTMENT Option;;INF204K01CI7;10.3116;;;19-Nov-2024
+118654;NIPPON INDIA FLOATER FUND - DIRECT Plan - DAILY IDCW Option;;INF204K01D71;10.3334;;;19-Nov-2024
+124590;NIPPON INDIA FLOATER FUND - DIRECT Plan - IDCW Option;INF204KA1DU8;INF204KA1DV6;20.0982;;;19-Nov-2024
+118655;NIPPON INDIA FLOATER FUND - DIRECT Plan - MONTHLY IDCW Option;INF204K01D89;INF204K01D97;11.3374;;;19-Nov-2024
+118661;NIPPON INDIA FLOATER FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K01C98;INF204K01D06;10.9422;;;19-Nov-2024
+102673;Nippon India Floater Fund - Growth Plan-Growth Option;INF204K01CG1;;42.8909;;;19-Nov-2024
+124589;NIPPON INDIA FLOATER FUND - IDCW Option;INF204KA1DS2;INF204KA1DT0;19.3661;;;19-Nov-2024
+102675;NIPPON INDIA FLOATER FUND - MONTHLY IDCW Option;INF204K01CH9;INF204K01CK3;11.1367;;;19-Nov-2024
+112942;NIPPON INDIA FLOATER FUND - QUARTERLY IDCW Option;INF204K01HK2;INF204K01HL0;11.0462;;;19-Nov-2024
+102677;NIPPON INDIA FLOATER FUND - WEEKLY IDCW Option;INF204K01OQ5;INF204K01CJ5;10.3145;;;19-Nov-2024
 
 SBI Mutual Fund
 148550;SBI Floating Rate Debt Fund - Direct Plan - Growth;INF200KA1R64;;12.7884;;;19-Nov-2024
@@ -5896,18 +5896,18 @@ LIC Mutual Fund
 101868;LIC MF Conservative Hybrid Fund-Regular Plan-Yearly IDCW;INF767K01857;INF767K01865;12.5526;;;19-Nov-2024
 
 Nippon India Mutual Fund
-148291;NIPPON INDIA HYBRID BOND FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - MONTHLY IDCW Option;INF204KB15O7;INF204KB16O5;0.0000;;;19-Nov-2024
-148292;NIPPON INDIA HYBRID BOND FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB17O3;INF204KB18O1;0.0000;;;19-Nov-2024
-148294;NIPPON INDIA HYBRID BOND FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY IDCW Option;INF204KB10P5;INF204KB11P3;0.0000;;;19-Nov-2024
-148295;NIPPON INDIA HYBRID BOND FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB12P1;INF204KB13P9;0.0000;;;19-Nov-2024
-118727;NIPPON INDIA HYBRID BOND FUND - DIRECT Plan - MONTHLY IDCW Option;INF204K01YW2;INF204K01YX0;11.6165;;;19-Nov-2024
-118729;NIPPON INDIA HYBRID BOND FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K01YY8;INF204K01YZ5;12.6972;;;19-Nov-2024
-118726;Nippon India Hybrid Bond Fund - Direct Plan Growth Plan - Growth Option;INF204K01YV4;;59.7873;;;19-Nov-2024
-102173;NIPPON INDIA HYBRID BOND FUND - MONTHLY IDCW Option;INF204K01FE9;INF204K01FF6;11.0230;;;19-Nov-2024
-102174;NIPPON INDIA HYBRID BOND FUND - QUARTERLY IDCW Option;INF204K01FG4;INF204K01FH2;12.0692;;;19-Nov-2024
-148296;Nippon India Hybrid Bond Fund - Segregated Portfolio 2 - Direct Plan - Growth Plan - Growth Option;INF204KB14O0;;0.0000;;;19-Nov-2024
-148293;Nippon India Hybrid Bond Fund - Segregated Portfolio 2 - Growth Plan;INF204KB19O9;;0.0000;;;19-Nov-2024
-102172;Nippon India Hybrid Bond Fund-Growth Plan;INF204K01FD1;;54.4432;;;19-Nov-2024
+148291;NIPPON INDIA CONSERVATIVE HYBRID  FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - MONTHLY IDCW Option;INF204KB15O7;INF204KB16O5;0.0000;;;19-Nov-2024
+148294;NIPPON INDIA CONSERVATIVE HYBRID  FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY IDCW Option;INF204KB10P5;INF204KB11P3;0.0000;;;19-Nov-2024
+148295;NIPPON INDIA CONSERVATIVE HYBRID  FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB12P1;INF204KB13P9;0.0000;;;19-Nov-2024
+118727;NIPPON INDIA CONSERVATIVE HYBRID  FUND - DIRECT Plan - MONTHLY IDCW Option;INF204K01YW2;INF204K01YX0;11.6165;;;19-Nov-2024
+118729;NIPPON INDIA CONSERVATIVE HYBRID  FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K01YY8;INF204K01YZ5;12.6972;;;19-Nov-2024
+118726;Nippon India Conservative Hybrid  Fund - Direct Plan Growth Plan - Growth Option;INF204K01YV4;;59.7873;;;19-Nov-2024
+102173;NIPPON INDIA CONSERVATIVE HYBRID  FUND - MONTHLY IDCW Option;INF204K01FE9;INF204K01FF6;11.0230;;;19-Nov-2024
+102174;NIPPON INDIA CONSERVATIVE HYBRID  FUND - QUARTERLY IDCW Option;INF204K01FG4;INF204K01FH2;12.0692;;;19-Nov-2024
+148296;Nippon India Conservative Hybrid  Fund - Segregated Portfolio 2 - Direct Plan - Growth Plan - Growth Option;INF204KB14O0;;0.0000;;;19-Nov-2024
+148293;Nippon India Conservative Hybrid  Fund - Segregated Portfolio 2 - Growth Plan;INF204KB19O9;;0.0000;;;19-Nov-2024
+102172;Nippon India Conservative Hybrid  Fund-Growth Plan;INF204K01FD1;;54.4432;;;19-Nov-2024
+148292;NIPPON INDIA CONSERVATIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB17O3;INF204KB18O1;0.0000;;;19-Nov-2024
 
 PPFAS Mutual Fund
 148958;Parag Parikh Conservative Hybrid Fund - Direct Plan - Growth;INF879O01175;;14.3962;;;19-Nov-2024
@@ -5927,13 +5927,13 @@ SBI Mutual Fund
 
 Sundaram Mutual Fund
 119635;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Growth;INF903J01OP6;;31.2684;;;19-Nov-2024
-119638;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;20.4913;;;19-Nov-2024
-119636;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OQ4;INF903J01OT8;13.3714;;;19-Nov-2024
-119637;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;20.5826;;;19-Nov-2024
+119636;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - IDCW;INF903J01OQ4;INF903J01OT8;13.3714;;;19-Nov-2024
+119638;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01OS0;INF903J01OV4;20.4913;;;19-Nov-2024
+119637;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01OR2;INF903J01OU6;20.5826;;;19-Nov-2024
 112868;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Growth;INF903J01HB0;;28.5247;;;19-Nov-2024
-112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;18.5050;;;19-Nov-2024
-112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.2482;;;19-Nov-2024
-112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;18.6667;;;19-Nov-2024
+112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;13.2482;;;19-Nov-2024
+112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;18.6667;;;19-Nov-2024
+112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;18.5050;;;19-Nov-2024
 
 UTI Mutual Fund
 102533;UTI Conservative Hybrd Fund - Regular Plan - Monthly Payment Option;INF789F01927;;66.0853;;;19-Nov-2024
@@ -6093,10 +6093,10 @@ JM Financial Mutual Fund
 100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;121.3817;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-133036;Kotak Equity Hybrid - Growth;INF174K01E92;;59.605;;;19-Nov-2024
-133035;Kotak Equity Hybrid - Growth - Direct;INF174K01F00;;69.407;;;19-Nov-2024
-119767;Kotak Equity Hybrid - Payout of Income Distribution cum  capital withdrawal option - Direct;INF174K01LL7;INF174K01LM5;42.547;;;19-Nov-2024
-100286;Kotak Equity Hybrid - Payout of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;35.029;;;19-Nov-2024
+119767;Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum  capital withdrawal option;INF174K01LL7;INF174K01LM5;42.547;;;19-Nov-2024
+133035;Kotak Aggressive Hybrid Fund - Direct Plan -Growth;INF174K01F00;;69.407;;;19-Nov-2024
+100286;Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;35.029;;;19-Nov-2024
+133036;Kotak Aggressive Hybrid Fund - Regular Plan -Growth;INF174K01E92;;59.605;;;19-Nov-2024
 
 LIC Mutual Fund
 120261;LIC MF Aggressive Hybrid Fund-Direct Plan-Growth;INF767K01ED0;;211.5057;;;19-Nov-2024
@@ -6131,30 +6131,30 @@ Navi Mutual Fund
 143199;Navi Aggressive Hybrid Fund - Regular Plan Quarterly IDCW;INF959L01DN2;INF959L01DO0;19.6406;;;19-Nov-2024
 
 Nippon India Mutual Fund
-118794;Nippon India Equity Hybrid Fund  - Direct Plan Growth Plan;INF204K01B08;;111.5920;;;19-Nov-2024
-147690;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - IDCW Option;INF204KB19F7;INF204KB10G4;0.0206;;;19-Nov-2024
-147684;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - MONTHLY IDCW Option;INF204KB11G2;INF204KB12G0;0.0104;;;19-Nov-2024
-147683;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - QUARTERLY IDCW Option;INF204KB17F1;INF204KB18F9;0.0142;;;19-Nov-2024
-147686;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - IDCW Option;INF204KB16G1;INF204KB17G9;0.0159;;;19-Nov-2024
-147687;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - MONTHLY IDCW Option;INF204KB18G7;INF204KB19G5;0.0099;;;19-Nov-2024
-147688;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 1 - QUARTERLY IDCW Option;INF204KB14G6;INF204KB15G3;0.0137;;;19-Nov-2024
-148266;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - IDCW Option;INF204KB16T4;INF204KB17T2;0.0000;;;19-Nov-2024
-148267;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - MONTHLY IDCW Option;INF204KB18T0;INF204KB19T8;0.0000;;;19-Nov-2024
-148270;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB14T9;INF204KB15T6;0.0000;;;19-Nov-2024
-148272;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option;INF204KB13U9;INF204KB14U7;0.0000;;;19-Nov-2024
-148268;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY IDCW Option;INF204KB15U4;INF204KB16U2;0.0000;;;19-Nov-2024
-148269;NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB11U3;INF204KB12U1;0.0000;;;19-Nov-2024
-118793;NIPPON INDIA EQUITY HYBRID FUND - DIRECT Plan - IDCW Option;INF204K01B16;INF204K01B24;39.4612;;;19-Nov-2024
-139679;NIPPON INDIA EQUITY HYBRID FUND - DIRECT Plan - MONTHLY IDCW Option;INF204KB1BD7;INF204KB1BE5;19.5187;;;19-Nov-2024
-122766;NIPPON INDIA EQUITY HYBRID FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K011R2;INF204K012R0;26.9615;;;19-Nov-2024
-112936;Nippon India Equity Hybrid Fund - Growth Plan;INF204K01FW1;;99.5729;;;19-Nov-2024
-112937;NIPPON INDIA EQUITY HYBRID FUND - IDCW Option;INF204K01FX9;INF204K01FY7;28.7627;;;19-Nov-2024
-139680;NIPPON INDIA EQUITY HYBRID FUND - MONTHLY IDCW Option;INF204KB1BF2;INF204KB1BG0;17.8527;;;19-Nov-2024
-122765;NIPPON INDIA EQUITY HYBRID FUND - QUARTERLY IDCW Option;INF204K013R8;INF204K014R6;24.4504;;;19-Nov-2024
-147689;Nippon India Equity Hybrid Fund - Segregated Portfolio 1 - Direct Plan - Growth Plan;INF204KB16F3;;0.0558;;;19-Nov-2024
-147685;Nippon India Equity Hybrid Fund - Segregated Portfolio 1 - Growth Plan;INF204KB13G8;;0.0518;;;19-Nov-2024
-148265;Nippon India Equity Hybrid Fund - Segregated Portfolio 2 - Direct Plan - Growth Plan;INF204KB13T1;;0.0000;;;19-Nov-2024
-148271;Nippon India Equity Hybrid Fund - Segregated Portfolio 2 - Growth Plan;INF204KB10U5;;0.0000;;;19-Nov-2024
+148265;Nippon India Aggressive  Hybrid Fund - Segregated Portfolio 2 - Direct Plan - Growth Plan;INF204KB13T1;;0.0000;;;19-Nov-2024
+118794;Nippon India Aggressive Hybrid Fund  - Direct Plan Growth Plan;INF204K01B08;;111.5920;;;19-Nov-2024
+147690;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - IDCW Option;INF204KB19F7;INF204KB10G4;0.0206;;;19-Nov-2024
+147684;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - MONTHLY IDCW Option;INF204KB11G2;INF204KB12G0;0.0104;;;19-Nov-2024
+147683;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - Direct Plan - QUARTERLY IDCW Option;INF204KB17F1;INF204KB18F9;0.0142;;;19-Nov-2024
+147686;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - IDCW Option;INF204KB16G1;INF204KB17G9;0.0159;;;19-Nov-2024
+147687;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - MONTHLY IDCW Option;INF204KB18G7;INF204KB19G5;0.0099;;;19-Nov-2024
+147688;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 1 - QUARTERLY IDCW Option;INF204KB14G6;INF204KB15G3;0.0137;;;19-Nov-2024
+148266;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - IDCW Option;INF204KB16T4;INF204KB17T2;0.0000;;;19-Nov-2024
+148267;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - MONTHLY IDCW Option;INF204KB18T0;INF204KB19T8;0.0000;;;19-Nov-2024
+148270;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB14T9;INF204KB15T6;0.0000;;;19-Nov-2024
+148272;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option;INF204KB13U9;INF204KB14U7;0.0000;;;19-Nov-2024
+148268;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY IDCW Option;INF204KB15U4;INF204KB16U2;0.0000;;;19-Nov-2024
+148269;NIPPON INDIA AGGRESSIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option;INF204KB11U3;INF204KB12U1;0.0000;;;19-Nov-2024
+118793;NIPPON INDIA AGGRESSIVE HYBRID FUND - DIRECT Plan - IDCW Option;INF204K01B16;INF204K01B24;39.4612;;;19-Nov-2024
+139679;NIPPON INDIA AGGRESSIVE HYBRID FUND - DIRECT Plan - MONTHLY IDCW Option;INF204KB1BD7;INF204KB1BE5;19.5187;;;19-Nov-2024
+122766;NIPPON INDIA AGGRESSIVE HYBRID FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204K011R2;INF204K012R0;26.9615;;;19-Nov-2024
+112936;Nippon India Aggressive Hybrid Fund - Growth Plan;INF204K01FW1;;99.5729;;;19-Nov-2024
+112937;NIPPON INDIA AGGRESSIVE HYBRID FUND - IDCW Option;INF204K01FX9;INF204K01FY7;28.7627;;;19-Nov-2024
+139680;NIPPON INDIA AGGRESSIVE HYBRID FUND - MONTHLY IDCW Option;INF204KB1BF2;INF204KB1BG0;17.8527;;;19-Nov-2024
+122765;NIPPON INDIA AGGRESSIVE HYBRID FUND - QUARTERLY IDCW Option;INF204K013R8;INF204K014R6;24.4504;;;19-Nov-2024
+147689;Nippon India Aggressive Hybrid Fund - Segregated Portfolio 1 - Direct Plan - Growth Plan;INF204KB16F3;;0.0558;;;19-Nov-2024
+147685;Nippon India Aggressive Hybrid Fund - Segregated Portfolio 1 - Growth Plan;INF204KB13G8;;0.0518;;;19-Nov-2024
+148271;Nippon India Aggressive Hybrid Fund - Segregated Portfolio 2 - Growth Plan;INF204KB10U5;;0.0000;;;19-Nov-2024
 
 PGIM India Mutual Fund
 138387;PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Dividend;INF663L01GY0;INF663L01GZ7;27.38;;;19-Nov-2024
@@ -6165,10 +6165,10 @@ PGIM India Mutual Fund
 139821;PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;23.91;;;19-Nov-2024
 
 quant Mutual Fund
-101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;402.013;;;19-Nov-2024
-120819;quant Absolute Fund-Growth Option-Direct Plan;INF966L01556;;434.059;;;19-Nov-2024
-101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;55.4496;;;19-Nov-2024
-120818;quant Absolute Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;60.1208;;;19-Nov-2024
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;402.013;;;19-Nov-2024
+120819;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;INF966L01556;;434.059;;;19-Nov-2024
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;55.4496;;;19-Nov-2024
+120818;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;60.1208;;;19-Nov-2024
 
 SBI Mutual Fund
 119609;SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth;INF200K01RY0;;297.2369;;;19-Nov-2024
@@ -6515,10 +6515,10 @@ Nippon India Mutual Fund
 148459;Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option;INF204KB16V0;;19.7544;;;19-Nov-2024
 
 quant Mutual Fund
-120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;131.405;;;19-Nov-2024
-101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;122.8499;;;19-Nov-2024
-101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;134.013;;;19-Nov-2024
-120821;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;INF966L01580;;142.5834;;;19-Nov-2024
+120820;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;131.405;;;19-Nov-2024
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;122.8499;;;19-Nov-2024
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;134.013;;;19-Nov-2024
+120821;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;INF966L01580;;142.5834;;;19-Nov-2024
 
 Quantum Mutual Fund
 152474;Quantum Multi Asset Allocation Fund - Direct Plan Growth Option;INF082J01457;;10.85;;;19-Nov-2024
@@ -6705,10 +6705,10 @@ JM Financial Mutual Fund
 135169;JM Arbitrage Fund (Regular) - Quarterly IDCW;INF192K01KO5;INF192K01KP2;14.2023;;;19-Nov-2024
 
 Kotak Mahindra Mutual Fund
-105968;Kotak Equity Arbitrage Fund - Growth;INF174K01302;;35.9832;;;19-Nov-2024
-119771;Kotak Equity Arbitrage Fund - Growth - Direct;INF174K01LC6;;38.3094;;;19-Nov-2024
-105967;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.7677;;;19-Nov-2024
-119770;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LE2;INF174K01LD4;11.2553;;;19-Nov-2024
+119770;Kotak  Arbitrage Fund - Regular Plan - IDCW -Payout &  Reinvestment of Income Distribution cum capital withdrawal option;INF174K01LE2;INF174K01LD4;11.2553;;;19-Nov-2024
+119771;Kotak Arbitrage Fund - Direct Plan - Growth;INF174K01LC6;;38.3094;;;19-Nov-2024
+105967;Kotak Arbitrage Fund - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.7677;;;19-Nov-2024
+105968;Kotak Arbitrage Fund - Regular Plan - Growth;INF174K01302;;35.9832;;;19-Nov-2024
 
 LIC Mutual Fund
 145895;LIC MF Arbitrage Fund-Direct Plan-Growth;INF767K01PP0;;13.8436;;;19-Nov-2024
@@ -6955,12 +6955,12 @@ SBI Mutual Fund
 134642;SBI Equity Savings Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1DD8;INF200KA1DE6;21.6890;;;19-Nov-2024
 
 Sundaram Mutual Fund
-149677;Sundaram Equity Savings Fund (Formerly Known as  Principal Equity Savings Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Option - Half Yearly;INF173K01HC6;INF173K01HD4;16.4357;;;19-Nov-2024
+149677;Sundaram Equity Savings Fund (Formerly Known as  Principal Equity Savings Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01HC6;INF173K01HD4;16.4357;;;19-Nov-2024
 149679;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Direct Plan - Growth Option;INF173K01GZ9;;76.8003;;;19-Nov-2024
 149674;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Growth Option;INF173K01213;;66.8215;;;19-Nov-2024
-149676;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;INF173K01262;INF173K01270;16.9871;;;19-Nov-2024
-149678;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;INF173K01HF9;INF173K01HG7;24.5525;;;19-Nov-2024
-149675;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;INF173K01247;INF173K01254;15.4728;;;19-Nov-2024
+149676;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Income Distribution CUM Capital Withdrawal (IDCW);INF173K01262;INF173K01270;16.9871;;;19-Nov-2024
+149678;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01HF9;INF173K01HG7;24.5525;;;19-Nov-2024
+149675;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Income Distribution CUM Capital Withdrawal (IDCW);INF173K01247;INF173K01254;15.4728;;;19-Nov-2024
 
 Tata Mutual Fund
 101906;Tata Equity Savings Fund -Regular Plan-Growth Option;INF277K01907;;52.4835;;;19-Nov-2024
@@ -8839,10 +8839,10 @@ Franklin Templeton Mutual Fund
 118542;Franklin India Dynamic Asset Allocation Fund of funds - Direct - IDCW ;INF090I01HT0;INF090I01HU8;51.0333;;;19-Nov-2024
 101657;Franklin India Dynamic Asset Allocation Fund of funds - IDCW ;INF090I01247;INF090I01254;43.3876;;;19-Nov-2024
 101656;Franklin India Dynamic Asset Allocation Fund of Funds-Growth;INF090I01262;;156.8853;;;19-Nov-2024
-132990;Franklin India Multi - Asset Solution Fund of Funds - Direct - IDCW;INF090I01LI5;INF090I01LJ3;21.0679;;;19-Nov-2024
-132987;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan;INF090I01LE4;;18.7941;;;19-Nov-2024
-132989;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan - Direct;INF090I01LH7;;21.0679;;;19-Nov-2024
-132988;Franklin India Multi - Asset Solution Fund of Funds- IDCW;INF090I01LF1;INF090I01LG9;18.7941;;;19-Nov-2024
+132990;Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW;INF090I01LI5;INF090I01LJ3;21.0679;;;19-Nov-2024
+132987;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan;INF090I01LE4;;18.7941;;;19-Nov-2024
+132989;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct;INF090I01LH7;;21.0679;;;19-Nov-2024
+132988;Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW;INF090I01LF1;INF090I01LG9;18.7941;;;19-Nov-2024
 
 Groww Mutual Fund
 152980;Groww Gold ETF FOF - DIRECT - GROWTH;INF666M01IX9;;9.6531;;;19-Nov-2024
@@ -9495,32 +9495,32 @@ Kotak Mahindra Mutual Fund
 151685;Kotak FMP Series 310 - Regular Plan - IDCW Payout option;INF174KA1NN8;;11.2298;;;19-Nov-2024
 
 Nippon India Mutual Fund
-147095;NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 8 - DIRECT Plan - IDCW Option;INF204KB18B8;;15.7038;;;19-Nov-2024
-147096;NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 8 - IDCW Option;INF204KB16B2;;15.4442;;;19-Nov-2024
-147098;Nippon India Fixed Horizon Fund XLI - Series 8 - Direct Plan - Growth Option;INF204KB17B0;;15.7038;;;19-Nov-2024
-147097;Nippon India Fixed Horizon Fund XLI - Series 8 - Growth Option;INF204KB15B4;;15.4442;;;19-Nov-2024
-149130;Nippon India Fixed Horizon Fund - XLIII - Series 1 - Direct Plan - Income Distribution Cum Capital Withdrawal Plan;INF204KC1188;;12.0760;;;19-Nov-2024
-149131;Nippon India Fixed Horizon Fund - XLIII - Series 1 - Regular Plan - Growth Option;INF204KC1154;;11.9791;;;19-Nov-2024
-149128;Nippon India Fixed Horizon Fund - XLIII - Series 1 - Regular Plan - Income Distribution cum Capital Withdrawal Plan;INF204KC1162;;11.9791;;;19-Nov-2024
-149129;Nippon India Fixed Horizon Fund - XLIII - Series 1- Direct Plan - Growth Option;INF204KC1170;;12.0760;;;19-Nov-2024
-149917;Nippon India Fixed Horizon Fund-XLIII-Series 5- Direct Plan-Growth Option;INF204KC1477;;11.9755;;;19-Nov-2024
-149914;Nippon India Fixed Horizon Fund-XLIII-Series 5- Direct Plan-Payout of IDCW;INF204KC1485;;11.9754;;;19-Nov-2024
-149915;Nippon India Fixed Horizon Fund-XLIII-Series 5- Regular Plan-Growth Option;INF204KC1451;;11.9105;;;19-Nov-2024
-149916;Nippon India Fixed Horizon Fund-XLIII-Series 5- Regular Plan-Payout of IDCW;INF204KC1469;;11.9105;;;19-Nov-2024
-150627;Nippon India Fixed Horizon Fund-XLIV-Series 1-Direct Plan-Growth Option;INF204KC1634;;11.8484;;;19-Nov-2024
-150628;Nippon India Fixed Horizon Fund-XLIV-Series 1-Direct Plan-Payout of IDCW;INF204KC1642;;11.8484;;;19-Nov-2024
-150629;Nippon India Fixed Horizon Fund-XLIV-Series 1-Regular Plan-Growth Option;INF204KC1618;;11.7972;;;19-Nov-2024
-150630;Nippon India Fixed Horizon Fund-XLIV-Series 1-Regular Plan-Payout of IDCW;INF204KC1626;;11.7972;;;19-Nov-2024
-150932;Nippon India Fixed Horizon Fund - XLIV - Series 4-Direct Plan-Growth Option;INF204KC1931;;11.4748;;;19-Nov-2024
-150935;Nippon India Fixed Horizon Fund - XLIV - Series 4-Regular Plan-Growth Option;INF204KC1915;;11.4285;;;19-Nov-2024
-150934;Nippon India Fixed Horizon Fund - XLIV - Series 4-Regular Plan-Payout of IDCW;INF204KC1923;;11.4285;;;19-Nov-2024
-151674;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Growth Option;INF204KC1BF1;;11.2791;;;19-Nov-2024
-151671;Nippon India Fixed Horizon Fund-XLV-Series 4-Direct Plan-Payout of IDCW;INF204KC1BG9;;11.2791;;;19-Nov-2024
-151672;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Growth Option;INF204KC1BD6;;11.2421;;;19-Nov-2024
-151673;Nippon India Fixed Horizon Fund-XLV-Series 4-Regular Plan-Payout of IDCW;INF204KC1BE4;;11.2421;;;19-Nov-2024
-151708;Nippon India Fixed Horizon Fund-XLV-Series 5-Direct Plan-Growth Option;INF204KC1BJ3;;11.5418;;;19-Nov-2024
-151710;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Growth Option;INF204KC1BH7;;11.4871;;;19-Nov-2024
-151711;Nippon India Fixed Horizon Fund-XLV-Series 5-Regular Plan-Payout of IDCW;INF204KC1BI5;;11.4871;;;19-Nov-2024
+147095;NIPPON INDIA FIXED MATURITY  PLAN - XLI - SERIES 8 - DIRECT Plan - IDCW Option;INF204KB18B8;;15.7038;;;19-Nov-2024
+147096;NIPPON INDIA FIXED MATURITY PLAN  - XLI - SERIES 8 - IDCW Option;INF204KB16B2;;15.4442;;;19-Nov-2024
+147098;Nippon India Fixed Maturity Plan XLI - Series 8 - Direct Plan - Growth Option;INF204KB17B0;;15.7038;;;19-Nov-2024
+147097;Nippon India Fixed Maturity Plan XLI - Series 8 - Growth Option;INF204KB15B4;;15.4442;;;19-Nov-2024
+149130;Nippon India Fixed Maturity Plan - XLIII - Series 1 - Direct Plan - Income Distribution Cum Capital Withdrawal Plan;INF204KC1188;;12.0760;;;19-Nov-2024
+149131;Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Growth Option;INF204KC1154;;11.9791;;;19-Nov-2024
+149128;Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Income Distribution cum Capital Withdrawal Plan;INF204KC1162;;11.9791;;;19-Nov-2024
+149129;Nippon India Fixed Maturity Plan - XLIII - Series 1- Direct Plan - Growth Option;INF204KC1170;;12.0760;;;19-Nov-2024
+149917;Nippon India Fixed Maturity Plan-XLIII-Series 5- Direct Plan-Growth Option;INF204KC1477;;11.9755;;;19-Nov-2024
+149914;Nippon India Fixed Maturity Plan-XLIII-Series 5- Direct Plan-Payout of IDCW;INF204KC1485;;11.9754;;;19-Nov-2024
+149915;Nippon India Fixed Maturity Plan-XLIII-Series 5- Regular Plan-Growth Option;INF204KC1451;;11.9105;;;19-Nov-2024
+149916;Nippon India Fixed Maturity Plan-XLIII-Series 5- Regular Plan-Payout of IDCW;INF204KC1469;;11.9105;;;19-Nov-2024
+150627;Nippon India Fixed Maturity Plan-XLIV-Series 1-Direct Plan-Growth Option;INF204KC1634;;11.8484;;;19-Nov-2024
+150628;Nippon India Fixed Maturity Plan-XLIV-Series 1-Direct Plan-Payout of IDCW;INF204KC1642;;11.8484;;;19-Nov-2024
+150629;Nippon India Fixed Maturity Plan-XLIV-Series 1-Regular Plan-Growth Option;INF204KC1618;;11.7972;;;19-Nov-2024
+150630;Nippon India Fixed Maturity Plan-XLIV-Series 1-Regular Plan-Payout of IDCW;INF204KC1626;;11.7972;;;19-Nov-2024
+150932;Nippon India Fixed Maturity Plan - XLIV - Series 4-Direct Plan-Growth Option;INF204KC1931;;11.4748;;;19-Nov-2024
+150934;Nippon India Fixed Maturity Plan - XLIV - Series 4-Regular Plan-Payout of IDCW;INF204KC1923;;11.4285;;;19-Nov-2024
+150935;Nippon India Fixed Maturity Plan- XLIV - Series 4-Regular Plan-Growth Option;INF204KC1915;;11.4285;;;19-Nov-2024
+151674;Nippon India Fixed Maturity Plan-XLV-Series 4-Direct Plan-Growth Option;INF204KC1BF1;;11.2791;;;19-Nov-2024
+151671;Nippon India Fixed Maturity Plan-XLV-Series 4-Direct Plan-Payout of IDCW;INF204KC1BG9;;11.2791;;;19-Nov-2024
+151672;Nippon India Fixed Maturity Plan-XLV-Series 4-Regular Plan-Growth Option;INF204KC1BD6;;11.2421;;;19-Nov-2024
+151673;Nippon India Fixed Maturity Plan-XLV-Series 4-Regular Plan-Payout of IDCW;INF204KC1BE4;;11.2421;;;19-Nov-2024
+151708;Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-Growth Option;INF204KC1BJ3;;11.5418;;;19-Nov-2024
+151710;Nippon India Fixed Maturity Plan-XLV-Series 5-Regular Plan-Growth Option;INF204KC1BH7;;11.4871;;;19-Nov-2024
+151711;Nippon India Fixed Maturity Plan-XLV-Series 5-Regular Plan-Payout of IDCW;INF204KC1BI5;;11.4871;;;19-Nov-2024
 
 SBI Mutual Fund
 146974;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth;INF200KA1D03;;15.6898;;;19-Nov-2024
