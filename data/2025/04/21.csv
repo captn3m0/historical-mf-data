@@ -772,10 +772,10 @@ Sundaram Mutual Fund
 101538;Sundaram Mid Cap Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01181;INF903J01199;63.0593;;;21-Apr-2025
 
 Tata Mutual Fund
-119178;Tata Mid Cap Growth Fund - Direct Plan- Growth Option;INF277K01PY2;;450.9482;;;21-Apr-2025
-119177;Tata Mid Cap Growth Fund - Direct Plan- IDCW Option;INF277K01PW6;INF277K01PX4;148.8531;;;21-Apr-2025
-102328;Tata Mid Cap Growth Fund Regular Plan- Growth Option;INF277K01626;;397.7609;;;21-Apr-2025
-102326;Tata Mid Cap Growth Fund-Regular Plan - IDCW Option;INF277K01DS0;INF277K01642;109.7885;;;21-Apr-2025
+119178;Tata Mid Cap Fund - Direct Plan- Growth Option;INF277K01PY2;;450.9482;;;21-Apr-2025
+119177;Tata Mid Cap Fund - Direct Plan- IDCW Option;INF277K01PW6;INF277K01PX4;148.8531;;;21-Apr-2025
+102328;Tata Mid Cap Fund Regular Plan- Growth Option;INF277K01626;;397.7609;;;21-Apr-2025
+102326;Tata Mid Cap Fund-Regular Plan - IDCW Option;INF277K01DS0;INF277K01642;109.7885;;;21-Apr-2025
 
 Taurus Mutual Fund
 118872;Taurus Mid Cap Fund - Direct Plan - Growth;INF044D01CA9;;119.32;;;21-Apr-2025
@@ -1163,12 +1163,12 @@ Quantum Mutual Fund
 141069;Quantum Value Fund - Regular Plan IDCW;INF082J01259;INF082J01267;122.04;;;21-Apr-2025
 
 Tata Mutual Fund
-112218;Tata Equity P/E Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;124.0209;;;21-Apr-2025
-101672;Tata Equity P/E Fund - Regular Plan -Growth Option;INF277K01451;;333.4077;;;21-Apr-2025
-119231;Tata Equity P/E Fund -Direct Plan Growth Option;INF277K01ND1;;374.5767;;;21-Apr-2025
-102428;Tata Equity P/E Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;111.6002;;;21-Apr-2025
-119233;Tata Equity P/E Fund- Direct Plan - Payout of IDCW -Option B(10%);INF277K01NB5;INF277K01NC3;127.2967;;;21-Apr-2025
-119232;Tata Equity P/E Fund- Direct Plan -Payout of IDCW-Option A(5%);INF277K01MZ6;INF277K01NA7;137.6360;;;21-Apr-2025
+112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;124.0209;;;21-Apr-2025
+101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;333.4077;;;21-Apr-2025
+119231;Tata Value Fund -Direct Plan Growth Option;INF277K01ND1;;374.5767;;;21-Apr-2025
+102428;Tata Value Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;111.6002;;;21-Apr-2025
+119233;Tata Value Fund- Direct Plan - Payout of IDCW -Option B(10%);INF277K01NB5;INF277K01NC3;127.2967;;;21-Apr-2025
+119232;Tata Value Fund- Direct Plan -Payout of IDCW-Option A(5%);INF277K01MZ6;INF277K01NA7;137.6360;;;21-Apr-2025
 
 Union Mutual Fund
 145473;Union Value Fund - Direct Plan - Growth Option;INF582M01EK4;;27.96;;;21-Apr-2025
@@ -7326,8 +7326,8 @@ SBI Mutual Fund
 101169;SBI Magnum Children's Benefit Fund - Savings Plan - REGULAR PLAN - GROWTH;INF200K01776;;108.2275;;;21-Apr-2025
 
 Tata Mutual Fund
-101491;Tata Young Citizens' Fund -Regular Plan-Growth Option;INF277K01AJ5;;59.2209;;;21-Apr-2025
-119312;Tata Young Citizens' Fund-Direct Plan-Growth Option;INF277K01QW4;;65.8090;;;21-Apr-2025
+101491;Tata Childrens Fund -Regular Plan-Growth Option;INF277K01AJ5;;59.2209;;;21-Apr-2025
+119312;Tata Childrens Fund-Direct Plan-Growth Option;INF277K01QW4;;65.8090;;;21-Apr-2025
 
 Union Mutual Fund
 152219;Union Children's Fund - Direct Plan - Growth Option;;;11.75;;;21-Apr-2025
@@ -8927,10 +8927,6 @@ Aditya Birla Sun Life Mutual Fund
 149784;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;INF209KB14F7;INF209KB15F4;15.0555;;;21-Apr-2025
 
 Axis Mutual Fund
-149847;Axis Multi Factor Passive FoF - Direct Plan - Growth Option;INF846K011G9;;14.3359;;;21-Apr-2025
-149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;INF846K012G7;INF846K013G5;14.3356;;;21-Apr-2025
-149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;INF846K014G3;;14.2306;;;21-Apr-2025
-149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;INF846K015G0;INF846K016G8;14.2306;;;21-Apr-2025
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;31.0717;;;21-Apr-2025
 120472;Axis Gold Fund - Direct Plan - IDCW;INF846K01DQ6;INF846K01DR4;31.1008;;;21-Apr-2025
 115897;Axis Gold Fund - Regular Plan - Growth Option;INF846K01AL3;;28.5998;;;21-Apr-2025
@@ -8947,6 +8943,10 @@ Axis Mutual Fund
 147888;Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW;INF846K01W07;INF846K01W15;14.2679;;;21-Apr-2025
 147896;Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;14.2671;;;21-Apr-2025
 147905;Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;11.3257;;;21-Apr-2025
+149847;Axis Multi Factor Passive FoF - Direct Plan - Growth Option;INF846K011G9;;14.3359;;;21-Apr-2025
+149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;INF846K012G7;INF846K013G5;14.3356;;;21-Apr-2025
+149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;INF846K014G3;;14.2306;;;21-Apr-2025
+149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;INF846K015G0;INF846K016G8;14.2306;;;21-Apr-2025
 149243;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;INF846K017C5;;12.0870;;;21-Apr-2025
 149242;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;INF846K010D8;;12.0307;;;21-Apr-2025
 149245;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;INF846K011D6;INF846K012D4;12.0307;;;21-Apr-2025
