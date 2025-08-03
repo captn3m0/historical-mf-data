@@ -1377,6 +1377,10 @@ Aditya Birla Sun Life Mutual Fund
 153125;Aditya Birla Sun Life Conglomerate Fund-Direct IDCW Payout;INF209KC1381;;10.03;;;07-Jan-2025
 153127;Aditya Birla Sun Life Conglomerate Fund-Regular Growth;INF209KC1399;;10.03;;;07-Jan-2025
 153126;Aditya Birla Sun Life Conglomerate Fund-Regular IDCW Payout;INF209KC1407;;10.03;;;07-Jan-2025
+119591;Aditya Birla Sun Life Consumption Fund - Growth - Direct Plan;INF209K01WC7;;240.03;;;07-Jan-2025
+119590;Aditya Birla Sun Life Consumption Fund -DIRECT - IDCW;INF209K01Q63;;52.81;;;07-Jan-2025
+103110;Aditya Birla Sun Life Consumption Fund -Regular - IDCW;INF209K01439;INF209K01CR7;41.88;;;07-Jan-2025
+103111;Aditya Birla Sun Life Consumption Fund-Growth Option;INF209K01447;;211.05;;;07-Jan-2025
 120539;Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan;INF209K01VF2;;208.7;;;07-Jan-2025
 103168;Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan;INF209K01140;;186.5;;;07-Jan-2025
 120538;Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW;INF209K01P49;INF209K01VE5;66.7;;;07-Jan-2025
@@ -1385,10 +1389,6 @@ Aditya Birla Sun Life Mutual Fund
 148637;Aditya Birla Sun Life ESG Integration Strategy Fund-Direct Plan-Growth;INF209KB1U76;;18.88;;;07-Jan-2025
 148636;Aditya Birla Sun Life ESG Integration Strategy Fund-Regular - Payout of IDCW;INF209KB1U50;INF209KB1U68;17.76;;;07-Jan-2025
 148635;Aditya Birla Sun Life ESG Integration Strategy Fund-Regular Plan-Growth;INF209KB1U43;;17.76;;;07-Jan-2025
-119591;Aditya Birla Sun Life India Gennext Fund - Growth - Direct Plan;INF209K01WC7;;240.03;;;07-Jan-2025
-119590;Aditya Birla Sun Life India Gennext Fund -DIRECT - IDCW;INF209K01Q63;;52.81;;;07-Jan-2025
-103110;Aditya Birla Sun Life India Gennext Fund -Regular - IDCW;INF209K01439;INF209K01CR7;41.88;;;07-Jan-2025
-103111;Aditya Birla Sun Life India Gennext Fund-Growth Option;INF209K01447;;211.05;;;07-Jan-2025
 119515;Aditya Birla Sun Life Infrastructure Fund -  Direct - IDCW;INF209K01WG8;;45.9;;;07-Jan-2025
 103475;Aditya Birla Sun Life Infrastructure Fund -  Regular - IDCW;INF209K01470;INF209K01CT3;27.4;;;07-Jan-2025
 119514;Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan;INF209K01WH6;;103.;;;07-Jan-2025
@@ -3060,7 +3060,7 @@ Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1002.7594;;;07-Jan-2025
 120537;Invesco India Liquid Fund - Direct Plan - Growth;INF205K01MF9;;3501.2488;;;07-Jan-2025
 120536;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01MG7;INF205K01MH5;1084.196;;;07-Jan-2025
-120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);;INF205K01MI3;1079.9453;;;07-Jan-2025
+120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);INF205KA1BE5;INF205K01MI3;1079.9453;;;07-Jan-2025
 120534;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);;INF205K01ME2;1000.9596;;;07-Jan-2025
 104486;Invesco India Liquid Fund - Growth;INF205K01HM5;;3472.6659;;;07-Jan-2025
 104492;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);INF205K01HQ6;INF205K01HP8;1004.8706;;;07-Jan-2025
@@ -3070,7 +3070,7 @@ Invesco Mutual Fund
 139389;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;;;1659.2715;;;07-Jan-2025
 139388;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;;;1000;;;07-Jan-2025
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;;;1659.1796;;;07-Jan-2025
-104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);;INF205K01HO1;1018.5508;;;07-Jan-2025
+104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);INF205KA1BD7;INF205K01HO1;1018.5508;;;07-Jan-2025
 
 ITI Mutual Fund
 147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;INF00XX01366;INF00XX01333;1328.9757;;;07-Jan-2025
@@ -3127,13 +3127,13 @@ Mahindra Manulife Mutual Fund
 
 Mirae Asset Mutual Fund
 118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2694.2387;;;07-Jan-2025
-118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1217.6648;;;07-Jan-2025
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;INF769K01PD2;INF769K01CP4;1217.6648;;;07-Jan-2025
 118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;07-Jan-2025
 118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1138.1903;;;07-Jan-2025
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;07-Jan-2025
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2649.8028;;;07-Jan-2025
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1155.8458;;;07-Jan-2025
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.9125;;;07-Jan-2025
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1153.9125;;;07-Jan-2025
 
 Motilal Oswal Mutual Fund
 145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;13.5108;;;07-Jan-2025
@@ -7248,8 +7248,8 @@ HDFC Mutual Fund
 100900;HDFC Childrens Fund - Growth Plan;;;290.3;;;07-Jan-2025
 
 ICICI Prudential Mutual Fund
-101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;304.90;;;07-Jan-2025
-120579;ICICI Prudential Child Care Fund (Gift Plan) - Direct Plan - Cumulative;INF109K01Y49;;333.94;;;07-Jan-2025
+101127;ICICI Prudential Children's Fund - Cumulative;INF109K01605;;304.90;;;07-Jan-2025
+120579;ICICI Prudential Children's Fund - Direct Plan - Cumulative;INF109K01Y49;;333.94;;;07-Jan-2025
 
 LIC Mutual Fund
 120285;LIC MF Children's Fund-Direct Plan-Growth;INF767K01FB1;;38.7411;;;07-Jan-2025
@@ -8613,7 +8613,7 @@ SBI Mutual Fund
 121109;SBI BSE SENSEX ETF;INF200K01VT2;;855.3345;;;07-Jan-2025
 144916;SBI BSE Sensex Next 50 ETF;INF200KA1VQ2;;864.2770;;;07-Jan-2025
 139430;SBI Nifty 10 yr Benchmark G-Sec ETF;INF200KA1JT1;;243.5459;;;07-Jan-2025
-152168;SBI NIFTY 1D Rate ETF;;INF200KA13Z8;1000.0000;;;07-Jan-2025
+152168;SBI NIFTY 1D Rate Liquid ETF - IDCW;;INF200KA13Z8;1000.0000;;;07-Jan-2025
 145648;SBI Nifty 200 Quality 30 ETF;INF200KA1WX6;;221.6772;;;07-Jan-2025
 135106;SBI Nifty 50 ETF;INF200KA1FS1;;250.2481;;;07-Jan-2025
 134008;SBI Nifty Bank ETF;INF200KA1580;;510.7774;;;07-Jan-2025
