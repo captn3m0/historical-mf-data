@@ -1323,19 +1323,19 @@ Principal Mutual Fund
 100967;Principal Multi Cap Growth Fund-Growth Option;INF173K01940;;50.08;49.58;50.08;03-May-2011
 
 quant Mutual Fund
-100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;71.4387;70.7243;71.4387;03-May-2011
-100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;11.8211;11.7029;11.8211;03-May-2011
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;71.4387;70.7243;71.4387;03-May-2011
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;11.8211;11.7029;11.8211;03-May-2011
 
 Open Ended Schemes ( Equity Scheme - Large Cap Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-103174;Aditya Birla Sun Life Frontline Equity Fund-Growth;INF209K01BR9;;86.74;85.87;86.74;03-May-2011
-103173;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;20.85;20.64;20.85;03-May-2011
+103174;Aditya Birla Sun Life Large Cap Fund-Growth;INF209K01BR9;;86.74;85.87;86.74;03-May-2011
+103173;Aditya Birla Sun Life Large Cap Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;20.85;20.64;20.85;03-May-2011
 
 Axis Mutual Fund
-112277;Axis Bluechip Fund - Regular Plan - Growth;INF846K01164;;10.72;10.61;10.72;03-May-2011
-112278;Axis Bluechip Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;10.72;10.61;10.72;03-May-2011
+112277;Axis Large Cap Fund - Regular Plan - Growth;INF846K01164;;10.72;10.61;10.72;03-May-2011
+112278;Axis Large Cap Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;10.72;10.61;10.72;03-May-2011
 
 Bandhan Mutual Fund
 108799;BANDHAN Large Cap Fund - Regular Plan - Growth;INF194K01516;;15.8549;15.8549;15.8549;03-May-2011
@@ -1350,8 +1350,8 @@ BNP Paribas Mutual Fund
 113545;BNP PARIBAS LARGE CAP Fund-Income Distribution cum Capital Withdrawal Option;INF251K01910;INF251K01902;11.41;11.41;11.41;03-May-2011
 
 Canara Robeco Mutual Fund
-113221;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - GROWTH OPTION;INF760K01AR3;;10.3700;10.3700;10.3700;03-May-2011
-113222;CANARA ROBECO BLUE CHIP EQUITY FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;10.3700;10.3700;10.3700;03-May-2011
+113221;CANARA ROBECO LARGE CAP FUND - REGULAR PLAN - GROWTH OPTION;INF760K01AR3;;10.3700;10.3700;10.3700;03-May-2011
+113222;CANARA ROBECO LARGE CAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01AS1;INF760K01AT9;10.3700;10.3700;10.3700;03-May-2011
 
 DSP Mutual Fund
 101635;DSP Large Cap Fund - Regular Plan - Growth;INF740K01243;;99.040;98.050;99.040;03-May-2011
@@ -1366,8 +1366,8 @@ Edelweiss Mutual Fund
 111937;Edelweiss Large Cap Fund -Plan C - Growth option;INF754K01129;;13.87;13.73;13.87;03-May-2011
 
 Franklin Templeton Mutual Fund
-100470;Franklin India BLUECHIP FUND - IDCW ;INF090I01155;INF090I01163;38.2313;37.8490;38.2313;03-May-2011
-100471;Franklin India Bluechip Fund-Growth;INF090I01171;;213.1384;211.0070;213.1384;03-May-2011
+100470;Franklin India Large Cap Fund - IDCW;INF090I01155;INF090I01163;38.2313;37.8490;38.2313;03-May-2011
+100471;Franklin India Large Cap Fund-Growth;INF090I01171;;213.1384;211.0070;213.1384;03-May-2011
 
 HDFC Mutual Fund
 102000;HDFC Large Cap Fund - Growth Option - Regular Plan;INF179K01BE2;;208.125;206.044;208.125;03-May-2011
@@ -1378,9 +1378,9 @@ HSBC Mutual Fund
 101593;HSBC Large Cap Fund - Regular IDCW;INF336L01024;INF336L01032;25.5959;25.3399;25.5959;03-May-2011
 
 ICICI Prudential Mutual Fund
-108466;ICICI Prudential Bluechip Fund - Growth;INF109K01BL4;;16.26;16.10;16.26;03-May-2011
-108465;ICICI Prudential Bluechip Fund - IDCW;INF109K01EP9;INF109K01BM2;15.52;15.36;15.52;03-May-2011
 108467;ICICI Prudential Bluechip Fund - Institutional Option - I - Growth;INF109K01BN0;;16.70;16.53;16.70;03-May-2011
+108466;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Growth;INF109K01BL4;;16.26;16.10;16.26;03-May-2011
+108465;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW;INF109K01EP9;INF109K01BM2;15.52;15.36;15.52;03-May-2011
 
 Invesco Mutual Fund
 112098;Invesco India Largecap Fund - Growth;INF205K01304;;12.09;11.97;12.09;03-May-2011
@@ -1391,8 +1391,8 @@ JM Financial Mutual Fund
 100218;JM Large Cap Fund (Regular) - IDCW ;INF192K01585;INF192K01593;14.2385;14.2385;14.2385;03-May-2011
 
 Kotak Mahindra Mutual Fund
-114458;Kotak Bluechip Fund - Growth;INF174K01153;;101.087;100.076;101.087;03-May-2011
-114457;Kotak Bluechip Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;29.846;29.548;29.846;03-May-2011
+114458;Kotak Large Cap Fund - Growth;INF174K01153;;101.087;100.076;101.087;03-May-2011
+114457;Kotak Large Cap Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;29.846;29.548;29.846;03-May-2011
 
 LIC Mutual Fund
 106871;LIC MF Large Cap Fund-Regular Plan-Growth;INF767K01105;;12.7269;12.5996;12.7269;03-May-2011
@@ -1410,8 +1410,8 @@ Nippon India Mutual Fund
 106239;Reliance Top 200 Fund-Institutional Plan Dividend Option;INF204K01497;INF204K01505;12.1201;11.9989;12.1201;03-May-2011
 
 SBI Mutual Fund
-103616;SBI Blue Chip Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01164;INF200K01172;11.09;11.09;11.09;03-May-2011
-103504;SBI BLUE CHIP FUND-REGULAR PLAN GROWTH;INF200K01180;;14.19;14.19;14.19;03-May-2011
+103616;SBI Large Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01164;INF200K01172;11.09;11.09;11.09;03-May-2011
+103504;SBI Large Cap FUND-REGULAR PLAN GROWTH;INF200K01180;;14.19;14.19;14.19;03-May-2011
 
 Tata Mutual Fund
 100475;Tata Large Cap Fund -Regular Plan - Growth Option;INF277K01931;;94.9215;93.9723;94.9215;03-May-2011
@@ -1429,37 +1429,37 @@ Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-100033;Aditya Birla Sun Life Equity Advantage Fund - Regular Growth;INF209K01165;;152.79;152.03;152.79;03-May-2011
-100034;Aditya Birla Sun Life Equity Advantage Fund -Regular - IDCW;INF209K01157;INF209K01CE5;78.17;77.78;78.17;03-May-2011
+100033;Aditya Birla Sun Life Large & Mid Cap Fund - Regular Growth;INF209K01165;;152.79;152.03;152.79;03-May-2011
+100034;Aditya Birla Sun Life Large & Mid Cap Fund -Regular - IDCW;INF209K01157;INF209K01CE5;78.17;77.78;78.17;03-May-2011
 
 Bandhan Mutual Fund
-108596;BANDHAN Core Equity Fund - Regular Plan - Growth;INF194K01524;;20.2253;20.2253;20.2253;03-May-2011
-108597;BANDHAN Core Equity Fund - Regular Plan - IDCW;INF194K01532;INF194K01540;12.5315;12.5315;12.5315;03-May-2011
+108596;Bandhan Large & Mid Cap Fund - Regular Plan - Growth;INF194K01524;;20.2253;20.2253;20.2253;03-May-2011
+108597;Bandhan Large & Mid Cap Fund - Regular Plan - IDCW;INF194K01532;INF194K01540;12.5315;12.5315;12.5315;03-May-2011
 111864;IDFC Core Equity Fund-Plan B- Dividend;INF194K01185;INF194K01193;10.8784;10.8784;10.8784;03-May-2011
 111863;IDFC Core Equity Fund-Plan B- Growth;INF194K01177;;16.0771;16.0771;16.0771;03-May-2011
 
 Bank of India Mutual Fund
-110598;BANK OF INDIA Large & Mid Cap  Equity Fund Regular Plan- Quarterly IDCW;INF761K01116;INF761K01124;11.39;11.28;11.39;03-May-2011
-110599;BANK OF INDIA Large & Mid Cap Equity Fund Eco Plan- Growth;INF761K01041;;17.26;17.09;17.26;03-May-2011
-110601;BANK OF INDIA Large & Mid Cap Equity Fund Eco Plan-Bonus;INF761K01017;;17.26;17.09;17.26;03-May-2011
-110604;BANK OF INDIA Large & Mid Cap Equity Fund Eco Plan-Quarterly IDCW;INF761K01058;INF761K01066;11.47;11.36;11.47;03-May-2011
-110608;BANK OF INDIA Large & Mid Cap Equity Fund Eco Plan-Regular IDCW;INF761K01025;INF761K01033;12.14;12.02;12.14;03-May-2011
-110603;BANK OF INDIA Large & Mid Cap Equity Fund Regular Plan- Growth;INF761K01108;;17.14;16.97;17.14;03-May-2011
-110607;BANK OF INDIA Large & Mid Cap Equity Fund Regular Plan- Regular IDCW;INF761K01082;INF761K01090;12.08;11.96;12.08;03-May-2011
-110606;BANK OF INDIA Large & Mid Cap Equity Fund Regular Plan-Bonus;INF761K01074;;17.14;16.97;17.14;03-May-2011
+110599;BANK OF INDIA Large & Mid Cap Fund Eco Plan- Growth;INF761K01041;;17.26;17.09;17.26;03-May-2011
+110601;BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus;INF761K01017;;17.26;17.09;17.26;03-May-2011
+110604;BANK OF INDIA Large & Mid Cap Fund Eco Plan-Quarterly IDCW;INF761K01058;INF761K01066;11.47;11.36;11.47;03-May-2011
+110608;BANK OF INDIA Large & Mid Cap Fund Eco Plan-Regular IDCW;INF761K01025;INF761K01033;12.14;12.02;12.14;03-May-2011
+110603;BANK OF INDIA Large & Mid Cap Fund Regular Plan- Growth;INF761K01108;;17.14;16.97;17.14;03-May-2011
+110598;BANK OF INDIA Large & Mid Cap Fund Regular Plan- Quarterly IDCW;INF761K01116;INF761K01124;11.39;11.28;11.39;03-May-2011
+110607;BANK OF INDIA Large & Mid Cap Fund Regular Plan- Regular IDCW;INF761K01082;INF761K01090;12.08;11.96;12.08;03-May-2011
+110606;BANK OF INDIA Large & Mid Cap Fund Regular Plan-Bonus;INF761K01074;;17.14;16.97;17.14;03-May-2011
 
 Canara Robeco Mutual Fund
-102920;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - GROWTH OPTION;INF760K01167;;22.6700;22.6700;22.6700;03-May-2011
-102921;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;15.6400;15.6400;15.6400;03-May-2011
-102922;Canara Robeco Emerging Equities-BONUS OPTION;INF760K01159;;18.9700;18.9700;18.9700;03-May-2011
+102920;CANARA ROBECO LARGE AND MID CAP FUND - REGULAR PLAN - GROWTH OPTION;INF760K01167;;22.6700;22.6700;22.6700;03-May-2011
+102921;CANARA ROBECO LARGE AND MID CAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01175;INF760K01183;15.6400;15.6400;15.6400;03-May-2011
+102922;Canara Robeco Large and Mid Cap Fund -BONUS OPTION;INF760K01159;;18.9700;18.9700;18.9700;03-May-2011
 
 DSP Mutual Fund
 103819;DSP Large & Mid Cap Fund - Regular Plan - Growth;INF740K01094;;84.743;83.896;84.743;03-May-2011
 103820;DSP Large & Mid Cap Fund - Regular Plan - IDCW;INF740K01078;INF740K01086;27.512;27.237;27.512;03-May-2011
 
 Franklin Templeton Mutual Fund
-102883;Franklin India Equity Advantage Fund - Growth Plan;INF090I01205;;32.4688;32.1441;32.4688;03-May-2011
-102884;Franklin India Equity Advantage Fund - IDCW ;INF090I01189;INF090I01197;14.8560;14.7074;14.8560;03-May-2011
+102883;Franklin India Large & Mid Cap Fund - Growth Plan;INF090I01205;;32.4688;32.1441;32.4688;03-May-2011
+102884;Franklin India Large & Mid Cap Fund - IDCW;INF090I01189;INF090I01197;14.8560;14.7074;14.8560;03-May-2011
 
 ICICI Prudential Mutual Fund
 100349;ICICI Prudential Large & Mid Cap Fund - Growth;INF109K01431;;134.97;133.62;134.97;03-May-2011
@@ -1471,8 +1471,8 @@ Invesco Mutual Fund
 106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;11.58;11.46;11.58;03-May-2011
 
 Kotak Mahindra Mutual Fund
-103234;Kotak Equity Opportunities Fund - Growth-Regular;INF174K01187;;44.757;44.309;44.757;03-May-2011
-103233;Kotak Equity Opportunities Fund - IDCW-Regular;INF174K01203;INF174K01195;14.479;14.334;14.479;03-May-2011
+103234;Kotak Large & Midcap Fund - Growth-Regular;INF174K01187;;44.757;44.309;44.757;03-May-2011
+103233;Kotak Large & Midcap Fund - IDCW-Regular;INF174K01203;INF174K01195;14.479;14.334;14.479;03-May-2011
 
 Mirae Asset Mutual Fund
 112932;Mirae Asset Large & Midcap Fund - Regular Plan - Growth;INF769K01101;;10.796;10.688;10.796;03-May-2011
@@ -1480,9 +1480,9 @@ Mirae Asset Mutual Fund
 
 Nippon India Mutual Fund
 100378;NIPPON INDIA VISION FUND - IDCW Option;INF204K01372;INF204K01380;39.3305;38.9372;39.3305;03-May-2011
-106255;Nippon India Vision Fund Institutional Dividend Plan;INF204K01331;INF204K01349;241.4230;239.0088;241.4230;03-May-2011
 100379;Nippon India Vision Fund-GROWTH PLAN-Bonus Option;INF204K01398;;44.8877;44.4388;44.8877;03-May-2011
 100380;Nippon India Vision Fund-GROWTH PLAN-Growth Option;INF204K01406;;267.2415;264.5691;267.2415;03-May-2011
+106255;Nippon India Vision Large & Mid Cap Fund Institutional Dividend Plan;INF204K01331;INF204K01349;241.4230;239.0088;241.4230;03-May-2011
 106256;Reliance Vision Fund Institutional Plan Growth Plan Growth Option;INF204K01364;;267.5235;264.8483;267.5235;03-May-2011
 
 Principal Mutual Fund
@@ -1534,12 +1534,12 @@ DSP Mutual Fund
 104482;DSP Midcap Fund - Regular Plan - IDCW;INF740K01102;INF740K01110;14.581;14.435;14.581;03-May-2011
 
 Franklin Templeton Mutual Fund
-100472;Franklin India PRIMA FUND - IDCW ;INF090I01726;INF090I01734;41.5884;41.1725;41.5884;03-May-2011
-100473;Franklin India Prima Fund-Growth;INF090I01809;;266.9035;264.2345;266.9035;03-May-2011
+100472;Franklin India Mid Cap Fund - IDCW;INF090I01726;INF090I01734;41.5884;41.1725;41.5884;03-May-2011
+100473;Franklin India Mid Cap Fund-Growth;INF090I01809;;266.9035;264.2345;266.9035;03-May-2011
 
 HDFC Mutual Fund
-105758;HDFC Mid-Cap Opportunities Fund - Growth Plan;INF179K01CR2;;15.382;15.228;15.382;03-May-2011
-105757;HDFC Mid-Cap Opportunities Fund - IDCW Plan;INF179K01CS0;INF179K01CT8;15.382;15.228;15.382;03-May-2011
+105758;HDFC Mid Cap Fund - Growth Plan;INF179K01CR2;;15.382;15.228;15.382;03-May-2011
+105757;HDFC Mid Cap Fund - IDCW Plan;INF179K01CS0;INF179K01CT8;15.382;15.228;15.382;03-May-2011
 
 ICICI Prudential Mutual Fund
 102528;ICICI Prudential MidCap Fund - Growth;INF109K01AN2;;31.76;31.44;31.76;03-May-2011
@@ -1551,8 +1551,8 @@ Invesco Mutual Fund
 105504;Invesco India Midcap Fund - IDCW (Payout / Reinvestment);INF205K01BD7;INF205K01BE5;11.57;11.45;11.57;03-May-2011
 
 Kotak Mahindra Mutual Fund
-104908;Kotak Emerging Equity Scheme - Growth;INF174K01DS9;;11.052;10.941;11.052;03-May-2011
-104907;Kotak Emerging Equity Scheme - Payout of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;10.32;10.217;10.32;03-May-2011
+104908;Kotak Midcap Fund - Regular Plan - Growth;INF174K01DS9;;11.052;10.941;11.052;03-May-2011
+104907;Kotak Midcap Fund - Regular Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;10.32;10.217;10.32;03-May-2011
 
 L&T Mutual Fund
 112496;L&T Mid Cap Fund-Regular Plan-Growth;INF917K01254;;38.64;38.64;38.64;03-May-2011
@@ -1560,9 +1560,9 @@ L&T Mutual Fund
 
 Nippon India Mutual Fund
 100375;NIPPON INDIA GROWTH FUND - IDCW Option;INF204K01299;INF204K01307;51.4035;50.8895;51.4035;03-May-2011
-106260;NIPPON INDIA GROWTH FUND - INSTITUTIONAL Plan - IDCW Option;INF204K01257;INF204K01265;437.4427;433.0683;437.4427;03-May-2011
 100376;Nippon India Growth Fund-Growth Plan-Bonus Option;INF204K01315;;75.0586;74.3080;75.0586;03-May-2011
 100377;Nippon India Growth Fund-Growth Plan-Growth Option;INF204K01323;;452.5154;447.9902;452.5154;03-May-2011
+106260;NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option;INF204K01257;INF204K01265;437.4427;433.0683;437.4427;03-May-2011
 106258;Reliance Growth Fund Institutional Plan Growth Plan Growth Option;INF204K01281;;456.3363;451.7729;456.3363;03-May-2011
 
 quant Mutual Fund
@@ -1570,8 +1570,8 @@ quant Mutual Fund
 101066;quant Mid Cap Fund - IDCW Option - Regular Plan;INF966L01150;INF966L01168;9.9399;9.8405;9.9399;03-May-2011
 
 SBI Mutual Fund
-102941;SBI Magnum MIDCAP FUND - REGULAR PLAN - GROWTH;INF200K01560;;22.15;21.93;22.15;03-May-2011
-102942;SBI Magnum MidCap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01578;INF200K01586;16.99;16.82;16.99;03-May-2011
+102941;SBI MIDCAP FUND - REGULAR PLAN - GROWTH;INF200K01560;;22.15;21.93;22.15;03-May-2011
+102942;SBI Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01578;INF200K01586;16.99;16.82;16.99;03-May-2011
 
 Sundaram Mutual Fund
 111941;Sundaram Mid Cap Fund Institutional Plan - Growth;INF903J01207;;148.7232;148.7232;148.7232;03-May-2011
@@ -1580,8 +1580,8 @@ Sundaram Mutual Fund
 101538;Sundaram Mid Cap Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01181;INF903J01199;16.7212;16.5540;16.7212;03-May-2011
 
 Tata Mutual Fund
-102328;Tata Mid Cap Growth Fund Regular Plan- Growth Option;INF277K01626;;41.9045;41.4855;41.9045;03-May-2011
-102326;Tata Mid Cap Growth Fund-Regular Plan - IDCW Option;INF277K01DS0;INF277K01642;16.7617;16.5941;16.7617;03-May-2011
+102328;Tata Mid Cap Fund Regular Plan- Growth Option;INF277K01626;;41.9045;41.4855;41.9045;03-May-2011
+102326;Tata Mid Cap Fund-Regular Plan - IDCW Option;INF277K01DS0;INF277K01642;16.7617;16.5941;16.7617;03-May-2011
 102329;Tata Mid Cap Growth Fund Regular Plan  - Bonus (Growth);INF277K01634;;38.0808;37.7000;38.0808;03-May-2011
 
 Taurus Mutual Fund
@@ -1604,8 +1604,8 @@ DSP Mutual Fund
 113153;DSP Small Cap Fund - Regular - IDCW;INF740K01805;INF740K01AM6;9.212;9.120;9.212;03-May-2011
 
 Franklin Templeton Mutual Fund
-103361;Franklin India Smaller Companies Fund - IDCW ;INF090I01544;INF090I01551;13.0759;12.9451;13.0759;03-May-2011
-103360;Franklin India Smaller Companies Fund-Growth;INF090I01569;;14.1222;13.9810;14.1222;03-May-2011
+103361;Franklin India Small Cap Fund - IDCW;INF090I01544;INF090I01551;13.0759;12.9451;13.0759;03-May-2011
+103360;Franklin India Small Cap Fund-Growth;INF090I01569;;14.1222;13.9810;14.1222;03-May-2011
 
 ICICI Prudential Mutual Fund
 106823;ICICI Prudential Smallcap Fund - Growth;INF109K01BI0;;10.74;10.63;10.74;03-May-2011
@@ -1639,8 +1639,8 @@ Aditya Birla Sun Life Mutual Fund
 101737;Aditya Birla Sun Life Dividend Yield Fund -REGULAR - IDCW;INF209K01397;INF209K01CP1;13.76;13.62;13.76;03-May-2011
 
 Franklin Templeton Mutual Fund
-103679;Templeton India EQUITY INCOME FUND - IDCW ;INF090I01932;INF090I01940;14.9997;14.8497;14.9997;03-May-2011
-103678;Templeton India Equity Income Fund-Growth Plan;INF090I01957;;21.1493;20.9378;21.1493;03-May-2011
+103679;Franklin India Dividend Yield Fund - IDCW;INF090I01932;INF090I01940;14.9997;14.8497;14.9997;03-May-2011
+103678;Franklin India Dividend Yield Fund-Growth Plan;INF090I01957;;21.1493;20.9378;21.1493;03-May-2011
 
 Principal Mutual Fund
 102808;Principal Dividend Yield Fund- Half Yearly Income Distribution CUM Capital Withdrawal Plan;INF173K01AD9;INF173K01AE7;16.92;16.75;16.92;03-May-2011
@@ -1658,12 +1658,12 @@ Open Ended Schemes ( Equity Scheme - Value Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-108167;Aditya Birla Sun Life Pure Value Fund - Growth Option;INF209K01LF3;;16.5551;16.3895;16.5551;03-May-2011
-108166;Aditya Birla Sun Life Pure Value Fund - Regular - IDCW;INF209K01LE6;INF209K01LG1;15.5116;15.3565;15.5116;03-May-2011
+108167;Aditya Birla Sun Life Value Fund - Growth Option;INF209K01LF3;;16.5551;16.3895;16.5551;03-May-2011
+108166;Aditya Birla Sun Life Value Fund - Regular - IDCW;INF209K01LE6;INF209K01LG1;15.5116;15.3565;15.5116;03-May-2011
 
 Bandhan Mutual Fund
-108909;BANDHAN Sterling Value Fund - Regular Plan - Growth;INF194K01342;;18.2682;18.2682;18.2682;03-May-2011
-108908;BANDHAN Sterling Value Fund - Regular Plan - IDCW;INF194K01359;INF194K01367;13.6081;13.6081;13.6081;03-May-2011
+108909;Bandhan Value Fund - Regular Plan - Growth;INF194K01342;;18.2682;18.2682;18.2682;03-May-2011
+108908;Bandhan Value Fund - Regular Plan - IDCW;INF194K01359;INF194K01367;13.6081;13.6081;13.6081;03-May-2011
 
 Franklin Templeton Mutual Fund
 100496;Templeton India Value Fund - Growth Plan;INF090I01296;;119.6872;118.4903;119.6872;03-May-2011
@@ -1674,9 +1674,9 @@ HDFC Mutual Fund
 101765;HDFC Value Fund - IDCW Plan;INF179K01400;INF179K01418;23.85;23.612;23.85;03-May-2011
 
 ICICI Prudential Mutual Fund
-102594;ICICI Prudential Value Discovery Fund - Growth;INF109K01AF8;;48.69;48.20;48.69;03-May-2011
-102595;ICICI Prudential Value Discovery Fund - IDCW;INF109K01EC7;INF109K01AD3;19.59;19.39;19.59;03-May-2011
 102596;ICICI Prudential Value Discovery Fund - Institutional Option - I - Growth;INF109K01AE1;;21.76;21.54;21.76;03-May-2011
+102594;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth;INF109K01AF8;;48.69;48.20;48.69;03-May-2011
+102595;ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW;INF109K01EC7;INF109K01AD3;19.59;19.39;19.59;03-May-2011
 
 JM Financial Mutual Fund
 100254;JM Value Fund (Regular) - Growth Option;INF137A01037;;13.0011;13.0011;13.0011;03-May-2011
@@ -1687,13 +1687,13 @@ Nippon India Mutual Fund
 103085;Nippon India Value Fund- Growth Plan;INF204K01GB3;;30.0289;29.7286;30.0289;03-May-2011
 
 Quantum Mutual Fund
-103490;Quantum Long Term Equity Value Fund - Direct Plan Growth Option;INF082J01036;;22.0000;21.1200;22.0000;03-May-2011
-103491;Quantum Long Term Equity Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;22.1900;21.3000;22.1900;03-May-2011
+103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;22.0000;21.1200;22.0000;03-May-2011
+103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;22.1900;21.3000;22.1900;03-May-2011
 
 Tata Mutual Fund
-112218;Tata Equity P/E Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;34.2609;33.9183;34.2609;03-May-2011
-101672;Tata Equity P/E Fund - Regular Plan -Growth Option;INF277K01451;;47.3619;46.8883;47.3619;03-May-2011
-102428;Tata Equity P/E Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;34.3593;34.0157;34.3593;03-May-2011
+112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;34.2609;33.9183;34.2609;03-May-2011
+101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;47.3619;46.8883;47.3619;03-May-2011
+102428;Tata Value Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;34.3593;34.0157;34.3593;03-May-2011
 
 UTI Mutual Fund
 103098;UTI Value Fund - Regular Plan - Growth Option;INF789F01AG5;;27.07;27.07;27.07;03-May-2011
@@ -1707,8 +1707,8 @@ Invesco Mutual Fund
 105459;Invesco India Contra Fund - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;12.19;12.07;12.19;03-May-2011
 
 Kotak Mahindra Mutual Fund
-103040;Kotak India EQ Contra Fund - Growth;INF174K01245;;20.171;19.969;20.171;03-May-2011
-103039;Kotak India EQ Contra Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;16.257;16.094;16.257;03-May-2011
+103040;Kotak Contra Fund - Regular Plan - Growth;INF174K01245;;20.171;19.969;20.171;03-May-2011
+103039;Kotak Contra Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;16.257;16.094;16.257;03-May-2011
 
 SBI Mutual Fund
 100915;SBI Contra Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01347;INF200K01354;21.76;21.54;21.76;03-May-2011
@@ -1722,8 +1722,8 @@ Aditya Birla Sun Life Mutual Fund
 103308;Aditya Birla Sun Life Focused Fund -Regular - IDCW;INF209K01454;INF209K01CS5;14.6735;14.6001;14.6735;03-May-2011
 
 Bandhan Mutual Fund
-108592;BANDHAN Focused Equity Fund - Regular Plan - Growth;INF194K01466;;19.1858;19.1858;19.1858;03-May-2011
-108593;BANDHAN Focused Equity Fund - Regular Plan - IDCW;INF194K01474;INF194K01482;13.8884;13.8884;13.8884;03-May-2011
+108592;Bandhan Focused Fund - Regular Plan - Growth;INF194K01466;;19.1858;19.1858;19.1858;03-May-2011
+108593;Bandhan Focused Fund - Regular Plan - IDCW;INF194K01474;INF194K01482;13.8884;13.8884;13.8884;03-May-2011
 
 DSP Mutual Fund
 112901;DSP Focused Fund - Regular Plan - Growth;INF740K01532;;10.434;10.330;10.434;03-May-2011
@@ -1734,8 +1734,8 @@ Franklin Templeton Mutual Fund
 105816;Franklin India Focused Equity Fund - IDCW ;INF090I01965;INF090I01973;12.1026;11.9816;12.1026;03-May-2011
 
 HDFC Mutual Fund
-102760;HDFC Focused 30 Fund - GROWTH PLAN;INF179K01574;;39.981;39.581;39.981;03-May-2011
-102761;HDFC Focused 30 Fund - IDCW PLAN;INF179K01558;INF179K01566;20.692;20.485;20.692;03-May-2011
+102760;HDFC Focused Fund - GROWTH PLAN;INF179K01574;;39.981;39.581;39.981;03-May-2011
+102761;HDFC Focused Fund - IDCW PLAN;INF179K01558;INF179K01566;20.692;20.485;20.692;03-May-2011
 
 ICICI Prudential Mutual Fund
 111957;ICICI Prudential Focused Equity Fund - Growth;INF109K01BZ4;;13.80;13.66;13.80;03-May-2011
@@ -1746,8 +1746,8 @@ JM Financial Mutual Fund
 107409;JM Focused Fund (Regular) - IDCW;INF192K01551;INF192K01569;3.8910;3.8910;3.8910;03-May-2011
 
 Nippon India Mutual Fund
-104638;NIPPON INDIA FOCUSED EQUITY FUND - IDCW OPTION;INF204K01GF4;INF204K01GG2;13.7331;13.5958;13.7331;03-May-2011
-104637;Nippon India Focused Equity Fund -Growth Plan -Growth Option;INF204K01GE7;;15.3033;15.1503;15.3033;03-May-2011
+104638;NIPPON INDIA FOCUSED  FUND - IDCW OPTION;INF204K01GF4;INF204K01GG2;13.7331;13.5958;13.7331;03-May-2011
+104637;Nippon India Focused Fund -Growth Plan -Growth Option;INF204K01GE7;;15.3033;15.1503;15.3033;03-May-2011
 
 Principal Mutual Fund
 103335;Principal Focused Multicap Fund-Growth Option;INF173K01189;;28.26;27.98;28.26;03-May-2011
@@ -1758,8 +1758,8 @@ quant Mutual Fund
 109274;quant Focused Fund - IDCW Option - Regular Plan;INF966L01358;INF966L01366;10.5889;10.4830;10.5889;03-May-2011
 
 SBI Mutual Fund
-102765;SBI Focused Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01388;INF200K01396;15.37;15.22;15.37;03-May-2011
-102756;SBI FOCUSED EQUITY FUND - REGULAR PLAN -GROWTH;INF200K01370;;40.58;40.17;40.58;03-May-2011
+102765;SBI Focused Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01388;INF200K01396;15.37;15.22;15.37;03-May-2011
+102756;SBI FOCUSED FUND - REGULAR PLAN -GROWTH;INF200K01370;;40.58;40.17;40.58;03-May-2011
 
 Sundaram Mutual Fund
 108305;Sundaram Select Focus Institutional Plan - Growth;INF903J01140;;87.0922;87.0922;87.0922;03-May-2011
@@ -1773,10 +1773,10 @@ Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
 Aditya Birla Sun Life Mutual Fund
 111349;Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan - Growth - Regular Plan;INF209K01207;;17.7546;17.2220;17.7546;03-May-2011
 111348;Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan -Regular - IDCW;INF209K01199;INF209K01CG0;17.7546;17.2220;17.7546;03-May-2011
+103110;Aditya Birla Sun Life Consumption Fund -Regular - IDCW;INF209K01439;INF209K01CR7;13.44;13.31;13.44;03-May-2011
+103111;Aditya Birla Sun Life Consumption Fund-Growth Option;INF209K01447;;23.83;23.59;23.83;03-May-2011
 103168;Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan;INF209K01140;;19.47;19.28;19.47;03-May-2011
 103167;Aditya Birla Sun Life Digital India Fund -Regular - IDCW;INF209K01132;INF209K01CD7;12.71;12.58;12.71;03-May-2011
-103110;Aditya Birla Sun Life India Gennext Fund -Regular - IDCW;INF209K01439;INF209K01CR7;13.44;13.31;13.44;03-May-2011
-103111;Aditya Birla Sun Life India Gennext Fund-Growth Option;INF209K01447;;23.83;23.59;23.83;03-May-2011
 103475;Aditya Birla Sun Life Infrastructure Fund -  Regular - IDCW;INF209K01470;INF209K01CT3;11.01;10.90;11.01;03-May-2011
 103476;Aditya Birla Sun Life Infrastructure Fund-Growth;INF209K01504;;15.98;15.82;15.98;03-May-2011
 106873;Aditya Birla Sun Life International Equity Fund - Growth - Regular Plan;INF209K01520;;10.2592;10.2592;10.2592;03-May-2011
@@ -1878,6 +1878,8 @@ quant Mutual Fund
 106169;quant Infrastructure Fund - IDCW Option - Regular Plan;INF966L01507;INF966L01515;7.1247;6.9585;7.1247;03-May-2011
 
 SBI Mutual Fund
+103145;SBI COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;24.37;24.13;24.37;03-May-2011
+103146;SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;16.46;16.30;16.46;03-May-2011
 100645;SBI Consumption Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01404;INF200K01412;30.30;30.00;30.30;03-May-2011
 104523;SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth;INF200K01214;;42.74;42.31;42.74;03-May-2011
 101295;SBI ESG Exclusionary Strategy Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01198;INF200K01206;28.72;28.43;28.72;03-May-2011
@@ -1885,10 +1887,8 @@ SBI Mutual Fund
 102823;SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH;INF200K01446;;44.68;44.23;44.68;03-May-2011
 106096;SBI INFRASTRUCTURE FUND -  REGULAR PLAN - GROWTH;INF200K01CT2;;9.16;9.07;9.16;03-May-2011
 106095;SBI Infrastructure Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01CU0;INF200K01CV8;9.16;9.07;9.16;03-May-2011
-103145;SBI Magnum COMMA Fund - REGULAR PLAN - Growth;INF200K01339;;24.37;24.13;24.37;03-May-2011
-103146;SBI Magnum Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01313;INF200K01321;16.46;16.30;16.46;03-May-2011
-103114;SBI Magnum Global Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;31.02;30.71;31.02;03-May-2011
-103034;SBI MAGNUM GLOBAL FUND - REGULAR PLAN -GROWTH;INF200K01271;;55.50;54.95;55.50;03-May-2011
+103114;SBI MNC Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01255;INF200K01263;31.02;30.71;31.02;03-May-2011
+103034;SBI MNC FUND - REGULAR PLAN -GROWTH;INF200K01271;;55.50;54.95;55.50;03-May-2011
 112923;SBI PSU Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01BD8;INF200K01BE6;9.69;9.59;9.69;03-May-2011
 113099;SBI PSU Fund - REGULAR PLAN -Growth;INF200K01BC0;;9.69;9.59;9.69;03-May-2011
 100643;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01420;INF200K01438;22.59;22.36;22.59;03-May-2011
@@ -2005,7 +2005,7 @@ JM Financial Mutual Fund
 
 Kotak Mahindra Mutual Fund
 103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;18.077;18.077;18.077;03-May-2011
-103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;INF174K01377;11.07;11.07;11.07;03-May-2011
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;;11.07;11.07;11.07;03-May-2011
 
 LIC Mutual Fund
 100865;LIC MF ELSS Tax Saver-Regular Plan-Growth;INF767K01956;;28.9488;28.9488;28.9488;03-May-2011
@@ -2029,15 +2029,15 @@ Quantum Mutual Fund
 111550;Quantum ELSS Tax Saver Fund - Direct Plan IDCW;INF082J01077;INF082J01085;21.784;21.784;21.784;03-May-2011
 
 SBI Mutual Fund
-103883;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;36.07;36.07;36.07;03-May-2011
-105628;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;INF200K01495;;59.09;59.09;59.09;03-May-2011
+103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;36.07;36.07;36.07;03-May-2011
+105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;59.09;59.09;59.09;03-May-2011
 
 Sundaram Mutual Fund
 101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;42.1534;42.1534;42.1534;03-May-2011
 100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;9.9410;9.9410;9.9410;03-May-2011
 
 Tata Mutual Fund
-100474;Tata ELSS Tax Saver Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;46.1219;46.1219;46.1219;03-May-2011
+100474;Tata ELSS Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;46.1219;46.1219;46.1219;03-May-2011
 
 Taurus Mutual Fund
 100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;INF044D01AC9;;34.85;34.85;34.85;03-May-2011
@@ -2235,9 +2235,9 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;10.4302;10.4302;03-May-2011
 
 Kotak Mahindra Mutual Fund
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;12.2281;12.2281;12.2281;03-May-2011
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;20.0424;20.0424;20.0424;03-May-2011
 100831;Kotak Liquid Fund -Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;03-May-2011
-100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;03-May-2011
-100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;20.0424;20.0424;20.0424;03-May-2011
 100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.0646;10.0646;10.0646;03-May-2011
 100830;Kotak Liquid-Institutional Plan  (Growth);INF174K01FZ9;;19.4314;19.4314;19.4314;03-May-2011
 100832;Kotak Liquid-Institutional Plan (Weekly Dividend);;INF174K01GB8;10.0248;10.0248;10.0248;03-May-2011
@@ -2259,7 +2259,7 @@ Mirae Asset Mutual Fund
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1032.2062;1032.2062;1032.2062;03-May-2011
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;1087.8234;1087.8234;1087.8234;03-May-2011
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1087.9719;1087.9719;1087.9719;03-May-2011
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1086.5301;1086.5301;1086.5301;03-May-2011
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1086.5301;1086.5301;1086.5301;03-May-2011
 
 Navi Mutual Fund
 112645;Navi Liquid Fund - Regular Plan Daily IDCW;;INF959L01GM7;10.0015;10.0015;10.0015;03-May-2011
@@ -2280,7 +2280,7 @@ Nippon India Mutual Fund
 100843;NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION;INF204K01UT6;INF204K01UU4;13.3322;13.3322;13.3322;03-May-2011
 100844;NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION;INF204K01UV2;INF204K01UW0;12.2750;12.2750;12.2750;03-May-2011
 100838;NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION;;INF204K01UK5;10.3509;10.3509;10.3509;03-May-2011
-100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;;INF204K01US8;15.3170;15.3170;15.3170;03-May-2011
+100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;INF204KC1FM8;INF204K01US8;15.3170;15.3170;15.3170;03-May-2011
 100851;Nippon India Liquid Fund -Growth Plan;INF204K01UN9;;24.0642;24.0642;24.0642;03-May-2011
 100849;Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option;;;11.1415;11.1415;11.1415;03-May-2011
 100845;Reliance Liquid Fund-Cash Plan-Growth Plan;;;16.0174;16.0174;16.0174;03-May-2011
@@ -2617,21 +2617,21 @@ Sundaram Mutual Fund
 105554;Sundaram Low Duration Fund Institutional Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01RE3;10.0370;10.0370;10.0370;03-May-2011
 105560;Sundaram Low Duration Fund Institutional Plan - Fortnightly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JM3;INF903J01EK8;10.4553;10.4553;10.4553;03-May-2011
 105562;Sundaram Low Duration Fund Institutional Plan - Growth;INF903J01EG6;;13.1994;13.1994;13.1994;03-May-2011
-105561;Sundaram Low Duration Fund Institutional Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01EH4;INF903J01EL6;10.3994;10.3994;10.3994;03-May-2011
-105555;Sundaram Low Duration Fund Institutional Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JN1;INF903J01EM4;0.0000;0.0000;0.0000;03-May-2011
+105561;Sundaram Low Duration Fund Institutional Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EH4;INF903J01EL6;10.3994;10.3994;10.3994;03-May-2011
 105559;Sundaram Low Duration Fund Institutional Plan - Weekly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JL5;INF903J01EJ0;10.7231;10.7231;10.7231;03-May-2011
+105555;Sundaram Low Duration Fund Institutional Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01JN1;INF903J01EM4;0.0000;0.0000;0.0000;03-May-2011
 105565;Sundaram Low Duration Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01EP7;10.0370;10.0370;10.0370;03-May-2011
 105557;Sundaram Low Duration Fund Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JP6;INF903J01ER3;0.0000;0.0000;0.0000;03-May-2011
 105563;Sundaram Low Duration Fund Regular Plan - Growth;INF903J01EN2;;13.3678;13.3678;13.3678;03-May-2011
-105566;Sundaram Low Duration Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01EO0;INF903J01ES1;0.0000;0.0000;0.0000;03-May-2011
-105558;Sundaram Low Duration Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JQ4;INF903J01ET9;0.0000;0.0000;0.0000;03-May-2011
+105566;Sundaram Low Duration Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EO0;INF903J01ES1;0.0000;0.0000;0.0000;03-May-2011
 105556;Sundaram Low Duration Fund Regular Plan - Weekly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JO9;INF903J01EQ5;10.7188;10.7188;10.7188;03-May-2011
+105558;Sundaram Low Duration Fund Regular Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01JQ4;INF903J01ET9;0.0000;0.0000;0.0000;03-May-2011
 105553;Sundaram Low Duration Fund Retail Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01EB7;10.0370;10.0370;10.0370;03-May-2011
 105550;Sundaram Low Duration Fund Retail Plan - Fortnightly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JJ9;INF903J01ED3;10.4236;10.4236;10.4236;03-May-2011
 105564;Sundaram Low Duration Fund Retail Plan - Growth;INF903J01DZ8;;12.9547;12.9547;12.9547;03-May-2011
-105551;Sundaram Low Duration Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01EA9;INF903J01EE1;10.3498;10.3498;10.3498;03-May-2011
-105552;Sundaram Low Duration Fund Retail Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JK7;INF903J01EF8;11.1909;11.1909;11.1909;03-May-2011
+105551;Sundaram Low Duration Fund Retail Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01EA9;INF903J01EE1;10.3498;10.3498;10.3498;03-May-2011
 105549;Sundaram Low Duration Fund Retail Plan - Weekly Income Distribution cum Capital Withdrawal (IDCW);INF903J01JI1;INF903J01EC5;10.6894;10.6894;10.6894;03-May-2011
+105552;Sundaram Low Duration Fund Retail Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01JK7;INF903J01EF8;11.1909;11.1909;11.1909;03-May-2011
 
 Tata Mutual Fund
 103159;Tata Treasury Advantage Fund - Regular Plan - Growth Option;INF277K01MA9;;14.7858;14.7858;14.7858;03-May-2011
@@ -2669,14 +2669,14 @@ Aditya Birla Sun Life Mutual Fund
 105614;Birla Sun Life Floating Rate Fund-Long Term - Retail Plan-Weekly Dividend;;;10.0167;9.9917;10.0167;03-May-2011
 
 Bandhan Mutual Fund
-108757;BANDHAN Money Manager Fund - Regular Plan - Monthly IDCW;INF194K01LO9;INF194K01LN1;10.1860;10.1860;10.1860;03-May-2011
-108756;BANDHAN Money Manager Fund - Regular Plan - Growth;INF194K01LJ9;;15.8563;15.8563;15.8563;03-May-2011
-108650;BANDHAN Money Manager Fund - Regular Plan - Daily IDCW;INF194K01LL5;INF194K01LK7;10.0699;10.0699;10.0699;03-May-2011
-108701;BANDHAN Money Manager Fund - Regular Plan - Weekly IDCW;INF194K01LR2;INF194K01LQ4;10.0279;10.0279;10.0279;03-May-2011
-108698;BANDHAN-Money Manager Fund - Daily Dividend;INF194K01MF5;INF194K01ME8;10.0015;10.0015;10.0015;03-May-2011
-108697;BANDHAN-Money Manager Fund - Growth;INF194K01MD0;;11.7444;11.7444;11.7444;03-May-2011
-108700;BANDHAN-Money Manager Fund - Monthly Dividend;INF194K01ML3;INF194K01MK5;10.0124;10.0124;10.0124;03-May-2011
-108699;BANDHAN-Money Manager Fund - Weekly Dividend;INF194K01MI9;INF194K01MH1;10.0665;10.0665;10.0665;03-May-2011
+108698;Bandhan Money Market Fund - Daily Dividend;INF194K01MF5;INF194K01ME8;10.0015;10.0015;10.0015;03-May-2011
+108697;Bandhan Money Market Fund - Growth;INF194K01MD0;;11.7444;11.7444;11.7444;03-May-2011
+108700;Bandhan Money Market Fund - Monthly Dividend;INF194K01ML3;INF194K01MK5;10.0124;10.0124;10.0124;03-May-2011
+108701;Bandhan Money Market Fund - Regular Plan - Weekly IDCW;INF194K01LR2;INF194K01LQ4;10.0279;10.0279;10.0279;03-May-2011
+108699;Bandhan Money Market Fund - Weekly Dividend;INF194K01MI9;INF194K01MH1;10.0665;10.0665;10.0665;03-May-2011
+108650;BANDHAN Money Market Fund - Regular Plan - Daily IDCW;INF194K01LL5;INF194K01LK7;10.0699;10.0699;10.0699;03-May-2011
+108756;BANDHAN Money Market Fund - Regular Plan - Growth;INF194K01LJ9;;15.8563;15.8563;15.8563;03-May-2011
+108757;BANDHAN Money Market Fund - Regular Plan - Monthly IDCW;INF194K01LO9;INF194K01LN1;10.1860;10.1860;10.1860;03-May-2011
 
 DSP Mutual Fund
 100087;DSP Savings Fund - Regular Plan - Growth;INF740K01714;;20.5249;20.5249;20.5249;03-May-2011
@@ -2881,7 +2881,7 @@ Navi Mutual Fund
 113172;Essel Short Term Fund-Growth;INF959L01189;;10.8569;10.8026;10.8569;03-May-2011
 
 Nippon India Mutual Fund
-101667;NIPPON INDIA SHORT TERM FUND - MONTHLY IDCW Option;INF204K01FM2;INF204K01FN0;10.6280;10.6280;10.6280;03-May-2011
+101667;NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option;INF204K01FM2;INF204K01FN0;10.6280;10.6280;10.6280;03-May-2011
 101669;NIPPON INDIA SHORT TERM FUND - QUARTERLY IDCW OPTION;INF204K01FO8;INF204K01FP5;13.5363;13.5363;13.5363;03-May-2011
 101665;Nippon India Short Term Fund-Growth Plan;INF204K01FL4;;18.4446;18.4446;18.4446;03-May-2011
 
@@ -2901,13 +2901,13 @@ SBI Mutual Fund
 
 Sundaram Mutual Fund
 101572;Sundaram Seleic Asset Plan-Half-yearly Dividendct  Debt-Dynam;;;0.0000;0.0000;0.0000;03-May-2011
-101562;Sundaram Short Term Debt Fund Regular Plan - Annual Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903J01FM1;;11.9280;11.9280;11.9280;03-May-2011
 101565;Sundaram Short Term Debt Fund Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FI9;INF903J01FO7;11.9849;11.9849;11.9849;03-May-2011
 101563;Sundaram Short Term Debt Fund Regular Plan - Growth;INF903J01FG3;;16.3719;16.3719;16.3719;03-May-2011
-101561;Sundaram Short Term Debt Fund Regular Plan - Half yearly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903J01FL3;;11.9196;11.9196;11.9196;03-May-2011
-101566;Sundaram Short Term Debt Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FJ7;INF903J01FP4;11.5559;11.5559;11.5559;03-May-2011
-101560;Sundaram Short Term Debt Fund Regular Plan - Quarterly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903J01FK5;;12.2958;12.2958;12.2958;03-May-2011
+101566;Sundaram Short Term Debt Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01FJ7;INF903J01FP4;11.5559;11.5559;11.5559;03-May-2011
 101564;Sundaram Short Term Debt Fund Regular Plan - Weekly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FH1;INF903J01FN9;12.0362;12.0362;12.0362;03-May-2011
+101560;Sundaram Short Term Debt Fund Regular Plan -Income Distribution cum Capital Withdrawal ( IDCW );INF903J01FK5;;12.2958;12.2958;12.2958;03-May-2011
+101561;Sundaram Short Term Debt Fund Regular Plan- Income Distribution cum Capital Withdrawal (IDCW );INF903J01FL3;;11.9196;11.9196;11.9196;03-May-2011
+101562;Sundaram Short Term Debt Fund Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01FM1;;11.9280;11.9280;11.9280;03-May-2011
 
 Tata Mutual Fund
 101548;Tata Short Term Bond Fund -Regular Plan- Growth Option;INF277K01972;;18.2270;18.1359;18.2270;03-May-2011
@@ -2984,16 +2984,16 @@ SBI Mutual Fund
 102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;10.6458;10.5393;10.6458;03-May-2011
 
 Sundaram Mutual Fund
-100607;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01GB2;INF903J01GE6;0.0000;0.0000;0.0000;03-May-2011
-100611;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Bonus;INF903J01GF3;;15.1147;15.1147;15.1147;03-May-2011
 100608;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan - Growth;INF903J01FY6;;32.3471;32.3471;32.3471;03-May-2011
-100606;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01GA4;INF903J01GD8;0.0000;0.0000;0.0000;03-May-2011
-100605;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FZ3;INF903J01GC0;0.0000;0.0000;0.0000;03-May-2011
-100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;10.7133;10.7133;10.7133;03-May-2011
-100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Bonus;INF903J01FX8;;15.0937;15.0937;15.0937;03-May-2011
+100611;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan -Growth;INF903J01GF3;;15.1147;15.1147;15.1147;03-May-2011
+100607;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01GB2;INF903J01GE6;0.0000;0.0000;0.0000;03-May-2011
+100606;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01GA4;INF903J01GD8;0.0000;0.0000;0.0000;03-May-2011
+100605;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Institutional Plan- Income Distribution cum Capital Withdrawal(IDCW );INF903J01FZ3;INF903J01GC0;0.0000;0.0000;0.0000;03-May-2011
 100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;INF903J01FQ2;;28.6486;28.6486;28.6486;03-May-2011
-100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Half Yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FS8;INF903J01FV2;10.8055;10.8055;10.8055;03-May-2011
-100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01FR0;INF903J01FU4;10.5887;10.5887;10.5887;03-May-2011
+100604;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan -Growth;INF903J01FX8;;15.0937;15.0937;15.0937;03-May-2011
+100610;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01FT6;INF903J01FW0;10.7133;10.7133;10.7133;03-May-2011
+100609;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan- Income Distribution cum Capital Withdrawal(IDCW);INF903J01FS8;INF903J01FV2;10.8055;10.8055;10.8055;03-May-2011
+100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan-Income Distribution cum Capital Withdrawal(IDCW);INF903J01FR0;INF903J01FU4;10.5887;10.5887;10.5887;03-May-2011
 
 Tata Mutual Fund
 101703;Tata Medium Term Fund -Regular Plan - Growth Option;INF277K01717;;15.5154;15.3602;15.5154;03-May-2011
@@ -3072,12 +3072,12 @@ LIC Mutual Fund
 100314;LIC MF Medium to Long Duration Fund-Regular Plan-IDCW;INF767K01907;INF767K01915;11.1478;11.0363;11.1478;03-May-2011
 
 Nippon India Mutual Fund
-100386;NIPPON INDIA INCOME FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;12.3029;12.1799;12.3029;03-May-2011
-100388;Nippon India Income Fund - Growth Plan Bonus Option;INF204K01CM9;;15.2404;15.0880;15.2404;03-May-2011
-100387;Nippon India Income Fund - Growth Plan Growth Option;INF204K01CL1;;32.3346;32.0113;32.3346;03-May-2011
-100385;NIPPON INDIA INCOME FUND - HALF YEARLY IDCW Option;INF204K01CR8;INF204K01CS6;12.1053;11.9842;12.1053;03-May-2011
-100383;NIPPON INDIA INCOME FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.1974;10.0954;10.1974;03-May-2011
-100384;NIPPON INDIA INCOME FUND - QUARTERLY IDCW Option;INF204K01CP2;INF204K01CQ0;13.3473;13.2138;13.3473;03-May-2011
+100386;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - ANNUAL IDCW Option;INF204K01CT4;INF204K01CU2;12.3029;12.1799;12.3029;03-May-2011
+100388;Nippon India Medium to Long Duration  Fund - Growth Plan Bonus Option;INF204K01CM9;;15.2404;15.0880;15.2404;03-May-2011
+100387;Nippon India Medium to Long Duration  Fund - Growth Plan Growth Option;INF204K01CL1;;32.3346;32.0113;32.3346;03-May-2011
+100385;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - HALF YEARLY IDCW Option;INF204K01CR8;INF204K01CS6;12.1053;11.9842;12.1053;03-May-2011
+100384;NIPPON INDIA MEDIUM TO LONG DURATION  FUND - QUARTERLY IDCW Option;INF204K01CP2;INF204K01CQ0;13.3473;13.2138;13.3473;03-May-2011
+100383;NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.1974;10.0954;10.1974;03-May-2011
 
 SBI Mutual Fund
 100638;SBI Magnum Income Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01610;INF200K01628;10.6740;10.5673;10.6740;03-May-2011
@@ -3307,13 +3307,13 @@ Principal Mutual Fund
 
 Sundaram Mutual Fund
 100792;Sundaram Corporate Bond Fund Institutional Plan - Growth;INF903J01IF9;;0.0000;0.0000;0.0000;03-May-2011
-100790;Sundaram Corporate Bond Fund Institutional Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IG7;INF903J01II3;0.0000;0.0000;0.0000;03-May-2011
-100791;Sundaram Corporate Bond Fund Institutional Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IH5;INF903J01IJ1;0.0000;0.0000;0.0000;03-May-2011
-100788;Sundaram Corporate Bond Fund Regular Plan - Annual Income Distribution cum Capital Withdrawal (IDCW);INF903J01IA0;INF903J01IE2;11.2427;11.2427;11.2427;03-May-2011
-100787;Sundaram Corporate Bond Fund Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HZ9;INF903J01ID4;11.6045;11.6045;11.6045;03-May-2011
-100785;Sundaram Corporate Bond Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HX4;INF903J01IB8;10.4172;10.4172;10.4172;03-May-2011
-100786;Sundaram Corporate Bond Fund Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HY2;INF903J01IC6;11.8144;11.8144;11.8144;03-May-2011
+100790;Sundaram Corporate Bond Fund Institutional Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01IG7;INF903J01II3;0.0000;0.0000;0.0000;03-May-2011
+100791;Sundaram Corporate Bond Fund Institutional Plan -Income Distribution cum Capital Withdrawal-(IDCW);INF903J01IH5;INF903J01IJ1;0.0000;0.0000;0.0000;03-May-2011
+100786;Sundaram Corporate Bond Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW );INF903J01HY2;INF903J01IC6;11.8144;11.8144;11.8144;03-May-2011
+100785;Sundaram Corporate Bond Fund Regular Plan -Income Distribution cum Capital Withdrawal(IDCW);INF903J01HX4;INF903J01IB8;10.4172;10.4172;10.4172;03-May-2011
 100789;Sundaram Corporate Bond Fund Regular Plan- Growth;INF903J01HW6;;14.5959;14.5959;14.5959;03-May-2011
+100788;Sundaram Corporate Bond Fund Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01IA0;INF903J01IE2;11.2427;11.2427;11.2427;03-May-2011
+100787;Sundaram Corporate Bond Fund Regular Plan-Income Distribution cum Capital Withdrawal (IDCW);INF903J01HZ9;INF903J01ID4;11.6045;11.6045;11.6045;03-May-2011
 
 Tata Mutual Fund
 106130;Tata Corporate Bond Fund -Regular Plan  -  Daily Dividend;;INF277K01AA4;1009.4394;1009.4394;1009.4394;03-May-2011
@@ -3397,7 +3397,7 @@ LIC Mutual Fund
 Sundaram Mutual Fund
 100782;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.0474;10.0474;10.0474;03-May-2011
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;15.5220;15.5220;15.5220;03-May-2011
-100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.3425;10.3425;10.3425;03-May-2011
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.3425;10.3425;10.3425;03-May-2011
 100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;0.0000;0.0000;0.0000;03-May-2011
 100781;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Growth;INF903J01IK9;;14.8706;14.8706;14.8706;03-May-2011
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.2941;10.2941;10.2941;03-May-2011
@@ -3485,13 +3485,13 @@ LIC Mutual Fund
 100316;LIC MF Gilt Fund-Regular Plan-IDCW;INF767K01683;INF767K01691;10.6513;10.5448;10.6513;03-May-2011
 
 Nippon India Mutual Fund
-109717;Nippon India Gilt Securities Fund - Institutional Plan-Growth Plan -Growth Option;INF204K01BX8;;12.2602;12.2602;12.2602;03-May-2011
-109723;NIPPON INDIA GILT SECURITIES FUND - MONTHLY IDCW Option;INF204K01BV2;INF204K01BW0;10.0279;10.0279;10.0279;03-May-2011
-109720;Nippon India Gilt Securities Fund -Growth Plan - Growth Option;INF204K01BU4;;12.2371;12.2371;12.2371;03-May-2011
-109716;Nippon India Gilt Securities Fund -P F Option-Automatic Annual Reinvest Option;INF204K01CA4;;10.2569;10.2569;10.2569;03-May-2011
-109721;Nippon India Gilt Securities Fund -P F Option-Defined Maturity Date Option;INF204K01CB2;;12.2371;12.2371;12.2371;03-May-2011
-109718;Nippon India Gilt Securities Fund-Institutional Plan-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CD8;;12.2602;12.2602;12.2602;03-May-2011
-109724;Nippon India Gilt Securities Fund-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CC0;;12.2371;12.2371;12.2371;03-May-2011
+109717;Nippon India Gilt  Fund - Institutional Plan-Growth Plan -Growth Option;INF204K01BX8;;12.2602;12.2602;12.2602;03-May-2011
+109723;NIPPON INDIA GILT  FUND - MONTHLY IDCW Option;INF204K01BV2;INF204K01BW0;10.0279;10.0279;10.0279;03-May-2011
+109720;Nippon India Gilt  Fund -Growth Plan - Growth Option;INF204K01BU4;;12.2371;12.2371;12.2371;03-May-2011
+109716;Nippon India Gilt  Fund -P F Option-Automatic Annual Reinvest Option;INF204K01CA4;;10.2569;10.2569;10.2569;03-May-2011
+109721;Nippon India Gilt  Fund -P F Option-Defined Maturity Date Option;INF204K01CB2;;12.2371;12.2371;12.2371;03-May-2011
+109718;Nippon India Gilt  Fund-Institutional Plan-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CD8;;12.2602;12.2602;12.2602;03-May-2011
+109724;Nippon India Gilt  Fund-P F Option-Automatic Capital Appreciation Payout Option;INF204K01CC0;;12.2371;12.2371;12.2371;03-May-2011
 
 SBI Mutual Fund
 102061;SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 1 Yr) Option;INF200K01AB4;;12.4157;12.3536;12.4157;03-May-2011
@@ -3576,11 +3576,11 @@ ICICI Prudential Mutual Fund
 111546;ICICI Prudential Savings Fund Plan C - Weekly Dividend Option;INF109K01EM6;INF109K01AC5;100.1176;100.1176;100.1176;03-May-2011
 
 Nippon India Mutual Fund
-102676;NIPPON INDIA FLOATING RATE FUND - DAILY IDCW REINVESTMENT Option;;INF204K01CI7;10.0640;10.0388;10.0640;03-May-2011
-102673;Nippon India Floating Rate Fund - Growth Plan-Growth Option;INF204K01CG1;;15.5784;15.5395;15.5784;03-May-2011
-102675;NIPPON INDIA FLOATING RATE FUND - MONTHLY IDCW Option;INF204K01CH9;INF204K01CK3;10.1274;10.1021;10.1274;03-May-2011
-112942;NIPPON INDIA FLOATING RATE FUND - QUARTERLY IDCW Option;INF204K01HK2;INF204K01HL0;10.1784;10.1530;10.1784;03-May-2011
-102677;NIPPON INDIA FLOATING RATE FUND - WEEKLY IDCW Option;INF204K01OQ5;INF204K01CJ5;10.0814;10.0562;10.0814;03-May-2011
+102676;NIPPON INDIA FLOATER FUND - DAILY IDCW REINVESTMENT Option;;INF204K01CI7;10.0640;10.0388;10.0640;03-May-2011
+102673;Nippon India Floater Fund - Growth Plan-Growth Option;INF204K01CG1;;15.5784;15.5395;15.5784;03-May-2011
+102675;NIPPON INDIA FLOATER FUND - MONTHLY IDCW Option;INF204K01CH9;INF204K01CK3;10.1274;10.1021;10.1274;03-May-2011
+112942;NIPPON INDIA FLOATER FUND - QUARTERLY IDCW Option;INF204K01HK2;INF204K01HL0;10.1784;10.1530;10.1784;03-May-2011
+102677;NIPPON INDIA FLOATER FUND - WEEKLY IDCW Option;INF204K01OQ5;INF204K01CJ5;10.0814;10.0562;10.0814;03-May-2011
 
 Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
 
@@ -3622,10 +3622,10 @@ DSP Mutual Fund
 102448;DSP Regular Savings Fund- Regular Plan - Growth;INF740K01441;;19.1613;18.9697;19.1613;03-May-2011
 
 Franklin Templeton Mutual Fund
-100948;Franklin India Debt Hybrid Fund - Growth;INF090I01EA7;;27.8517;27.5732;27.8517;03-May-2011
-100951;Franklin India Debt Hybrid Fund - Monthly Bonus;INF090I01EF6;;11.3994;11.2854;11.3994;03-May-2011
-100949;Franklin India Debt Hybrid Fund - Plan A - Monthly - IDCW;INF090I01EB5;INF090I01EC3;11.4782;11.3634;11.4782;03-May-2011
-100950;Franklin India Debt Hybrid Fund - Plan A - Quarterly - IDCW;INF090I01ED1;INF090I01EE9;11.4803;11.3655;11.4803;03-May-2011
+100948;Franklin India Conservative Hybrid Fund - Growth;INF090I01EA7;;27.8517;27.5732;27.8517;03-May-2011
+100951;Franklin India Conservative Hybrid Fund - Monthly Bonus;INF090I01EF6;;11.3994;11.2854;11.3994;03-May-2011
+100949;Franklin India Conservative Hybrid Fund - Plan A - Monthly - IDCW;INF090I01EB5;INF090I01EC3;11.4782;11.3634;11.4782;03-May-2011
+100950;Franklin India Conservative Hybrid Fund - Plan A - Quarterly - IDCW;INF090I01ED1;INF090I01EE9;11.4803;11.3655;11.4803;03-May-2011
 
 HDFC Mutual Fund
 102147;HDFC Hybrid Debt Fund - Growth Plan;INF179K01AE4;;23.0038;22.7738;23.0038;03-May-2011
@@ -3672,9 +3672,9 @@ Navi Mutual Fund
 113142;Navi Conservative Hybrid Fund-Growth;INF959L01130;;10.3848;10.2810;10.3848;03-May-2011
 
 Nippon India Mutual Fund
-102173;NIPPON INDIA HYBRID BOND FUND - MONTHLY IDCW Option;INF204K01FE9;INF204K01FF6;10.8242;10.7160;10.8242;03-May-2011
-102174;NIPPON INDIA HYBRID BOND FUND - QUARTERLY IDCW Option;INF204K01FG4;INF204K01FH2;11.5679;11.4522;11.5679;03-May-2011
-102172;Nippon India Hybrid Bond Fund-Growth Plan;INF204K01FD1;;21.7536;21.5361;21.7536;03-May-2011
+102173;NIPPON INDIA CONSERVATIVE HYBRID  FUND - MONTHLY IDCW Option;INF204K01FE9;INF204K01FF6;10.8242;10.7160;10.8242;03-May-2011
+102174;NIPPON INDIA CONSERVATIVE HYBRID  FUND - QUARTERLY IDCW Option;INF204K01FG4;INF204K01FH2;11.5679;11.4522;11.5679;03-May-2011
+102172;Nippon India Conservative Hybrid  Fund-Growth Plan;INF204K01FD1;;21.7536;21.5361;21.7536;03-May-2011
 
 SBI Mutual Fund
 100929;SBI Conservative Hybrid Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01909;INF200K01917;11.3961;11.2821;11.3961;03-May-2011
@@ -3688,9 +3688,9 @@ Sundaram Mutual Fund
 102178;Sundaram Monthly Income Plan-Growth;INF903J01HP0;;15.3330;15.3330;15.3330;03-May-2011
 102177;Sundaram Monthly Income Plan-Half-yearly Dividend;INF903J01HS4;INF903J01HV8;11.1238;11.1238;11.1238;03-May-2011
 112868;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Growth;INF903J01HB0;;10.3789;10.3789;10.3789;03-May-2011
-112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Half yearly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;10.3912;10.3912;10.3912;03-May-2011
-112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;10.0014;10.0014;10.0014;03-May-2011
-112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Quarterly Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;10.3156;10.3156;10.3156;03-May-2011
+112867;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01HC8;INF903J01HF1;10.0014;10.0014;10.0014;03-May-2011
+112870;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan -Income Distribution cum Capital Withdrawal (IDCW);INF903J01HD6;INF903J01HG9;10.3156;10.3156;10.3156;03-May-2011
+112869;Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan- Income Distribution cum Capital Withdrawal (IDCW);INF903J01HE4;INF903J01HH7;10.3912;10.3912;10.3912;03-May-2011
 112873;Sundaram Regular Savings Fund - DIVIDEND;INF903J01HJ3;INF903J01HM7;10.0603;10.0603;10.0603;03-May-2011
 112874;Sundaram Regular Savings Fund - GROWTH;INF903J01HI5;;10.4067;10.4067;10.4067;03-May-2011
 112871;Sundaram Regular Savings Fund - Half-yearly Dividend;INF903J01HL9;INF903J01HO3;10.4210;10.4210;10.4210;03-May-2011
@@ -3742,8 +3742,8 @@ Edelweiss Mutual Fund
 112111;Edelweiss Multi-Asset Allocation Fund-Plan C- Dividend Option;INF754K01210;INF754K01228;11.32;11.32;11.32;03-May-2011
 
 Franklin Templeton Mutual Fund
-100550;Franklin India Equity Hybrid Fund - Growth Plan;INF090I01817;;48.3325;47.8492;48.3325;03-May-2011
-100549;Franklin India Equity Hybrid Fund - IDCW ;INF090I01825;INF090I01833;20.7404;20.5330;20.7404;03-May-2011
+100550;Franklin India Aggressive Hybrid Fund - Growth Plan;INF090I01817;;48.3325;47.8492;48.3325;03-May-2011
+100549;Franklin India Aggressive Hybrid Fund - IDCW;INF090I01825;INF090I01833;20.7404;20.5330;20.7404;03-May-2011
 
 HDFC Mutual Fund
 102948;HDFC Hybrid Equity Fund - Growth Plan;INF179K01AS4;;28.708;28.421;28.708;03-May-2011
@@ -3758,32 +3758,32 @@ JM Financial Mutual Fund
 100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;22.1286;22.1286;22.1286;03-May-2011
 
 Kotak Mahindra Mutual Fund
-100286;Kotak Equity Hybrid - Payout of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;22.04;21.82;22.04;03-May-2011
+100286;Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;22.04;21.82;22.04;03-May-2011
 
 LIC Mutual Fund
 100323;LIC MF Aggressive Hybrid Fund-Regular Plan-Growth;INF767K01030;;54.6947;54.1478;54.6947;03-May-2011
 100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;11.5561;11.4405;11.5561;03-May-2011
 
 Nippon India Mutual Fund
-112936;Nippon India Equity Hybrid Fund - Growth Plan;INF204K01FW1;;22.0268;21.8065;22.0268;03-May-2011
-112937;NIPPON INDIA EQUITY HYBRID FUND - IDCW Option;INF204K01FX9;INF204K01FY7;13.3872;13.2533;13.3872;03-May-2011
+112936;Nippon India Aggressive Hybrid Fund - Growth Plan;INF204K01FW1;;22.0268;21.8065;22.0268;03-May-2011
+112937;NIPPON INDIA AGGRESSIVE HYBRID FUND - IDCW Option;INF204K01FX9;INF204K01FY7;13.3872;13.2533;13.3872;03-May-2011
 
 Principal Mutual Fund
 101266;Principal Hybrid Equity Fund- Monthly Income Distribution CUM Capital Withdrawal;INF173K01CI4;INF173K01CJ2;15.08;14.93;15.08;03-May-2011
 101265;Principal Hybrid Equity Fund-Growth;INF173K01CL8;;29.85;29.55;29.85;03-May-2011
 
 quant Mutual Fund
-101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;61.2117;60.5996;61.2117;03-May-2011
-101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;11.6988;11.5818;11.6988;03-May-2011
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;61.2117;60.5996;61.2117;03-May-2011
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;11.6988;11.5818;11.6988;03-May-2011
 
 SBI Mutual Fund
 101551;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01115;INF200K01123;24.33;24.09;24.33;03-May-2011
 102885;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;INF200K01107;;49.42;48.93;49.42;03-May-2011
 
 Tata Mutual Fund
-100414;Tata Hybrid Equity Fund- Regular Plan - Growth Option;INF277K01303;;81.9284;81.1091;81.9284;03-May-2011
-113134;Tata Hybrid Equity Fund- Regular Plan - Monthly Payout of IDCW Option;INF277K01CS2;INF277K01CW4;47.5519;47.0764;47.5519;03-May-2011
-101222;Tata Hybrid Equity Fund- Regular Plan - Periodic Payout of IDCW Option;INF277K01DB6;INF277K01295;51.6778;51.1610;51.6778;03-May-2011
+100414;Tata Aggressive Hybrid Fund- Regular Plan - Growth Option;INF277K01303;;81.9284;81.1091;81.9284;03-May-2011
+113134;Tata Aggressive Hybrid Fund- Regular Plan - Monthly Payout of IDCW Option;INF277K01CS2;INF277K01CW4;47.5519;47.0764;47.5519;03-May-2011
+101222;Tata Aggressive Hybrid Fund- Regular Plan - Periodic Payout of IDCW Option;INF277K01DB6;INF277K01295;51.6778;51.1610;51.6778;03-May-2011
 
 UTI Mutual Fund
 100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;INF789F01323;;79.6;79.6;79.6;03-May-2011
@@ -3841,8 +3841,8 @@ Navi Mutual Fund
 114855;Navi 3 in 1 Fund-Growth;INF959L01015;;10.1961;10.0941;10.1961;03-May-2011
 
 quant Mutual Fund
-101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;19.9579;19.8581;19.9579;03-May-2011
-101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;21.7892;21.6803;21.7892;03-May-2011
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;19.9579;19.8581;19.9579;03-May-2011
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;21.7892;21.6803;21.7892;03-May-2011
 
 SBI Mutual Fund
 103409;SBI Multi Asset Allocation Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01784;INF200K01792;11.8284;11.7101;11.8284;03-May-2011
@@ -3890,8 +3890,8 @@ JM Financial Mutual Fund
 103781;JM Arbitrage Fund (Regular) - IDCW ;INF192K01494;INF192K01502;10.3049;10.2019;10.3049;03-May-2011
 
 Kotak Mahindra Mutual Fund
-105968;Kotak Equity Arbitrage Fund - Growth;INF174K01302;;14.7897;14.7158;14.7897;03-May-2011
-105967;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.661;10.6077;10.661;03-May-2011
+105968;Kotak Arbitrage Fund - Regular Plan - Growth;INF174K01302;;14.7897;14.7158;14.7897;03-May-2011
+105967;Kotak Arbitrage Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.661;10.6077;10.661;03-May-2011
 
 Nippon India Mutual Fund
 113345;Nippon India Arbitrage Fund - Growth Plan - Growth Option;INF204K01IY1;;10.4942;10.3893;10.4942;03-May-2011
@@ -3937,8 +3937,8 @@ Open Ended Schemes ( Solution Oriented Scheme - Retirement Fund )
 
 
 Franklin Templeton Mutual Fund
-100535;Franklin India Pension Plan - IDCW ;INF090I01528;INF090I01536;14.3660;14.3660;14.3660;03-May-2011
-100536;Franklin India Pension Plan-Growth;INF090I01510;;58.1542;58.1542;58.1542;03-May-2011
+100536;Franklin India Retirement Fund - Growth;INF090I01510;;58.1542;58.1542;58.1542;03-May-2011
+100535;Franklin India Retirement Fund - IDCW;INF090I01528;INF090I01536;14.3660;14.3660;14.3660;03-May-2011
 
 UTI Mutual Fund
 100682;UTI Retirement Fund - Regular Plan;;;17.8025;17.8025;17.8025;03-May-2011
@@ -3951,7 +3951,7 @@ HDFC Mutual Fund
 100899;HDFC Childrens Fund-Savings;;;22.801;22.117;22.801;03-May-2011
 
 ICICI Prudential Mutual Fund
-101127;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;INF109K01605;;55.22;54.67;55.22;03-May-2011
+101127;ICICI Prudential Children's Fund - Regular Plan;INF109K01605;;55.22;54.67;55.22;03-May-2011
 
 LIC Mutual Fund
 101271;LIC MF Children's Fund-Regular Plan-Growth;INF767K01048;;10.2466;10.1441;10.2466;03-May-2011
@@ -3960,9 +3960,9 @@ SBI Mutual Fund
 101169;SBI Magnum Children's Benefit Fund - Savings Plan - REGULAR PLAN - GROWTH;INF200K01776;;22.6261;21.9473;22.6261;03-May-2011
 
 Tata Mutual Fund
+101491;Tata Childrens Fund -Regular Plan-Growth Option;INF277K01AJ5;;15.0886;14.9377;15.0886;03-May-2011
 101490;Tata Young Citizen Fund [>3 years upto 7 years] Regular Plan;;;15.0886;14.7868;15.0886;03-May-2011
 101489;Tata Young Citizen Fund [Upto 3 years] Regular Plan;;;15.0886;14.6359;15.0886;03-May-2011
-101491;Tata Young Citizens' Fund -Regular Plan-Growth Option;INF277K01AJ5;;15.0886;14.9377;15.0886;03-May-2011
 
 UTI Mutual Fund
 102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;16.2662;16.2662;16.2662;03-May-2011
@@ -4089,20 +4089,20 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 DSP Mutual Fund
-112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;12.2051;12.0830;12.2051;03-May-2011
-112127;DSP Global Clean Energy Fund of Fund - Regular Plan - IDCW;INF740K01292;INF740K01300;12.2051;12.0830;12.2051;03-May-2011
-106597;DSP World Gold Fund of Fund - Regular Plan - Growth;INF740K01250;;18.6580;18.4714;18.6580;03-May-2011
-106596;DSP World Gold Fund of Fund - Regular Plan - IDCW;INF740K01268;INF740K01276;15.2784;15.1256;15.2784;03-May-2011
-112293;DSP World Mining Fund of Fund - Regular Plan - Growth;INF740K01730;;12.2776;12.1548;12.2776;03-May-2011
-112347;DSP World Mining Fund of Fund - Regular Plan - IDCW;INF740K01748;INF740K01AL8;12.2776;12.1548;12.2776;03-May-2011
+112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;12.2051;12.0830;12.2051;03-May-2011
+112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;12.2051;12.0830;12.2051;03-May-2011
+106597;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01250;;18.6580;18.4714;18.6580;03-May-2011
+106596;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01268;INF740K01276;15.2784;15.1256;15.2784;03-May-2011
+112293;DSP World Mining Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01730;;12.2776;12.1548;12.2776;03-May-2011
+112347;DSP World Mining Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01748;INF740K01AL8;12.2776;12.1548;12.2776;03-May-2011
 
 HSBC Mutual Fund
 107988;HSBC Global Emerging Markets Fund - Growth;INF336L01446;;10.7861;10.6782;10.7861;03-May-2011
 107989;HSBC Global Emerging Markets Fund - IDCW;INF336L01438;INF336L01420;10.7861;10.6782;10.7861;03-May-2011
 
 Kotak Mahindra Mutual Fund
-106441;Kotak Global Emerging Market Fund - Growth;INF174K01DV3;;10.341;10.238;10.341;03-May-2011
-106442;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;10.341;10.238;10.341;03-May-2011
+106442;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;10.341;10.238;10.341;03-May-2011
+106441;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;INF174K01DV3;;10.341;10.238;10.341;03-May-2011
 
 Principal Mutual Fund
 102336;Principal Global Opportunities Fund- Income Distribution CUM Capital Withdrawal Option;INF173K01CQ7;INF173K01CR5;19.0370;18.8466;19.0370;03-May-2011
@@ -4122,14 +4122,14 @@ Bandhan Mutual Fund
 112328;BANDHAN Asset Allocation Fund - Regular Plan - Conservative Plan - IDCW;INF194K01995;INF194K01AA1;10.4618;10.4618;10.4618;03-May-2011
 112329;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - Growth;INF194K01AB9;;11.0320;11.0320;11.0320;03-May-2011
 112330;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - IDCW;INF194K01AC7;INF194K01AD5;10.8673;10.8673;10.8673;03-May-2011
-108547;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;12.1819;12.1819;12.1819;03-May-2011
-108545;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Growth;INF194K01SE5;;15.4331;15.4331;15.4331;03-May-2011
-108546;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;10.9752;10.9752;10.9752;03-May-2011
-108544;Bandhan Income Plus Arbitrage Fund of Funds - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;11.6303;11.6303;11.6303;03-May-2011
+108547;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;INF194K01SG0;INF194K01SF2;12.1819;12.1819;12.1819;03-May-2011
+108545;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Growth;INF194K01SE5;;15.4331;15.4331;15.4331;03-May-2011
+108546;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;INF194K01SI6;INF194K01SH8;10.9752;10.9752;10.9752;03-May-2011
+108544;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;11.6303;11.6303;11.6303;03-May-2011
 
 Franklin Templeton Mutual Fund
-101657;Franklin India Dynamic Asset Allocation Fund of funds - IDCW ;INF090I01247;INF090I01254;33.3224;32.9892;33.3224;03-May-2011
-101656;Franklin India Dynamic Asset Allocation Fund of Funds-Growth;INF090I01262;;40.2313;39.8290;40.2313;03-May-2011
+101657;Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW;INF090I01247;INF090I01254;33.3224;32.9892;33.3224;03-May-2011
+101656;Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth;INF090I01262;;40.2313;39.8290;40.2313;03-May-2011
 102108;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;INF090I01577;;31.0395;30.7291;31.0395;03-May-2011
 102107;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);INF090I01593;;36.7255;36.3582;36.7255;03-May-2011
 102110;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW ;INF090I01601;;24.0007;23.8207;24.0007;03-May-2011
@@ -4156,16 +4156,16 @@ ICICI Prudential Mutual Fund
 Kotak Mahindra Mutual Fund
 114758;Kotak Gold Fund Growth;INF174K01AT3;;10.6944;10.4805;10.6944;03-May-2011
 114757;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;INF174K01AU1;INF174K01AV9;10.6943;10.4804;10.6943;03-May-2011
-102574;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;INF174K01468;;35.788;35.43;35.788;03-May-2011
-102573;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;INF174K01484;INF174K01476;34.836;34.488;34.836;03-May-2011
+102574;Kotak Multi Asset Omni FOF - Growth- Regular;INF174K01468;;35.788;35.43;35.788;03-May-2011
+102573;Kotak Multi Asset Omni FOF - Payout of Income Distribution cum capital withdrawal option;INF174K01484;INF174K01476;34.836;34.488;34.836;03-May-2011
 
 Nippon India Mutual Fund
 114617;NIPPON INDIA GOLD SAVINGS FUND - IDCW Option;INF204K01KO8;INF204K01KP5;10.7529;10.5378;10.7529;03-May-2011
 114616;Nippon India Gold Savings Fund-Growth plan- Growth Option;INF204K01KN0;;10.7532;10.5381;10.7532;03-May-2011
 
 Quantum Mutual Fund
-112039;Quantum Equity Fund of Funds - Direct Plan Growth Option;INF082J01093;;13.8990;13.6900;13.8990;03-May-2011
-112038;Quantum Equity Fund Of Funds - Direct Plan IDCW;INF082J01101;INF082J01119;13.9010;13.6900;13.9010;03-May-2011
+112039;Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option;INF082J01093;;13.8990;13.6900;13.8990;03-May-2011
+112038;Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW;INF082J01101;INF082J01119;13.9010;13.6900;13.9010;03-May-2011
 
 Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
 

@@ -37,10 +37,10 @@ Mahindra Manulife Mutual Fund
 141225;Mahindra Manulife Multi Cap Fund - Regular Plan - IDCW;INF174V01333;INF174V01325;10.8220;;;31-Mar-2019
 
 quant Mutual Fund
-100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;183.7462;;;31-Mar-2019
-120823;quant Active Fund-GROWTH OPTION-Direct Plan;INF966L01614;;185.9693;;;31-Mar-2019
-120822;quant Active Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;21.5249;;;31-Mar-2019
-100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;21.0486;;;31-Mar-2019
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;183.7462;;;31-Mar-2019
+120823;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;INF966L01614;;185.9693;;;31-Mar-2019
+120822;quant Multi Cap Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;21.5249;;;31-Mar-2019
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;21.0486;;;31-Mar-2019
 
 Open Ended Schemes ( Equity Scheme - Large Cap Fund )
 
@@ -346,7 +346,7 @@ UTI Mutual Fund
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
 
-360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+360 ONE Mutual Fund
 125349;360 ONE LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT;;INF579M01688;1000.8055;;;31-Mar-2019
 125345;360 ONE LIQUID FUND DIRECT PLAN  GROWTH;INF579M01621;;1463.4522;;;31-Mar-2019
 125343;360 ONE LIQUID FUND DIRECT PLAN  WEEKLY DIVIDEND;INF579M01639;INF579M01696;1006.3711;;;31-Mar-2019
@@ -396,7 +396,7 @@ Bandhan Mutual Fund
 139584;BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years;INF194KA12C4;;1.2072;;;31-Mar-2019
 139585;BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years;INF194KA13C2;;1.0000;;;31-Mar-2019
 118365;BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW;INF194K01J36;INF194K01J28;1008.1521;;;31-Mar-2019
-118367;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;;INF194K01J51;1007.3467;;;31-Mar-2019
+118367;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;INF194KB1JT8;INF194K01J51;1007.3467;;;31-Mar-2019
 118366;BANDHAN LIQUID Fund -Direct Plan-Daily IDCW;;INF194K01I78;1002.0521;;;31-Mar-2019
 118364;BANDHAN LIQUID Fund -Direct Plan-Growth;INF194K01I60;;2266.5218;;;31-Mar-2019
 118363;BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW;INF194K01J02;INF194K01I94;1400.7936;;;31-Mar-2019
@@ -550,7 +550,7 @@ Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1001.7798;;;31-Mar-2019
 120537;Invesco India Liquid Fund - Direct Plan - Growth;INF205K01MF9;;2572.4398;;;31-Mar-2019
 120536;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01MG7;INF205K01MH5;1028.3327;;;31-Mar-2019
-120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);;INF205K01MI3;1001.916;;;31-Mar-2019
+120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);INF205KA1BE5;INF205K01MI3;1001.916;;;31-Mar-2019
 120534;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);;INF205K01ME2;1000.79;;;31-Mar-2019
 104486;Invesco India Liquid Fund - Growth;INF205K01HM5;;2561.6258;;;31-Mar-2019
 104492;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);INF205K01HQ6;INF205K01HP8;1003.7482;;;31-Mar-2019
@@ -558,7 +558,7 @@ Invesco Mutual Fund
 104489;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);;INF205K01HH5;1002.3148;;;31-Mar-2019
 139389;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;;;1219.0292;;;31-Mar-2019
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;;;1218.983;;;31-Mar-2019
-104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);;INF205K01HO1;1004.0333;;;31-Mar-2019
+104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);INF205KA1BD7;INF205K01HO1;1004.0333;;;31-Mar-2019
 
 JM Financial Mutual Fund
 120410;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;INF192K01CN4;;16.4575;;;31-Mar-2019
@@ -578,11 +578,11 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;31-Mar-2019
 
 Kotak Mahindra Mutual Fund
-119764;Kotak Liquid Fund - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;INF174K01NH1;;1223.2838;;;31-Mar-2019
-119766;Kotak Liquid Fund - Growth - Direct;INF174K01NE8;;3784.3285;;;31-Mar-2019
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.2838;;;31-Mar-2019
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;3784.3285;;;31-Mar-2019
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1223.2804;;;31-Mar-2019
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;3772.6954;;;31-Mar-2019
 119765;Kotak Liquid Fund - Weekly  Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01NF5;INF174K01NG3;1006.5906;;;31-Mar-2019
-100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;1223.2804;;;31-Mar-2019
-100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;3772.6954;;;31-Mar-2019
 100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;1001.4791;;;31-Mar-2019
 
 LIC Mutual Fund
@@ -602,20 +602,20 @@ Mahindra Manulife Mutual Fund
 
 Mirae Asset Mutual Fund
 118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;1971.5083;;;31-Mar-2019
-118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1217.7033;;;31-Mar-2019
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;INF769K01PD2;INF769K01CP4;1217.7033;;;31-Mar-2019
 118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1076.2542;;;31-Mar-2019
 118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1136.5042;;;31-Mar-2019
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.8515;;;31-Mar-2019
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;1950.2242;;;31-Mar-2019
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1154.1782;;;31-Mar-2019
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.9664;;;31-Mar-2019
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1153.9664;;;31-Mar-2019
 
 Nippon India Mutual Fund
 100852;NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION;;INF204K01UM1;1529.3492;;;31-Mar-2019
 118695;NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION;;INF204K01ZG2;1529.3559;;;31-Mar-2019
 118696;NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION;INF204K01ZI8;INF204K01ZJ6;1591.2557;;;31-Mar-2019
 118698;NIPPON INDIA LIQUID FUND - DIRECT Plan - QUARTERLY IDCW OPTION;INF204K01ZK4;INF204K01ZL2;1009.1063;;;31-Mar-2019
-118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;;INF204K01ZM0;1530.9165;;;31-Mar-2019
+118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;INF204KC1FN6;INF204K01ZM0;1530.9165;;;31-Mar-2019
 118701;Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option;INF204K01ZH0;;4561.8889;;;31-Mar-2019
 100855;NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION;INF204K01UO7;INF204K01UP4;1587.9214;;;31-Mar-2019
 112340;NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION;INF204K01UQ2;INF204K01UR0;1006.8075;;;31-Mar-2019
@@ -624,7 +624,7 @@ Nippon India Mutual Fund
 100843;NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION;INF204K01UT6;INF204K01UU4;1329.6693;;;31-Mar-2019
 100844;NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION;INF204K01UV2;INF204K01UW0;1219.5392;;;31-Mar-2019
 100838;NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION;;INF204K01UK5;1034.5287;;;31-Mar-2019
-100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;;INF204K01US8;1530.9100;;;31-Mar-2019
+100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;INF204KC1FM8;INF204K01US8;1530.9100;;;31-Mar-2019
 100851;Nippon India Liquid Fund -Growth Plan;INF204K01UN9;;4539.2103;;;31-Mar-2019
 
 PGIM India Mutual Fund
@@ -1299,10 +1299,10 @@ Mirae Asset Mutual Fund
 134816;Mirae Asset Aggressive Hybrid Fund - Regular Plan - IDCW;INF769K01DF3;INF769K01DG1;12.835;;;31-Mar-2019
 
 quant Mutual Fund
-101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;137.6667;;;31-Mar-2019
-120819;quant Absolute Fund-Growth Option-Direct Plan;INF966L01556;;139.3814;;;31-Mar-2019
-101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;18.9842;;;31-Mar-2019
-120818;quant Absolute Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;19.3257;;;31-Mar-2019
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;137.6667;;;31-Mar-2019
+120819;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;INF966L01556;;139.3814;;;31-Mar-2019
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;18.9842;;;31-Mar-2019
+120818;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;19.3257;;;31-Mar-2019
 
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
@@ -1329,10 +1329,10 @@ Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
 quant Mutual Fund
-120820;quant Multi Asset Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;33.7496;;;31-Mar-2019
-101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;33.679;;;31-Mar-2019
-101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;36.7908;;;31-Mar-2019
-120821;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;INF966L01580;;36.6185;;;31-Mar-2019
+120820;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;33.7496;;;31-Mar-2019
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;33.679;;;31-Mar-2019
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;36.7908;;;31-Mar-2019
+120821;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;INF966L01580;;36.6185;;;31-Mar-2019
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -1407,7 +1407,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 DSP Mutual Fund
-142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;31-Mar-2019
+142589;DSP NIFTY 1D Rate Liquid ETF;;INF740KA1EU7;1000.0000;;;31-Mar-2019
 
 Edelweiss Mutual Fund
 139367;Edelweiss ETF - Nifty 100 Quality 30;INF754K01EM9;;286.0591;;;31-Mar-2019

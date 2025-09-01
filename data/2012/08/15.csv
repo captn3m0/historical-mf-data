@@ -181,8 +181,8 @@ Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
 
 
 quant Mutual Fund
-100631;quant Active Fund-GROWTH OPTION - Regular Plan;INF966L01234;;62.3617;61.7381;62.3617;15-Aug-2012
-100630;quant Active Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;9.6437;9.5473;9.6437;15-Aug-2012
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;62.3617;61.7381;62.3617;15-Aug-2012
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;9.6437;9.5473;9.6437;15-Aug-2012
 
 Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
@@ -398,7 +398,7 @@ Invesco Mutual Fund
 104486;Invesco India Liquid Fund - Growth;INF205K01HM5;;1528.9726;1528.9726;1528.9726;15-Aug-2012
 104488;Invesco India Liquid Fund - Regular - Growth;INF205K01HG7;;1483.4707;1483.4707;1483.4707;15-Aug-2012
 104489;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);;INF205K01HH5;1000.7921;1000.7921;1000.7921;15-Aug-2012
-104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);;INF205K01HO1;1000.5002;1000.5002;1000.5002;15-Aug-2012
+104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);INF205KA1BD7;INF205K01HO1;1000.5002;1000.5002;1000.5002;15-Aug-2012
 104483;Religare Invesco Liquid Fund - Institutional - Daily Dividend;;INF205K01HJ1;1000.2250;1000.2250;1000.2250;15-Aug-2012
 104491;Religare Invesco Liquid Fund - Institutional - Growth;INF205K01HI3;;1512.4670;1512.4670;1512.4670;15-Aug-2012
 
@@ -416,9 +416,9 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;10.4302;10.4302;15-Aug-2012
 
 Kotak Mahindra Mutual Fund
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;12.2281;12.2281;12.2281;15-Aug-2012
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;22.5641;22.5641;22.5641;15-Aug-2012
 100831;Kotak Liquid Fund -Institutional Plan - (Daily Dividend);;INF174K01GA0;12.2281;12.2281;12.2281;15-Aug-2012
-100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;12.2281;12.2281;12.2281;15-Aug-2012
-100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;22.5641;22.5641;22.5641;15-Aug-2012
 100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;10.005;10.005;10.005;15-Aug-2012
 100830;Kotak Liquid-Institutional Plan  (Growth);INF174K01FZ9;;21.7744;21.7744;21.7744;15-Aug-2012
 100832;Kotak Liquid-Institutional Plan (Weekly Dividend);;INF174K01GB8;10.0952;10.0952;10.0952;15-Aug-2012
@@ -440,7 +440,7 @@ Mirae Asset Mutual Fund
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1042.1912;1042.1912;1042.1912;15-Aug-2012
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;1197.6846;1197.6846;1197.6846;15-Aug-2012
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1130.3748;1130.3748;1130.3748;15-Aug-2012
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1127.8659;1127.8659;1127.8659;15-Aug-2012
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1127.8659;1127.8659;1127.8659;15-Aug-2012
 
 Navi Mutual Fund
 112645;Navi Liquid Fund - Regular Plan Daily IDCW;;INF959L01GM7;10.0015;10.0015;10.0015;15-Aug-2012
@@ -462,7 +462,7 @@ Nippon India Mutual Fund
 100843;NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION;INF204K01UT6;INF204K01UU4;1337.5442;1337.5442;1337.5442;15-Aug-2012
 100844;NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION;INF204K01UV2;INF204K01UW0;1232.1398;1232.1398;1232.1398;15-Aug-2012
 100838;NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION;;INF204K01UK5;1035.3662;1035.3662;1035.3662;15-Aug-2012
-100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;;INF204K01US8;1532.2044;1532.2044;1532.2044;15-Aug-2012
+100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;INF204KC1FM8;INF204K01US8;1532.2044;1532.2044;1532.2044;15-Aug-2012
 100851;Nippon India Liquid Fund -Growth Plan;INF204K01UN9;;2709.0276;2709.0276;2709.0276;15-Aug-2012
 100849;Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option;;;1114.1500;1114.1500;1114.1500;15-Aug-2012
 100845;Reliance Liquid Fund-Cash Plan-Growth Plan;;;1798.5403;1798.5403;1798.5403;15-Aug-2012
@@ -632,15 +632,15 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 quant Mutual Fund
-101070;quant Absolute Fund - Growth Option - Regular Plan;INF966L01267;;58.4644;57.8798;58.4644;15-Aug-2012
-101069;quant Absolute Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;10.962;10.8524;10.962;15-Aug-2012
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;58.4644;57.8798;58.4644;15-Aug-2012
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;10.962;10.8524;10.962;15-Aug-2012
 
 Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
 quant Mutual Fund
-101071;quant Multi Asset Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;21.7773;21.6684;21.7773;15-Aug-2012
-101072;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;INF966L01200;;23.7742;23.6553;23.7742;15-Aug-2012
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;21.7773;21.6684;21.7773;15-Aug-2012
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;23.7742;23.6553;23.7742;15-Aug-2012
 
 Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
 

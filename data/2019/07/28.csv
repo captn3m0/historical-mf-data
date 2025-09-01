@@ -34,10 +34,10 @@ Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
 
 PGIM India Mutual Fund
-125301;PGIM India Midcap Opportunities Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;14.54;;;28-Jul-2019
-125307;PGIM India Midcap Opportunities Fund - Direct Plan - Growth Option;INF663L01DV3;;17.47;;;28-Jul-2019
-125306;PGIM India Midcap Opportunities Fund - Regular Plan - Dividend Option - Payout;INF663L01EA5;INF663L01EB3;10.02;;;28-Jul-2019
-125305;PGIM India Midcap Opportunities Fund - Regular Plan - Growth Option;INF663L01DZ4;;16.53;;;28-Jul-2019
+125301;PGIM India Midcap Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;14.54;;;28-Jul-2019
+125307;PGIM India Midcap Fund - Direct Plan - Growth Option;INF663L01DV3;;17.47;;;28-Jul-2019
+125306;PGIM India Midcap Fund - Regular Plan - Dividend Option - Payout;INF663L01EA5;INF663L01EB3;10.02;;;28-Jul-2019
+125305;PGIM India Midcap Fund - Regular Plan - Growth Option;INF663L01DZ4;;16.53;;;28-Jul-2019
 
 Open Ended Schemes ( Equity Scheme - ELSS )
 
@@ -248,7 +248,7 @@ UTI Mutual Fund
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
 
-360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)
+360 ONE Mutual Fund
 125349;360 ONE LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT;;INF579M01688;1000.1992;;;28-Jul-2019
 125345;360 ONE LIQUID FUND DIRECT PLAN  GROWTH;INF579M01621;;1493.3763;;;28-Jul-2019
 125343;360 ONE LIQUID FUND DIRECT PLAN  WEEKLY DIVIDEND;INF579M01639;INF579M01696;1005.8073;;;28-Jul-2019
@@ -298,7 +298,7 @@ Bandhan Mutual Fund
 139584;BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years;INF194KA12C4;;1.2338;;;28-Jul-2019
 139585;BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years;INF194KA13C2;;1.0000;;;28-Jul-2019
 118365;BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW;INF194K01J36;INF194K01J28;1012.5340;;;28-Jul-2019
-118367;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;;INF194K01J51;1007.2848;;;28-Jul-2019
+118367;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;INF194KB1JT8;INF194K01J51;1007.2848;;;28-Jul-2019
 118366;BANDHAN LIQUID Fund -Direct Plan-Daily IDCW;;INF194K01I78;1001.6663;;;28-Jul-2019
 118364;BANDHAN LIQUID Fund -Direct Plan-Growth;INF194K01I60;;2316.5480;;;28-Jul-2019
 118363;BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW;INF194K01J02;INF194K01I94;1431.7116;;;28-Jul-2019
@@ -491,7 +491,7 @@ Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1001.7798;;;28-Jul-2019
 120537;Invesco India Liquid Fund - Direct Plan - Growth;INF205K01MF9;;2630.5358;;;28-Jul-2019
 120536;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01MG7;INF205K01MH5;1033.1625;;;28-Jul-2019
-120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);;INF205K01MI3;1001.4917;;;28-Jul-2019
+120535;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);INF205KA1BE5;INF205K01MI3;1001.4917;;;28-Jul-2019
 120534;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);;INF205K01ME2;1000.9596;;;28-Jul-2019
 104486;Invesco India Liquid Fund - Growth;INF205K01HM5;;2618.8811;;;28-Jul-2019
 104492;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);INF205K01HQ6;INF205K01HP8;1008.4086;;;28-Jul-2019
@@ -501,7 +501,7 @@ Invesco Mutual Fund
 139389;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;;;1246.5627;;;28-Jul-2019
 139388;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;;;1000;;;28-Jul-2019
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;;;1246.5282;;;28-Jul-2019
-104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);;INF205K01HO1;1003.9732;;;28-Jul-2019
+104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);INF205KA1BD7;INF205K01HO1;1003.9732;;;28-Jul-2019
 
 ITI Mutual Fund
 147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;INF00XX01366;INF00XX01333;1015.9339;;;28-Jul-2019
@@ -532,11 +532,11 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;28-Jul-2019
 
 Kotak Mahindra Mutual Fund
-119764;Kotak Liquid Fund - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;INF174K01NH1;;1222.81;;;28-Jul-2019
-119766;Kotak Liquid Fund - Growth - Direct;INF174K01NE8;;3869.2648;;;28-Jul-2019
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1222.81;;;28-Jul-2019
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;3869.2648;;;28-Jul-2019
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1222.81;;;28-Jul-2019
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;3856.7357;;;28-Jul-2019
 119765;Kotak Liquid Fund - Weekly  Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01NF5;INF174K01NG3;1006.1058;;;28-Jul-2019
-100833;Kotak Liquid Fund Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;INF174K01NL3;;1222.81;;;28-Jul-2019
-100835;Kotak Liquid Fund Regular Plan Growth;INF174K01NI9;;3856.7357;;;28-Jul-2019
 100834;Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;INF174K01NK5;;1001.132;;;28-Jul-2019
 
 L&T Mutual Fund
@@ -564,13 +564,13 @@ Mahindra Manulife Mutual Fund
 
 Mirae Asset Mutual Fund
 118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2016.6905;;;28-Jul-2019
-118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1217.0324;;;28-Jul-2019
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;INF769K01PD2;INF769K01CP4;1217.0324;;;28-Jul-2019
 118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;28-Jul-2019
 118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1135.4227;;;28-Jul-2019
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;28-Jul-2019
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;1994.3135;;;28-Jul-2019
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1153.0685;;;28-Jul-2019
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1153.3192;;;28-Jul-2019
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1153.3192;;;28-Jul-2019
 
 Motilal Oswal Mutual Fund
 145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;10.3605;;;28-Jul-2019
@@ -604,7 +604,7 @@ Nippon India Mutual Fund
 118695;NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION;;INF204K01ZG2;1528.7400;;;28-Jul-2019
 118696;NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION;INF204K01ZI8;INF204K01ZJ6;1589.1149;;;28-Jul-2019
 118698;NIPPON INDIA LIQUID FUND - DIRECT Plan - QUARTERLY IDCW OPTION;INF204K01ZK4;INF204K01ZL2;1013.5302;;;28-Jul-2019
-118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;;INF204K01ZM0;1530.8204;;;28-Jul-2019
+118700;NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION;INF204KC1FN6;INF204K01ZM0;1530.8204;;;28-Jul-2019
 118701;Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option;INF204K01ZH0;;4669.9047;;;28-Jul-2019
 100855;NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION;INF204K01UO7;INF204K01UP4;1585.7941;;;28-Jul-2019
 112340;NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION;INF204K01UQ2;INF204K01UR0;1011.3269;;;28-Jul-2019
@@ -613,7 +613,7 @@ Nippon India Mutual Fund
 100843;NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION;INF204K01UT6;INF204K01UU4;1328.0060;;;28-Jul-2019
 100844;NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION;INF204K01UV2;INF204K01UW0;1224.3039;;;28-Jul-2019
 100838;NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION;;INF204K01UK5;1034.4752;;;28-Jul-2019
-100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;;INF204K01US8;1530.8139;;;28-Jul-2019
+100853;NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION;INF204KC1FM8;INF204K01US8;1530.8139;;;28-Jul-2019
 100851;Nippon India Liquid Fund -Growth Plan;INF204K01UN9;;4645.4891;;;28-Jul-2019
 
 PGIM India Mutual Fund
@@ -911,15 +911,15 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 PGIM India Mutual Fund
-138387;PGIM India Hybrid Equity Fund - Direct Plan - Dividend;INF663L01GY0;INF663L01GZ7;20.12;;;28-Jul-2019
-138386;PGIM India Hybrid Equity Fund - Direct Plan - Growth;INF663L01GX2;;72.06;;;28-Jul-2019
-138381;PGIM India Hybrid Equity Fund - Dividend Option;INF663L01HA8;INF663L01HB6;12.38;;;28-Jul-2019
-138382;PGIM India Hybrid Equity Fund - Growth Option;INF663L01HC4;;66.47;;;28-Jul-2019
-142421;PGIM India Hybrid Equity Fund - Regular Plan - Annual Dividend Option;INF663L01ZA0;INF663L01ZB8;10.27;;;28-Jul-2019
-139820;PGIM India Hybrid Equity Fund-Direct Plan-Monthly Dividend Option;INF663L01OA4;INF663L01OB2;20.63;;;28-Jul-2019
-139823;PGIM India Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option;INF663L01OE6;INF663L01OF3;16.97;;;28-Jul-2019
-139821;PGIM India Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;19.91;;;28-Jul-2019
-139822;PGIM India Hybrid Equity Fund-Quarterly Dividend Option;INF663L01OC0;INF663L01OD8;16.89;;;28-Jul-2019
+138387;PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Dividend;INF663L01GY0;INF663L01GZ7;20.12;;;28-Jul-2019
+138386;PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Growth;INF663L01GX2;;72.06;;;28-Jul-2019
+138381;PGIM India Aggressive Hybrid Equity Fund - Dividend Option;INF663L01HA8;INF663L01HB6;12.38;;;28-Jul-2019
+138382;PGIM India Aggressive Hybrid Equity Fund - Growth Option;INF663L01HC4;;66.47;;;28-Jul-2019
+142421;PGIM India Aggressive Hybrid Equity Fund - Regular Plan - Annual Dividend Option;INF663L01ZA0;INF663L01ZB8;10.27;;;28-Jul-2019
+139820;PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Monthly Dividend Option;INF663L01OA4;INF663L01OB2;20.63;;;28-Jul-2019
+139823;PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option;INF663L01OE6;INF663L01OF3;16.97;;;28-Jul-2019
+139821;PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option;INF663L01NY6;INF663L01NZ3;19.91;;;28-Jul-2019
+139822;PGIM India Aggressive Hybrid Equity Fund-Quarterly Dividend Option;INF663L01OC0;INF663L01OD8;16.89;;;28-Jul-2019
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -956,7 +956,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 DSP Mutual Fund
-142589;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;;INF740KA1EU7;1000.0000;;;28-Jul-2019
+142589;DSP NIFTY 1D Rate Liquid ETF;;INF740KA1EU7;1000.0000;;;28-Jul-2019
 
 ICICI Prudential Mutual Fund
 144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;INF109KC1KT9;;1000;;;28-Jul-2019
@@ -968,14 +968,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 PGIM India Mutual Fund
-138457;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;INF223J01NJ4;;10.82;;;28-Jul-2019
-138456;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;INF223J01NL0;;14.25;;;28-Jul-2019
-138454;PGIM India Emerging Markets Equity Fund - Dividend;INF223J01AW4;INF223J01AX2;12.22;;;28-Jul-2019
-138453;PGIM India Emerging Markets Equity Fund - Growth;INF223J01AY0;;13.3;;;28-Jul-2019
-138527;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;INF223J01NG0;;20.5;;;28-Jul-2019
-138528;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;INF223J01NF2;;20.5;;;28-Jul-2019
-138524;PGIM India Global Equity Opportunities Fund - Dividend;INF223J01AS2;INF223J01AT0;18.03;;;28-Jul-2019
-138523;PGIM India Global Equity Opportunities Fund - Growth;INF223J01AU8;;19.24;;;28-Jul-2019
+138456;PGIM India Emerging Markets Equity Fund of Fund - Direct Plan - Growth;INF223J01NL0;;14.25;;;28-Jul-2019
+138457;PGIM India Emerging Markets Equity Fund of Fund- Direct Plan - Dividend;INF223J01NJ4;;10.82;;;28-Jul-2019
+138454;PGIM India Emerging Markets Equity Fund of Fund- Dividend;INF223J01AW4;INF223J01AX2;12.22;;;28-Jul-2019
+138453;PGIM India Emerging Markets Equity Fund of Fund- Growth;INF223J01AY0;;13.3;;;28-Jul-2019
+138527;PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Dividend;INF223J01NG0;;20.5;;;28-Jul-2019
+138528;PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth;INF223J01NF2;;20.5;;;28-Jul-2019
+138524;PGIM India Global Equity Opportunities Fund of Fund- Dividend;INF223J01AS2;INF223J01AT0;18.03;;;28-Jul-2019
+138523;PGIM India Global Equity Opportunities Fund of Fund- Growth;INF223J01AU8;;19.24;;;28-Jul-2019
 
 Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
 
