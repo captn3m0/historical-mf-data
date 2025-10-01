@@ -1294,6 +1294,12 @@ Quantum Mutual Fund
 103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;46.44;44.58;46.44;31-Jan-2017
 103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;46.83;44.96;46.83;31-Jan-2017
 
+Sundaram Mutual Fund
+119549;Sundaram Value Fund Direct Plan - Growth;INF903J01NN3;;84.7385;84.7385;84.7385;31-Jan-2017
+119548;Sundaram Value Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;13.3884;13.3884;13.3884;31-Jan-2017
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;83.6596;83.6596;83.6596;31-Jan-2017
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;13.1720;13.1720;13.1720;31-Jan-2017
+
 Tata Mutual Fund
 112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;52.0202;51.5000;52.0202;31-Jan-2017
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;106.9631;105.8935;106.9631;31-Jan-2017
@@ -2021,12 +2027,6 @@ SBI Mutual Fund
 119723;SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH;INF200K01UM9;;119.8581;119.8581;119.8581;31-Jan-2017
 103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;42.1567;42.1567;42.1567;31-Jan-2017
 105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;117.253;117.253;117.253;31-Jan-2017
-
-Sundaram Mutual Fund
-119549;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;INF903J01NN3;;84.7385;84.7385;84.7385;31-Jan-2017
-119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;13.3884;13.3884;13.3884;31-Jan-2017
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;83.6596;83.6596;83.6596;31-Jan-2017
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;13.1720;13.1720;13.1720;31-Jan-2017
 
 Tata Mutual Fund
 119281;Tata ELSS Fund- Direct Plan - Payout of IDCW Option;INF277K01I94;;87.3370;87.3370;87.3370;31-Jan-2017
@@ -2949,10 +2949,10 @@ Franklin Templeton Mutual Fund
 
 HDFC Mutual Fund
 105548;HDFC Low Duration  Fund - Daily IDCW;;INF179K01434;10.1428;10.1428;10.1428;31-Jan-2017
-118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;;10.0655;10.0655;10.0655;31-Jan-2017
+118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;INF179KC1IR2;10.0655;10.0655;10.0655;31-Jan-2017
 118942;HDFC Low Duration  Fund - Direct Plan - Growth;INF179K01VF7;;35.1125;35.1125;35.1125;31-Jan-2017
 118943;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;INF179K01VG5;INF179K01VH3;10.1451;10.1451;10.1451;31-Jan-2017
-118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;;;10.1901;10.1901;10.1901;31-Jan-2017
+118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;INF179KC1IS0;INF179KC1IT8;10.1901;10.1901;10.1901;31-Jan-2017
 102452;HDFC Low Duration  Fund - Growth;INF179K01442;;34.0925;34.0925;34.0925;31-Jan-2017
 105543;HDFC Low Duration  Fund - Monthly IDCW;INF179K01459;INF179K01467;10.1424;10.1424;10.1424;31-Jan-2017
 102453;HDFC Low Duration  Fund - Weekly IDCW;INF179K01475;INF179K01483;10.1604;10.1604;10.1604;31-Jan-2017
@@ -5140,13 +5140,13 @@ Franklin Templeton Mutual Fund
 
 HDFC Mutual Fund
 106838;HDFC Floating Rate Debt Fund - Daily IDCW Option;;INF179K01699;10.0809;10.0809;10.0809;31-Jan-2017
-118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;;10.0809;10.0809;10.0809;31-Jan-2017
+118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;INF179KC1IU6;10.0809;10.0809;10.0809;31-Jan-2017
 118961;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;INF179K01VQ4;;28.0872;28.0872;28.0872;31-Jan-2017
 118960;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;INF179K01VO9;INF179K01VP6;10.1467;10.1467;10.1467;31-Jan-2017
-118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;;;10.1379;10.1379;10.1379;31-Jan-2017
+118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;INF179KC1IW2;;10.1379;10.1379;10.1379;31-Jan-2017
 106841;HDFC Floating Rate Debt Fund - Growth Option;INF179K01707;;28.0029;28.0029;28.0029;31-Jan-2017
 106839;HDFC Floating Rate Debt Fund - Monthly IDCW Option;INF179K01715;INF179K01723;10.1466;10.1466;10.1466;31-Jan-2017
-106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179K01749;10.1379;10.1379;10.1379;31-Jan-2017
+106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179KC1IV4;10.1379;10.1379;10.1379;31-Jan-2017
 101483;HDFC Floating Rate Debt Fund - Retail Daily Div Option;;INF179K01640;10.0809;10.0809;10.0809;31-Jan-2017
 101481;HDFC Floating Rate Debt Fund - Retail Growth Option;INF179K01632;;27.2130;27.2130;27.2130;31-Jan-2017
 101484;HDFC Floating Rate Debt Fund - Retail Monthly Div option;INF179K01657;INF179K01665;10.1466;10.1466;10.1466;31-Jan-2017
@@ -6121,8 +6121,8 @@ Axis Mutual Fund
 135761;Axis Children's Fund - No Lock in - Regular Plan - IDCW;INF846K01WN3;INF846K01WL7;10.6591;10.3393;10.6591;31-Jan-2017
 
 HDFC Mutual Fund
-119066;HDFC Childrens Fund - Direct Plan;;;96.344;93.454;96.344;31-Jan-2017
-100900;HDFC Childrens Fund - Growth Plan;;;93.583;90.776;93.583;31-Jan-2017
+119066;HDFC Childrens Fund - Direct Plan;INF179KC1IX0;;96.344;93.454;96.344;31-Jan-2017
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;93.583;90.776;93.583;31-Jan-2017
 119067;HDFC Childrens Fund Savings Plan-Direct Plan;;;42.9197;41.6321;42.9197;31-Jan-2017
 100899;HDFC Childrens Fund-Savings;;;41.4923;40.2475;41.4923;31-Jan-2017
 
@@ -6508,22 +6508,22 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;14.4660;14.3213;14.4660;31-Jan-2017
-131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;23.0913;22.8604;23.0913;31-Jan-2017
-131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;14.2269;14.0846;14.2269;31-Jan-2017
-131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;22.6878;22.4609;22.6878;31-Jan-2017
-132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;17.4653;17.2906;17.4653;31-Jan-2017
-132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;19.0668;18.8761;19.0668;31-Jan-2017
-132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;18.6115;18.4254;18.6115;31-Jan-2017
-132181;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;INF084M01119;INF084M01127;17.0338;16.8635;17.0338;31-Jan-2017
-132183;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;INF084M01EQ8;;16.3357;16.1723;16.3357;31-Jan-2017
-132178;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;INF084M01044;;16.0008;15.8408;16.0008;31-Jan-2017
-132184;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;INF084M01ER6;INF084M01ES4;11.0829;10.9721;11.0829;31-Jan-2017
-132179;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;INF084M01051;INF084M01069;14.5591;14.4135;14.5591;31-Jan-2017
+132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;14.5591;14.4135;14.5591;31-Jan-2017
+132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;16.3357;16.1723;16.3357;31-Jan-2017
+132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;16.0008;15.8408;16.0008;31-Jan-2017
+132184;Aditya Birla Sun Life Conservative Hybrid Active FOF-Direct - IDCW;INF084M01ER6;INF084M01ES4;11.0829;10.9721;11.0829;31-Jan-2017
+132187;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct - IDCW;INF084M01EX4;INF084M01EY2;17.4653;17.2906;17.4653;31-Jan-2017
+132186;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option;INF084M01EW6;;19.0668;18.8761;19.0668;31-Jan-2017
+132180;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Regular Plan - Growth Option;INF084M01101;;18.6115;18.4254;18.6115;31-Jan-2017
+132181;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF-Regular - IDCW;INF084M01119;INF084M01127;17.0338;16.8635;17.0338;31-Jan-2017
 120546;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;INF209K01YU5;;9.6260;9.5297;9.6260;31-Jan-2017
 120545;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;INF209K01YT7;;9.6231;9.5269;9.6231;31-Jan-2017
 116796;Aditya Birla Sun Life Gold Fund-Growth;INF209K01PF4;;9.5292;9.4339;9.5292;31-Jan-2017
 116795;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;INF209K01PG2;INF209K01PH0;9.5277;9.4324;9.5277;31-Jan-2017
+131897;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;14.4660;14.3213;14.4660;31-Jan-2017
+131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;23.0913;22.8604;23.0913;31-Jan-2017
+131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;14.2269;14.0846;14.2269;31-Jan-2017
+131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;22.6878;22.4609;22.6878;31-Jan-2017
 
 Axis Mutual Fund
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;9.8354;9.7370;9.8354;31-Jan-2017

@@ -1290,6 +1290,12 @@ Quantum Mutual Fund
 103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;29.97;28.77;29.97;01-Apr-2014
 103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;30.23;29.02;30.23;01-Apr-2014
 
+Sundaram Mutual Fund
+119549;Sundaram Value Fund Direct Plan - Growth;INF903J01NN3;;51.5337;51.5337;51.5337;01-Apr-2014
+119548;Sundaram Value Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;12.1440;12.1440;12.1440;01-Apr-2014
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;51.3494;51.3494;51.3494;01-Apr-2014
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;12.1095;12.1095;12.1095;01-Apr-2014
+
 Tata Mutual Fund
 112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;30.5778;30.2720;30.5778;01-Apr-2014
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;55.9334;55.3741;55.9334;01-Apr-2014
@@ -1876,12 +1882,6 @@ SBI Mutual Fund
 119723;SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH;INF200K01UM9;;78.0179;78.0179;78.0179;01-Apr-2014
 103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;34.7352;34.7352;34.7352;01-Apr-2014
 105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;77.5336;77.5336;77.5336;01-Apr-2014
-
-Sundaram Mutual Fund
-119549;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;INF903J01NN3;;51.5337;51.5337;51.5337;01-Apr-2014
-119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;12.1440;12.1440;12.1440;01-Apr-2014
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;51.3494;51.3494;51.3494;01-Apr-2014
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;12.1095;12.1095;12.1095;01-Apr-2014
 
 Tata Mutual Fund
 119281;Tata ELSS Fund- Direct Plan - Payout of IDCW Option;INF277K01I94;;50.8016;50.8016;50.8016;01-Apr-2014
@@ -2823,8 +2823,8 @@ Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
 
 HDFC Mutual Fund
-119066;HDFC Childrens Fund - Direct Plan;;;61.2160;59.3800;61.2160;01-Apr-2014
-100900;HDFC Childrens Fund - Growth Plan;;;60.7180;58.896;60.718;01-Apr-2014
+119066;HDFC Childrens Fund - Direct Plan;INF179KC1IX0;;61.2160;59.3800;61.2160;01-Apr-2014
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;60.7180;58.896;60.718;01-Apr-2014
 
 ICICI Prudential Mutual Fund
 120579;ICICI Prudential Children's Fund - Direct Plan;INF109K01Y49;;73.11;72.38;73.11;01-Apr-2014

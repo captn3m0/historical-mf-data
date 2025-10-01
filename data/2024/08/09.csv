@@ -1095,6 +1095,12 @@ Quantum Mutual Fund
 141068;Quantum Value Fund - Regular Plan Growth Option;INF082J01242;;122.15;;;09-Aug-2024
 141069;Quantum Value Fund - Regular Plan IDCW;INF082J01259;INF082J01267;122.84;;;09-Aug-2024
 
+Sundaram Mutual Fund
+119549;Sundaram Value Fund Direct Plan - Growth;INF903J01NN3;;225.4818;;;09-Aug-2024
+119548;Sundaram Value Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;20.5003;;;09-Aug-2024
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;213.9259;;;09-Aug-2024
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;16.9572;;;09-Aug-2024
+
 Tata Mutual Fund
 112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;136.1562;;;09-Aug-2024
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;361.4315;;;09-Aug-2024
@@ -2339,10 +2345,6 @@ Shriram Mutual Fund
 145821;Shriram ELSS Tax Saver Fund - Regular-IDCW;INF680P01141;;23.3099;;;09-Aug-2024
 
 Sundaram Mutual Fund
-119549;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;INF903J01NN3;;225.4818;;;09-Aug-2024
-119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;20.5003;;;09-Aug-2024
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;213.9259;;;09-Aug-2024
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;16.9572;;;09-Aug-2024
 149571;Sundaram ELSS Tax Saver Fund Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01NN1;;522.9491;;;09-Aug-2024
 149570;Sundaram ELSS Tax Saver Fund Direct Plan Growth;INF173K01HZ7;;523.4762;;;09-Aug-2024
 149569;Sundaram ELSS Tax Saver Fund Regular Growth;INF173K01361;;492.1306;;;09-Aug-2024
@@ -3526,10 +3528,10 @@ DSP Mutual Fund
 
 HDFC Mutual Fund
 105548;HDFC Low Duration  Fund - Daily IDCW;;INF179K01434;10.1428;;;09-Aug-2024
-118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;;10.0655;;;09-Aug-2024
+118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;INF179KC1IR2;10.0655;;;09-Aug-2024
 118942;HDFC Low Duration  Fund - Direct Plan - Growth;INF179K01VF7;;58.326;;;09-Aug-2024
 118943;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;INF179K01VG5;INF179K01VH3;10.163;;;09-Aug-2024
-118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;;;10.0656;;;09-Aug-2024
+118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;INF179KC1IS0;INF179KC1IT8;10.0656;;;09-Aug-2024
 102452;HDFC Low Duration  Fund - Growth;INF179K01442;;54.0618;;;09-Aug-2024
 105543;HDFC Low Duration  Fund - Monthly IDCW;INF179K01459;INF179K01467;10.1587;;;09-Aug-2024
 102453;HDFC Low Duration  Fund - Weekly IDCW;INF179K01475;INF179K01483;10.0649;;;09-Aug-2024
@@ -5655,13 +5657,13 @@ Franklin Templeton Mutual Fund
 
 HDFC Mutual Fund
 106838;HDFC Floating Rate Debt Fund - Daily IDCW Option;;INF179K01699;10.0809;;;09-Aug-2024
-118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;;10.0809;;;09-Aug-2024
+118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;INF179KC1IU6;10.0809;;;09-Aug-2024
 118961;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;INF179K01VQ4;;47.3313;;;09-Aug-2024
 118960;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;INF179K01VO9;INF179K01VP6;10.1682;;;09-Aug-2024
-118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;;;10.0465;;;09-Aug-2024
+118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;INF179KC1IW2;;10.0465;;;09-Aug-2024
 106841;HDFC Floating Rate Debt Fund - Growth Option;INF179K01707;;46.4961;;;09-Aug-2024
 106839;HDFC Floating Rate Debt Fund - Monthly IDCW Option;INF179K01715;INF179K01723;10.1674;;;09-Aug-2024
-106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179K01749;10.0464;;;09-Aug-2024
+106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179KC1IV4;10.0464;;;09-Aug-2024
 
 ICICI Prudential Mutual Fund
 101804;ICICI Prudential Floating Interest Fund - Daily IDCW;INF109K01AW3;;102.1406;;;09-Aug-2024
@@ -7077,8 +7079,8 @@ Axis Mutual Fund
 135761;Axis Children's Fund - No Lock in - Regular Plan - IDCW;INF846K01WN3;INF846K01WL7;24.9187;;;09-Aug-2024
 
 HDFC Mutual Fund
-119066;HDFC Childrens Fund - Direct Plan;;;315.459;;;09-Aug-2024
-100900;HDFC Childrens Fund - Growth Plan;;;286.687;;;09-Aug-2024
+119066;HDFC Childrens Fund - Direct Plan;INF179KC1IX0;;315.459;;;09-Aug-2024
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;286.687;;;09-Aug-2024
 
 ICICI Prudential Mutual Fund
 120579;ICICI Prudential Children's Fund - Direct Plan;INF109K01Y49;;337.24;;;09-Aug-2024
@@ -8296,10 +8298,10 @@ Aditya Birla Sun Life Mutual Fund
 132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;30.5345;;;09-Aug-2024
 132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;32.3143;;;09-Aug-2024
 132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;30.5534;;;09-Aug-2024
-149289;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;12.7348;;;09-Aug-2024
-149291;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;INF209KB18C5;;12.7331;;;09-Aug-2024
-149290;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;INF209KB15C1;;12.5906;;;09-Aug-2024
-149292;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;INF209KB16C9;INF209KB17C7;12.5896;;;09-Aug-2024
+149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;12.7348;;;09-Aug-2024
+149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;12.7331;;;09-Aug-2024
+149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;12.5906;;;09-Aug-2024
+149292;Aditya Birla Sun Life US Equity Passive FOF-Regular IDCW;INF209KB16C9;INF209KB17C7;12.5896;;;09-Aug-2024
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;INF209KB16W7;;10.5813;;;09-Aug-2024
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;INF209KB17W5;INF209KB18W3;10.5813;;;09-Aug-2024
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;INF209KB13W4;;10.575;;;09-Aug-2024
@@ -8352,10 +8354,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;17.2738;;;09-Aug-2024
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;12.5978;;;09-Aug-2024
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;18.0864;;;09-Aug-2024
-149816;DSP Global Innovation Fund of Fund - Direct - Growth;INF740KA1QP1;;13.4685;;;09-Aug-2024
-149815;DSP Global Innovation Fund of Fund - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;13.4685;;;09-Aug-2024
-149817;DSP Global Innovation Fund of Fund - Regular - Growth;INF740KA1QM8;;13.1631;;;09-Aug-2024
-149814;DSP Global Innovation Fund of Fund - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;13.1631;;;09-Aug-2024
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;13.4685;;;09-Aug-2024
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;13.4685;;;09-Aug-2024
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;13.1631;;;09-Aug-2024
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;13.1631;;;09-Aug-2024
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;10.5566;;;09-Aug-2024
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;10.5566;;;09-Aug-2024
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;10.5545;;;09-Aug-2024
@@ -8479,22 +8481,22 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
-131897;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;23.0077;;;09-Aug-2024
-131898;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Direct Plan - Growth Option;INF084M01DP2;;36.7431;;;09-Aug-2024
-131895;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;21.8662;;;09-Aug-2024
-131896;Aditya Birla Sun Life Debt Plus Arbitrage FoF Scheme - Regular Plan - Growth Option;INF084M01AH5;;34.867;;;09-Aug-2024
-132187;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;INF084M01EX4;INF084M01EY2;51.1427;;;09-Aug-2024
-132186;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;INF084M01EW6;;55.8438;;;09-Aug-2024
-132180;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;INF084M01101;;51.2025;;;09-Aug-2024
-132181;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;INF084M01119;INF084M01127;46.8686;;;09-Aug-2024
-132183;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;INF084M01EQ8;;33.9198;;;09-Aug-2024
-132178;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;INF084M01044;;32.0272;;;09-Aug-2024
-132184;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;INF084M01ER6;INF084M01ES4;23.0308;;;09-Aug-2024
-132179;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;INF084M01051;INF084M01069;29.138;;;09-Aug-2024
+132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;29.138;;;09-Aug-2024
+132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;33.9198;;;09-Aug-2024
+132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;32.0272;;;09-Aug-2024
+132184;Aditya Birla Sun Life Conservative Hybrid Active FOF-Direct - IDCW;INF084M01ER6;INF084M01ES4;23.0308;;;09-Aug-2024
+132187;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct - IDCW;INF084M01EX4;INF084M01EY2;51.1427;;;09-Aug-2024
+132186;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option;INF084M01EW6;;55.8438;;;09-Aug-2024
+132180;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Regular Plan - Growth Option;INF084M01101;;51.2025;;;09-Aug-2024
+132181;Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF-Regular - IDCW;INF084M01119;INF084M01127;46.8686;;;09-Aug-2024
 120546;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;INF209K01YU5;;21.42;;;09-Aug-2024
 120545;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;INF209K01YT7;;21.423;;;09-Aug-2024
 116796;Aditya Birla Sun Life Gold Fund-Growth;INF209K01PF4;;20.6711;;;09-Aug-2024
 116795;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;INF209K01PG2;INF209K01PH0;20.6704;;;09-Aug-2024
+131897;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW;INF084M01DQ0;INF084M01DR8;23.0077;;;09-Aug-2024
+131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;36.7431;;;09-Aug-2024
+131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;21.8662;;;09-Aug-2024
+131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;34.867;;;09-Aug-2024
 150688;Aditya Birla Sun Life Multi-Asset Passive FOF-Direct Growth;INF209KB15M0;;15.1802;;;09-Aug-2024
 150689;Aditya Birla Sun Life Multi-Asset Passive FOF-Direct IDCW;INF209KB16M8;INF209KB17M6;15.1809;;;09-Aug-2024
 150690;Aditya Birla Sun Life Multi-Asset Passive FOF-Regular Growth;INF209KB12M7;;15.0726;;;09-Aug-2024

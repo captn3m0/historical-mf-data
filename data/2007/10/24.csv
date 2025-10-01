@@ -1415,6 +1415,10 @@ Quantum Mutual Fund
 103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;15.19;14.58;15.19;24-Oct-2007
 103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;15.19;14.58;15.19;24-Oct-2007
 
+Sundaram Mutual Fund
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;38.2542;38.2542;39.1149;24-Oct-2007
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;18.2040;18.2040;18.6136;24-Oct-2007
+
 Tata Mutual Fund
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;37.7611;37.7611;38.6107;24-Oct-2007
 102428;Tata Value Fund Regular Plan - Payout of IDCW-Option B(10%);INF277K01DJ9;INF277K01444;36.1208;36.1208;36.9335;24-Oct-2007
@@ -1636,10 +1640,6 @@ quant Mutual Fund
 SBI Mutual Fund
 103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;59.47;59.47;60.81;24-Oct-2007
 105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;59.52;59.52;60.86;24-Oct-2007
-
-Sundaram Mutual Fund
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;38.2542;38.2542;39.1149;24-Oct-2007
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;18.2040;18.2040;18.6136;24-Oct-2007
 
 Tata Mutual Fund
 100474;Tata ELSS Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;54.2389;54.2389;55.4593;24-Oct-2007
@@ -2655,7 +2655,7 @@ HDFC Mutual Fund
 106838;HDFC Floating Rate Debt Fund - Daily IDCW Option;;INF179K01699;10.0809;10.0809;10.0809;24-Oct-2007
 106841;HDFC Floating Rate Debt Fund - Growth Option;INF179K01707;;13.1851;13.1851;13.1851;24-Oct-2007
 106839;HDFC Floating Rate Debt Fund - Monthly IDCW Option;INF179K01715;INF179K01723;10.2126;10.2126;10.2126;24-Oct-2007
-106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179K01749;10.14;10.14;10.14;24-Oct-2007
+106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179KC1IV4;10.14;10.14;10.14;24-Oct-2007
 101483;HDFC Floating Rate Debt Fund - Retail Daily Div Option;;INF179K01640;10.0809;10.0809;10.0809;24-Oct-2007
 101481;HDFC Floating Rate Debt Fund - Retail Growth Option;INF179K01632;;13.1849;13.1849;13.1849;24-Oct-2007
 101484;HDFC Floating Rate Debt Fund - Retail Monthly Div option;INF179K01657;INF179K01665;10.2125;10.2125;10.2125;24-Oct-2007
@@ -2936,7 +2936,7 @@ Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
 
 HDFC Mutual Fund
-100900;HDFC Childrens Fund - Growth Plan;;;29.825;29.825;30.496;24-Oct-2007
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;29.825;29.825;30.496;24-Oct-2007
 100899;HDFC Childrens Fund-Savings;;;16.215;16.215;16.418;24-Oct-2007
 
 ICICI Prudential Mutual Fund

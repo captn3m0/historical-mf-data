@@ -2335,6 +2335,12 @@ Quantum Mutual Fund
 103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;36.14;34.69;36.14;27-Aug-2014
 103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;36.45;34.99;36.45;27-Aug-2014
 
+Sundaram Mutual Fund
+119549;Sundaram Value Fund Direct Plan - Growth;INF903J01NN3;;63.8487;63.8487;63.8487;27-Aug-2014
+119548;Sundaram Value Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;14.4486;14.4486;14.4486;27-Aug-2014
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;63.5135;63.5135;63.5135;27-Aug-2014
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;14.3752;14.3752;14.3752;27-Aug-2014
+
 Tata Mutual Fund
 112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;40.0284;39.6281;40.0284;27-Aug-2014
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;74.8328;74.0845;74.8328;27-Aug-2014
@@ -2934,12 +2940,6 @@ SBI Mutual Fund
 119723;SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH;INF200K01UM9;;100.2614;100.2614;100.2614;27-Aug-2014
 103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01479;;44.5556;44.5556;44.5556;27-Aug-2014
 105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;INF200K01495;;99.4547;99.4547;99.4547;27-Aug-2014
-
-Sundaram Mutual Fund
-119549;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;INF903J01NN3;;63.8487;63.8487;63.8487;27-Aug-2014
-119548;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01NL7;INF903J01NM5;14.4486;14.4486;14.4486;27-Aug-2014
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;63.5135;63.5135;63.5135;27-Aug-2014
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;14.3752;14.3752;14.3752;27-Aug-2014
 
 Tata Mutual Fund
 119281;Tata ELSS Fund- Direct Plan - Payout of IDCW Option;INF277K01I94;;63.3907;63.3907;63.3907;27-Aug-2014
@@ -3741,10 +3741,10 @@ Franklin Templeton Mutual Fund
 
 HDFC Mutual Fund
 105548;HDFC Low Duration  Fund - Daily IDCW;;INF179K01434;10.0315;10.0315;10.0315;27-Aug-2014
-118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;;10.0315;10.0315;10.0315;27-Aug-2014
+118945;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;;INF179KC1IR2;10.0315;10.0315;10.0315;27-Aug-2014
 118942;HDFC Low Duration  Fund - Direct Plan - Growth;INF179K01VF7;;28.4444;28.4444;28.4444;27-Aug-2014
 118943;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;INF179K01VG5;INF179K01VH3;10.148;10.148;10.148;27-Aug-2014
-118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;;;10.0679;10.0679;10.0679;27-Aug-2014
+118944;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;INF179KC1IS0;INF179KC1IT8;10.0679;10.0679;10.0679;27-Aug-2014
 102452;HDFC Low Duration  Fund - Growth;INF179K01442;;28.1277;28.1277;28.1277;27-Aug-2014
 105543;HDFC Low Duration  Fund - Monthly IDCW;INF179K01459;INF179K01467;10.055;10.055;10.055;27-Aug-2014
 102453;HDFC Low Duration  Fund - Weekly IDCW;INF179K01475;INF179K01483;10.0675;10.0675;10.0675;27-Aug-2014
@@ -5566,13 +5566,13 @@ Franklin Templeton Mutual Fund
 
 HDFC Mutual Fund
 106838;HDFC Floating Rate Debt Fund - Daily IDCW Option;;INF179K01699;10.0809;10.0809;10.0809;27-Aug-2014
-118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;;10.0809;10.0809;10.0809;27-Aug-2014
+118959;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;;INF179KC1IU6;10.0809;10.0809;10.0809;27-Aug-2014
 118961;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;INF179K01VQ4;;22.7281;22.7281;22.7281;27-Aug-2014
 118960;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;INF179K01VO9;INF179K01VP6;10.1497;10.1497;10.1497;27-Aug-2014
-118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;;;10.1411;10.1411;10.1411;27-Aug-2014
+118962;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;INF179KC1IW2;;10.1411;10.1411;10.1411;27-Aug-2014
 106841;HDFC Floating Rate Debt Fund - Growth Option;INF179K01707;;22.7087;22.7087;22.7087;27-Aug-2014
 106839;HDFC Floating Rate Debt Fund - Monthly IDCW Option;INF179K01715;INF179K01723;10.1498;10.1498;10.1498;27-Aug-2014
-106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179K01749;10.141;10.141;10.141;27-Aug-2014
+106840;HDFC Floating Rate Debt Fund - Weekly IDCW Option;INF179K01731;INF179KC1IV4;10.141;10.141;10.141;27-Aug-2014
 101483;HDFC Floating Rate Debt Fund - Retail Daily Div Option;;INF179K01640;10.0809;10.0809;10.0809;27-Aug-2014
 101481;HDFC Floating Rate Debt Fund - Retail Growth Option;INF179K01632;;22.1973;22.1973;22.1973;27-Aug-2014
 101484;HDFC Floating Rate Debt Fund - Retail Monthly Div option;INF179K01657;INF179K01665;10.1496;10.1496;10.1496;27-Aug-2014
@@ -6256,8 +6256,8 @@ Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
 
 HDFC Mutual Fund
-119066;HDFC Childrens Fund - Direct Plan;;;75.253;72.995;75.253;27-Aug-2014
-100900;HDFC Childrens Fund - Growth Plan;;;74.461;72.227;74.461;27-Aug-2014
+119066;HDFC Childrens Fund - Direct Plan;INF179KC1IX0;;75.253;72.995;75.253;27-Aug-2014
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;74.461;72.227;74.461;27-Aug-2014
 119067;HDFC Childrens Fund Savings Plan-Direct Plan;;;32.7534;31.7708;32.7534;27-Aug-2014
 100899;HDFC Childrens Fund-Savings;;;32.3211;31.352;32.321;27-Aug-2014
 

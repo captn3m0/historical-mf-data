@@ -1001,6 +1001,10 @@ Quantum Mutual Fund
 103490;Quantum Value Fund - Direct Plan Growth Option;INF082J01036;;20.1900;19.3800;20.1900;01-Jul-2010
 103491;Quantum Value Fund - Direct Plan IDCW;INF082J01044;INF082J01051;20.3600;19.5500;20.3600;01-Jul-2010
 
+Sundaram Mutual Fund
+101853;Sundaram Value Fund Regular Plan - Growth;INF903J01538;;41.9487;41.9487;41.9487;01-Jul-2010
+100614;Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;11.2446;11.2446;11.2446;01-Jul-2010
+
 Tata Mutual Fund
 112218;Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%);INF277K01DI1;INF277K01436;40.0226;39.6224;40.0226;01-Jul-2010
 101672;Tata Value Fund - Regular Plan -Growth Option;INF277K01451;;45.6682;45.2115;45.6682;01-Jul-2010
@@ -1291,10 +1295,6 @@ quant Mutual Fund
 Quantum Mutual Fund
 111549;Quantum ELSS Tax Saver Fund - Direct Plan Growth Option;INF082J01069;;20.2240;20.2240;20.2240;01-Jul-2010
 111550;Quantum ELSS Tax Saver Fund - Direct Plan IDCW;INF082J01077;INF082J01085;20.2170;20.2170;20.2170;01-Jul-2010
-
-Sundaram Mutual Fund
-101853;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;INF903J01538;;41.9487;41.9487;41.9487;01-Jul-2010
-100614;Sundaram Diversified Equity (ELSS) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01512;INF903J01520;11.2446;11.2446;11.2446;01-Jul-2010
 
 Tata Mutual Fund
 100474;Tata ELSS Fund- Regular Plan - Payout of IDCW Option;INF277K01I60;;43.5722;43.5722;43.5722;01-Jul-2010
@@ -2055,7 +2055,7 @@ Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
 
 HDFC Mutual Fund
-100900;HDFC Childrens Fund - Growth Plan;;;37.119;36.005;37.119;01-Jul-2010
+100900;HDFC Childrens Fund - Growth Plan;INF179KC1IY8;;37.119;36.005;37.119;01-Jul-2010
 100899;HDFC Childrens Fund-Savings;;;0;0;0;01-Jul-2010
 
 ICICI Prudential Mutual Fund
