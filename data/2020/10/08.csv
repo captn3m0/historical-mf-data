@@ -4648,7 +4648,7 @@ HSBC Mutual Fund
 148492;HSBC Dynamic Bond Fund - Direct Growth;INF336L01PH9;;10.0188;;;08-Oct-2020
 148493;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01PL1;INF336L01PK3;10.0188;;;08-Oct-2020
 148496;HSBC Dynamic Bond Fund - Regular Growth;INF336L01PO5;;10.0177;;;08-Oct-2020
-148499;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PP2;INF336L01PQ0;10.0177;;;08-Oct-2020
+148497;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01PS6;INF336L01PR8;10.0177;;;08-Oct-2020
 
 ICICI Prudential Mutual Fund
 111988;ICICI Prudential Corporate Bond Fund - Daily IDCW;INF109K01CR9;;10.1240;;;08-Oct-2020
@@ -5741,10 +5741,6 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;19.6846;;;08-Oct-2020
-132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;20.6826;;;08-Oct-2020
-132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;22.8097;;;08-Oct-2020
-132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;21.946;;;08-Oct-2020
 120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;INF209K01ZC0;;800.75;;;08-Oct-2020
 103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;INF209K01BT5;;742.09;;;08-Oct-2020
 120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;INF209KA1LH3;INF209K01ZB2;189.07;;;08-Oct-2020
@@ -5899,10 +5895,10 @@ LIC Mutual Fund
 100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;12.7843;;;08-Oct-2020
 
 Mahindra Manulife Mutual Fund
-147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - IDCW;INF174V01804;INF174V01796;11.4373;;;08-Oct-2020
+147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW;INF174V01804;INF174V01796;11.4373;;;08-Oct-2020
 147446;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth;INF174V01788;;11.4373;;;08-Oct-2020
 147447;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth;INF174V01754;;11.1821;;;08-Oct-2020
-147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - IDCW;INF174V01770;INF174V01762;11.1821;;;08-Oct-2020
+147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW;INF174V01770;INF174V01762;11.1821;;;08-Oct-2020
 
 Mirae Asset Mutual Fund
 134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;17.169;;;08-Oct-2020
@@ -6155,12 +6151,6 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
-
-Aditya Birla Sun Life Mutual Fund
-131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;16.3613;;;08-Oct-2020
-131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;32.4135;;;08-Oct-2020
-131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;15.5922;;;08-Oct-2020
-131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;29.8458;;;08-Oct-2020
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;24.0508;;;08-Oct-2020
@@ -6578,8 +6568,8 @@ L&T Mutual Fund
 Mahindra Manulife Mutual Fund
 140444;Mahindra Manulife Equity Savings Fund - Direct Plan -Growth;INF174V01184;;13.0816;;;08-Oct-2020
 140447;Mahindra Manulife Equity Savings Fund - Regular Plan - Growth;INF174V01150;;12.1722;;;08-Oct-2020
-140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Dividend;INF174V01192;INF174V01200;12.2794;;;08-Oct-2020
-140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Dividend;INF174V01168;INF174V01176;11.4292;;;08-Oct-2020
+140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Quarterly IDCW;INF174V01192;INF174V01200;12.2794;;;08-Oct-2020
+140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Quarterly IDCW;INF174V01168;INF174V01176;11.4292;;;08-Oct-2020
 
 Mirae Asset Mutual Fund
 145694;Mirae Asset Equity Savings Fund Direct IDCW;INF769K01EJ3;INF769K01EM7;11.981;;;08-Oct-2020
@@ -7286,6 +7276,10 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
+132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;19.6846;;;08-Oct-2020
+132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;20.6826;;;08-Oct-2020
+132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;22.8097;;;08-Oct-2020
+132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;21.946;;;08-Oct-2020
 132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;18.4234;;;08-Oct-2020
 132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;21.0657;;;08-Oct-2020
 132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;20.2495;;;08-Oct-2020
@@ -7302,6 +7296,10 @@ Aditya Birla Sun Life Mutual Fund
 131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;29.4398;;;08-Oct-2020
 131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;17.7856;;;08-Oct-2020
 131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;28.361;;;08-Oct-2020
+131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;16.3613;;;08-Oct-2020
+131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;32.4135;;;08-Oct-2020
+131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;15.5922;;;08-Oct-2020
+131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;29.8458;;;08-Oct-2020
 
 Axis Mutual Fund
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;16.7407;;;08-Oct-2020

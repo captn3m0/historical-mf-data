@@ -2656,7 +2656,7 @@ HSBC Mutual Fund
 104350;HSBC Low Duration Fund  - Regular - Growth;INF336L01AP4;;22.1771;22.1771;22.1771;21-May-2018
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;9.9968;9.9968;9.9968;21-May-2018
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.908;15.908;15.908;21-May-2018
-120067;HSBC Low Duration Fund - Direct Monthly IDCW;INF336L01EH3;INF336L01EI1;10.3465;10.3465;10.3465;21-May-2018
+120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;10.0815;10.0815;10.0815;21-May-2018
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;17.3823;17.3823;17.3823;21-May-2018
 104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0371;10.0371;10.0371;21-May-2018
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;9.9941;9.9941;9.9941;21-May-2018
@@ -5086,10 +5086,6 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;17.1126;16.9415;17.1126;21-May-2018
-132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;17.7540;17.5765;17.7540;21-May-2018
-132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;19.5854;19.3895;19.5854;21-May-2018
-132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;19.0794;18.8886;19.0794;21-May-2018
 120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;INF209K01ZC0;;781.02;773.21;781.02;21-May-2018
 103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;INF209K01BT5;;738.49;731.11;738.49;21-May-2018
 120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;INF209KA1LH3;INF209K01ZB2;205.59;203.53;205.59;21-May-2018
@@ -5397,12 +5393,6 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
-
-Aditya Birla Sun Life Mutual Fund
-131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;14.0184;13.8782;14.0184;21-May-2018
-131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;28.0375;27.7571;28.0375;21-May-2018
-131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;13.3609;13.2273;13.3609;21-May-2018
-131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;25.8175;25.5593;25.8175;21-May-2018
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;19.5286;19.3333;19.5286;21-May-2018
@@ -5727,8 +5717,8 @@ L&T Mutual Fund
 Mahindra Manulife Mutual Fund
 140444;Mahindra Manulife Equity Savings Fund - Direct Plan -Growth;INF174V01184;;10.9527;10.8432;10.9527;21-May-2018
 140447;Mahindra Manulife Equity Savings Fund - Regular Plan - Growth;INF174V01150;;10.6272;10.5209;10.6272;21-May-2018
-140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Dividend;INF174V01192;INF174V01200;10.4121;10.3080;10.4121;21-May-2018
-140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Dividend;INF174V01168;INF174V01176;10.1025;10.0015;10.1025;21-May-2018
+140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Quarterly IDCW;INF174V01192;INF174V01200;10.4121;10.3080;10.4121;21-May-2018
+140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Quarterly IDCW;INF174V01168;INF174V01176;10.1025;10.0015;10.1025;21-May-2018
 
 Nippon India Mutual Fund
 134597;NIPPON INDIA EQUITY SAVINGS FUND - Direct Plan - IDCW Option;INF204KA1W93;INF204KA1X01;11.8972;11.7782;11.8972;21-May-2018
@@ -6191,6 +6181,10 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
+132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;17.1126;16.9415;17.1126;21-May-2018
+132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;17.7540;17.5765;17.7540;21-May-2018
+132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;19.5854;19.3895;19.5854;21-May-2018
+132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;19.0794;18.8886;19.0794;21-May-2018
 132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;15.9299;15.7706;15.9299;21-May-2018
 132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;17.9976;17.8176;17.9976;21-May-2018
 132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;17.5074;17.3323;17.5074;21-May-2018
@@ -6207,6 +6201,10 @@ Aditya Birla Sun Life Mutual Fund
 131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;23.8036;23.5656;23.8036;21-May-2018
 131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;14.5706;14.4249;14.5706;21-May-2018
 131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;23.2360;23.0036;23.2360;21-May-2018
+131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;14.0184;13.8782;14.0184;21-May-2018
+131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;28.0375;27.7571;28.0375;21-May-2018
+131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;13.3609;13.2273;13.3609;21-May-2018
+131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;25.8175;25.5593;25.8175;21-May-2018
 
 Axis Mutual Fund
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;10.2434;10.1410;10.2434;21-May-2018

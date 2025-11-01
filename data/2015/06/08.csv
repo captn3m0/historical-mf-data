@@ -3600,7 +3600,7 @@ HSBC Mutual Fund
 120063;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EJ9;10.0952;10.0952;10.0952;08-Jun-2015
 104345;HSBC Low Duration Fund - Inst. Plus - Weekly IDCW;;INF336L01AK5;10.197;10.197;10.197;08-Jun-2015
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;13.9553;13.9553;13.9553;08-Jun-2015
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0436;10.0436;10.0436;08-Jun-2015
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;10.1617;10.1617;10.1617;08-Jun-2015
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0133;10.0133;10.0133;08-Jun-2015
 
 ICICI Prudential Mutual Fund
@@ -4684,10 +4684,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;19.4671;19.4671;19.4671;08-Jun-2015
-120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;11.31;11.31;11.31;08-Jun-2015
+120047;HSBC Dynamic Bond Fund - Direct Monthly IDCW;;INF336L01CN5;9.9762;9.9762;9.9762;08-Jun-2015
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;18.6429;18.6429;18.6429;08-Jun-2015
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;19.0985;19.0985;19.0985;08-Jun-2015
-110438;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01529;INF336L01511;11.8247;11.8247;11.8247;08-Jun-2015
+110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;13.1832;13.1832;13.1832;08-Jun-2015
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.6975;11.6390;11.6975;08-Jun-2015
@@ -5876,10 +5876,6 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;13.3618;13.3618;13.3618;08-Jun-2015
-132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;13.6388;13.6388;13.6388;08-Jun-2015
-132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;15.0554;15.0554;15.0554;08-Jun-2015
-132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;14.8985;14.8985;14.8985;08-Jun-2015
 120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;INF209K01ZC0;;550.45;544.95;550.45;08-Jun-2015
 103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;INF209K01BT5;;539.69;534.29;539.69;08-Jun-2015
 120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;INF209KA1LH3;INF209K01ZB2;167.30;165.63;167.30;08-Jun-2015
@@ -6107,12 +6103,6 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
-
-Aditya Birla Sun Life Mutual Fund
-131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;10.2662;10.2662;10.2662;08-Jun-2015
-131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;20.5431;20.5431;20.5431;08-Jun-2015
-131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;9.7815;9.7815;9.7815;08-Jun-2015
-131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;18.9104;18.9104;18.9104;08-Jun-2015
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;15.3665;15.2128;15.3665;08-Jun-2015
@@ -6759,6 +6749,10 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
+132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;13.3618;13.3618;13.3618;08-Jun-2015
+132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;13.6388;13.6388;13.6388;08-Jun-2015
+132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;15.0554;15.0554;15.0554;08-Jun-2015
+132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;14.8985;14.8985;14.8985;08-Jun-2015
 132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;12.8519;12.8519;12.8519;08-Jun-2015
 132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;14.2975;14.2975;14.2975;08-Jun-2015
 132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;14.1245;14.1245;14.1245;08-Jun-2015
@@ -6774,6 +6768,10 @@ Aditya Birla Sun Life Mutual Fund
 131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;19.0125;19.0125;19.0125;08-Jun-2015
 131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;11.8109;11.8109;11.8109;08-Jun-2015
 131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;18.8351;18.8351;18.8351;08-Jun-2015
+131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;10.2662;10.2662;10.2662;08-Jun-2015
+131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;20.5431;20.5431;20.5431;08-Jun-2015
+131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;9.7815;9.7815;9.7815;08-Jun-2015
+131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;18.9104;18.9104;18.9104;08-Jun-2015
 
 Axis Mutual Fund
 120473;Axis Gold Fund - Direct Plan - Growth option;INF846K01DS2;;9.5199;9.4247;9.5199;08-Jun-2015
