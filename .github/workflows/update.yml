@@ -38,7 +38,7 @@ jobs:
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
     - uses: actions/setup-python@v4 
       with:
-        python-version: 'pypy3.9'
+        python-version: 'pypy3.11'
     - name: Create Dataset
       run: |
         pypy3 generate.py
