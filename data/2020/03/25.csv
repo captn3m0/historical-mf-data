@@ -116,8 +116,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120413;Invesco India Multicap Fund - Direct Plan - Growth Option;INF205K01MS2;;38.78;;;25-Mar-2020
 120412;Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MQ6;INF205K01MR4;35.11;;;25-Mar-2020
-107353;Invesco India Multicap Fund - Growth Option;INF205K01DN2;;34.94;;;25-Mar-2020
-107352;Invesco India Multicap Fund - IDCW (Payout / Reinvestment);INF205K01DO0;INF205K01DP7;31.69;;;25-Mar-2020
+107353;Invesco India Multicap Fund - Regular Plan - Growth Option;INF205K01DN2;;34.94;;;25-Mar-2020
+107352;Invesco India Multicap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01DO0;INF205K01DP7;31.69;;;25-Mar-2020
 
 ITI Mutual Fund
 147183;ITI Multi Cap Fund - Direct Plan - Growth Option;INF00XX01168;;7.6896;;;25-Mar-2020
@@ -266,8 +266,8 @@ IDBI Mutual Fund
 Invesco Mutual Fund
 120392;Invesco India Largecap Fund - Direct Plan - Growth;INF205K01LB0;;24.13;;;25-Mar-2020
 120393;Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KZ1;INF205K01LA2;15.52;;;25-Mar-2020
-112098;Invesco India Largecap Fund - Growth;INF205K01304;;21.65;;;25-Mar-2020
-112099;Invesco India Largecap Fund - IDCW (Payout / Reinvestment);INF205K01320;INF205K01312;13.98;;;25-Mar-2020
+112098;Invesco India Largecap Fund - Regular Plan - Growth;INF205K01304;;21.65;;;25-Mar-2020
+112099;Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01320;INF205K01312;13.98;;;25-Mar-2020
 
 JM Financial Mutual Fund
 134958;JM Large Cap Fund (Direct) - Annual IDCW;INF192K01JU4;INF192K01JV2;26.4661;;;25-Mar-2020
@@ -449,8 +449,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120357;Invesco India Large & Mid Cap Fund - Direct Plan - Growth;INF205K01MA0;;29.22;;;25-Mar-2020
 120356;Invesco India Large & Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LY2;INF205K01LZ9;14.7;;;25-Mar-2020
-106144;Invesco India Large & Mid Cap Fund - Growth;INF205K01247;;26.37;;;25-Mar-2020
-106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;13.06;;;25-Mar-2020
+106144;Invesco India Large & Mid Cap Fund - Regular Plan - Growth;INF205K01247;;26.37;;;25-Mar-2020
+106143;Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;13.06;;;25-Mar-2020
 
 Kotak Mahindra Mutual Fund
 120158;Kotak Large & Midcap Fund - Direct- Growth;INF174K01LF9;;98.914;;;25-Mar-2020
@@ -615,8 +615,8 @@ IDBI Mutual Fund
 Invesco Mutual Fund
 120403;Invesco India Midcap Fund - Direct Plan - Growth Option;INF205K01MV6;;42.63;;;25-Mar-2020
 120402;Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MT0;INF205K01MU8;18.86;;;25-Mar-2020
-105503;Invesco India Midcap Fund - Growth Option;INF205K01BC9;;38.12;;;25-Mar-2020
-105504;Invesco India Midcap Fund - IDCW (Payout / Reinvestment);INF205K01BD7;INF205K01BE5;16.04;;;25-Mar-2020
+105503;Invesco India Midcap Fund - Regular Plan - Growth Option;INF205K01BC9;;38.12;;;25-Mar-2020
+105504;Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01BD7;INF205K01BE5;16.04;;;25-Mar-2020
 
 Kotak Mahindra Mutual Fund
 119774;Kotak Midcap Fund  - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01LU8;INF174K01LV6;19.13;;;25-Mar-2020
@@ -993,8 +993,8 @@ Open Ended Schemes ( Equity Scheme - Contra Fund )
 Invesco Mutual Fund
 120348;Invesco India Contra Fund - Direct Plan - Growth;INF205K01LE4;;39.13;;;25-Mar-2020
 120349;Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LC8;INF205K01LD6;21.2;;;25-Mar-2020
-105460;Invesco India Contra Fund - Growth;INF205K01189;;35.58;;;25-Mar-2020
-105459;Invesco India Contra Fund - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;17.53;;;25-Mar-2020
+105460;Invesco India Contra Fund - Regular Plan - Growth;INF205K01189;;35.58;;;25-Mar-2020
+105459;Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;17.53;;;25-Mar-2020
 
 Kotak Mahindra Mutual Fund
 119769;Kotak Contra Fund - Direct Plan - Growth;INF174K01KZ9;;41.583;;;25-Mar-2020
@@ -1353,15 +1353,15 @@ Invesco Mutual Fund
 120385;Invesco India Financial Services Fund - Direct Plan - Growth;INF205K01KY4;;45.78;;;25-Mar-2020
 120384;Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KW8;INF205K01KX6;23.62;;;25-Mar-2020
 108377;Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment);INF205K01171;INF205K01163;20.94;;;25-Mar-2020
-108378;Invesco India Financial Services Fund - Retail Growth;INF205K01155;;41.07;;;25-Mar-2020
+108378;Invesco India Financial Services Fund - Regular Plan - Growth;INF205K01155;;41.07;;;25-Mar-2020
 120405;Invesco India Infrastructure Fund - Direct Plan - Growth Option;INF205K01MD4;;14.25;;;25-Mar-2020
 120404;Invesco India Infrastructure Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MB8;INF205K01MC6;12.7;;;25-Mar-2020
-106654;Invesco India Infrastructure Fund - Growth Option;INF205K01CD5;;12.75;;;25-Mar-2020
-106653;Invesco India Infrastructure Fund - IDCW (Payout / Reinvestment);INF205K01CE3;INF205K01CF0;11.46;;;25-Mar-2020
+106654;Invesco India Infrastructure Fund - Regular Plan - Growth Option;INF205K01CD5;;12.75;;;25-Mar-2020
+106653;Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01CE3;INF205K01CF0;11.46;;;25-Mar-2020
 120395;Invesco India PSU Equity Fund - Direct Plan - Growth;INF205K01NG5;;15.43;;;25-Mar-2020
 120394;Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NE0;INF205K01NF7;11.3;;;25-Mar-2020
-112171;Invesco India PSU Equity Fund - Growth;INF205K01338;;13.95;;;25-Mar-2020
-112173;Invesco India PSU Equity Fund - IDCW (Payout / Reinvestment);INF205K01353;INF205K01346;10.16;;;25-Mar-2020
+112171;Invesco India PSU Equity Fund - Regular Plan - Growth;INF205K01338;;13.95;;;25-Mar-2020
+112173;Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01353;INF205K01346;10.16;;;25-Mar-2020
 
 Kotak Mahindra Mutual Fund
 133796;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth;INF178L01095;;13.105;;;25-Mar-2020
@@ -1720,9 +1720,9 @@ IDBI Mutual Fund
 
 Invesco Mutual Fund
 120416;Invesco India ELSS Tax Saver Fund - Direct Plan - Growth;INF205K01NT8;;44.15;;;25-Mar-2020
-120417;Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NR2;INF205K01NS0;14.85;;;25-Mar-2020
-104636;Invesco India ELSS Tax Saver Fund - Growth;INF205K01270;;39.8;;;25-Mar-2020
-104635;Invesco India ELSS Tax Saver Fund - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;13.22;;;25-Mar-2020
+120417;Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout;INF205K01NR2;INF205K01NS0;14.85;;;25-Mar-2020
+104636;Invesco India ELSS Tax Saver Fund - Regular Plan - Growth;INF205K01270;;39.8;;;25-Mar-2020
+104635;Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout;INF205K01296;INF205K01288;13.22;;;25-Mar-2020
 
 ITI Mutual Fund
 147541;ITI ELSS Tax Saver Fund - Direct Plan - Growth Option;INF00XX01390;;7.1706;;;25-Mar-2020
@@ -3070,8 +3070,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120333;Invesco India Balanced Advantage Fund - Direct Plan - Growth;INF205K01LN5;;26.78;;;25-Mar-2020
 120332;Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;14.65;;;25-Mar-2020
-106317;Invesco India Balanced Advantage Fund - Growth;INF205K01213;;24.26;;;25-Mar-2020
-106316;Invesco India Balanced Advantage Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;13.7;;;25-Mar-2020
+106317;Invesco India Balanced Advantage Fund - Regular Plan - Growth;INF205K01213;;24.26;;;25-Mar-2020
+106316;Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;13.7;;;25-Mar-2020
 
 ITI Mutual Fund
 147789;ITI Balanced Advantage Fund - Direct Plan - Growth Option;INF00XX01689;;7.3265;;;25-Mar-2020
@@ -3284,8 +3284,8 @@ Invesco Mutual Fund
 130787;Invesco India Arbitrage Fund - Direct Plan - Annual Bonus;INF205K01P68;;24.8214;;;25-Mar-2020
 120401;Invesco India Arbitrage Fund - Direct Plan - Growth Option;INF205K01KR8;;24.8233;;;25-Mar-2020
 120400;Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KP2;INF205K01KQ0;13.7631;;;25-Mar-2020
-105603;Invesco India Arbitrage Fund - Growth Option;INF205K01122;;23.7818;;;25-Mar-2020
-105604;Invesco India Arbitrage Fund - IDCW (Payout / Reinvestment);INF205K01148;INF205K01130;12.9757;;;25-Mar-2020
+105603;Invesco India Arbitrage Fund - Regular Plan - Growth Option;INF205K01122;;23.7818;;;25-Mar-2020
+105604;Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01148;INF205K01130;12.9757;;;25-Mar-2020
 
 ITI Mutual Fund
 147617;ITI Arbitrage Fund - Direct Plan - Growth Option;INF00XX01440;;10.2943;;;25-Mar-2020
@@ -4001,7 +4001,7 @@ Nippon India Mutual Fund
 140086;Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option;INF732E01037;;1000.0000;;;25-Mar-2020
 140084;Nippon India ETF Nifty 50 BeES;INF204KB14I2;;88.2484;;;25-Mar-2020
 140094;Nippon India ETF Nifty 50 Shariah BeES;INF732E01128;;208.0829;;;25-Mar-2020
-134782;Nippon India ETF Nifty 50 Value 20;INF204KA17D8;;43.9788;;;25-Mar-2020
+134782;Nippon India ETF Nifty 50 Value 20;INF204KB18I3;;43.9788;;;25-Mar-2020
 140087;Nippon India ETF Nifty Bank BeES;INF204KB15I9;;186.0066;;;25-Mar-2020
 128639;Nippon India ETF Nifty Dividend Opportunities 50;INF204KA1MS3;;21.2477;;;25-Mar-2020
 128331;Nippon India ETF Nifty India Consumption;INF204KA1LD7;;41.2042;;;25-Mar-2020
@@ -4141,19 +4141,19 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;9.7741;;;25-Mar-2020
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;9.7512;;;25-Mar-2020
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;9.7512;;;25-Mar-2020
-102134;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;INF109K01DW7;INF109K01803;47.388;;;25-Mar-2020
-120243;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;INF109K01W33;INF109K01W41;48.8264;;;25-Mar-2020
-120242;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;INF109K01W58;;48.8281;;;25-Mar-2020
-102133;ICICI Prudential Passive Strategy Fund (FOF) - Growth;INF109K01795;;47.388;;;25-Mar-2020
+120243;ICICI Prudential Multi Sector Passive FOF - Direct Plan -  IDCW;INF109K01W33;INF109K01W41;48.8264;;;25-Mar-2020
+120242;ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth;INF109K01W58;;48.8281;;;25-Mar-2020
+102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;;47.388;;;25-Mar-2020
+102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803;47.388;;;25-Mar-2020
 120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;51.1603;;;25-Mar-2020
 102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;50.1118;;;25-Mar-2020
 102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;50.1118;;;25-Mar-2020
 
 Invesco Mutual Fund
+120531;Invesco India Gold ETF Fund of Fund - Direct Plan - Growth;INF205K01NJ9;;12.8276;;;25-Mar-2020
 120530;Invesco India Gold ETF Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NH3;INF205K01NI1;12.8083;;;25-Mar-2020
-120531;Invesco India Gold ETF Fund of Fund - Direct Plan- - Growth;INF205K01NJ9;;12.8276;;;25-Mar-2020
-116077;Invesco India Gold ETF Fund of Fund - Growth;INF205K01FA4;;12.5691;;;25-Mar-2020
-116075;Invesco India Gold ETF Fund of Fund - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;12.5687;;;25-Mar-2020
+116077;Invesco India Gold ETF Fund of Fund - Regular Plan - Growth;INF205K01FA4;;12.5691;;;25-Mar-2020
+116075;Invesco India Gold ETF Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;12.5687;;;25-Mar-2020
 
 Kotak Mahindra Mutual Fund
 119777;Kotak Multi Asset Omni FOF - Direct Growth - Direct;INF174K01LN3;;74.725;;;25-Mar-2020

@@ -116,8 +116,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120413;Invesco India Multicap Fund - Direct Plan - Growth Option;INF205K01MS2;;50.24;;;10-Oct-2019
 120412;Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MQ6;INF205K01MR4;45.49;;;10-Oct-2019
-107353;Invesco India Multicap Fund - Growth Option;INF205K01DN2;;45.52;;;10-Oct-2019
-107352;Invesco India Multicap Fund - IDCW (Payout / Reinvestment);INF205K01DO0;INF205K01DP7;41.28;;;10-Oct-2019
+107353;Invesco India Multicap Fund - Regular Plan - Growth Option;INF205K01DN2;;45.52;;;10-Oct-2019
+107352;Invesco India Multicap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01DO0;INF205K01DP7;41.28;;;10-Oct-2019
 
 ITI Mutual Fund
 147183;ITI Multi Cap Fund - Direct Plan - Growth Option;INF00XX01168;;10.4971;;;10-Oct-2019
@@ -266,8 +266,8 @@ IDBI Mutual Fund
 Invesco Mutual Fund
 120392;Invesco India Largecap Fund - Direct Plan - Growth;INF205K01LB0;;30.89;;;10-Oct-2019
 120393;Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KZ1;INF205K01LA2;19.88;;;10-Oct-2019
-112098;Invesco India Largecap Fund - Growth;INF205K01304;;27.86;;;10-Oct-2019
-112099;Invesco India Largecap Fund - IDCW (Payout / Reinvestment);INF205K01320;INF205K01312;17.99;;;10-Oct-2019
+112098;Invesco India Largecap Fund - Regular Plan - Growth;INF205K01304;;27.86;;;10-Oct-2019
+112099;Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01320;INF205K01312;17.99;;;10-Oct-2019
 
 JM Financial Mutual Fund
 134958;JM Large Cap Fund (Direct) - Annual IDCW;INF192K01JU4;INF192K01JV2;29.2602;;;10-Oct-2019
@@ -450,8 +450,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120357;Invesco India Large & Mid Cap Fund - Direct Plan - Growth;INF205K01MA0;;37.37;;;10-Oct-2019
 120356;Invesco India Large & Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LY2;INF205K01LZ9;18.8;;;10-Oct-2019
-106144;Invesco India Large & Mid Cap Fund - Growth;INF205K01247;;33.89;;;10-Oct-2019
-106143;Invesco India Large & Mid Cap Fund - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;16.79;;;10-Oct-2019
+106144;Invesco India Large & Mid Cap Fund - Regular Plan - Growth;INF205K01247;;33.89;;;10-Oct-2019
+106143;Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01262;INF205K01254;16.79;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 120158;Kotak Large & Midcap Fund - Direct- Growth;INF174K01LF9;;124.448;;;10-Oct-2019
@@ -598,8 +598,8 @@ IDBI Mutual Fund
 Invesco Mutual Fund
 120403;Invesco India Midcap Fund - Direct Plan - Growth Option;INF205K01MV6;;51.43;;;10-Oct-2019
 120402;Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MT0;INF205K01MU8;24.87;;;10-Oct-2019
-105503;Invesco India Midcap Fund - Growth Option;INF205K01BC9;;46.26;;;10-Oct-2019
-105504;Invesco India Midcap Fund - IDCW (Payout / Reinvestment);INF205K01BD7;INF205K01BE5;21.59;;;10-Oct-2019
+105503;Invesco India Midcap Fund - Regular Plan - Growth Option;INF205K01BC9;;46.26;;;10-Oct-2019
+105504;Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01BD7;INF205K01BE5;21.59;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 119774;Kotak Midcap Fund  - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01LU8;INF174K01LV6;24.593;;;10-Oct-2019
@@ -960,8 +960,8 @@ Open Ended Schemes ( Equity Scheme - Contra Fund )
 Invesco Mutual Fund
 120348;Invesco India Contra Fund - Direct Plan - Growth;INF205K01LE4;;49.84;;;10-Oct-2019
 120349;Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LC8;INF205K01LD6;27.01;;;10-Oct-2019
-105460;Invesco India Contra Fund - Growth;INF205K01189;;45.54;;;10-Oct-2019
-105459;Invesco India Contra Fund - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;22.44;;;10-Oct-2019
+105460;Invesco India Contra Fund - Regular Plan - Growth;INF205K01189;;45.54;;;10-Oct-2019
+105459;Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01205;INF205K01197;22.44;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 119769;Kotak Contra Fund - Direct Plan - Growth;INF174K01KZ9;;56.335;;;10-Oct-2019
@@ -1299,15 +1299,15 @@ Invesco Mutual Fund
 120385;Invesco India Financial Services Fund - Direct Plan - Growth;INF205K01KY4;;62.52;;;10-Oct-2019
 120384;Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KW8;INF205K01KX6;32.26;;;10-Oct-2019
 108377;Invesco India Financial Services Fund - Regular Plan -  IDCW (Payout / Reinvestment);INF205K01171;INF205K01163;28.74;;;10-Oct-2019
-108378;Invesco India Financial Services Fund - Retail Growth;INF205K01155;;56.36;;;10-Oct-2019
+108378;Invesco India Financial Services Fund - Regular Plan - Growth;INF205K01155;;56.36;;;10-Oct-2019
 120405;Invesco India Infrastructure Fund - Direct Plan - Growth Option;INF205K01MD4;;18.19;;;10-Oct-2019
 120404;Invesco India Infrastructure Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01MB8;INF205K01MC6;16.34;;;10-Oct-2019
-106654;Invesco India Infrastructure Fund - Growth Option;INF205K01CD5;;16.38;;;10-Oct-2019
-106653;Invesco India Infrastructure Fund - IDCW (Payout / Reinvestment);INF205K01CE3;INF205K01CF0;14.73;;;10-Oct-2019
+106654;Invesco India Infrastructure Fund - Regular Plan - Growth Option;INF205K01CD5;;16.38;;;10-Oct-2019
+106653;Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01CE3;INF205K01CF0;14.73;;;10-Oct-2019
 120395;Invesco India PSU Equity Fund - Direct Plan - Growth;INF205K01NG5;;19.01;;;10-Oct-2019
 120394;Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NE0;INF205K01NF7;15.35;;;10-Oct-2019
-112171;Invesco India PSU Equity Fund - Growth;INF205K01338;;17.26;;;10-Oct-2019
-112173;Invesco India PSU Equity Fund - IDCW (Payout / Reinvestment);INF205K01353;INF205K01346;13.98;;;10-Oct-2019
+112171;Invesco India PSU Equity Fund - Regular Plan - Growth;INF205K01338;;17.26;;;10-Oct-2019
+112173;Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01353;INF205K01346;13.98;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 133796;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth;INF178L01095;;19.16;;;10-Oct-2019
@@ -1660,9 +1660,9 @@ IDBI Mutual Fund
 
 Invesco Mutual Fund
 120416;Invesco India ELSS Tax Saver Fund - Direct Plan - Growth;INF205K01NT8;;54.86;;;10-Oct-2019
-120417;Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NR2;INF205K01NS0;20.2;;;10-Oct-2019
-104636;Invesco India ELSS Tax Saver Fund - Growth;INF205K01270;;49.69;;;10-Oct-2019
-104635;Invesco India ELSS Tax Saver Fund - IDCW (Payout / Reinvestment);INF205K01296;INF205K01288;18.26;;;10-Oct-2019
+120417;Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout;INF205K01NR2;INF205K01NS0;20.2;;;10-Oct-2019
+104636;Invesco India ELSS Tax Saver Fund - Regular Plan - Growth;INF205K01270;;49.69;;;10-Oct-2019
+104635;Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout;INF205K01296;INF205K01288;18.26;;;10-Oct-2019
 
 JM Financial Mutual Fund
 120494;JM ELSS Tax Saver Fund (Direct) - Growth Option;INF192K01CE3;;18.9733;;;10-Oct-2019
@@ -2717,16 +2717,16 @@ IDBI Mutual Fund
 118461;IDBI UST Weekly IDCW Direct;INF397L01AU6;INF397L01AT8;1071.9439;;;10-Oct-2019
 
 Invesco Mutual Fund
-114361;Invesco India Ultra Short Duration Fund - Annual IDCW (Payout / Reinvestment);INF205K01TD9;INF205K01TE7;1109.5806;;;10-Oct-2019
-136111;Invesco India Ultra Short Duration Fund - Daily IDCW (Reinvestment);;INF205K018H7;1073.7836;;;10-Oct-2019
 120543;Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment);INF205K01TF4;INF205K01TG2;1462.1871;;;10-Oct-2019
 136112;Invesco India Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205K019H5;1057.61;;;10-Oct-2019
 120541;Invesco India Ultra Short Duration Fund - Direct Plan - Growth;INF205K01TH0;;2053.5136;;;10-Oct-2019
 120542;Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01TI8;INF205K01TJ6;1391.4406;;;10-Oct-2019
 120544;Invesco India Ultra Short Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01TK4;INF205K01TL2;1030.3338;;;10-Oct-2019
-114359;Invesco India Ultra Short Duration Fund - Growth;INF205K01TM0;;1986.1152;;;10-Oct-2019
-114362;Invesco India Ultra Short Duration Fund - Monthly IDCW (Payout / Reinvestment);INF205K01TN8;INF205K01TO6;1021.5564;;;10-Oct-2019
-114360;Invesco India Ultra Short Duration Fund - Quarterly IDCW (Payout / Reinvestment);INF205K01TP3;INF205K01TQ1;1124.1945;;;10-Oct-2019
+114361;Invesco India Ultra Short Duration Fund - Regular Plan - Annual IDCW (Payout / Reinvestment);INF205K01TD9;INF205K01TE7;1109.5806;;;10-Oct-2019
+136111;Invesco India Ultra Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF205K018H7;1073.7836;;;10-Oct-2019
+114359;Invesco India Ultra Short Duration Fund - Regular Plan - Growth;INF205K01TM0;;1986.1152;;;10-Oct-2019
+114362;Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01TN8;INF205K01TO6;1021.5564;;;10-Oct-2019
+114360;Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01TP3;INF205K01TQ1;1124.1945;;;10-Oct-2019
 
 JM Financial Mutual Fund
 122316;JM Ultra Short Duration Fund (Direct) - Bonus Option - Principal Units;INF192K01FD8;;26.2650;;;10-Oct-2019
@@ -3535,15 +3535,15 @@ Axis Mutual Fund
 112722;Axis Short Duration Fund - Retail Plan - Weekly IDCW;INF846K01628;INF846K01636;10.1618;;;10-Oct-2019
 
 Bandhan Mutual Fund
-143367;BANDHAN Bond Fund - Short Term - Direct Plan - Quarterly IDCW;INF194KA18K4;INF194KA19K2;10.2022;;;10-Oct-2019
-143368;BANDHAN Bond Fund - Short Term - Regular Plan - Annual IDCW;INF194KA15K0;INF194KA16K8;10.5802;;;10-Oct-2019
-108713;BANDHAN Bond Fund - Short Term - Regular Plan - Fortnightly IDCW;INF194K01HK5;INF194K01HJ7;10.3541;;;10-Oct-2019
-131383;BANDHAN Bond Fund - Short Term - Regular Plan - Periodic IDCW;INF194KA1SO1;INF194KA1SP8;14.8219;;;10-Oct-2019
-143366;BANDHAN Bond Fund - Short Term - Regular Plan - Quarterly IDCW;INF194KA12K7;INF194KA13K5;10.2455;;;10-Oct-2019
-118405;BANDHAN Bond Fund - Short Term-Direct Plan-Fortnightly IDCW;INF194K01U56;INF194K01U49;10.2805;;;10-Oct-2019
-118407;BANDHAN Bond Fund - Short Term-Direct Plan-Growth;INF194K01U07;;41.5957;;;10-Oct-2019
-118406;BANDHAN Bond Fund - Short Term-Direct Plan-Monthly IDCW;INF194K01U23;INF194K01U15;10.4193;;;10-Oct-2019
-131382;BANDHAN Bond Fund - Short Term-Direct Plan-Periodic IDCW;INF194KA1SR4;INF194KA1SS2;15.0179;;;10-Oct-2019
+118405;Bandhan Short Duration Fund - Direct Plan - Fortnightly IDCW;INF194K01U56;INF194K01U49;10.2805;;;10-Oct-2019
+118407;Bandhan Short Duration Fund - Direct Plan - Growth;INF194K01U07;;41.5957;;;10-Oct-2019
+118406;Bandhan Short Duration Fund - Direct Plan - Monthly IDCW;INF194K01U23;INF194K01U15;10.4193;;;10-Oct-2019
+131382;Bandhan Short Duration Fund - Direct Plan - Periodic IDCW;INF194KA1SR4;INF194KA1SS2;15.0179;;;10-Oct-2019
+143367;Bandhan Short Duration Fund - Direct Plan - Quarterly IDCW;INF194KA18K4;INF194KA19K2;10.2022;;;10-Oct-2019
+143368;Bandhan Short Duration Fund - Regular Plan - Annual IDCW;INF194KA15K0;INF194KA16K8;10.5802;;;10-Oct-2019
+108713;Bandhan Short Duration Fund - Regular Plan - Fortnightly IDCW;INF194K01HK5;INF194K01HJ7;10.3541;;;10-Oct-2019
+131383;Bandhan Short Duration Fund - Regular Plan - Periodic IDCW;INF194KA1SO1;INF194KA1SP8;14.8219;;;10-Oct-2019
+143366;Bandhan Short Duration Fund - Regular Plan - Quarterly IDCW;INF194KA12K7;INF194KA13K5;10.2455;;;10-Oct-2019
 
 Bank of India Mutual Fund
 119382;BANK OF INDIA Short Term Income Fund-Direct Plan- Growth;INF761K01736;;17.7861;;;10-Oct-2019
@@ -3665,18 +3665,18 @@ IDBI Mutual Fund
 118458;IDBI Short Term Bond Fund Weekly IDCW Direct;INF397L01BK5;INF397L01BL3;12.2647;;;10-Oct-2019
 
 Invesco Mutual Fund
-117973;Invesco India Short Duration Fund - Daily IDCW (Reinvestment);;INF205K01UD7;1033.3173;;;10-Oct-2019
 120559;Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205K01UE5;1023.5517;;;10-Oct-2019
 120560;Invesco India Short Duration Fund - Direct Plan - Growth;INF205K01UH8;;2695.9428;;;10-Oct-2019
 120561;Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01UI6;INF205K01UJ4;1851.7313;;;10-Oct-2019
 120563;Invesco India Short Duration Fund - Direct Plan -Discretionary IDCW (Payout / Reinvestment);INF205K01UF2;INF205K01UG0;1901.9642;;;10-Oct-2019
 120562;Invesco India Short Duration Fund - Direct Plan -Weekly IDCW (Reinvestment);;INF205K01UK2;1019.5604;;;10-Oct-2019
-105185;Invesco India Short Duration Fund - Growth;INF205K01UN6;;2545.901;;;10-Oct-2019
-105191;Invesco India Short Duration Fund - Monthly IDCW (Payout / Reinvestment);INF205K01UO4;INF205K01UP1;1052.6359;;;10-Oct-2019
 105189;Invesco India Short Duration Fund - Plan B - Growth;INF205K01UR7;;2536.8272;;;10-Oct-2019
 105187;Invesco India Short Duration Fund - Plan B - Monthly IDCW (Payout / Reinvestment);INF205K01US5;INF205K01UT3;1687.6259;;;10-Oct-2019
 105192;Invesco India Short Duration Fund - Plan B - Weekly IDCW (Reinvestment);;INF205K01UU1;1015.9977;;;10-Oct-2019
-105190;Invesco India Short Duration Fund - Weekly IDCW (Reinvestment);;INF205K01UV9;1019.4895;;;10-Oct-2019
+117973;Invesco India Short Duration Fund - Regular Plan - Daily IDCW (Reinvestment);;INF205K01UD7;1033.3173;;;10-Oct-2019
+105185;Invesco India Short Duration Fund - Regular Plan - Growth;INF205K01UN6;;2545.901;;;10-Oct-2019
+105191;Invesco India Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01UO4;INF205K01UP1;1052.6359;;;10-Oct-2019
+105190;Invesco India Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF205K01UV9;1019.4895;;;10-Oct-2019
 
 JM Financial Mutual Fund
 120469;JM Short Term Fund (Direct) - Daily Dividend Option;;INF192K01DZ6;13.7875;;;10-Oct-2019
@@ -3821,19 +3821,19 @@ Axis Mutual Fund
 116895;Axis Strategic Bond Fund - Regular Plan - Quarterly IDCW;INF846K01BQ0;INF846K01BS6;10.3596;;;10-Oct-2019
 
 Bandhan Mutual Fund
-108730;BANDHAN Bond Fund - Medium Term - Regular Plan - Bi-Monthly IDCW;INF194K01KF9;INF194K01KE2;11.8991;;;10-Oct-2019
-108731;BANDHAN Bond Fund - Medium Term - Regular Plan - Daily IDCW;INF194K01JW6;INF194K01JV8;10.2063;;;10-Oct-2019
-108729;BANDHAN Bond Fund - Medium Term - Regular Plan - Fortnightly IDCW;INF194K01KI3;INF194K01KH5;10.2274;;;10-Oct-2019
-108728;BANDHAN Bond Fund - Medium Term - Regular Plan - Growth;INF194K01JU0;;32.9209;;;10-Oct-2019
-113169;BANDHAN Bond Fund - Medium Term - Regular Plan - IDCW Quarterly;INF194K01JZ9;INF194K01JY2;10.9402;;;10-Oct-2019
-108727;BANDHAN Bond Fund - Medium Term - Regular Plan - Monthly IDCW;INF194K01KC6;INF194K01KB8;10.2141;;;10-Oct-2019
-131385;BANDHAN Bond Fund - Medium Term - Regular Plan - Periodic IDCW;INF194KA1TA8;INF194KA1TB6;15.0332;;;10-Oct-2019
-118399;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Bi Monthly IDCW;INF194K01T59;INF194K01T42;12.2408;;;10-Oct-2019
-118400;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Daily IDCW;;INF194K01S68;10.4212;;;10-Oct-2019
-118401;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Growth;INF194K01S50;;34.4691;;;10-Oct-2019
-118402;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Monthly IDCW;INF194K01T26;INF194K01T18;10.4853;;;10-Oct-2019
-131384;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Periodic IDCW;INF194KA1TD2;INF194KA1TE0;15.3770;;;10-Oct-2019
-118403;BANDHAN Bond Fund - Medium Term Plan-Direct Plan-Quartely IDCW;INF194K01S92;INF194K01S84;11.0793;;;10-Oct-2019
+118399;Bandhan Medium Duration Fund - Direct Plan - Bi Monthly IDCW;INF194K01T59;INF194K01T42;12.2408;;;10-Oct-2019
+118400;Bandhan Medium Duration Fund - Direct Plan - Daily IDCW;;INF194K01S68;10.4212;;;10-Oct-2019
+118401;Bandhan Medium Duration Fund - Direct Plan - Growth;INF194K01S50;;34.4691;;;10-Oct-2019
+118402;Bandhan Medium Duration Fund - Direct Plan - Monthly IDCW;INF194K01T26;INF194K01T18;10.4853;;;10-Oct-2019
+131384;Bandhan Medium Duration Fund - Direct Plan - Periodic IDCW;INF194KA1TD2;INF194KA1TE0;15.3770;;;10-Oct-2019
+118403;Bandhan Medium Duration Fund - Direct Plan - Quarterly IDCW;INF194K01S92;INF194K01S84;11.0793;;;10-Oct-2019
+108730;Bandhan Medium Duration Fund - Regular Plan - Bi-Monthly IDCW;INF194K01KF9;INF194K01KE2;11.8991;;;10-Oct-2019
+108731;Bandhan Medium Duration Fund - Regular Plan - Daily IDCW;INF194K01JW6;INF194K01JV8;10.2063;;;10-Oct-2019
+108729;Bandhan Medium Duration Fund - Regular Plan - Fortnightly IDCW;INF194K01KI3;INF194K01KH5;10.2274;;;10-Oct-2019
+108728;Bandhan Medium Duration Fund - Regular Plan - Growth;INF194K01JU0;;32.9209;;;10-Oct-2019
+108727;Bandhan Medium Duration Fund - Regular Plan - Monthly IDCW;INF194K01KC6;INF194K01KB8;10.2141;;;10-Oct-2019
+131385;Bandhan Medium Duration Fund - Regular Plan - Periodic IDCW;INF194KA1TA8;INF194KA1TB6;15.0332;;;10-Oct-2019
+113169;Bandhan Medium Duration Fund - Regular Plan - Quarterly IDCW;INF194K01JZ9;INF194K01JY2;10.9402;;;10-Oct-2019
 
 BNP Paribas Mutual Fund
 127320;BNP Paribas Medium Term Fund - Annual Income Distribution cum Capital Withdrawal Option;INF251K01LP4;INF251K01LZ3;9.5677;;;10-Oct-2019
@@ -3974,18 +3974,18 @@ Aditya Birla Sun Life Mutual Fund
 100037;Aditya Birla Sun Life Income Fund - Regular - Quarterly IDCW;INF209K01587;INF209K01CY3;12.8257;;;10-Oct-2019
 
 Bandhan Mutual Fund
-108766;BANDHAN Bond Fund - Income Plan - Regular Plan - Annual IDCW;INF194K01IN7;INF194K01IM9;12.2004;;;10-Oct-2019
-108765;BANDHAN Bond Fund - Income Plan - Regular Plan - Growth;INF194K01IL1;;47.7196;;;10-Oct-2019
-108763;BANDHAN Bond Fund - Income Plan - Regular Plan - Half-yearly IDCW;INF194K01IQ0;INF194K01IP2;11.6331;;;10-Oct-2019
-131387;BANDHAN Bond Fund - Income Plan - Regular Plan - Periodic IDCW;INF194KA1SU8;INF194KA1SV6;15.6705;;;10-Oct-2019
-108764;BANDHAN Bond Fund - Income Plan - Regular Plan - Quarterly IDCW;INF194K01IT4;INF194K01IS6;11.7751;;;10-Oct-2019
-118393;BANDHAN Bond Fund - Income Plan-Direct Plan-Annual IDCW;INF194K01R77;INF194K01R69;16.7119;;;10-Oct-2019
-118394;BANDHAN Bond Fund - Income Plan-Direct Plan-Growth;INF194K01R51;;50.2956;;;10-Oct-2019
-118395;BANDHAN Bond Fund - Income Plan-Direct Plan-Half Yearly IDCW;INF194K01S01;INF194K01R93;12.4351;;;10-Oct-2019
-131386;BANDHAN Bond Fund - Income Plan-Direct Plan-Periodic IDCW;INF194KA1SX2;INF194KA1SY0;15.9196;;;10-Oct-2019
-118396;BANDHAN Bond Fund - Income Plan-Direct Plan-Quarterly IDCW;INF194K01S35;INF194K01S27;12.2935;;;10-Oct-2019
-108768;BANDHAN Bond Fund - Short Term - Regular Plan - Growth;INF194K01HF5;;39.9463;;;10-Oct-2019
-108767;BANDHAN Bond Fund - Short Term - Regular Plan - Monthly IDCW;INF194K01HH1;INF194K01HG3;10.2110;;;10-Oct-2019
+118393;Bandhan Medium to Long Duration Fund - Direct Plan - Annual IDCW;INF194K01R77;INF194K01R69;16.7119;;;10-Oct-2019
+118394;Bandhan Medium to Long Duration Fund - Direct Plan - Growth;INF194K01R51;;50.2956;;;10-Oct-2019
+118395;Bandhan Medium to Long Duration Fund - Direct Plan - Half Yearly IDCW;INF194K01S01;INF194K01R93;12.4351;;;10-Oct-2019
+131386;Bandhan Medium to Long Duration Fund - Direct Plan - Periodic IDCW;INF194KA1SX2;INF194KA1SY0;15.9196;;;10-Oct-2019
+118396;Bandhan Medium to Long Duration Fund - Direct Plan - Quarterly IDCW;INF194K01S35;INF194K01S27;12.2935;;;10-Oct-2019
+108766;Bandhan Medium to Long Duration Fund - Regular Plan - Annual IDCW;INF194K01IN7;INF194K01IM9;12.2004;;;10-Oct-2019
+108765;Bandhan Medium to Long Duration Fund - Regular Plan - Growth;INF194K01IL1;;47.7196;;;10-Oct-2019
+108763;Bandhan Medium to Long Duration Fund - Regular Plan - Half-yearly IDCW;INF194K01IQ0;INF194K01IP2;11.6331;;;10-Oct-2019
+131387;Bandhan Medium to Long Duration Fund - Regular Plan - Periodic IDCW;INF194KA1SU8;INF194KA1SV6;15.6705;;;10-Oct-2019
+108764;Bandhan Medium to Long Duration Fund - Regular Plan - Quarterly IDCW;INF194K01IT4;INF194K01IS6;11.7751;;;10-Oct-2019
+108768;Bandhan Short Duration Fund - Regular Plan - Growth;INF194K01HF5;;39.9463;;;10-Oct-2019
+108767;Bandhan Short Duration Fund - Regular Plan - Monthly IDCW;INF194K01HH1;INF194K01HG3;10.2110;;;10-Oct-2019
 
 Bank of India Mutual Fund
 119395;BANK OF INDIA Conservative Hybrid  Fund-Direct Plan-Quarterly IDCW;INF761K01850;INF761K01843;9.4170;;;10-Oct-2019
@@ -4516,16 +4516,16 @@ ICICI Prudential Mutual Fund
 111977;ICICI Prudential Corporate Bond Fund Retail Weekly Dividend;INF109K01SE3;INF109K01CG2;10.2261;;;10-Oct-2019
 
 Invesco Mutual Fund
-106179;Invesco India Corporate Bond Fund - Annual IDCW (Payout / Reinvestment);INF205K01QX3;INF205K01QY1;1942.1099;;;10-Oct-2019
 120500;Invesco India Corporate Bond Fund - Direct Plan - Annual IDCW (Payout / Reinvestment);INF205K01RA9;INF205K01RB7;1308.9317;;;10-Oct-2019
 120499;Invesco India Corporate Bond Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment);INF205K01RD3;INF205K01RE1;2314.731;;;10-Oct-2019
 120497;Invesco India Corporate Bond Fund - Direct Plan - Growth;INF205K01RF8;;2314.6065;;;10-Oct-2019
 120496;Invesco India Corporate Bond Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01RG6;INF205K01RH4;1261.4951;;;10-Oct-2019
 120501;Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01RI2;INF205K01RJ0;1127.9132;;;10-Oct-2019
-116109;Invesco India Corporate Bond Fund - Discretionary IDCW (Payout / Reinvestment);INF205K01RK8;INF205K01RL6;2314.9303;;;10-Oct-2019
-106177;Invesco India Corporate Bond Fund - Growth;INF205K01RM4;;2208.3642;;;10-Oct-2019
-106171;Invesco India Corporate Bond Fund - Monthly IDCW (Payout / Reinvestment);INF205K01RN2;INF205K01RO0;1414.0155;;;10-Oct-2019
-106172;Invesco India Corporate Bond Fund - Quarterly IDCW (Payout / Reinvestment);INF205K01RP7;INF205K01RQ5;1126.2476;;;10-Oct-2019
+106179;Invesco India Corporate Bond Fund - Regular Plan - Annual IDCW (Payout / Reinvestment);INF205K01QX3;INF205K01QY1;1942.1099;;;10-Oct-2019
+116109;Invesco India Corporate Bond Fund - Regular Plan - Discretionary IDCW (Payout / Reinvestment);INF205K01RK8;INF205K01RL6;2314.9303;;;10-Oct-2019
+106177;Invesco India Corporate Bond Fund - Regular Plan - Growth;INF205K01RM4;;2208.3642;;;10-Oct-2019
+106171;Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01RN2;INF205K01RO0;1414.0155;;;10-Oct-2019
+106172;Invesco India Corporate Bond Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01RP7;INF205K01RQ5;1126.2476;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 133791;Kotak Corporate Bond Fund- Direct Plan- Growth Option;INF178L01BY0;;2659.6959;;;10-Oct-2019
@@ -4922,12 +4922,12 @@ ICICI Prudential Mutual Fund
 113242;ICICI Prudential Banking and PSU Debt Fund Retail Growth;INF109K01II5;;20.8676;;;10-Oct-2019
 
 Invesco Mutual Fund
-118234;Invesco India Banking and PSU Fund - Daily IDCW (Reinvestment);;INF205K01JX8;1003.6923;;;10-Oct-2019
 120444;Invesco India Banking and PSU Fund - Direct Plan -  Growth Option;INF205K01KT4;;1698.0023;;;10-Oct-2019
 120443;Invesco India Banking and PSU Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205K01KS6;1069.8078;;;10-Oct-2019
 120445;Invesco India Banking and PSU Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);INF205K01KU2;INF205K01KV0;1014.5282;;;10-Oct-2019
-118232;Invesco India Banking and PSU Fund - Growth Option;INF205K01JV2;;1622.2515;;;10-Oct-2019
-118233;Invesco India Banking and PSU Fund - Monthly IDCW (Payout / Reinvestment);INF205K01JW0;INF205K01JY6;1014.3842;;;10-Oct-2019
+118234;Invesco India Banking and PSU Fund - Regular Plan - Daily IDCW (Reinvestment);;INF205K01JX8;1003.6923;;;10-Oct-2019
+118232;Invesco India Banking and PSU Fund - Regular Plan - Growth Option;INF205K01JV2;;1622.2515;;;10-Oct-2019
+118233;Invesco India Banking and PSU Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01JW0;INF205K01JY6;1014.3842;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 123690;Kotak Banking and PSU Debt - Growth;INF174K01FO3;;44.6883;;;10-Oct-2019
@@ -5031,17 +5031,17 @@ Axis Mutual Fund
 116470;Axis Gilt Fund - Regular Plan - Regular IDCW;INF846K01CK1;INF846K01CL9;10.0640;;;10-Oct-2019
 
 Bandhan Mutual Fund
-108558;BANDHAN Government Securities Fund - IP - Regular - Plan B - Half Yearly IDCW;INF194K01EB1;INF194K01EA3;10.8817;;;10-Oct-2019
-108559;BANDHAN Government Securities Fund - IP - Regular Plan - Annual IDCW;INF194K01EE5;INF194K01ED7;11.7014;;;10-Oct-2019
-108557;BANDHAN Government Securities Fund - IP - Regular Plan - Quarterly IDCW;INF194K01EH8;INF194K01EG0;11.3346;;;10-Oct-2019
-131395;BANDHAN Government Securities Fund - IP - Regular -Plan B - Periodic IDCW;INF194KA1RW6;INF194KA1RX4;16.3223;;;10-Oct-2019
-111525;BANDHAN Government Securities Fund - IP - Regular Plan - Growth;INF194K01DZ2;;24.1930;;;10-Oct-2019
-111527;BANDHAN Government Securities Fund - IP - Regular Plan - IDCW;INF194K01EK2;INF194K01EJ4;12.6158;;;10-Oct-2019
-118467;BANDHAN Government Securities Fund-  Investment Plan-Direct Plan-Annual IDCW;INF194K01Q78;INF194K01Q60;12.8307;;;10-Oct-2019
-118464;BANDHAN Government Securities Fund-  Investment Plan-Direct Plan-Growth;INF194K01Q29;;25.2410;;;10-Oct-2019
-118463;BANDHAN Government Securities Fund-  Investment Plan-Direct Plan-IDCW;INF194K01R36;INF194K01R28;13.7876;;;10-Oct-2019
-131394;BANDHAN Government Securities Fund-  Investment Plan-Direct Plan-Periodic IDCW;INF194KA1RZ9;INF194KA1SA0;16.4581;;;10-Oct-2019
-118466;BANDHAN Government Securities Fund-  Investment Plan-Direct Plan-Quarterly IDCW;INF194K01R02;INF194K01Q94;11.0014;;;10-Oct-2019
+108557;Bandhan Gilt Fund - Regular Plan - Quarterly IDCW;INF194K01EH8;INF194K01EG0;11.3346;;;10-Oct-2019
+118467;Bandhan Gilt Fund - Direct Plan - Annual IDCW;INF194K01Q78;INF194K01Q60;12.8307;;;10-Oct-2019
+118464;Bandhan Gilt Fund - Direct Plan - Growth;INF194K01Q29;;25.2410;;;10-Oct-2019
+118463;Bandhan Gilt Fund - Direct Plan - IDCW;INF194K01R36;INF194K01R28;13.7876;;;10-Oct-2019
+131394;Bandhan Gilt Fund - Direct Plan - Periodic IDCW;INF194KA1RZ9;INF194KA1SA0;16.4581;;;10-Oct-2019
+118466;Bandhan Gilt Fund - Direct Plan - Quarterly IDCW;INF194K01R02;INF194K01Q94;11.0014;;;10-Oct-2019
+111525;Bandhan Gilt Fund - Regular Plan - Growth;INF194K01DZ2;;24.1930;;;10-Oct-2019
+111527;Bandhan Gilt Fund - Regular Plan - IDCW;INF194K01EK2;INF194K01EJ4;12.6158;;;10-Oct-2019
+131395;Bandhan Gilt Fund - Regular Plan B - Periodic IDCW;INF194KA1RW6;INF194KA1RX4;16.3223;;;10-Oct-2019
+108559;Bandhan Gilt Fund - Regular Plan - Annual IDCW;INF194K01EE5;INF194K01ED7;11.7014;;;10-Oct-2019
+108558;Bandhan Gilt Fund - Regular - Plan B - Half Yearly IDCW;INF194K01EB1;INF194K01EA3;10.8817;;;10-Oct-2019
 
 Baroda BNP Paribas Mutual Fund
 119341;Baroda BNP Paribas GILT FUND - Direct Plan - Growth Option;INF955L01AD7;;32.1247;;;10-Oct-2019
@@ -5102,14 +5102,14 @@ IDBI Mutual Fund
 118446;IDBI Gilt Fund Quarterly IDCW Direct;INF397L01CD8;INF397L01CE6;12.1339;;;10-Oct-2019
 
 Invesco Mutual Fund
-107476;Invesco India Gilt Fund - Annual IDCW (Payout / Reinvestment);INF205K01SJ8;INF205K01SK6;1151.1842;;;10-Oct-2019
 120520;Invesco India Gilt Fund - Direct  Plan - Growth;INF205K01SN0;;2201.1717;;;10-Oct-2019
 120519;Invesco India Gilt Fund - Direct Plan - Annual IDCW (Payout / Reinvestment);INF205K01SL4;INF205K01SM2;1150.6599;;;10-Oct-2019
 120521;Invesco India Gilt Fund - Direct Plan - Monthly IDCW (Reinvestment);;INF205K01SO8;1717.8027;;;10-Oct-2019
 120522;Invesco India Gilt Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01SP5;INF205K01SQ3;1017.2437;;;10-Oct-2019
-107477;Invesco India Gilt Fund - Growth;INF205K01SR1;;2080.6964;;;10-Oct-2019
-107471;Invesco India Gilt Fund - Monthly IDCW (Reinvestment);;INF205K01SS9;1171.9109;;;10-Oct-2019
-107472;Invesco India Gilt Fund - Quarterly IDCW (Payout / Reinvestment);INF205K01ST7;INF205K01SU5;1072.1304;;;10-Oct-2019
+107476;Invesco India Gilt Fund - Regular Plan - Annual IDCW (Payout / Reinvestment);INF205K01SJ8;INF205K01SK6;1151.1842;;;10-Oct-2019
+107477;Invesco India Gilt Fund - Regular Plan - Growth;INF205K01SR1;;2080.6964;;;10-Oct-2019
+107471;Invesco India Gilt Fund - Regular Plan - Monthly IDCW (Reinvestment);;INF205K01SS9;1171.9109;;;10-Oct-2019
+107472;Invesco India Gilt Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01ST7;INF205K01SU5;1072.1304;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 100281;Kotak Gilt-Investment  Provident Fund and Trust-Growth;INF174K01FL9;;68.6402;;;10-Oct-2019
@@ -5187,16 +5187,16 @@ Open Ended Schemes ( Debt Scheme - Gilt Fund with 10 year constant duration )
 
 
 Bandhan Mutual Fund
-108646;BANDHAN Government Securities Fund - Constant Maturity Plan - Regular Plan - Quarterly IDCW;INF194K01FF9;INF194K01FE2;11.1948;;;10-Oct-2019
-108753;BANDHAN Government Securities Fund - Constant Maturity Plan - Regular Plan - Growth;INF194K01FA0;;31.2749;;;10-Oct-2019
-111343;BANDHAN Government Securities Fund - Constant Maturity Plan - Regular Plan - Weekly IDCW;INF194K01FI3;INF194K01FH5;10.1685;;;10-Oct-2019
-108644;BANDHAN Government Securities Fund - Constant Maturity Plan - Regular Plan - Monthly IDCW;INF194K01FC6;INF194K01FB8;10.4221;;;10-Oct-2019
-131391;BANDHAN Government Securities Fund - Constant Maturity Plan - Regular Plan - Periodic IDCW;INF194KA1SI3;INF194KA1SJ1;16.7615;;;10-Oct-2019
-118387;BANDHAN Government Securities Fund - Constant Maturity Plan -Direct Plan-Growth;INF194K01P38;;31.4953;;;10-Oct-2019
-118390;BANDHAN Government Securities Fund - Constant Maturity Plan -Direct Plan-Monthly IDCW;INF194K01P53;INF194K01P46;10.4626;;;10-Oct-2019
-131390;BANDHAN Government Securities Fund - Constant Maturity Plan -Direct Plan-Periodic IDCW;INF194KA1SL7;INF194KA1SM5;16.8084;;;10-Oct-2019
-118388;BANDHAN Government Securities Fund - Constant Maturity Plan -Direct Plan-Quarterly IDCW;INF194K01P87;INF194K01P79;11.4701;;;10-Oct-2019
-118389;BANDHAN Government Securities Fund - Constant Maturity Plan -Direct Plan-Weekly IDCW;;INF194K01Q03;17.7221;;;10-Oct-2019
+118387;Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Growth;INF194K01P38;;31.4953;;;10-Oct-2019
+118390;Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Monthly IDCW;INF194K01P53;INF194K01P46;10.4626;;;10-Oct-2019
+131390;Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Periodic IDCW;INF194KA1SL7;INF194KA1SM5;16.8084;;;10-Oct-2019
+118388;Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Quarterly IDCW;INF194K01P87;INF194K01P79;11.4701;;;10-Oct-2019
+118389;Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Weekly IDCW;;INF194K01Q03;17.7221;;;10-Oct-2019
+108644;Bandhan Gilt Fund with 10 year constant duration Fund - Regular Plan - Monthly IDCW;INF194K01FC6;INF194K01FB8;10.4221;;;10-Oct-2019
+131391;Bandhan Gilt Fund with 10 year constant duration Fund - Regular Plan - Periodic IDCW;INF194KA1SI3;INF194KA1SJ1;16.7615;;;10-Oct-2019
+108753;Bandhan Gilt Fund with 10 year constant duration Fund - Regular Plan - Growth;INF194K01FA0;;31.2749;;;10-Oct-2019
+111343;Bandhan Gilt Fund with 10 year constant duration Fund - Regular Plan - Weekly IDCW;INF194K01FI3;INF194K01FH5;10.1685;;;10-Oct-2019
+108646;Bandhan Gilt Fund with 10 year constant duration Fund - Regular Plan - Quarterly IDCW;INF194K01FF9;INF194K01FE2;11.1948;;;10-Oct-2019
 
 DSP Mutual Fund
 131301;DSP 10Y G-Sec Fund - Direct Plan - Growth;INF740K019I5;;15.7350;;;10-Oct-2019
@@ -5836,8 +5836,8 @@ ICICI Prudential Mutual Fund
 Invesco Mutual Fund
 120333;Invesco India Balanced Advantage Fund - Direct Plan - Growth;INF205K01LN5;;31.88;;;10-Oct-2019
 120332;Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01LL9;INF205K01LM7;18.24;;;10-Oct-2019
-106317;Invesco India Balanced Advantage Fund - Growth;INF205K01213;;29.04;;;10-Oct-2019
-106316;Invesco India Balanced Advantage Fund - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;17.05;;;10-Oct-2019
+106317;Invesco India Balanced Advantage Fund - Regular Plan - Growth;INF205K01213;;29.04;;;10-Oct-2019
+106316;Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01239;INF205K01221;17.05;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 144335;Kotak Balanced Advantage Fund  - Direct Plan -Growth Option;INF174KA1210;;10.815;;;10-Oct-2019
@@ -6046,8 +6046,8 @@ Invesco Mutual Fund
 130787;Invesco India Arbitrage Fund - Direct Plan - Annual Bonus;INF205K01P68;;24.2615;;;10-Oct-2019
 120401;Invesco India Arbitrage Fund - Direct Plan - Growth Option;INF205K01KR8;;24.262;;;10-Oct-2019
 120400;Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01KP2;INF205K01KQ0;13.7488;;;10-Oct-2019
-105603;Invesco India Arbitrage Fund - Growth Option;INF205K01122;;23.3122;;;10-Oct-2019
-105604;Invesco India Arbitrage Fund - IDCW (Payout / Reinvestment);INF205K01148;INF205K01130;13.0162;;;10-Oct-2019
+105603;Invesco India Arbitrage Fund - Regular Plan - Growth Option;INF205K01122;;23.3122;;;10-Oct-2019
+105604;Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01148;INF205K01130;13.0162;;;10-Oct-2019
 
 ITI Mutual Fund
 147617;ITI Arbitrage Fund - Direct Plan - Growth Option;INF00XX01440;;10.0670;;;10-Oct-2019
@@ -6767,7 +6767,7 @@ Nippon India Mutual Fund
 140086;Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option;INF732E01037;;1000.0000;;;10-Oct-2019
 140084;Nippon India ETF Nifty 50 BeES;INF204KB14I2;;1188.2611;;;10-Oct-2019
 140094;Nippon India ETF Nifty 50 Shariah BeES;INF732E01128;;252.0125;;;10-Oct-2019
-134782;Nippon India ETF Nifty 50 Value 20;INF204KA17D8;;558.8788;;;10-Oct-2019
+134782;Nippon India ETF Nifty 50 Value 20;INF204KB18I3;;558.8788;;;10-Oct-2019
 139496;Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt;INF204KB1882;;20.0017;;;10-Oct-2019
 140087;Nippon India ETF Nifty Bank BeES;INF204KB15I9;;2860.0585;;;10-Oct-2019
 128639;Nippon India ETF Nifty Dividend Opportunities 50;INF204KA1MS3;;28.7352;;;10-Oct-2019
@@ -6961,18 +6961,14 @@ Axis Mutual Fund
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;11.9933;;;10-Oct-2019
 
 Bandhan Mutual Fund
-112332;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - Growth;INF194K01953;;22.2776;;;10-Oct-2019
-112331;BANDHAN Asset Allocation Fund - Regular Plan - Aggressive Plan - IDCW;INF194K01961;INF194K01979;16.1572;;;10-Oct-2019
-118485;BANDHAN Asset Allocation Fund Of Fund-Aggressive Plan-Direct Plan-Growth;INF194K012B6;;23.0473;;;10-Oct-2019
-118484;BANDHAN Asset Allocation Fund Of Fund-Aggressive Plan-Direct Plan-IDCW;INF194K013B4;INF194K014B2;17.9417;;;10-Oct-2019
-112327;BANDHAN Asset Allocation Fund - Regular Plan - Conservative Plan - Growth;INF194K01987;;21.6915;;;10-Oct-2019
-112328;BANDHAN Asset Allocation Fund - Regular Plan - Conservative Plan - IDCW;INF194K01995;INF194K01AA1;14.9666;;;10-Oct-2019
-118486;BANDHAN Asset Allocation Fund Of Fund-Conservative Plan-Direct Plan-Growth;INF194K016A9;;22.4413;;;10-Oct-2019
-118487;BANDHAN Asset Allocation Fund Of Fund-Conservative Plan-Direct Plan-IDCW;INF194K017A7;INF194K018A5;15.4982;;;10-Oct-2019
-112329;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - Growth;INF194K01AB9;;22.5254;;;10-Oct-2019
-112330;BANDHAN Asset Allocation Fund - Regular Plan - Moderate Plan - IDCW;INF194K01AC7;INF194K01AD5;16.2506;;;10-Oct-2019
-118489;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-Growth;INF194K019A3;;23.2366;;;10-Oct-2019
-118488;BANDHAN Asset Allocation Fund Of Fund-Moderate Plan-Direct Plan-IDCW;INF194K010B0;INF194K011B8;16.5509;;;10-Oct-2019
+118485;Bandhan Aggressive Hybrid Passive FOF - Direct Plan - Growth;INF194K012B6;;23.0473;;;10-Oct-2019
+118484;Bandhan Aggressive Hybrid Passive FOF - Direct Plan - IDCW;INF194K013B4;INF194K014B2;17.9417;;;10-Oct-2019
+112332;Bandhan Aggressive Hybrid Passive FOF - Regular Plan - Growth;INF194K01953;;22.2776;;;10-Oct-2019
+112331;Bandhan Aggressive Hybrid Passive FOF - Regular Plan - IDCW;INF194K01961;INF194K01979;16.1572;;;10-Oct-2019
+118486;Bandhan Conservative Hybrid Passive FOF - Direct Plan - Growth;INF194K016A9;;22.4413;;;10-Oct-2019
+118487;Bandhan Conservative Hybrid Passive FOF - Direct Plan - IDCW;INF194K017A7;INF194K018A5;15.4982;;;10-Oct-2019
+112327;Bandhan Conservative Hybrid Passive FOF - Regular Plan - Growth;INF194K01987;;21.6915;;;10-Oct-2019
+112328;Bandhan Conservative Hybrid Passive FOF - Regular Plan - IDCW;INF194K01995;INF194K01AA1;14.9666;;;10-Oct-2019
 118408;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;INF194K01U98;INF194K01U80;12.2802;;;10-Oct-2019
 118409;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Daily IDCW;;INF194K01V63;11.0212;;;10-Oct-2019
 118414;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Fortnightly IDCW;INF194K01V55;INF194K01V48;11.0534;;;10-Oct-2019
@@ -6987,6 +6983,10 @@ Bandhan Mutual Fund
 131399;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Periodic IDCW;INF194KA1TS0;INF194KA1TT8;15.0280;;;10-Oct-2019
 108544;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.5367;;;10-Oct-2019
 117867;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Weekly IDCW;;INF194K01F63;11.0124;;;10-Oct-2019
+118489;Bandhan Multi-Asset Passive FOF - Direct Plan - Growth;INF194K019A3;;23.2366;;;10-Oct-2019
+118488;Bandhan Multi-Asset Passive FOF - Direct Plan - IDCW;INF194K010B0;INF194K011B8;16.5509;;;10-Oct-2019
+112329;Bandhan Multi-Asset Passive FOF - Regular Plan - Growth;INF194K01AB9;;22.5254;;;10-Oct-2019
+112330;Bandhan Multi-Asset Passive FOF - Regular Plan - IDCW;INF194K01AC7;INF194K01AD5;16.2506;;;10-Oct-2019
 
 Canara Robeco Mutual Fund
 118300;Canara Robeco Gold Savings Fund - Direct Plan - Dividend Option;INF760K01FD2;INF760K01FE0;12.1636;;;10-Oct-2019
@@ -7052,28 +7052,28 @@ HSBC Mutual Fund
 129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;16.7564;;;10-Oct-2019
 
 ICICI Prudential Mutual Fund
-120679;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;INF109K01X16;;58.1970;;;10-Oct-2019
-120680;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - IDCW;INF109K01W90;INF109K01X08;58.1690;;;10-Oct-2019
-102137;ICICI Prudential Asset Allocator Fund (FOF) - Growth;INF109K01837;;56.3115;;;10-Oct-2019
-102138;ICICI Prudential Asset Allocator Fund (FOF) - IDCW;INF109K01FJ9;INF109K01845;56.3115;;;10-Oct-2019
 143904;ICICI Prudential BHARAT 22 FOF - Cumulative Option;INF109KC1FW3;;10.0343;;;10-Oct-2019
 143903;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;INF109KC1FX1;;10.0342;;;10-Oct-2019
-120703;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;INF109K01X57;INF109K01X65;31.4272;;;10-Oct-2019
-120702;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;INF109K01X73;;31.3109;;;10-Oct-2019
-102141;ICICI Prudential Debt Management Fund (FOF) - Growth;INF109K01878;;30.5040;;;10-Oct-2019
-102143;ICICI Prudential Debt Management Fund (FOF ) - IDCW;INF109K01FS0;INF109K01886;30.5040;;;10-Oct-2019
+120702;ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth;INF109K01X73;;31.3109;;;10-Oct-2019
+120703;ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW;INF109K01X57;INF109K01X65;31.4272;;;10-Oct-2019
+102141;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;INF109K01878;;30.5040;;;10-Oct-2019
+102143;ICICI Prudential Diversified Debt Strategy Active FOF - IDCW;INF109K01FS0;INF109K01886;30.5040;;;10-Oct-2019
+120679;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth;INF109K01X16;;58.1970;;;10-Oct-2019
+120680;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW;INF109K01W90;INF109K01X08;58.1690;;;10-Oct-2019
+102137;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;INF109K01837;;56.3115;;;10-Oct-2019
+102138;ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW;INF109K01FJ9;INF109K01845;56.3115;;;10-Oct-2019
 147648;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;INF109KC1F34;;10.1773;;;10-Oct-2019
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;10.1773;;;10-Oct-2019
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;10.1769;;;10-Oct-2019
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;10.1769;;;10-Oct-2019
-120313;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - Growth;INF109K01W82;;36.7305;;;10-Oct-2019
-120314;ICICI Prudential Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;36.4773;;;10-Oct-2019
-102139;ICICI Prudential Income Plus Arbitrage Active FOF - Growth;INF109K01811;;35.4810;;;10-Oct-2019
-102140;ICICI Prudential Income plus Arbitrage Active FOF - IDCW;INF109K01EB9;INF109K01829;35.4810;;;10-Oct-2019
-102134;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;INF109K01DW7;INF109K01803;64.3211;;;10-Oct-2019
-120243;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;INF109K01W33;INF109K01W41;66.1706;;;10-Oct-2019
-120242;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;INF109K01W58;;66.1730;;;10-Oct-2019
-102133;ICICI Prudential Passive Strategy Fund (FOF) - Growth;INF109K01795;;64.3211;;;10-Oct-2019
+120313;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - Growth;INF109K01W82;;36.7305;;;10-Oct-2019
+120314;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;36.4773;;;10-Oct-2019
+102139;ICICI Prudential Income Plus Arbitrage Omni FOF - Growth;INF109K01811;;35.4810;;;10-Oct-2019
+102140;ICICI Prudential Income plus Arbitrage Omni FOF - IDCW;INF109K01EB9;INF109K01829;35.4810;;;10-Oct-2019
+120243;ICICI Prudential Multi Sector Passive FOF - Direct Plan -  IDCW;INF109K01W33;INF109K01W41;66.1706;;;10-Oct-2019
+120242;ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth;INF109K01W58;;66.1730;;;10-Oct-2019
+102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;;64.3211;;;10-Oct-2019
+102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803;64.3211;;;10-Oct-2019
 120685;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  Growth;INF109K01U92;;13.1446;;;10-Oct-2019
 120686;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  IDCW;INF109K01U76;INF109K01U84;13.1451;;;10-Oct-2019
 115833;ICICI Prudential Regular Gold Savings Fund (FOF) - Growth;INF109K01TK8;;12.9095;;;10-Oct-2019
@@ -7087,10 +7087,10 @@ IDBI Mutual Fund
 118343;IDBI GOLD FUND Direct;INF397L01BU4;;11.2508;;;10-Oct-2019
 
 Invesco Mutual Fund
+120531;Invesco India Gold ETF Fund of Fund - Direct Plan - Growth;INF205K01NJ9;;11.8989;;;10-Oct-2019
 120530;Invesco India Gold ETF Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01NH3;INF205K01NI1;11.8807;;;10-Oct-2019
-120531;Invesco India Gold ETF Fund of Fund - Direct Plan- - Growth;INF205K01NJ9;;11.8989;;;10-Oct-2019
-116077;Invesco India Gold ETF Fund of Fund - Growth;INF205K01FA4;;11.6813;;;10-Oct-2019
-116075;Invesco India Gold ETF Fund of Fund - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;11.6808;;;10-Oct-2019
+116077;Invesco India Gold ETF Fund of Fund - Regular Plan - Growth;INF205K01FA4;;11.6813;;;10-Oct-2019
+116075;Invesco India Gold ETF Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01FB2;INF205K01FC0;11.6808;;;10-Oct-2019
 
 Kotak Mahindra Mutual Fund
 114758;Kotak Gold Fund Growth;INF174K01AT3;;16.0887;;;10-Oct-2019
