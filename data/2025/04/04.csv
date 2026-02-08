@@ -8499,7 +8499,7 @@ Edelweiss Mutual Fund
 152193;Edelweiss Gold ETF;INF754K01SE6;;90.9714;;;04-Apr-2025
 
 Groww Mutual Fund
-152957;Groww Gold ETF;INF666M01IW1;;89.1329;;;04-Apr-2025
+152957;Groww Gold ETF;INF666M01OE7;;89.1329;;;04-Apr-2025
 
 HDFC Mutual Fund
 113049;HDFC Gold ETF - Growth Option;INF179KC1981;;77.5275;;;04-Apr-2025
@@ -8855,10 +8855,10 @@ Axis Mutual Fund
 148955;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;INF846K01Z38;INF846K01Z46;11.91;;;04-Apr-2025
 148953;Axis Global Innovation Fund of Fund - Regular Plan - Growth;INF846K01Z53;;11.43;;;04-Apr-2025
 148956;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;INF846K01Z61;INF846K01Z79;11.43;;;04-Apr-2025
-150751;Axis US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;16.2567;;;04-Apr-2025
-150749;Axis US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;16.2567;;;04-Apr-2025
-150750;Axis US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;16.1016;;;04-Apr-2025
-150748;Axis US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;16.1016;;;04-Apr-2025
+150751;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;16.2567;;;04-Apr-2025
+150749;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;16.2567;;;04-Apr-2025
+150750;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;16.1016;;;04-Apr-2025
+150748;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;16.1016;;;04-Apr-2025
 152240;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - Growth Option;INF846K017T9;;10.8342;;;04-Apr-2025
 152241;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - IDCW Option;INF846K018T7;INF846K019T5;10.8330;;;04-Apr-2025
 152239;Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - Growth Option;INF846K013T8;;10.8273;;;04-Apr-2025
@@ -9228,6 +9228,10 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;15.7287;;;04-Apr-2025
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;15.1556;;;04-Apr-2025
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;15.1551;;;04-Apr-2025
+120685;ICICI Prudential Gold ETF FOF - Direct Plan - Growth;INF109K01U92;;28.9190;;;04-Apr-2025
+120686;ICICI Prudential Gold ETF FOF - Direct Plan - IDCW;INF109K01U76;INF109K01U84;28.9216;;;04-Apr-2025
+115833;ICICI Prudential Gold ETF FOF - Growth;INF109K01TK8;;27.9747;;;04-Apr-2025
+115834;ICICI Prudential Gold ETF FOF - IDCW;INF109K01TM4;INF109K01TL6;27.9752;;;04-Apr-2025
 120313;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - Growth;INF109K01W82;;65.6996;;;04-Apr-2025
 120314;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;50.8047;;;04-Apr-2025
 102139;ICICI Prudential Income Plus Arbitrage Omni FOF - Growth;INF109K01811;;61.2278;;;04-Apr-2025
@@ -9248,14 +9252,10 @@ ICICI Prudential Mutual Fund
 149442;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;INF109KC1Y23;INF109KC1Y31;14.0466;;;04-Apr-2025
 149439;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;INF109KC1X81;;13.8393;;;04-Apr-2025
 149440;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;INF109KC1X99;INF109KC1Y07;13.8394;;;04-Apr-2025
-120685;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  Growth;INF109K01U92;;28.9190;;;04-Apr-2025
-120686;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  IDCW;INF109K01U76;INF109K01U84;28.9216;;;04-Apr-2025
-115833;ICICI Prudential Regular Gold Savings Fund (FOF) - Growth;INF109K01TK8;;27.9747;;;04-Apr-2025
-115834;ICICI Prudential Regular Gold Savings Fund (FOF) - IDCW;INF109K01TM4;INF109K01TL6;27.9752;;;04-Apr-2025
-149775;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Direct Plan - Growth;INF109KC1Y98;;14.5388;;;04-Apr-2025
-149776;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;14.5390;;;04-Apr-2025
-149777;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Growth;INF109KC1Y64;;14.3111;;;04-Apr-2025
-149778;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - IDCW;INF109KC1Y72;INF109KC1Y80;14.3109;;;04-Apr-2025
+149775;ICICI Prudential Silver ETF FOF - Direct Plan - Growth;INF109KC1Y98;;14.5388;;;04-Apr-2025
+149776;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;14.5390;;;04-Apr-2025
+149777;ICICI Prudential Silver ETF FOF - Growth;INF109KC1Y64;;14.3111;;;04-Apr-2025
+149778;ICICI Prudential Silver ETF FOF - IDCW;INF109KC1Y72;INF109KC1Y80;14.3109;;;04-Apr-2025
 120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;218.3618;;;04-Apr-2025
 102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;205.3169;;;04-Apr-2025
 102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;159.1589;;;04-Apr-2025
