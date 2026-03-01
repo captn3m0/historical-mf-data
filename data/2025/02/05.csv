@@ -8384,7 +8384,7 @@ Edelweiss Mutual Fund
 152193;Edelweiss Gold ETF;INF754K01SE6;;85.7389;;;05-Feb-2025
 
 Groww Mutual Fund
-152957;Groww Gold ETF;INF666M01IW1;;84.0294;;;05-Feb-2025
+152957;Groww Gold ETF;INF666M01OE7;;84.0294;;;05-Feb-2025
 
 HDFC Mutual Fund
 113049;HDFC Gold ETF - Growth Option;INF179KC1981;;73.4067;;;05-Feb-2025
@@ -8642,7 +8642,7 @@ Nippon India Mutual Fund
 149758;Nippon India Silver ETF;INF204KC1402;;93.0903;;;05-Feb-2025
 
 Quantum Mutual Fund
-108479;Quantum Nifty 50 ETF;INF082J01028;;2562.2590;;;05-Feb-2025
+108479;Quantum Nifty 50 ETF;INF082J01499;;2562.2590;;;05-Feb-2025
 
 SBI Mutual Fund
 134014;SBI BSE 100 ETF;INF200KA1572;;271.3164;;;05-Feb-2025
@@ -8724,10 +8724,10 @@ Axis Mutual Fund
 148700;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;INF846K01Y47;INF846K01Y54;7.75;;;05-Feb-2025
 148701;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;INF846K01Y62;;7.42;;;05-Feb-2025
 148702;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;INF846K01Y70;INF846K01Y88;7.42;;;05-Feb-2025
-150751;Axis US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;20.0367;;;05-Feb-2025
-150749;Axis US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;20.0367;;;05-Feb-2025
-150750;Axis US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;19.8561;;;05-Feb-2025
-150748;Axis US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;19.8560;;;05-Feb-2025
+150751;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;20.0367;;;05-Feb-2025
+150749;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;20.0367;;;05-Feb-2025
+150750;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;19.8561;;;05-Feb-2025
+150748;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;19.8560;;;05-Feb-2025
 152240;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - Growth Option;INF846K017T9;;10.6251;;;05-Feb-2025
 152241;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - IDCW Option;INF846K018T7;INF846K019T5;10.6240;;;05-Feb-2025
 152239;Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - Growth Option;INF846K013T8;;10.6192;;;05-Feb-2025
@@ -8765,7 +8765,7 @@ DSP Mutual Fund
 119252;DSP US Specific Equity Omni FoF - Direct Plan - Growth;INF740K01OH7;;66.9681;;;05-Feb-2025
 119253;DSP US Specific Equity Omni FoF - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;59.0485;;;05-Feb-2025
 117691;DSP US Specific Equity Omni FoF - Regular Plan - Growth Option;INF740K01LP6;;61.3129;;;05-Feb-2025
-117692;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;INF740K01LQ4;;30.7152;;;05-Feb-2025
+117692;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;INF740K01LQ4;INF740K01LR2;30.7152;;;05-Feb-2025
 119277;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth;INF740K01OZ9;;26.1898;;;05-Feb-2025
 119278;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW;INF740K01PA9;INF740K01PB7;16.4354;;;05-Feb-2025
 106597;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01250;;24.5657;;;05-Feb-2025
@@ -9113,6 +9113,10 @@ ICICI Prudential Mutual Fund
 147645;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;INF109KC1F42;;16.7278;;;05-Feb-2025
 147647;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;INF109KC1F00;;16.1372;;;05-Feb-2025
 147646;ICICI Prudential Global Advantage Fund (FOF) - IDCW;INF109KC1F18;;16.1368;;;05-Feb-2025
+120685;ICICI Prudential Gold ETF FOF - Direct Plan - Growth;INF109K01U92;;27.5473;;;05-Feb-2025
+120686;ICICI Prudential Gold ETF FOF - Direct Plan - IDCW;INF109K01U76;INF109K01U84;27.5498;;;05-Feb-2025
+115833;ICICI Prudential Gold ETF FOF - Growth;INF109K01TK8;;26.6605;;;05-Feb-2025
+115834;ICICI Prudential Gold ETF FOF - IDCW;INF109K01TM4;INF109K01TL6;26.6609;;;05-Feb-2025
 120313;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - Growth;INF109K01W82;;64.9965;;;05-Feb-2025
 120314;ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - IDCW;INF109K01W66;INF109K01W74;50.2611;;;05-Feb-2025
 102139;ICICI Prudential Income Plus Arbitrage Omni FOF - Growth;INF109K01811;;60.6365;;;05-Feb-2025
@@ -9133,14 +9137,10 @@ ICICI Prudential Mutual Fund
 149442;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;INF109KC1Y23;INF109KC1Y31;14.2356;;;05-Feb-2025
 149439;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;INF109KC1X81;;14.0344;;;05-Feb-2025
 149440;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;INF109KC1X99;INF109KC1Y07;14.0344;;;05-Feb-2025
-120685;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  Growth;INF109K01U92;;27.5473;;;05-Feb-2025
-120686;ICICI Prudential Regular Gold Savings Fund (FOF) - Direct Plan -  IDCW;INF109K01U76;INF109K01U84;27.5498;;;05-Feb-2025
-115833;ICICI Prudential Regular Gold Savings Fund (FOF) - Growth;INF109K01TK8;;26.6605;;;05-Feb-2025
-115834;ICICI Prudential Regular Gold Savings Fund (FOF) - IDCW;INF109K01TM4;INF109K01TL6;26.6609;;;05-Feb-2025
-149775;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Direct Plan - Growth;INF109KC1Y98;;15.0616;;;05-Feb-2025
-149776;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;15.0618;;;05-Feb-2025
-149777;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Growth;INF109KC1Y64;;14.8351;;;05-Feb-2025
-149778;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - IDCW;INF109KC1Y72;INF109KC1Y80;14.8349;;;05-Feb-2025
+149775;ICICI Prudential Silver ETF FOF - Direct Plan - Growth;INF109KC1Y98;;15.0616;;;05-Feb-2025
+149776;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;15.0618;;;05-Feb-2025
+149777;ICICI Prudential Silver ETF FOF - Growth;INF109KC1Y64;;14.8351;;;05-Feb-2025
+149778;ICICI Prudential Silver ETF FOF - IDCW;INF109KC1Y72;INF109KC1Y80;14.8349;;;05-Feb-2025
 120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;223.5025;;;05-Feb-2025
 102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;210.5302;;;05-Feb-2025
 102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;163.2004;;;05-Feb-2025
@@ -9827,10 +9827,10 @@ SBI Mutual Fund
 150650;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout;INF200KA16O5;;11.8580;;;05-Feb-2025
 150647;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth;INF200KA13O2;;11.8198;;;05-Feb-2025
 150648;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout;INF200KA14O0;;11.8198;;;05-Feb-2025
-151559;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Growth;INF200KA19W2;;11.5223;;;05-Feb-2025
-151558;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA10X9;;11.5226;;;05-Feb-2025
-151556;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Growth;INF200KA17W6;;11.4929;;;05-Feb-2025
-151557;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA18W4;;11.4930;;;05-Feb-2025
+151559;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth;INF200KA19W2;;11.5223;;;05-Feb-2025
+151558;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA10X9;;11.5226;;;05-Feb-2025
+151556;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Growth;INF200KA17W6;;11.4929;;;05-Feb-2025
+151557;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA18W4;;11.4930;;;05-Feb-2025
 148848;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V27;;12.5788;;;05-Feb-2025
 148845;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V01;;12.4998;;;05-Feb-2025
 148846;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth;INF200KA1V19;;12.5786;;;05-Feb-2025
