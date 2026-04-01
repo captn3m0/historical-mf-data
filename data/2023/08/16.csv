@@ -1405,6 +1405,10 @@ HDFC Mutual Fund
 150805;HDFC Business Cycle Fund - Growth Option - Direct Plan;INF179KC1DY9;;11.183;;;16-Aug-2023
 150806;HDFC Business Cycle Fund - IDCW Option;INF179KC1EC3;INF179KC1ED1;11.069;;;16-Aug-2023
 150804;HDFC Business Cycle Fund - IDCW Option - Direct Plan;INF179KC1DZ6;INF179KC1EA7;11.183;;;16-Aug-2023
+151803;HDFC Consumption Fund - Growth Option;INF179KC1GR6;;10.03;;;16-Aug-2023
+151804;HDFC Consumption Fund - Growth Option - Direct Plan;INF179KC1GO3;;10.042;;;16-Aug-2023
+151802;HDFC Consumption Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;10.03;;;16-Aug-2023
+151805;HDFC Consumption Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;10.042;;;16-Aug-2023
 151751;HDFC Defence Fund - Growth Option;INF179KC1GL9;;11.145;;;16-Aug-2023
 151750;HDFC Defence Fund - Growth Option - Direct Plan;INF179KC1GI5;;11.174;;;16-Aug-2023
 151748;HDFC Defence Fund - IDCW Option;INF179KC1GM7;INF179KC1GN5;11.145;;;16-Aug-2023
@@ -1421,10 +1425,6 @@ HDFC Mutual Fund
 151458;HDFC MNC Fund - Growth Option - Direct Plan;INF179KC1FC0;;11.323;;;16-Aug-2023
 151459;HDFC MNC Fund - IDCW Option;INF179KC1FG1;INF179KC1FH9;11.264;;;16-Aug-2023
 151460;HDFC MNC Fund - IDCW Option - Direct Plan;INF179KC1FD8;INF179KC1FE6;11.323;;;16-Aug-2023
-151803;HDFC Non-Cyclical Consumer Fund - Growth Option;INF179KC1GR6;;10.03;;;16-Aug-2023
-151804;HDFC Non-Cyclical Consumer Fund - Growth Option - Direct Plan;INF179KC1GO3;;10.042;;;16-Aug-2023
-151802;HDFC Non-Cyclical Consumer Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;10.03;;;16-Aug-2023
-151805;HDFC Non-Cyclical Consumer Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;10.042;;;16-Aug-2023
 
 HSBC Mutual Fund
 151142;HSBC Business Cycles Fund - Direct Growth;INF917K01RI2;;30.1881;;;16-Aug-2023
@@ -2319,10 +2319,10 @@ JM Financial Mutual Fund
 147836;JM Overnight Fund (Regular) - Growth;INF192K01LX4;;1164.0105;;;16-Aug-2023
 147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LV8;INF192K01LW6;1000.1768;;;16-Aug-2023
 147837;JM Overnight Fund - (Direct) - Growth;INF192K01MB8;;1167.0147;;;16-Aug-2023
-149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;;;1167.2153;;;16-Aug-2023
-149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;16-Aug-2023
-149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1167.0155;;;16-Aug-2023
-149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;16-Aug-2023
+149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;INF192K01MJ1;;1167.2153;;;16-Aug-2023
+149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;INF192K01ML7;;1073.9936;;;16-Aug-2023
+149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;INF192K01MI3;;1167.0155;;;16-Aug-2023
+149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;INF192K01MK9;;1073.9936;;;16-Aug-2023
 
 Kotak Mahindra Mutual Fund
 146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1225.313;;;16-Aug-2023
@@ -4367,7 +4367,7 @@ Invesco Mutual Fund
 112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;5205.2545;;;16-Aug-2023
 
 LIC Mutual Fund
-151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;5364.826;;;16-Aug-2023
+151961;LIC MF Gold Exchange Traded Fund;INF767K01SM1;;5364.826;;;16-Aug-2023
 
 Mirae Asset Mutual Fund
 151416;Mirae Asset Gold ETF;INF769K01JP9;;58.5229;;;16-Aug-2023
@@ -4480,12 +4480,12 @@ Kotak Mahindra Mutual Fund
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;15.291;;;16-Aug-2023
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1000;;;16-Aug-2023
 112351;Kotak Nifty 50 ETF;INF174K014P6;;208.922;;;16-Aug-2023
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;113.1619;;;16-Aug-2023
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;113.1619;;;16-Aug-2023
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;32.4508;;;16-Aug-2023
-133122;Kotak Nifty Bank ETF;INF174K01F59;;448.9347;;;16-Aug-2023
-150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;82.922;;;16-Aug-2023
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;448.9347;;;16-Aug-2023
+150492;Kotak Nifty India Consumption ETF;INF174KA1ZF8;;82.922;;;16-Aug-2023
 148763;Kotak Nifty IT ETF;INF174KA1GC5;;32.5832;;;16-Aug-2023
-149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;109.471;;;16-Aug-2023
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;109.471;;;16-Aug-2023
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;21.8202;;;16-Aug-2023
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;451.0624;;;16-Aug-2023
 

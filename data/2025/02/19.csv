@@ -1629,6 +1629,10 @@ HDFC Mutual Fund
 150805;HDFC Business Cycle Fund - Growth Option - Direct Plan;INF179KC1DY9;;13.657;;;19-Feb-2025
 150806;HDFC Business Cycle Fund - IDCW Option;INF179KC1EC3;INF179KC1ED1;13.266;;;19-Feb-2025
 150804;HDFC Business Cycle Fund - IDCW Option - Direct Plan;INF179KC1DZ6;INF179KC1EA7;13.657;;;19-Feb-2025
+151803;HDFC Consumption Fund - Growth Option;INF179KC1GR6;;12.827;;;19-Feb-2025
+151804;HDFC Consumption Fund - Growth Option - Direct Plan;INF179KC1GO3;;13.084;;;19-Feb-2025
+151802;HDFC Consumption Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;12.827;;;19-Feb-2025
+151805;HDFC Consumption Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;13.084;;;19-Feb-2025
 151751;HDFC Defence Fund - Growth Option;INF179KC1GL9;;16.907;;;19-Feb-2025
 151750;HDFC Defence Fund - Growth Option - Direct Plan;INF179KC1GI5;;17.26;;;19-Feb-2025
 151748;HDFC Defence Fund - IDCW Option;INF179KC1GM7;INF179KC1GN5;16.907;;;19-Feb-2025
@@ -1649,10 +1653,6 @@ HDFC Mutual Fund
 151458;HDFC MNC Fund - Growth Option - Direct Plan;INF179KC1FC0;;12.327;;;19-Feb-2025
 151459;HDFC MNC Fund - IDCW Option;INF179KC1FG1;INF179KC1FH9;12.043;;;19-Feb-2025
 151460;HDFC MNC Fund - IDCW Option - Direct Plan;INF179KC1FD8;INF179KC1FE6;12.327;;;19-Feb-2025
-151803;HDFC Non-Cyclical Consumer Fund - Growth Option;INF179KC1GR6;;12.827;;;19-Feb-2025
-151804;HDFC Non-Cyclical Consumer Fund - Growth Option - Direct Plan;INF179KC1GO3;;13.084;;;19-Feb-2025
-151802;HDFC Non-Cyclical Consumer Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;12.827;;;19-Feb-2025
-151805;HDFC Non-Cyclical Consumer Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;13.084;;;19-Feb-2025
 152084;HDFC Pharma and Healthcare Fund - Growth Option;INF179KC1HL7;;15.312;;;19-Feb-2025
 152082;HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan;INF179KC1HO1;;15.574;;;19-Feb-2025
 152083;HDFC Pharma and Healthcare Fund - IDCW Option;INF179KC1HM5;INF179KC1HN3;15.312;;;19-Feb-2025
@@ -2758,10 +2758,10 @@ JM Financial Mutual Fund
 147836;JM Overnight Fund (Regular) - Growth;INF192K01LX4;;1282.5625;;;19-Feb-2025
 147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LV8;INF192K01LW6;1000.1634;;;19-Feb-2025
 147837;JM Overnight Fund - (Direct) - Growth;INF192K01MB8;;1287.2365;;;19-Feb-2025
-149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;;;1295.003;;;19-Feb-2025
-149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;19-Feb-2025
-149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1287.2559;;;19-Feb-2025
-149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;19-Feb-2025
+149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;INF192K01MJ1;;1295.003;;;19-Feb-2025
+149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;INF192K01ML7;;1073.9936;;;19-Feb-2025
+149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;INF192K01MI3;;1287.2559;;;19-Feb-2025
+149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;INF192K01MK9;;1073.9936;;;19-Feb-2025
 
 Kotak Mahindra Mutual Fund
 146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1352.7676;;;19-Feb-2025
@@ -5248,7 +5248,7 @@ Kotak Mahindra Mutual Fund
 106193;KOTAK GOLD ETF;INF174KA1HJ8;;72.9452;;;19-Feb-2025
 
 LIC Mutual Fund
-151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;7880.1808;;;19-Feb-2025
+151961;LIC MF Gold Exchange Traded Fund;INF767K01SM1;;7880.1808;;;19-Feb-2025
 
 Mirae Asset Mutual Fund
 151416;Mirae Asset Gold ETF;INF769K01JP9;;85.0240;;;19-Feb-2025
@@ -5391,15 +5391,15 @@ Kotak Mahindra Mutual Fund
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;19.3536;;;19-Feb-2025
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1035.925;;;19-Feb-2025
 112351;Kotak Nifty 50 ETF;INF174K014P6;;249.9722;;;19-Feb-2025
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;145.688;;;19-Feb-2025
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;145.688;;;19-Feb-2025
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;43.3177;;;19-Feb-2025
-133122;Kotak Nifty Bank ETF;INF174K01F59;;509.3769;;;19-Feb-2025
-150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;107.8912;;;19-Feb-2025
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;509.3769;;;19-Feb-2025
+150492;Kotak Nifty India Consumption ETF;INF174KA1ZF8;;107.8912;;;19-Feb-2025
 148763;Kotak Nifty IT ETF;INF174KA1GC5;;43.9744;;;19-Feb-2025
-149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;143.8573;;;19-Feb-2025
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;143.8573;;;19-Feb-2025
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;26.2444;;;19-Feb-2025
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;592.9514;;;19-Feb-2025
-150948;Kotak Silver ETF;INF174KA1KU9;;95.7067;;;19-Feb-2025
+150948;Kotak Silver ETF;INF174KA1ZD3;;95.7067;;;19-Feb-2025
 
 LIC Mutual Fund
 135672;LIC MF BSE Sensex ETF;INF767K01OT5;;843.5768;;;19-Feb-2025

@@ -1561,6 +1561,10 @@ HDFC Mutual Fund
 150805;HDFC Business Cycle Fund - Growth Option - Direct Plan;INF179KC1DY9;;15.635;;;18-Sep-2024
 150806;HDFC Business Cycle Fund - IDCW Option;INF179KC1EC3;INF179KC1ED1;15.262;;;18-Sep-2024
 150804;HDFC Business Cycle Fund - IDCW Option - Direct Plan;INF179KC1DZ6;INF179KC1EA7;15.635;;;18-Sep-2024
+151803;HDFC Consumption Fund - Growth Option;INF179KC1GR6;;15.426;;;18-Sep-2024
+151804;HDFC Consumption Fund - Growth Option - Direct Plan;INF179KC1GO3;;15.655;;;18-Sep-2024
+151802;HDFC Consumption Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;15.426;;;18-Sep-2024
+151805;HDFC Consumption Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;15.655;;;18-Sep-2024
 151751;HDFC Defence Fund - Growth Option;INF179KC1GL9;;21.636;;;18-Sep-2024
 151750;HDFC Defence Fund - Growth Option - Direct Plan;INF179KC1GI5;;21.986;;;18-Sep-2024
 151748;HDFC Defence Fund - IDCW Option;INF179KC1GM7;INF179KC1GN5;21.636;;;18-Sep-2024
@@ -1581,10 +1585,6 @@ HDFC Mutual Fund
 151458;HDFC MNC Fund - Growth Option - Direct Plan;INF179KC1FC0;;15.143;;;18-Sep-2024
 151459;HDFC MNC Fund - IDCW Option;INF179KC1FG1;INF179KC1FH9;14.869;;;18-Sep-2024
 151460;HDFC MNC Fund - IDCW Option - Direct Plan;INF179KC1FD8;INF179KC1FE6;15.143;;;18-Sep-2024
-151803;HDFC Non-Cyclical Consumer Fund - Growth Option;INF179KC1GR6;;15.426;;;18-Sep-2024
-151804;HDFC Non-Cyclical Consumer Fund - Growth Option - Direct Plan;INF179KC1GO3;;15.655;;;18-Sep-2024
-151802;HDFC Non-Cyclical Consumer Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;15.426;;;18-Sep-2024
-151805;HDFC Non-Cyclical Consumer Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;15.655;;;18-Sep-2024
 152084;HDFC Pharma and Healthcare Fund - Growth Option;INF179KC1HL7;;16.018;;;18-Sep-2024
 152082;HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan;INF179KC1HO1;;16.209;;;18-Sep-2024
 152083;HDFC Pharma and Healthcare Fund - IDCW Option;INF179KC1HM5;INF179KC1HN3;16.018;;;18-Sep-2024
@@ -2621,10 +2621,10 @@ JM Financial Mutual Fund
 147836;JM Overnight Fund (Regular) - Growth;INF192K01LX4;;1248.8903;;;18-Sep-2024
 147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LV8;INF192K01LW6;1000.1686;;;18-Sep-2024
 147837;JM Overnight Fund - (Direct) - Growth;INF192K01MB8;;1253.0711;;;18-Sep-2024
-149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;;;1259.3031;;;18-Sep-2024
-149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;18-Sep-2024
-149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1253.0891;;;18-Sep-2024
-149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;18-Sep-2024
+149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;INF192K01MJ1;;1259.3031;;;18-Sep-2024
+149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;INF192K01ML7;;1073.9936;;;18-Sep-2024
+149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;INF192K01MI3;;1253.0891;;;18-Sep-2024
+149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;INF192K01MK9;;1073.9936;;;18-Sep-2024
 
 Kotak Mahindra Mutual Fund
 146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1316.523;;;18-Sep-2024
@@ -4948,7 +4948,7 @@ Invesco Mutual Fund
 112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;6460.7873;;;18-Sep-2024
 
 LIC Mutual Fund
-151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;6678.6032;;;18-Sep-2024
+151961;LIC MF Gold Exchange Traded Fund;INF767K01SM1;;6678.6032;;;18-Sep-2024
 
 Mirae Asset Mutual Fund
 151416;Mirae Asset Gold ETF;INF769K01JP9;;72.1377;;;18-Sep-2024
@@ -5084,12 +5084,12 @@ Kotak Mahindra Mutual Fund
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;21.7565;;;18-Sep-2024
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1008.8245;;;18-Sep-2024
 112351;Kotak Nifty 50 ETF;INF174K014P6;;275.5764;;;18-Sep-2024
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;162.7164;;;18-Sep-2024
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;162.7164;;;18-Sep-2024
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;58.0168;;;18-Sep-2024
-133122;Kotak Nifty Bank ETF;INF174K01F59;;542.5177;;;18-Sep-2024
-150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;126.5036;;;18-Sep-2024
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;542.5177;;;18-Sep-2024
+150492;Kotak Nifty India Consumption ETF;INF174KA1ZF8;;126.5036;;;18-Sep-2024
 148763;Kotak Nifty IT ETF;INF174KA1GC5;;44.7425;;;18-Sep-2024
-149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;169.3798;;;18-Sep-2024
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;169.3798;;;18-Sep-2024
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;31.5819;;;18-Sep-2024
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;666.6723;;;18-Sep-2024
 
