@@ -1993,7 +1993,7 @@ Aditya Birla Sun Life Mutual Fund
 Sundaram Mutual Fund
 100782;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IP8;10.0519;10.0519;10.0519;31-Jul-2006
 100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;INF903J01IN3;;10.9476;10.9476;10.9476;31-Jul-2006
-100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.2549;10.2549;10.2549;31-Jul-2006
+100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01IO1;INF903J01IR4;10.2202;10.2202;10.2202;31-Jul-2006
 100783;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903J01IQ6;0.0000;0.0000;0.0000;31-Jul-2006
 100781;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Growth;INF903J01IK9;;10.8602;10.8602;10.8602;31-Jul-2006
 100780;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW);INF903J01IL7;INF903J01IM5;10.1945;10.1945;10.1945;31-Jul-2006
@@ -2364,7 +2364,7 @@ Franklin Templeton Mutual Fund
 100535;Franklin India Retirement Fund - IDCW;INF090I01528;INF090I01536;16.6972;16.6972;16.8642;31-Jul-2006
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;18.7024;18.7024;18.9829;31-Jul-2006
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;18.7024;18.7024;18.9829;31-Jul-2006
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -2388,9 +2388,9 @@ Tata Mutual Fund
 101489;Tata Young Citizen Fund [Upto 3 years] Regular Plan;;;19.1118;18.5384;19.3985;31-Jul-2006
 
 UTI Mutual Fund
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;10.75;10.75;10.75;31-Jul-2006
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;10.7501;10.7501;10.7501;31-Jul-2006
-100678;UTI Children's Hybrid Fund - Regular Plan;;;13.5343;13.5343;13.805;31-Jul-2006
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;10.75;10.75;10.75;31-Jul-2006
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;10.7501;10.7501;10.7501;31-Jul-2006
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;13.5343;13.5343;13.805;31-Jul-2006
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -2464,6 +2464,8 @@ Franklin Templeton Mutual Fund
 102114;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);INF090I01684;;12.3161;12.3161;12.3777;31-Jul-2006
 
 ICICI Prudential Mutual Fund
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;; 19.9317 ; 19.9317 ; 20.2805 ;31-Jul-2006
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860; 19.9317 ; 19.9317 ; 20.2805 ;31-Jul-2006
 102141;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;INF109K01878;; 11.3919 ; 11.3919 ; 11.3919 ;31-Jul-2006
 102143;ICICI Prudential Diversified Debt Strategy Active FOF - IDCW;INF109K01FS0;INF109K01886; 11.3919 ; 11.3919 ; 11.3919 ;31-Jul-2006
 102137;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;INF109K01837;; 14.9834 ; 14.9834 ; 15.1332 ;31-Jul-2006
@@ -2472,8 +2474,6 @@ ICICI Prudential Mutual Fund
 102140;ICICI Prudential Income plus Arbitrage Omni FOF - IDCW;INF109K01EB9;INF109K01829; 12.4106 ; 12.4106 ; 12.4106 ;31-Jul-2006
 102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;; 17.3638 ; 17.3638 ; 17.6243 ;31-Jul-2006
 102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803; 17.3638 ; 17.3638 ; 17.6243 ;31-Jul-2006
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;; 19.9317 ; 19.9317 ; 20.2805 ;31-Jul-2006
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860; 19.9317 ; 19.9317 ; 20.2805 ;31-Jul-2006
 
 Kotak Mahindra Mutual Fund
 102574;Kotak Multi Asset Omni FOF - Growth- Regular;INF174K01468;;19.971;19.971;20.42;31-Jul-2006

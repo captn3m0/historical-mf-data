@@ -2458,7 +2458,7 @@ HSBC Mutual Fund
 104346;HSBC Low Duration Fund - Inst. Plus - Monthly IDCW;INF336L01AN9;INF336L01AM1;10.3940;10.3940;10.3940;26-Nov-2008
 104345;HSBC Low Duration Fund - Inst. Plus - Weekly IDCW;;INF336L01AK5;10.0474;10.0474;10.0474;26-Nov-2008
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;10.0466;10.0466;10.0466;26-Nov-2008
-104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0459;10.0459;10.0459;26-Nov-2008
+104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0125;10.0125;10.0125;26-Nov-2008
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0445;10.0445;10.0445;26-Nov-2008
 104347;HSBC Ultra Short Term Bond Fund - Inst. Plus - Growth;INF336L01AR0;;11.9149;11.9149;11.9149;26-Nov-2008
 
@@ -2908,7 +2908,7 @@ HDFC Mutual Fund
 HSBC Mutual Fund
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;10.9969;10.9144;10.9969;26-Nov-2008
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;11.0410;11.0410;11.0410;26-Nov-2008
-108220;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01602;INF336L01594;10.3923;10.3144;10.3923;26-Nov-2008
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.1985;10.1985;10.1985;26-Nov-2008
 
 ICICI Prudential Mutual Fund
 101351;ICICI Prudential All Seasons Bond Fund - Weekly IDCW;INF109K01FD2;INF109K01704;10.5212;10.5212;10.5212;26-Nov-2008
@@ -3512,7 +3512,7 @@ Franklin Templeton Mutual Fund
 100535;Franklin India Retirement Fund - IDCW;INF090I01528;INF090I01536;13.3041;13.3041;13.6034;26-Nov-2008
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;17.3734;17.3734;17.634;26-Nov-2008
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;17.3734;17.3734;17.634;26-Nov-2008
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -3536,9 +3536,9 @@ Tata Mutual Fund
 101489;Tata Young Citizen Fund [Upto 3 years] Regular Plan;;;12.4301;12.0572;12.7409;26-Nov-2008
 
 UTI Mutual Fund
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;9.7066;9.7066;9.925;26-Nov-2008
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;9.7063;9.7063;9.9247;26-Nov-2008
-100678;UTI Children's Hybrid Fund - Regular Plan;;;12.373;12.373;12.6205;26-Nov-2008
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;9.7066;9.7066;9.925;26-Nov-2008
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;9.7063;9.7063;9.9247;26-Nov-2008
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;12.373;12.373;12.6205;26-Nov-2008
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -3654,6 +3654,8 @@ Franklin Templeton Mutual Fund
 102114;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);INF090I01684;;12.6168;12.6168;12.6168;26-Nov-2008
 
 ICICI Prudential Mutual Fund
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;;17.4460;17.4460;17.7513;26-Nov-2008
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860;17.4460;17.4460;17.7513;26-Nov-2008
 102141;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;INF109K01878;;13.6517;13.6517;13.6517;26-Nov-2008
 102143;ICICI Prudential Diversified Debt Strategy Active FOF - IDCW;INF109K01FS0;INF109K01886;13.6517;13.6517;13.6517;26-Nov-2008
 102137;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;INF109K01837;;15.1868;15.1868;15.3387;26-Nov-2008
@@ -3662,8 +3664,6 @@ ICICI Prudential Mutual Fund
 102140;ICICI Prudential Income plus Arbitrage Omni FOF - IDCW;INF109K01EB9;INF109K01829;12.9550;12.9550;12.9550;26-Nov-2008
 102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;;16.3156;16.3156;16.5603;26-Nov-2008
 102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803;16.3156;16.3156;16.5603;26-Nov-2008
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;17.4460;17.4460;17.7513;26-Nov-2008
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;17.4460;17.4460;17.7513;26-Nov-2008
 
 Kotak Mahindra Mutual Fund
 102574;Kotak Multi Asset Omni FOF - Growth- Regular;INF174K01468;;17.482;17.482;17.875;26-Nov-2008

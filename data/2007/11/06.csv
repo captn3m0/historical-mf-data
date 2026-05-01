@@ -1965,7 +1965,7 @@ HSBC Mutual Fund
 104346;HSBC Low Duration Fund - Inst. Plus - Monthly IDCW;INF336L01AN9;INF336L01AM1;10.0999;10.0898;10.0999;06-Nov-2007
 104345;HSBC Low Duration Fund - Inst. Plus - Weekly IDCW;;INF336L01AK5;10.0363;10.0263;10.0363;06-Nov-2007
 104349;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;;INF336L01AS8;10.0126;10.0026;10.0126;06-Nov-2007
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;10.0125;10.0025;10.0125;06-Nov-2007
+104352;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AL3;10.0359;10.0259;10.0359;06-Nov-2007
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;10.0351;10.0251;10.0351;06-Nov-2007
 104347;HSBC Ultra Short Term Bond Fund - Inst. Plus - Growth;INF336L01AR0;;10.9011;10.8902;10.9011;06-Nov-2007
 
@@ -2894,7 +2894,7 @@ Franklin Templeton Mutual Fund
 100535;Franklin India Retirement Fund - IDCW;INF090I01528;INF090I01536;20.2354;20.2354;20.6907;06-Nov-2007
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;20.9648;20.9648;21.2793;06-Nov-2007
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;20.9648;20.9648;21.2793;06-Nov-2007
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -2915,9 +2915,9 @@ Tata Mutual Fund
 101489;Tata Young Citizen Fund [Upto 3 years] Regular Plan;;;26.8930;26.0862;27.5653;06-Nov-2007
 
 UTI Mutual Fund
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;11.6411;11.6411;11.6411;06-Nov-2007
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;11.6411;11.6411;11.6411;06-Nov-2007
-100678;UTI Children's Hybrid Fund - Regular Plan;;;15.5677;15.5677;15.8791;06-Nov-2007
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;11.6411;11.6411;11.6411;06-Nov-2007
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;11.6411;11.6411;11.6411;06-Nov-2007
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;15.5677;15.5677;15.8791;06-Nov-2007
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -3005,6 +3005,8 @@ Franklin Templeton Mutual Fund
 102114;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);INF090I01684;;14.5352;14.5352;14.5352;06-Nov-2007
 
 ICICI Prudential Mutual Fund
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;; 33.5382 ; 33.5382 ; 34.1251 ;06-Nov-2007
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860; 33.5382 ; 33.5382 ; 34.1251 ;06-Nov-2007
 102141;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;INF109K01878;; 12.5088 ; 12.5088 ; 12.5088 ;06-Nov-2007
 102143;ICICI Prudential Diversified Debt Strategy Active FOF - IDCW;INF109K01FS0;INF109K01886; 12.5088 ; 12.5088 ; 12.5088 ;06-Nov-2007
 102137;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;INF109K01837;; 21.1023 ; 21.1023 ; 21.3133 ;06-Nov-2007
@@ -3013,8 +3015,6 @@ ICICI Prudential Mutual Fund
 102140;ICICI Prudential Income plus Arbitrage Omni FOF - IDCW;INF109K01EB9;INF109K01829; 15.3488 ; 15.3488 ; 15.3488 ;06-Nov-2007
 102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;; 26.7469 ; 26.7469 ; 27.1482 ;06-Nov-2007
 102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803; 26.7469 ; 26.7469 ; 27.1481 ;06-Nov-2007
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;; 33.5382 ; 33.5382 ; 34.1251 ;06-Nov-2007
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860; 33.5382 ; 33.5382 ; 34.1251 ;06-Nov-2007
 
 Kotak Mahindra Mutual Fund
 102574;Kotak Multi Asset Omni FOF - Growth- Regular;INF174K01468;;35.581;35.581;36.382;06-Nov-2007

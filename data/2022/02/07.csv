@@ -1297,10 +1297,10 @@ BNP Paribas Mutual Fund
 144635;BNP Paribas India Consumption Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option;INF251K01PS9;INF251K01PR1;18.035;;;07-Feb-2022
 
 Canara Robeco Mutual Fund
-118273;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;72.0200;;;07-Feb-2022
-118274;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;55.3900;;;07-Feb-2022
-112152;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;65.4700;;;07-Feb-2022
-112153;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;31.7500;;;07-Feb-2022
+118273;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;72.0200;;;07-Feb-2022
+118274;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;55.3900;;;07-Feb-2022
+112152;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;65.4700;;;07-Feb-2022
+112153;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;31.7500;;;07-Feb-2022
 118267;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION;INF760K01FO9;;83.3500;;;07-Feb-2022
 118268;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01FM3;INF760K01FN1;46.8700;;;07-Feb-2022
 103390;CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION;INF760K01274;;77.4000;;;07-Feb-2022
@@ -3849,8 +3849,8 @@ Tata Mutual Fund
 119251;Tata Retirement Savings Fund- Progressive Plan -Direct Plan-Growth Option;INF277K01QO1;;48.3151;;;07-Feb-2022
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;34.3162;;;07-Feb-2022
-120766;UTI Retirement Fund- Direct Plan;;;36.2038;;;07-Feb-2022
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;34.3162;;;07-Feb-2022
+120766;UTI Retirement Fund- Direct Plan;INF789F1AA64;;36.2038;;;07-Feb-2022
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -3892,12 +3892,12 @@ Tata Mutual Fund
 119312;Tata Childrens Fund-Direct Plan-Growth Option;INF277K01QW4;;44.3767;;;07-Feb-2022
 
 UTI Mutual Fund
-120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;64.7127;;;07-Feb-2022
-120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;64.8225;;;07-Feb-2022
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;60.4705;;;07-Feb-2022
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;60.4739;;;07-Feb-2022
-120771;UTI Children's Hybrid Fund - Direct Plan;;;30.8604;;;07-Feb-2022
-100678;UTI Children's Hybrid Fund - Regular Plan;;;30.3954;;;07-Feb-2022
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;INF789F1AZV0;;64.7127;;;07-Feb-2022
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;INF789F1AZZ1;;64.8225;;;07-Feb-2022
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;60.4705;;;07-Feb-2022
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;60.4739;;;07-Feb-2022
+120771;UTI Children's Hybrid Fund - Direct Plan;INF789F1AZR8;;30.8604;;;07-Feb-2022
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;30.3954;;;07-Feb-2022
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -4170,7 +4170,7 @@ ICICI Prudential Mutual Fund
 113076;ICICI Prudential Gold ETF;INF109KC1NT3;;42.7044;;;07-Feb-2022
 
 Invesco Mutual Fund
-112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;4334.1962;;;07-Feb-2022
+112368;Invesco India Gold Exchange Traded Fund;INF205KA1BP1;;4334.1962;;;07-Feb-2022
 
 Nippon India Mutual Fund
 140088;Nippon India ETF Gold BeES;INF204KB17I5;;41.6929;;;07-Feb-2022
@@ -4497,6 +4497,9 @@ HDFC Mutual Fund
 148902;HDFC Multi-Asset Active FOF - IDCW Option - Direct Plan;INF179KC1BB1;;11.47;;;07-Feb-2022
 
 ICICI Prudential Mutual Fund
+120700;ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth;INF109K01X40;;133.4108;;;07-Feb-2022
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;;130.2118;;;07-Feb-2022
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860;130.212;;;07-Feb-2022
 149331;ICICI Prudential BSE 500 ETF FOF - Direct Plan - Growth;INF109KC1V91;;10.0685;;;07-Feb-2022
 149333;ICICI Prudential BSE 500 ETF FOF - Direct Plan - IDCW;INF109KC1W09;INF109KC1W17;10.0683;;;07-Feb-2022
 149334;ICICI Prudential BSE 500 ETF FOF - Growth;INF109KC1V67;;10.0588;;;07-Feb-2022
@@ -4525,9 +4528,6 @@ ICICI Prudential Mutual Fund
 149776;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;10.0141;;;07-Feb-2022
 149777;ICICI Prudential Silver ETF FOF - Growth;INF109KC1Y64;;10.0131;;;07-Feb-2022
 149778;ICICI Prudential Silver ETF FOF - IDCW;INF109KC1Y72;INF109KC1Y80;10.0131;;;07-Feb-2022
-120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;133.4108;;;07-Feb-2022
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;130.2118;;;07-Feb-2022
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;130.212;;;07-Feb-2022
 
 Invesco Mutual Fund
 120531;Invesco India Gold ETF Fund of Fund - Direct Plan - Growth;INF205K01NJ9;;14.855;;;07-Feb-2022
