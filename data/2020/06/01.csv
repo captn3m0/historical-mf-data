@@ -1439,10 +1439,10 @@ Sundaram Mutual Fund
 129210;Sundaram Infrastructure Advantage Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);INF903J01F76;INF903J01F84;20.0004;;;01-Jun-2020
 144835;Sundaram Services Fund Direct Plan - Growth;INF903JA1FA2;;10.3428;;;01-Jun-2020
 144836;Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FB0;;9.4683;;;01-Jun-2020
-144837;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FC8;;9.4683;;;01-Jun-2020
+144837;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1FC8;9.4683;;;01-Jun-2020
 144838;Sundaram Services Fund Regular Plan - Growth;INF903JA1EX7;;10.1889;;;01-Jun-2020
 144839;Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EY5;;9.3191;;;01-Jun-2020
-144834;Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EZ2;;9.3191;;;01-Jun-2020
+144834;Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1EZ2;9.3191;;;01-Jun-2020
 
 Tata Mutual Fund
 135789;TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K01Z28;;16.5130;;;01-Jun-2020
@@ -2047,13 +2047,13 @@ Sundaram Mutual Fund
 146956;Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HL5;;1061.6236;;;01-Jun-2020
 146963;Sundaram Overnight Fund Direct Plan - Growth;INF903JA1HG5;;1067.831;;;01-Jun-2020
 146962;Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HH3;;1041.5319;;;01-Jun-2020
-146957;Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HM3;;1041.5319;;;01-Jun-2020
+146957;Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1HM3;1041.5319;;;01-Jun-2020
 146955;Sundaram Overnight Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HK7;;1043.4981;;;01-Jun-2020
 146953;Sundaram Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HC4;;1000;;;01-Jun-2020
 146958;Sundaram Overnight Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HE0;;1063.6011;;;01-Jun-2020
 146959;Sundaram Overnight Fund Regular Plan - Growth;INF903JA1GZ7;;1066.4988;;;01-Jun-2020
 146960;Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HA8;;1037.6344;;;01-Jun-2020
-146961;Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HF7;;1037.6344;;;01-Jun-2020
+146961;Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);;INF903JA1HF7;1037.6344;;;01-Jun-2020
 146954;Sundaram Overnight Fund Regular Plan - Weekly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HD2;;1043.483;;;01-Jun-2020
 
 Tata Mutual Fund
@@ -3152,7 +3152,7 @@ HSBC Mutual Fund
 104342;HSBC Low Duration Fund - Daily IDCW;;INF336L01AO7;8.7061;;;01-Jun-2020
 120066;HSBC Low Duration Fund - Direct Growth;INF336L01EG5;;15.2421;;;01-Jun-2020
 120065;HSBC Low Duration Fund - Direct Monthly IDCW;;INF336L01EF7;8.8734;;;01-Jun-2020
-104351;HSBC Low Duration Fund - Regular Monthly IDCW;;INF336L01AG3;8.7746;;;01-Jun-2020
+104348;HSBC Low Duration Fund - Regular Monthly IDCW;INF336L01AJ7;INF336L01AI9;8.8607;;;01-Jun-2020
 104343;HSBC Low Duration Fund - Weekly IDCW;;INF336L01AQ2;8.7211;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
@@ -4448,10 +4448,10 @@ HDFC Mutual Fund
 
 HSBC Mutual Fund
 120048;HSBC Dynamic Bond Fund - Direct Growth;INF336L01CO3;;28.9132;;;01-Jun-2020
-120051;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CT2;INF336L01CU0;12.1193;;;01-Jun-2020
+120049;HSBC Dynamic Bond Fund - Direct Monthly IDCW;INF336L01CP0;INF336L01CQ8;12.1746;;;01-Jun-2020
 106736;HSBC Dynamic Bond Fund - Growth;INF336L01545;;26.3399;;;01-Jun-2020
 106737;HSBC Dynamic Bond Fund - Regular Growth;INF336L01461;;27.3216;;;01-Jun-2020
-110440;HSBC Dynamic Bond Fund - Regular Monthly IDCW;INF336L01560;INF336L01552;18.6312;;;01-Jun-2020
+106738;HSBC Dynamic Bond Fund - Regular Monthly IDCW;;INF336L01453;10.5867;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
 113218;ICICI Prudential All Seasons Bond Fund - Annual IDCW;INF109K01GO7;INF109K01GP4;11.9237;;;01-Jun-2020
@@ -6337,22 +6337,22 @@ Groww Mutual Fund
 
 HDFC Mutual Fund
 118931;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;INF179K01UU8;;23.764;;;01-Jun-2020
+129054;HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan;INF179KA1KS8;INF179KA1KR0;10.466;;;01-Jun-2020
 118930;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;INF179K01UV6;INF179K01UW4;18.009;;;01-Jun-2020
+129051;HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option;INF179KA1KO7;INF179KA1KN9;10.79;;;01-Jun-2020
+106793;HDFC ARBITRAGE FUND - Regular Plan -Growth Option;INF179K01343;;23.402;;;01-Jun-2020
 106796;HDFC ARBITRAGE FUND - Retail Growth Option;INF179K01319;;22.871;;;01-Jun-2020
 106799;HDFC ARBITRAGE FUND - Retail IDCW Option;;;16.988;;;01-Jun-2020
 106797;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;INF179K01327;;16.25;;;01-Jun-2020
-106793;HDFC ARBITRAGE FUND - Wholesale Growth Option;INF179K01343;;23.402;;;01-Jun-2020
-129052;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;INF179KA1KT6;;14.992;;;01-Jun-2020
 106795;HDFC ARBITRAGE FUND - Wholesale IDCW Option;INF179KA1KM1;INF179KA1KL3;10.322;;;01-Jun-2020
 129053;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;INF179KA1KQ2;INF179KA1KP4;10.715;;;01-Jun-2020
-129054;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;INF179KA1KS8;INF179KA1KR0;10.466;;;01-Jun-2020
-129051;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;INF179KA1KO7;INF179KA1KN9;10.79;;;01-Jun-2020
+129052;HDFC ARBITRAGE FUND -Direct Plan - Growth Option;INF179KA1KT6;;14.992;;;01-Jun-2020
 
 ICICI Prudential Mutual Fund
-120364;ICICI Prudential Equity Arbitrage Fund - Direct Plan - Growth;INF109K016O4;;27.2444;;;01-Jun-2020
-120365;ICICI Prudential Equity Arbitrage Fund - Direct Plan - IDCW;INF109K017O2;INF109K015O6;14.5919;;;01-Jun-2020
-104683;ICICI Prudential Equity Arbitrage Fund - Growth;INF109K01BF6;;26.1424;;;01-Jun-2020
-104681;ICICI Prudential Equity Arbitrage Fund - IDCW;INF109K01EF0;INF109K01BE9;13.6754;;;01-Jun-2020
+120364;ICICI Prudential Arbitrage Fund - Direct Plan - Growth;INF109K016O4;;27.2444;;;01-Jun-2020
+120365;ICICI Prudential Arbitrage Fund - Direct Plan - IDCW;INF109K017O2;INF109K015O6;14.5919;;;01-Jun-2020
+104683;ICICI Prudential Arbitrage Fund - Growth;INF109K01BF6;;26.1424;;;01-Jun-2020
+104681;ICICI Prudential Arbitrage Fund - IDCW;INF109K01EF0;INF109K01BE9;13.6754;;;01-Jun-2020
 
 Invesco Mutual Fund
 122785;Invesco India Arbitrage Fund - Bonus Option;INF205K01VF0;;16.0863;;;01-Jun-2020
