@@ -3379,16 +3379,16 @@ Union Mutual Fund
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1001.0425;1001.0425;1001.0425;18-Jul-2013
 
 UTI Mutual Fund
-120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1018.1802;1018.1802;1018.1802;18-Jul-2013
-120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1026.8589;1026.8589;1026.8589;18-Jul-2013
-102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1018.1718;1018.1718;1018.1718;18-Jul-2013
-102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1026.8138;1026.8138;1026.8138;18-Jul-2013
-102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1052.7932;1052.7932;1052.7932;18-Jul-2013
-120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;1969.2828;1969.2828;1969.2828;18-Jul-2013
-102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;1968.2109;1968.2109;1968.2109;18-Jul-2013
-102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1132.0313;1132.0313;0;18-Jul-2013
-102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;1904.398;1904.398;0;18-Jul-2013
-102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F01AZ5;1133.1425;1133.1425;0;18-Jul-2013
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;1018.1802;1018.1802;1018.1802;18-Jul-2013
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F1AD53;INF789F1AD61;1026.8589;1026.8589;1026.8589;18-Jul-2013
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;1018.1718;1018.1718;1018.1718;18-Jul-2013
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;1026.8138;1026.8138;1026.8138;18-Jul-2013
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;1052.7932;1052.7932;1052.7932;18-Jul-2013
+120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F1AD46;;1969.2828;1969.2828;1969.2828;18-Jul-2013
+102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F1AF85;;1968.2109;1968.2109;1968.2109;18-Jul-2013
+102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;1132.0313;1132.0313;0;18-Jul-2013
+102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F1AG35;;1904.398;1904.398;0;18-Jul-2013
+102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;1133.1425;1133.1425;0;18-Jul-2013
 
 Open Ended Schemes ( Debt Scheme - Ultra Short Duration Fund )
 
@@ -3601,7 +3601,6 @@ Open Ended Schemes ( Debt Scheme - Low Duration Fund )
 
 Aditya Birla Sun Life Mutual Fund
 119523;Aditya Birla Sun Life Low duration Fund - Growth - Direct Plan;INF209K01XU7;;290.0621;290.0621;290.0621;18-Jul-2013
-103192;Aditya Birla Sun Life Low Duration Fund - Growth Plan;INF209K01LQ0;;288.7389;288.7389;288.7389;18-Jul-2013
 103195;Aditya Birla Sun Life Low Duration Fund - Institutional Plan - Growth;INF209K01KE8;;201.5000;201.5000;201.5000;18-Jul-2013
 119524;Aditya Birla Sun Life Low Duration Fund -Direct - daily IDCW;INF209K01XW3;;99.9992;99.9992;99.9992;18-Jul-2013
 119522;Aditya Birla Sun Life Low Duration Fund -Direct - weekly IDCW;;INF209K01XV5;99.7722;99.7722;99.7722;18-Jul-2013
@@ -3609,6 +3608,7 @@ Aditya Birla Sun Life Mutual Fund
 103194;Aditya Birla Sun Life Low Duration Fund -Institutional - weekly  IDCW;;INF209K01KG3;99.7722;99.7722;99.7722;18-Jul-2013
 113307;Aditya Birla Sun Life Low Duration Fund -Regular - DAILY IDCW;;INF209KA1LP6;99.9232;99.9232;99.9232;18-Jul-2013
 103193;Aditya Birla Sun Life Low Duration Fund -REGULAR - WEEKLY IDCW;;INF209KA1LQ4;99.7527;99.7527;99.7527;18-Jul-2013
+103192;Aditya Birla Sun Life Low Duration Fund -Regular- Growth Plan;INF209K01LQ0;;288.7389;288.7389;288.7389;18-Jul-2013
 
 Axis Mutual Fund
 120515;Axis Treasury Advantage Fund - Direct Plan - Daily IDCW;;INF846K01EQ4;1000.5811;1000.5811;1000.5811;18-Jul-2013
@@ -5137,7 +5137,7 @@ Aditya Birla Sun Life Mutual Fund
 100055;Aditya Birla Sun Life Gilt Plus - Liquid Plan - Growth - Regular Plan;INF209K01AA7;;26.4745;26.4745;26.4745;18-Jul-2013
 119610;Aditya Birla Sun Life Gilt Plus - Liquid Plan - Quarterly Dividend - Direct Plan;;;10.8340;10.8340;10.8340;18-Jul-2013
 100054;Aditya Birla Sun Life Gilt Plus - Liquid Plan - Quarterly Dividend - Regular Plan;INF209K01AB5;;10.7766;10.7766;10.7766;18-Jul-2013
-119606;Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW;INF209KA1LC4;;11.4920;11.3771;11.4920;18-Jul-2013
+119606;Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW;INF209KA1LC4;INF209K01XR3;11.4920;11.3771;11.4920;18-Jul-2013
 100057;Aditya Birla Sun Life Govenment Securities Fund -Regular - Quarterly IDCW;INF209K01AF6;INF209K01DP9;11.4211;11.4211;11.4211;18-Jul-2013
 100058;Aditya Birla Sun Life Government Securities Fund  - Growth - Regular Plan;INF209K01AC3;INF209K01AD1;31.9051;31.9051;31.9051;18-Jul-2013
 119605;Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan;INF209K01XP7;;31.9123;31.5932;31.9123;18-Jul-2013
@@ -5433,9 +5433,9 @@ Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-120550;Aditya Birla Sun Life Regular Savings Fund - DIRECT - MONTHLY IDCW;INF209K01R47;;11.8433;11.7249;11.8433;18-Jul-2013
-120705;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan;INF209K01XH4;INF209K01XJ0;21.0491;20.8386;21.0491;18-Jul-2013
-101818;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan;INF209K01751;INF209K01777;21.0056;20.7955;21.0056;18-Jul-2013
+120550;Aditya Birla Sun Life Regular Savings Fund - DIRECT - MONTHLY IDCW;INF209K01R47;INF209K01XI2;11.8433;11.7249;11.8433;18-Jul-2013
+120705;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan;INF209K01XH4;;21.0491;20.8386;21.0491;18-Jul-2013
+101818;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan;INF209K01751;;21.0056;20.7955;21.0056;18-Jul-2013
 101816;Aditya Birla Sun Life Regular Savings Fund - REGULAR - MONTHLY IDCW;INF209K01769;INF209K01DF0;11.3495;11.2360;11.3495;18-Jul-2013
 
 Axis Mutual Fund
@@ -6181,7 +6181,7 @@ Kotak Mahindra Mutual Fund
 106193;KOTAK GOLD ETF;INF174KA1HJ8;;2529.1459;2529.1459;2529.1459;18-Jul-2013
 
 Quantum Mutual Fund
-107693;Quantum Gold Fund;INF082J01408;;1260.3451;1260.3451;1260.3451;18-Jul-2013
+107693;Quantum Gold ETF;INF082J01408;;1260.3451;1260.3451;1260.3451;18-Jul-2013
 
 SBI Mutual Fund
 111954;SBI Gold ETF;INF200KA16D8;;2586.7565;2586.7565;2586.7565;18-Jul-2013
@@ -6325,24 +6325,24 @@ Franklin Templeton Mutual Fund
 118542;Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW;INF090I01HT0;INF090I01HU8;33.4497;33.1152;33.4497;18-Jul-2013
 101657;Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW;INF090I01247;INF090I01254;33.3225;32.9893;33.3225;18-Jul-2013
 101656;Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth;INF090I01262;;45.4172;44.9630;45.4172;18-Jul-2013
-118511;Franklin India Life Stage Fund of Funds - 20's Plan - Direct - IDCW ;INF090I01HW4;INF090I01HX2;26.0414;25.7810;26.0414;18-Jul-2013
-102108;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;INF090I01577;;25.9862;25.7263;25.9862;18-Jul-2013
+118511;Franklin India Life Stage Fund of Funds - 20's Plan - Direct - IDCW;INF090I01HW4;INF090I01HX2;26.0414;25.7810;26.0414;18-Jul-2013
+102108;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW;INF090I01577;;25.9862;25.7263;25.9862;18-Jul-2013
 102107;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);INF090I01593;;40.7870;40.3791;40.7870;18-Jul-2013
 118512;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN - Direct - Growth;INF090I01HY0;;40.8735;40.4648;40.8735;18-Jul-2013
-118513;Franklin India Life Stage Fund of Funds - 30's Plan - Direct - IDCW ;INF090I01HZ7;INF090I01IA8;21.4866;21.3255;21.4866;18-Jul-2013
-102110;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW ;INF090I01601;;21.4380;21.2772;21.4380;18-Jul-2013
+118513;Franklin India Life Stage Fund of Funds - 30's Plan - Direct - IDCW;INF090I01HZ7;INF090I01IA8;21.4866;21.3255;21.4866;18-Jul-2013
+102110;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW;INF090I01601;;21.4380;21.2772;21.4380;18-Jul-2013
 102109;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN (G);INF090I01627;;31.9455;31.7059;31.9455;18-Jul-2013
 118514;Franklin India Life Stage Fund of Funds - The 30s Plan - Direct - Growth;INF090I01IB6;;32.0186;31.7785;32.0186;18-Jul-2013
-118515;Franklin India Life Stage Fund of Funds - 40's Plan - Direct - IDCW ;INF090I01IC4;INF090I01ID2;14.0758;13.9702;14.0758;18-Jul-2013
-102111;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW ;INF090I01635;;14.0437;13.9384;14.0437;18-Jul-2013
+118515;Franklin India Life Stage Fund of Funds - 40's Plan - Direct - IDCW;INF090I01IC4;INF090I01ID2;14.0758;13.9702;14.0758;18-Jul-2013
+102111;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW;INF090I01635;;14.0437;13.9384;14.0437;18-Jul-2013
 102112;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN (G);INF090I01650;;27.0903;26.8871;27.0903;18-Jul-2013
 118516;Franklin India Life Stage Fund of Funds - The 40s Plan - Direct - Growth;INF090I01IE0;;27.1522;26.9486;27.1522;18-Jul-2013
-118520;Franklin India Life Stage Fund of Funds - 50's Plus Floating Rate Plan - Direct - IDCW ;INF090I01JM1;INF090I01JN9;13.3364;13.2030;13.3364;18-Jul-2013
-102546;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW ;INF090I01692;;13.3050;13.1720;13.3050;18-Jul-2013
+118520;Franklin India Life Stage Fund of Funds - 50's Plus Floating Rate Plan - Direct - IDCW;INF090I01JM1;INF090I01JN9;13.3364;13.2030;13.3364;18-Jul-2013
+102546;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW;INF090I01692;;13.3050;13.1720;13.3050;18-Jul-2013
 102547;Franklin India Life Stage Fund of Funds - The 50s Plus Flo (Gro);INF090I01718;;22.8432;22.6148;22.8432;18-Jul-2013
 118519;Franklin India Life Stage Fund Of Funds - The 50S Plus Floating Rate Plan - Direct - Growth;INF090I01JO7;;22.8963;22.6673;22.8963;18-Jul-2013
-118517;Franklin India Life Stage Fund of Funds - 50's Plus Plan - Direct - IDCW ;INF090I01IF7;INF090I01IG5;12.5923;12.4664;12.5923;18-Jul-2013
-102113;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW ;INF090I01668;;12.5600;12.4344;12.5600;18-Jul-2013
+118517;Franklin India Life Stage Fund of Funds - 50's Plus Plan - Direct - IDCW;INF090I01IF7;INF090I01IG5;12.5923;12.4664;12.5923;18-Jul-2013
+102113;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW;INF090I01668;;12.5600;12.4344;12.5600;18-Jul-2013
 102114;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);INF090I01684;;21.8030;21.5850;21.8030;18-Jul-2013
 118518;Franklin India Life Stage Fund of Funds - The 50s Plus - Direct - Growth;INF090I01IH3;;21.8587;21.6401;21.8587;18-Jul-2013
 
@@ -6402,7 +6402,7 @@ Nippon India Mutual Fund
 Quantum Mutual Fund
 112039;Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option;INF082J01093;;14.3940;14.1800;14.3940;18-Jul-2013
 112038;Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW;INF082J01101;INF082J01119;14.3940;14.1800;14.3940;18-Jul-2013
-115132;Quantum Gold Savings Fund - Direct Plan Growth Option;INF082J01150;;11.8715;11.6934;11.8715;18-Jul-2013
+115132;Quantum Gold ETF FOF - Direct Plan Growth Option;INF082J01150;;11.8715;11.6934;11.8715;18-Jul-2013
 117608;Quantum Multi Asset Active FOF - Direct Plan Growth Option;INF082J01168;;10.7246;10.5637;10.7246;18-Jul-2013
 
 SBI Mutual Fund

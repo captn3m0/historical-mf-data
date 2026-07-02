@@ -2287,13 +2287,13 @@ Taurus Mutual Fund
 104241;Taurus Liquid Fund-Growth;INF044D01575;;1217.5952;1217.5952;1217.5952;28-May-2010
 
 UTI Mutual Fund
-102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1019.4457;1019.4457;1019.4457;28-May-2010
-102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1028.4078;1028.4078;1028.4078;28-May-2010
-102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1028.2525;1028.2525;1028.2525;28-May-2010
-102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;1522.7111;1522.7111;1522.7111;28-May-2010
-102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1069.9908;1069.9908;1069.9908;28-May-2010
-102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;1499.902;1499.902;1499.902;28-May-2010
-102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F01AZ5;1056.1902;1056.1902;1056.1902;28-May-2010
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;1019.4457;1019.4457;1019.4457;28-May-2010
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;1028.4078;1028.4078;1028.4078;28-May-2010
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;1028.2525;1028.2525;1028.2525;28-May-2010
+102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F1AF85;;1522.7111;1522.7111;1522.7111;28-May-2010
+102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;1069.9908;1069.9908;1069.9908;28-May-2010
+102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F1AG35;;1499.902;1499.902;1499.902;28-May-2010
+102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;1056.1902;1056.1902;1056.1902;28-May-2010
 
 Open Ended Schemes ( Debt Scheme - Ultra Short Duration Fund )
 
@@ -2416,11 +2416,11 @@ Open Ended Schemes ( Debt Scheme - Low Duration Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-103192;Aditya Birla Sun Life Low Duration Fund - Growth Plan;INF209K01LQ0;;22.6073;22.6073;22.6073;28-May-2010
 103195;Aditya Birla Sun Life Low Duration Fund - Institutional Plan - Growth;INF209K01KE8;;15.5117;15.5117;15.5117;28-May-2010
 103191;Aditya Birla Sun Life Low Duration Fund -INSTITUTIONAL - DAILY IDCW;;INF209K01KD0;10.0030;10.0030;10.0030;28-May-2010
 103194;Aditya Birla Sun Life Low Duration Fund -Institutional - weekly  IDCW;;INF209K01KG3;10.0060;10.0060;10.0060;28-May-2010
 103193;Aditya Birla Sun Life Low Duration Fund -REGULAR - WEEKLY IDCW;;INF209KA1LQ4;10.0057;10.0057;10.0057;28-May-2010
+103192;Aditya Birla Sun Life Low Duration Fund -Regular- Growth Plan;INF209K01LQ0;;22.6073;22.6073;22.6073;28-May-2010
 
 Axis Mutual Fund
 112215;Axis Treasury Advantage Fund - Regular Plan - Daily IDCW;;INF846K01545;1000.0018;1000.0018;1000.0018;28-May-2010
@@ -3427,7 +3427,7 @@ Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-101818;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan;INF209K01751;INF209K01777;16.8528;16.6843;16.8528;28-May-2010
+101818;Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan;INF209K01751;;16.8528;16.6843;16.8528;28-May-2010
 101816;Aditya Birla Sun Life Regular Savings Fund - REGULAR - MONTHLY IDCW;INF209K01769;INF209K01DF0;11.2755;11.1627;11.2755;28-May-2010
 101817;Birla Sun Life Regular Savings Fund - Regular Plan - Monthly Payment;;;16.8528;16.6843;16.8528;28-May-2010
 
@@ -3819,7 +3819,7 @@ Kotak Mahindra Mutual Fund
 106193;KOTAK GOLD ETF;INF174KA1HJ8;;1809.2457;1809.2457;1809.2457;28-May-2010
 
 Quantum Mutual Fund
-107693;Quantum Gold Fund;INF082J01408;;900.2849;900.2849;900.2849;28-May-2010
+107693;Quantum Gold ETF;INF082J01408;;900.2849;900.2849;900.2849;28-May-2010
 
 SBI Mutual Fund
 111954;SBI Gold ETF;INF200KA16D8;;1840.4507;1840.4507;1840.4507;28-May-2010
@@ -3886,15 +3886,15 @@ Bandhan Mutual Fund
 Franklin Templeton Mutual Fund
 101657;Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW;INF090I01247;INF090I01254;33.9065;33.5674;33.9065;28-May-2010
 101656;Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth;INF090I01262;;37.0382;36.6678;37.0382;28-May-2010
-102108;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;INF090I01577;;33.0751;32.7443;33.0751;28-May-2010
+102108;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW;INF090I01577;;33.0751;32.7443;33.0751;28-May-2010
 102107;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);INF090I01593;;33.0751;32.7443;33.0751;28-May-2010
-102110;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW ;INF090I01601;;25.4945;25.3033;25.4945;28-May-2010
+102110;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW;INF090I01601;;25.4945;25.3033;25.4945;28-May-2010
 102109;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN (G);INF090I01627;;25.4945;25.3033;25.4945;28-May-2010
-102111;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW ;INF090I01635;;16.0246;15.9044;16.0246;28-May-2010
+102111;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW;INF090I01635;;16.0246;15.9044;16.0246;28-May-2010
 102112;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN (G);INF090I01650;;21.4640;21.3030;21.4640;28-May-2010
-102546;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW ;INF090I01692;;12.8020;12.6740;12.8020;28-May-2010
+102546;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW;INF090I01692;;12.8020;12.6740;12.8020;28-May-2010
 102547;Franklin India Life Stage Fund of Funds - The 50s Plus Flo (Gro);INF090I01718;;18.2801;18.0973;18.2801;28-May-2010
-102113;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW ;INF090I01668;;12.2504;12.1279;12.2504;28-May-2010
+102113;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW;INF090I01668;;12.2504;12.1279;12.2504;28-May-2010
 102114;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);INF090I01684;;17.6101;17.4340;17.6101;28-May-2010
 
 ICICI Prudential Mutual Fund
