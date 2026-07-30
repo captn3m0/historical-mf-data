@@ -33,13 +33,7 @@ echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.d
 
 ## Versioning
 
-The versioning scheme follows SemVer, with the date being used for the minor and patch version in a  `MAJOR.MINOR.YYYYMMDD` format. This results in the date being clearly provided in the version number.
-
-1. The Major number is currently 0, to denote alpha release status. It will be bumped to 1 once the database schema is stable.
-2. Minor releases will be bumped on non-breaking changes to the schema - such as new fields, or indexes being added, or deprecation announcements.
-3. Major version will be bumped only on breaking changes.
-4. In departure from SemVer, minor and patch versions _might not_ get reset to `0` on major and minor upgrades respectively.
-5. There's no guarantee about Pricing Information from release date being present in the dataset.
+The versioning scheme follows CalVer, with the date being used for the minor and patch version in a  `YYYY.MM.DD` format. No stability guarantees are provided for the format or schema.
 
 ## Data Format
 
