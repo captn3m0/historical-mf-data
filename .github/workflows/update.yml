@@ -1,9 +1,9 @@
 name: Update Data
 on:
   schedule:
-    # This runs at 6PM UTC
-    # = 11:30 IST
-    - cron: '0 18 * * *'
+    # This runs at 4AM UTC
+    # = 09:30 IST
+    - cron: '0 4 * * *'
   push:
     branches:
       - main
@@ -16,7 +16,7 @@ jobs:
       uses: josStorer/get-current-time@v2
       id: current-time
       with:
-        format: "YYYYMMDD"
+        format: "YYYY.MM.DD"
         timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
       name: Checkout (Default Branch)
@@ -47,13 +47,13 @@ jobs:
         git config user.name "github-actions[bot]"
     - name: Publish Stable Release (Schedule)
       run: |
-        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema." *.zst
+        gh release create "v${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: ${{ github.event_name == 'schedule' }}
     - name: Publish Pre Release
       run: |
-        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}-pre+${{github.sha}}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
+        gh release create "v${{ steps.current-time.outputs.formattedTime }}-pre+${{github.sha}}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: ${{ github.event_name == 'push' }}
