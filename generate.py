@@ -45,6 +45,10 @@ def get_data(conn):
         for file in progressbar(files, "Month: %s " % root[5:], 30):
             if file.endswith(".csv"):
                 with open(os.path.join(root, file), "r") as f:
+                    header = f.readline().split(";")
+                    isin_idx = header.index("ISIN Div Payout/ISIN Growth")
+                    isin_reinv_idx = header.index("ISIN Div Reinvestment")
+                    nav_idx = header.index("Net Asset Value")
                     date = f"{root[5:9]}-{root[10:12]}-{file[0:2]}"
                     lines = f.readlines()[1:]
                     for line in lines:
@@ -56,17 +60,17 @@ def get_data(conn):
                             if scheme_code not in schemes:
                                 schemes[scheme_code] = line[1].strip()
 
-                            isin_1 = line[2].strip().upper()
-                            isin_2 = line[3].strip().upper()
+                            isin_1 = line[isin_idx].strip().upper()
+                            isin_2 = line[isin_reinv_idx].strip().upper()
 
                             if isin_1 != "" and isin_1 not in isin_list:
                                 isin_list[isin_1] = (scheme_code, 0)
                             if isin_2 != "" and isin_2 not in isin_list:
                                 isin_list[isin_2] = (scheme_code, 1)
 
-                            if line[4] not in ['-',"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.']:
+                            if line[nav_idx] not in ['-',"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.']:
                                 try:
-                                    nav = float(line[4].strip().replace(",", "").replace('`', '').replace("-", ""))
+                                    nav = float(line[nav_idx].strip().replace(",", "").replace('`', '').replace("-", ""))
                                 except ValueError as e:
                                     # TODO: Save to an error log
                                     nav = False
