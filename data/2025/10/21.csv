@@ -149,11 +149,6 @@ quant Mutual Fund
 151193;quant Overnight Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF966L01BA8;INF966L01BB6;12.0504;21-Oct-2025
 151191;quant Overnight Fund - IDCW Option - Regular Plan;Regular Plan;IDCW Option;INF966L01BD2;INF966L01BE0;11.9979;21-Oct-2025
 
-Samco Mutual Fund
-150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1204.0562;21-Oct-2025
-150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1196.1352;21-Oct-2025
-153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1053.3400;21-Oct-2025
-
 SBI Mutual Fund
 119831;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01TJ7;1328.9992;21-Oct-2025
 119833;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TK5;;4281.7362;21-Oct-2025
@@ -204,22 +199,6 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
-
-Aditya Birla Sun Life Mutual Fund
-100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;428.1748;21-Oct-2025
-119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;433.5022;21-Oct-2025
-100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.2106;21-Oct-2025
-119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.2109;21-Oct-2025
-119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;156.4088;21-Oct-2025
-119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.2889;21-Oct-2025
-100041;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;;;;INF209K01KN9;108.0416;21-Oct-2025
-100048;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;;;INF209KA1LK7;INF209K01KY6;108.253;21-Oct-2025
-103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;119.1072;21-Oct-2025
-100044;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;;;;INF209K01KP4;163.7713;21-Oct-2025
-100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.2874;21-Oct-2025
-112014;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;;;INF209K01KZ3;;290.1776;21-Oct-2025
-100043;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);;;INF209K01RT1;;713.0486;21-Oct-2025
-100042;Aditya Birla Sun Life Liquid Fund-Retail (Growth);;;INF209K01ME4;;694.839;21-Oct-2025
 
 Bajaj Finserv Mutual Fund
 151835;Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW;Direct Plan;Daily - IDCW;;INF0QA701029;1034.6939;21-Oct-2025
@@ -554,6 +533,11 @@ NJ Mutual Fund
 150368;NJ Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF0J8L01073;;1214.9889;21-Oct-2025
 152116;NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years;;Unclaimed Redemption Plan - Upto 3 Years;;;1058.9887;21-Oct-2025
 
+Samco Mutual Fund
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1204.0562;21-Oct-2025
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1196.1352;21-Oct-2025
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1053.3400;21-Oct-2025
+
 Shriram Mutual Fund
 150562;Shriram Overnight Fund -  Direct Growth;Direct Plan;Growth;INF680P01323;;12.1583;21-Oct-2025
 150561;Shriram Overnight Fund - Direct Daily IDCW;Direct Plan;Daily IDCW;;INF680P01331;10;21-Oct-2025
@@ -564,6 +548,22 @@ Shriram Mutual Fund
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Liquid Fund )
 
+
+Aditya Birla Sun Life Mutual Fund
+100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;428.1748;21-Oct-2025
+119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;433.5022;21-Oct-2025
+100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.2106;21-Oct-2025
+119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.2109;21-Oct-2025
+119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;156.4088;21-Oct-2025
+119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.2889;21-Oct-2025
+100041;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;;;;INF209K01KN9;108.0416;21-Oct-2025
+100048;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;;;INF209KA1LK7;INF209K01KY6;108.253;21-Oct-2025
+103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;119.1072;21-Oct-2025
+100044;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;;;;INF209K01KP4;163.7713;21-Oct-2025
+100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.2874;21-Oct-2025
+112014;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;;;INF209K01KZ3;;290.1776;21-Oct-2025
+100043;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);;;INF209K01RT1;;713.0486;21-Oct-2025
+100042;Aditya Birla Sun Life Liquid Fund-Retail (Growth);;;INF209K01ME4;;694.839;21-Oct-2025
 
 Axis Mutual Fund
 120388;Axis Liquid Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW Option;;INF846K01DA0;1000.9560;21-Oct-2025
