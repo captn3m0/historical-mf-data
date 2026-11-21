@@ -24,15 +24,25 @@ while [ "$d" != "$(date -I -d '+1 day')" ]; do
 	out="data/$(date '+%Y/%m/%d' -d "$d").csv"
 	mkdir -p "$(dirname "$out")"
 	tmp=$(mktemp)
-	wget --output-document="$tmp" --quiet --tries=3 --waitretry=5 \
-		"https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=$df"
-	if head -c 12 "$tmp" | grep -q '^Scheme Code'; then
-		mv "$tmp" "$out"
-	elif grep -qi '<html' "$tmp" && [ ! -e "$out" ]; then
-		# AMFI serves an HTML page for dates it has no data for
-		rm "$tmp"
-	else
-		echo "ERROR: unexpected response for $d ($(wc -c < "$tmp") bytes)" >&2
+	ok=0
+	for attempt in 1 2 3 4; do
+		wget --output-document="$tmp" --quiet --tries=3 --waitretry=5 \
+			"https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=$df" || true
+		if head -c 12 "$tmp" | grep -q '^Scheme Code'; then
+			mv "$tmp" "$out"
+			ok=1
+			break
+		elif grep -qi '<html' "$tmp" && [ ! -e "$out" ]; then
+			# AMFI serves an HTML page for dates it has no data for
+			rm "$tmp"
+			ok=1
+			break
+		fi
+		echo "Bad response for $d (attempt $attempt, $(wc -c < "$tmp") bytes)" >&2
+		sleep $((attempt * 10))
+	done
+	if [ "$ok" -ne 1 ]; then
+		echo "ERROR: unexpected response for $d" >&2
 		exit 1
 	fi
 	d=$(date -I -d "$d + 1 day")
