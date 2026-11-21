@@ -46,6 +46,8 @@ def get_data(conn):
             if file.endswith(".csv"):
                 with open(os.path.join(root, file), "r") as f:
                     header = f.readline().split(";")
+                    if "ISIN Div Payout/ISIN Growth" not in header:
+                        raise ValueError(f"Bad CSV header in {root}/{file}: {header!r}")
                     isin_idx = header.index("ISIN Div Payout/ISIN Growth")
                     isin_reinv_idx = header.index("ISIN Div Reinvestment")
                     nav_idx = header.index("Net Asset Value")
