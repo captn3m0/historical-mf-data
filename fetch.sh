@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 # Data is often backfilled, but not very often.
 # We default to checking last 90 days
 # But on every Sunday, go back a year.
@@ -16,18 +17,23 @@ fi
 echo "Starting date is $d"
 
 # Loop till we reach tomorrow, so it does run for today
-while [ "$d" != $(date -I -d '+1 day') ]; do 
-	if [ ! -f "data/$d" ]; then
-		echo "Fetching $d"
-		df=$(date '+%d-%b-%Y' -d "$d")
-		year=$(date '+%Y' -d "$d")
-		month=$(date '+%m' -d "$d")
-		date=$(date '+%d' -d "$d")
-		URL="https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=$df"
-		mkdir -p "data/$year/$month"
-		wget --output-document="data/$year/$month/$date.csv" --quiet "$URL"
-		# Delete the file if we got HTML in return
-		grep "<html>" "data/$year/$month/$date.csv" && rm "data/$year/$month/$date.csv"
+# Every date is refetched, since AMFI backfills old data.
+while [ "$d" != "$(date -I -d '+1 day')" ]; do
+	echo "Fetching $d"
+	df=$(date '+%d-%b-%Y' -d "$d")
+	out="data/$(date '+%Y/%m/%d' -d "$d").csv"
+	mkdir -p "$(dirname "$out")"
+	tmp=$(mktemp)
+	wget --output-document="$tmp" --quiet --tries=3 --waitretry=5 \
+		"https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?frmdt=$df"
+	if head -c 12 "$tmp" | grep -q '^Scheme Code'; then
+		mv "$tmp" "$out"
+	elif grep -qi '<html' "$tmp" && [ ! -e "$out" ]; then
+		# AMFI serves an HTML page for dates it has no data for
+		rm "$tmp"
+	else
+		echo "ERROR: unexpected response for $d ($(wc -c < "$tmp") bytes)" >&2
+		exit 1
 	fi
 	d=$(date -I -d "$d + 1 day")
 done
